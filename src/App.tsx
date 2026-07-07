@@ -645,7 +645,7 @@ function Hero() {
             <div className="relative w-56 h-56 lg:w-64 lg:h-64">
               <div className="absolute inset-0 photo-ring rounded-full p-[3px]">
                 <img
-                  src="/IMG_2985.jpg"
+                  src={`${import.meta.env.BASE_URL}IMG_2985.jpg`}
                   alt="Avik Nandi"
                   className="w-full h-full object-cover object-top rounded-full"
                 />
