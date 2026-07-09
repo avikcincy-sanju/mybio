@@ -359,8 +359,8 @@ const CASE_STUDIES = [
     id: 3,
     num: '03',
     image: 'https://images.pexels.com/photos/7682340/pexels-photo-7682340.jpeg?auto=compress&cs=tinysrgb&w=1200',
-    accent: '#FFB800',
-    accentRgb: '255,184,0',
+    accent: '#00BFFF',
+    accentRgb: '0,191,255',
     category: 'Stablecoins · Multi-Rail · Treasury Infrastructure',
     title: 'Stablecoin & Multi-Rail Settlement Infrastructure',
     positioning: 'Developed a stablecoin and multi-rail settlement framework exploring how tokenized settlement, fiat/stablecoin conversion, treasury mobility, liquidity controls, and compliance-aware payout flows could support future merchant and enterprise payment infrastructure.',
@@ -533,18 +533,15 @@ function Nav() {
 
   const primary = [
     { label: 'About', href: 'about' },
-    { label: 'Experience', href: 'experience' },
+    { label: 'Vision', href: 'productvision' },
     { label: 'Projects', href: 'projects' },
     { label: 'Research', href: 'research' },
-    { label: 'Case Studies', href: 'casestudies' },
+    { label: 'Experience', href: 'experience' },
     { label: 'Contact', href: 'contact' },
   ];
 
   const more = [
     { label: 'Core Capabilities', href: 'capabilities' },
-    { label: 'Selected Impact', href: 'impact' },
-    { label: 'Product Vision', href: 'productvision' },
-    { label: 'How I Work', href: 'howiwork' },
   ];
 
   const allLinks = [...primary, ...more];
@@ -664,7 +661,7 @@ function Hero() {
               Nandi
             </h1>
 
-            <div className="nike-divider-red mb-6" />
+            <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mb-6" />
 
             <p className="text-[#666] text-xs mb-6 font-semibold uppercase tracking-[0.18em]">
               Driving Global Scale in MoR, Stablecoins & Multi-Rail Orchestration
@@ -707,7 +704,7 @@ function About() {
         <div className="reveal mb-8">
           <div className="section-num mb-3">01 — About</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Executive Profile</h2>
-          <div className="nike-divider-red mt-4" />
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
 
         {/* Bio + Skills two-column */}
@@ -778,10 +775,9 @@ function CoreCapabilities() {
       iconBorder: 'border-[#39FF14]/20',
       hoverBorder: 'hover:border-[#39FF14]/25',
       tagStyle: 'border-[#39FF14]/20 text-[#39FF14]/80',
-      title: 'AI-Native Payment Platform Strategy',
-      desc: 'Designing enterprise payment platforms where AI enhances routing, observability, reconciliation, settlement, treasury workflows, Merchant of Record models, payment splits, cross-border payments, ISO 20022, RTP/FedNow, and platform payment operations.',
-      sub: 'My focus is on building payment infrastructure that is not only scalable and compliant, but intelligent — capable of improving route decisions, reducing operational friction, strengthening transaction visibility, and enabling better merchant and enterprise outcomes.',
-      tags: ['AI Routing', 'ISO 20022', 'RTP/FedNow', 'MoR', 'Settlement', 'Treasury', 'Cross-border'],
+      title: 'AI-Native Payment Platforms',
+      desc: 'Building intelligent merchant payment platforms across routing, observability, settlement, reconciliation, treasury workflows, and Merchant of Record operating models.',
+      tags: ['AI Routing', 'MoR', 'Settlement', 'Observability'],
     },
     {
       num: '02',
@@ -791,36 +787,33 @@ function CoreCapabilities() {
       iconBorder: 'border-[#00BFFF]/20',
       hoverBorder: 'hover:border-[#00BFFF]/25',
       tagStyle: 'border-[#00BFFF]/20 text-[#00BFFF]/80',
-      title: 'Stablecoin, Tokenized Settlement & Multi-Rail Treasury',
-      desc: 'Designing product concepts and operating models for stablecoin-enabled financial infrastructure, including USDC-style settlement, tokenized cash concepts, fiat-to-stablecoin conversion flows, on/off-ramp design, cross-border treasury movement, liquidity management, payout modernization, KYT/compliance considerations, and hybrid fiat/stablecoin rail orchestration.',
-      sub: 'This work connects stablecoins with practical enterprise use cases — faster settlement, reduced cross-border friction, improved treasury mobility, programmable payouts, alternative settlement rails, and future-ready payment infrastructure.',
-      tags: ['USDC', 'Stablecoin', 'On/Off-Ramp', 'KYT', 'Tokenized Cash', 'Programmable Payouts', 'Liquidity'],
+      title: 'Stablecoin & Multi-Rail Settlement',
+      desc: 'Designing practical infrastructure concepts for stablecoin settlement, fiat on/off-ramps, treasury mobility, cross-border payouts, and hybrid fiat/real-time rail orchestration.',
+      tags: ['USDC', 'RTP/FedNow', 'Treasury', 'Cross-border'],
     },
     {
       num: '03',
       Icon: Bot,
-      accentColor: '#FF3864',
-      iconBg: 'bg-[#1a0a0f]',
-      iconBorder: 'border-[#FF3864]/20',
-      hoverBorder: 'hover:border-[#FF3864]/25',
-      tagStyle: 'border-[#FF3864]/20 text-[#FF3864]/80',
-      title: 'Payment Intelligence, Agentic Commerce & Autonomous Execution',
-      desc: 'Building AI-enabled tools, simulators, and decision-support frameworks across payment routing, BNPL economics, merchant intelligence, refund analysis, settlement intelligence, stablecoin treasury, and agentic commerce.',
-      sub: 'This includes AI route advisory, predictive merchant insights, micro-campaign automation, smart POS experiences, ambient loyalty, fraud/risk intelligence, MCP-based commerce agents, and autonomous financial execution models where AI can evaluate vendors, simulate payment flows, compare rails, and support complex product decisions.',
-      tags: ['Agentic Commerce', 'BNPL', 'MCP Agents', 'Fraud Intelligence', 'Smart POS', 'Ambient Loyalty', 'Autonomous Execution'],
+      accentColor: '#39FF14',
+      iconBg: 'bg-[#0a1a0a]',
+      iconBorder: 'border-[#39FF14]/20',
+      hoverBorder: 'hover:border-[#39FF14]/25',
+      tagStyle: 'border-[#39FF14]/20 text-[#39FF14]/80',
+      title: 'Agentic Commerce & MCP',
+      desc: 'Creating AI-enabled product concepts and tools where agents can support payment simulations, vendor comparison, merchant readiness, revenue impact, and commerce decisioning.',
+      tags: ['MCP', 'AI Agents', 'Decisioning', 'Simulators'],
     },
     {
       num: '04',
       Icon: Lightbulb,
-      accentColor: '#FFB800',
-      iconBg: 'bg-[#120f00]',
-      iconBorder: 'border-[#FFB800]/20',
-      hoverBorder: 'hover:border-[#FFB800]/25',
-      tagStyle: 'border-[#FFB800]/20 text-[#FFB800]/80',
-      title: 'Executive Product Leadership for AI-Enabled FinTech',
-      desc: 'Turning complex financial infrastructure problems into product strategy, roadmap decisions, architecture concepts, operating models, GTM narratives, vendor evaluations, prototypes, and executive-ready decision support.',
-      sub: 'I bring a product-leadership lens to emerging technologies — using AI, automation, data intelligence, stablecoin infrastructure thinking, and prototype-led exploration to help organizations move from abstract ideas to practical payment products, scalable platforms, and commercially meaningful outcomes.',
-      tags: ['Product Strategy', 'Roadmap', 'GTM', 'Operating Models', 'Prototypes', 'Vendor Eval', 'Executive Storytelling'],
+      accentColor: '#00BFFF',
+      iconBg: 'bg-[#0a0f1a]',
+      iconBorder: 'border-[#00BFFF]/20',
+      hoverBorder: 'hover:border-[#00BFFF]/25',
+      tagStyle: 'border-[#00BFFF]/20 text-[#00BFFF]/80',
+      title: 'Executive Product Leadership',
+      desc: 'Turning complex financial infrastructure problems into product strategy, roadmaps, operating models, prototypes, GTM narratives, and executive-ready decision support.',
+      tags: ['Strategy', 'Roadmap', 'GTM', 'Execution'],
     },
   ];
 
@@ -829,40 +822,35 @@ function CoreCapabilities() {
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-10">
           <div className="section-num mb-3">02 — Core Capabilities</div>
-          <h2 className="text-5xl font-black uppercase tracking-tight text-white">Core Capabilities</h2>
-          <div className="nike-divider-red mt-4" />
+          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">Core Capabilities</h2>
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
+          <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
+            A focused view of the areas I want people to remember: payments, merchant platforms, stablecoin settlement, and AI-native commerce.
+          </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-4">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {capabilities.map((cap) => (
             <div
               key={cap.num}
-              className={`group relative bg-[#0c0c0c] border border-[#1a1a1a] ${cap.hoverBorder} rounded-xl overflow-hidden transition-all duration-300 p-7 cursor-default`}
+              className={`group relative bg-[#0c0c0c] border border-[#1a1a1a] ${cap.hoverBorder} rounded-xl overflow-hidden transition-all duration-300 p-6 cursor-default`}
             >
               <div
-                className="absolute left-0 top-0 bottom-0 w-[3px] opacity-50 group-hover:opacity-100 transition-opacity duration-300"
-                style={{ backgroundColor: cap.accentColor }}
+                className="absolute top-0 left-0 right-0 h-[2px] opacity-60"
+                style={{ background: `linear-gradient(to right, transparent, ${cap.accentColor}, transparent)` }}
               />
-              <div
-                className="absolute top-2 right-5 text-[96px] font-black leading-none select-none pointer-events-none transition-opacity duration-300 opacity-[0.03] group-hover:opacity-[0.06]"
-                style={{ color: cap.accentColor }}
-              >
-                {cap.num}
-              </div>
               <div className="flex items-start gap-4 mb-5 relative z-10">
                 <div className={`w-12 h-12 rounded-xl ${cap.iconBg} border ${cap.iconBorder} flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform duration-300`}>
                   <cap.Icon className="w-6 h-6" style={{ color: cap.accentColor }} />
                 </div>
                 <div className="flex-1 pt-1">
-                  <div className="text-[9px] font-black uppercase tracking-[0.3em] mb-1.5 opacity-60" style={{ color: cap.accentColor }}>
-                    {cap.num} — Capability
+                  <div className="text-[9px] font-black uppercase tracking-[0.3em] mb-1.5 opacity-70" style={{ color: cap.accentColor }}>
+                    {cap.num} — Focus
                   </div>
                   <div className="text-white font-black text-sm uppercase tracking-wide leading-snug">{cap.title}</div>
                 </div>
               </div>
-              <div className="h-px bg-[#1a1a1a] mb-5 relative z-10 group-hover:bg-[#222] transition-colors duration-300" />
-              <p className="text-[#6e6e6e] text-sm leading-relaxed mb-3 relative z-10">{cap.desc}</p>
-              <p className="text-[#454545] text-xs leading-relaxed mb-6 relative z-10">{cap.sub}</p>
+              <p className="text-[#777] text-sm leading-relaxed mb-5 relative z-10">{cap.desc}</p>
               <div className="flex flex-wrap gap-1.5 relative z-10">
                 {cap.tags.map(t => (
                   <span key={t} className={`text-[10px] px-2.5 py-0.5 rounded-full border ${cap.tagStyle} font-medium tracking-wide`}>
@@ -915,7 +903,7 @@ function SelectedImpact() {
         <div className="reveal mb-10">
           <div className="section-num mb-3">03 — Selected Impact</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Selected Impact</h2>
-          <div className="nike-divider-red mt-4" />
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-px bg-[#161616] border border-[#161616] rounded-xl overflow-hidden">
@@ -948,9 +936,9 @@ function Experience() {
     <section id="experience" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-8">
-          <div className="section-num mb-3">04 — Experience</div>
+          <div className="section-num mb-3">06 — Experience</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Career Timeline</h2>
-          <div className="nike-divider-red mt-4" />
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
 
         <div className="relative">
@@ -998,9 +986,9 @@ function Projects() {
     <section id="projects" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-8">
-          <div className="section-num mb-3">05 — Projects</div>
+          <div className="section-num mb-3">04 — Projects</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Live GitHub Projects</h2>
-          <div className="nike-divider-red mt-4" />
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
           <p className="text-[#555] text-sm mt-4 uppercase tracking-widest">Click any card to open the live project</p>
         </div>
 
@@ -1048,9 +1036,9 @@ function Research() {
     <section id="research" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-8">
-          <div className="section-num mb-3">06 — Research & Publications</div>
+          <div className="section-num mb-3">05 — Research & Publications</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Thought Leadership</h2>
-          <div className="nike-divider-red mt-4" />
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
           <p className="text-[#555] text-sm mt-4">Academic papers, industry articles, and original research on AI payments & stablecoins</p>
         </div>
 
@@ -1158,7 +1146,7 @@ function Research() {
               </a>
 
               <a href="https://www.amazon.com/Evolution-Financial-Systems-Age-Stablecoins/dp/B0GVL7Q4GG/" target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
-                <div className="badge badge-gold flex-shrink-0 mt-1">Book</div>
+                <div className="badge badge-cyan flex-shrink-0 mt-1">Book</div>
                 <div className="flex-1">
                   <h3 className="font-bold text-white group-hover:text-[#39FF14] transition-colors text-sm">The Evolution of Financial Systems in the Age of AI and Stablecoins</h3>
                   <div className="text-xs text-[#555] mt-1 uppercase tracking-wide">Available on Amazon</div>
@@ -1176,7 +1164,7 @@ function Research() {
               </a>
 
               {[
-                { title: 'Stablecoin Acquiring Infrastructure', url: 'https://www.researchgate.net/publication/404948087_Stablecoin_Acquiring_Infrastructure_Bridging_the_Gap_Between_Payment_Viability_and_Merchant_Readiness?channel=doi&linkId=6a0a3a84e48e8125fa39074d&showFulltext=true', badge: 'ResearchGate', badgeClass: 'badge-gold' },
+                { title: 'Stablecoin Acquiring Infrastructure', url: 'https://www.researchgate.net/publication/404948087_Stablecoin_Acquiring_Infrastructure_Bridging_the_Gap_Between_Payment_Viability_and_Merchant_Readiness?channel=doi&linkId=6a0a3a84e48e8125fa39074d&showFulltext=true', badge: 'ResearchGate', badgeClass: 'badge-cyan' },
                 { title: 'Stablecoin Acquiring Infrastructure: Bridging the Gap Between Payment Viability and Merchant Readiness', url: 'https://www.academia.edu/167344174/Stablecoin_Acquiring_Infrastructure_Bridging_the_Gap_Between_Payment_Viability_and_Merchant_Readiness', badge: 'Academia', badgeClass: 'badge-teal' },
                 { title: 'AI-Driven Multi-Rail Orchestration', url: 'https://www.academia.edu/167344045/The_Emergence_of_Intelligent_Payment_Systems_An_AI_Driven_Framework_for_Multi_Rail_Payment_Orchestration', badge: 'Academia', badgeClass: 'badge-teal' },
                 { title: 'Autonomous Financial Execution Framework', url: 'https://www.academia.edu/167344155/AI_Native_Intelligent_Payment_Systems_Autonomous_Financial_Execution_in_Multi_Rail_Infrastructure_An_Evolution_of_Intelligent_Payment_Systems_in_Multi_Rail_Financial_Infrastructure', badge: 'Academia', badgeClass: 'badge-teal' },
@@ -1205,10 +1193,10 @@ function ProductVision() {
       num: '01',
       accentColor: '#39FF14',
       Icon: Layers,
-      title: 'Intelligent Payment Infrastructure',
-      desc: 'AI-native payment platforms will move beyond static processing rules toward intelligent decisioning layers that continuously evaluate cost, authorization performance, risk signals, settlement timing, merchant profile, and rail availability.',
-      flow: ['Transaction Data', 'Merchant Signals', 'AI Route Optimizer', 'Cost & Risk Model', 'Rail Decision', 'Settlement Visibility', 'Merchant Insights'],
-      capabilities: ['AI-assisted routing', 'Cost optimization', 'Authorization intelligence', 'Refund and failure monitoring', 'Transaction observability', 'Merchant-level diagnostics'],
+      title: 'Commerce Layer',
+      desc: 'POS, eCommerce, ISVs, APIs, merchant data, and customer engagement working as one platform experience.',
+      flow: ['POS / eCommerce', 'ISVs / APIs', 'Merchant Data'],
+      capabilities: ['Merchant experience', 'Platform commerce', 'Embedded payments'],
       iconBg: 'bg-[#0a1a0a]',
       iconBorder: 'border-[#39FF14]/20',
       tagStyle: 'border-[#39FF14]/20 text-[#39FF14]/80',
@@ -1218,10 +1206,10 @@ function ProductVision() {
       num: '02',
       accentColor: '#00BFFF',
       Icon: Workflow,
-      title: 'Merchant Commerce Operating System',
-      desc: 'Modern merchant platforms should become operating systems for commerce — combining POS, payments, customer data, loyalty, inventory, offers, reporting, and financial insights into one intelligent merchant experience.',
-      flow: ['POS / eCommerce / ISV', 'Payments Layer', 'Merchant Data Layer', 'AI Insights', 'Loyalty & Offers', 'Business Actions', 'Performance Feedback'],
-      capabilities: ['Smart POS experiences', 'Merchant insights', 'Customer segmentation', 'Micro-campaign automation', 'Ambient loyalty', 'Embedded growth tools', 'Business performance recommendations'],
+      title: 'Intelligence Layer',
+      desc: 'AI-assisted routing, risk signals, cost logic, performance insights, and merchant-level observability.',
+      flow: ['AI Routing', 'Risk Signals', 'Cost Logic'],
+      capabilities: ['Decisioning', 'Observability', 'Merchant intelligence'],
       iconBg: 'bg-[#0a0f1a]',
       iconBorder: 'border-[#00BFFF]/20',
       tagStyle: 'border-[#00BFFF]/20 text-[#00BFFF]/80',
@@ -1229,42 +1217,16 @@ function ProductVision() {
     },
     {
       num: '03',
-      accentColor: '#FFB800',
+      accentColor: '#39FF14',
       Icon: GitBranch,
-      title: 'Multi-Rail Settlement & Treasury Layer',
-      desc: 'Future payment platforms will support flexible settlement across cards, ACH, RTP/FedNow, wallets, BNPL, local rails, cross-border corridors, and stablecoin/tokenized settlement models.',
-      flow: ['Payment Acceptance', 'Rail Selection', 'Settlement Rules', 'Treasury Ledger', 'Liquidity Controls', 'Payout Routing', 'Reconciliation'],
-      capabilities: ['Multi-rail orchestration', 'Real-time settlement visibility', 'Treasury automation', 'Payout modernization', 'Cross-border settlement', 'Reconciliation intelligence', 'Stablecoin optionality'],
-      iconBg: 'bg-[#120f00]',
-      iconBorder: 'border-[#FFB800]/20',
-      tagStyle: 'border-[#FFB800]/20 text-[#FFB800]/80',
-      hoverBorder: 'hover:border-[#FFB800]/30',
-    },
-    {
-      num: '04',
-      accentColor: '#FF3864',
-      Icon: CircleDot,
-      title: 'Stablecoin & Tokenized Settlement Architecture',
-      desc: 'Stablecoins should be framed as enterprise financial infrastructure, not speculative crypto. Their value is in faster settlement, treasury mobility, programmable payouts, liquidity movement, and cross-border optionality when paired with strong compliance and controls.',
-      flow: ['Fiat Entry', 'KYT / Compliance', 'On-Ramp', 'Stablecoin Treasury', 'Liquidity Rules', 'Cross-Border Payout', 'Off-Ramp → Settlement'],
-      capabilities: ['USDC-style settlement', 'Fiat-to-stablecoin flows', 'On/off-ramp design', 'KYT and compliance checkpoints', 'Treasury wallet model', 'Programmable payouts', 'Tokenized cash concepts'],
-      iconBg: 'bg-[#1a0a0f]',
-      iconBorder: 'border-[#FF3864]/20',
-      tagStyle: 'border-[#FF3864]/20 text-[#FF3864]/80',
-      hoverBorder: 'hover:border-[#FF3864]/30',
-    },
-    {
-      num: '05',
-      accentColor: '#B44FFF',
-      Icon: CpuIcon,
-      title: 'Agentic Commerce & AI Decisioning Layer',
-      desc: 'Agentic commerce will introduce AI agents that support merchant and platform teams with simulations, vendor comparisons, rail recommendations, pricing analysis, revenue modeling, and controlled financial decisioning.',
-      flow: ['Merchant Context', 'MCP Tools', 'AI Agent Layer', 'Payment Simulator', 'Vendor / Rail Comparison', 'Revenue Model', 'Controlled Action'],
-      capabilities: ['MCP-based commerce agents', 'AI-assisted payment simulations', 'Vendor comparison', 'Merchant readiness scoring', 'Revenue impact modeling', 'Delegated financial workflows', 'Autonomous execution controls'],
-      iconBg: 'bg-[#110a1a]',
-      iconBorder: 'border-[#B44FFF]/20',
-      tagStyle: 'border-[#B44FFF]/20 text-[#B44FFF]/80',
-      hoverBorder: 'hover:border-[#B44FFF]/30',
+      title: 'Payments & Settlement',
+      desc: 'Cards, ACH, RTP/FedNow, wallets, BNPL, stablecoin settlement, treasury controls, and reconciliation intelligence.',
+      flow: ['Cards / ACH', 'RTP / FedNow', 'Settlement', 'Reconciliation'],
+      capabilities: ['Multi-rail payments', 'Treasury', 'Settlement visibility'],
+      iconBg: 'bg-[#0a1a0a]',
+      iconBorder: 'border-[#39FF14]/20',
+      tagStyle: 'border-[#39FF14]/20 text-[#39FF14]/80',
+      hoverBorder: 'hover:border-[#39FF14]/30',
     },
   ];
 
@@ -1272,151 +1234,144 @@ function ProductVision() {
     <section id="productvision" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
 
-        {/* Header */}
         <div className="reveal mb-4">
-          <div className="section-num mb-3">07 — Product Vision & Architecture</div>
-          <h2 className="text-5xl font-black uppercase tracking-tight text-white">Product Vision & Architecture</h2>
-          <div className="nike-divider-red mt-4" />
+          <div className="section-num mb-3">03 — Product Vision</div>
+          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">
+            Product Vision
+          </h2>
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
 
-        {/* Subtitle */}
-        <div className="reveal mb-12">
+        <div className="reveal mb-10">
           <p className="text-[#777] text-sm leading-relaxed max-w-3xl">
-            My product vision is that the next generation of merchant payment platforms will be AI-native, multi-rail, data-driven, and deeply embedded into merchant workflows. Payments will evolve from a transaction-processing layer into an intelligent commerce operating system — helping merchants route payments, manage cash flow, personalize engagement, reduce risk, optimize settlement, and make better business decisions in real time.
+            The next generation of merchant platforms will become AI-native commerce operating systems — combining payments, intelligence, settlement, treasury, and merchant workflows into one smarter platform experience.
           </p>
         </div>
 
-        {/* Architecture stack infographic */}
-        <div className="reveal mb-14">
-          <div className="relative overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#080808] p-8">
-            <div className="absolute inset-0 bg-gradient-to-br from-[#39FF14]/[0.02] via-transparent to-[#00BFFF]/[0.02]" />
+        <div className="reveal mb-12">
+          <div className="relative overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#080808] p-6 sm:p-8">
+            <div className="absolute inset-0 bg-gradient-to-br from-[#39FF14]/[0.025] via-transparent to-[#00BFFF]/[0.025]" />
+
             <div className="relative z-10">
-              <div className="text-[10px] font-black text-[#39FF14] uppercase tracking-[0.4em] mb-6">Architecture Overview</div>
-              <div className="grid grid-cols-5 gap-0 relative">
-                {[
-                  { label: 'Merchant Layer', sub: 'POS · eCommerce · ISV · APIs', color: '#39FF14' },
-                  { label: 'Intelligence Layer', sub: 'AI · Routing · Risk · Analytics', color: '#00BFFF' },
-                  { label: 'Payment Rails', sub: 'Cards · ACH · RTP · Stablecoin', color: '#FFB800' },
-                  { label: 'Settlement', sub: 'Treasury · Ledger · Reconciliation', color: '#FF3864' },
-                  { label: 'Agentic Layer', sub: 'MCP · Agents · Decisioning', color: '#B44FFF' },
-                ].map((layer, i) => (
-                  <div key={i} className="relative">
-                    {i < 4 && (
-                      <div className="absolute top-1/2 -right-px -translate-y-1/2 z-20 flex items-center">
-                        <div className="w-px h-8 bg-[#222]" />
-                        <div className="w-2 h-2 rounded-full border border-[#333] bg-[#0a0a0a] absolute -right-[3px]" />
-                      </div>
-                    )}
-                    <div className="px-4 py-5 text-center group cursor-default">
-                      <div
-                        className="w-8 h-8 rounded-lg mx-auto mb-3 flex items-center justify-center"
-                        style={{ backgroundColor: `${layer.color}15`, border: `1px solid ${layer.color}25` }}
-                      >
-                        <div className="w-2 h-2 rounded-full" style={{ backgroundColor: layer.color, opacity: 0.7 }} />
-                      </div>
-                      <div className="text-white font-black text-[10px] uppercase tracking-widest leading-snug mb-1.5" style={{ color: layer.color, opacity: 0.9 }}>{layer.label}</div>
-                      <div className="text-[#444] text-[9px] leading-relaxed tracking-wide">{layer.sub}</div>
+              <div className="text-[10px] font-black text-[#39FF14] uppercase tracking-[0.35em] mb-6">
+                Architecture Overview
+              </div>
+
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                {cards.map((layer) => (
+                  <div
+                    key={layer.num}
+                    className="rounded-xl border border-[#1a1a1a] bg-[#0b0b0b] p-5"
+                  >
+                    <div
+                      className={`w-11 h-11 rounded-xl ${layer.iconBg} border ${layer.iconBorder} flex items-center justify-center mb-4`}
+                    >
+                      <layer.Icon className="w-5 h-5" style={{ color: layer.accentColor }} />
                     </div>
+
+                    <div
+                      className="text-[10px] font-black uppercase tracking-[0.25em] mb-2"
+                      style={{ color: layer.accentColor }}
+                    >
+                      {layer.num} — Layer
+                    </div>
+
+                    <h3 className="text-white text-sm font-black uppercase tracking-wide mb-3 leading-snug">
+                      {layer.title}
+                    </h3>
+
+                    <p className="text-[#666] text-xs leading-relaxed">
+                      {layer.desc}
+                    </p>
                   </div>
                 ))}
               </div>
+
               <div className="mt-6 pt-5 border-t border-[#161616] flex items-center gap-3">
-                <div className="flex-1 h-[2px] bg-gradient-to-r from-[#39FF14]/40 via-[#00BFFF]/40 via-[#FFB800]/40 via-[#FF3864]/40 to-[#B44FFF]/40 rounded-full" />
-                <span className="text-[9px] text-[#333] uppercase tracking-[0.3em] font-black whitespace-nowrap">Unified Commerce Operating System</span>
-                <div className="flex-1 h-[2px] bg-gradient-to-l from-[#39FF14]/40 via-[#00BFFF]/40 via-[#FFB800]/40 via-[#FF3864]/40 to-[#B44FFF]/40 rounded-full" />
+                <div className="flex-1 h-[2px] bg-gradient-to-r from-[#39FF14]/40 to-[#00BFFF]/40 rounded-full" />
+                <span className="text-[9px] text-[#444] uppercase tracking-[0.25em] font-black whitespace-nowrap">
+                  Intelligent Commerce Platform
+                </span>
+                <div className="flex-1 h-[2px] bg-gradient-to-l from-[#39FF14]/40 to-[#00BFFF]/40 rounded-full" />
               </div>
             </div>
           </div>
         </div>
 
-        {/* Architecture cards */}
-        <div className="flex flex-col gap-6">
+        <div className="grid lg:grid-cols-3 gap-4">
           {cards.map((card) => (
             <div
               key={card.num}
-              className={`group relative bg-[#0c0c0c] border border-[#1a1a1a] ${card.hoverBorder} rounded-xl overflow-hidden transition-all duration-300 cursor-default`}
+              className={`group relative bg-[#0c0c0c] border border-[#1a1a1a] ${card.hoverBorder} rounded-xl overflow-hidden transition-all duration-300 p-6`}
             >
-              {/* Top accent bar */}
-              <div className="absolute top-0 left-0 right-0 h-[2px] opacity-40 group-hover:opacity-80 transition-opacity duration-300"
-                style={{ background: `linear-gradient(to right, transparent, ${card.accentColor}, transparent)` }} />
+              <div
+                className="absolute top-0 left-0 right-0 h-[2px] opacity-50"
+                style={{ background: `linear-gradient(to right, transparent, ${card.accentColor}, transparent)` }}
+              />
 
-              <div className="p-8">
-                <div className="grid lg:grid-cols-[1fr_auto] gap-8">
+              <div className="flex items-start gap-4 mb-5">
+                <div
+                  className={`w-12 h-12 rounded-xl ${card.iconBg} border ${card.iconBorder} flex items-center justify-center flex-shrink-0`}
+                >
+                  <card.Icon className="w-6 h-6" style={{ color: card.accentColor }} />
+                </div>
 
-                  {/* Left: header + desc + flow */}
-                  <div>
-                    {/* Card header */}
-                    <div className="flex items-start gap-4 mb-6">
-                      <div
-                        className={`w-12 h-12 rounded-xl ${card.iconBg} border ${card.iconBorder} flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform duration-300`}
-                      >
-                        <card.Icon className="w-6 h-6" style={{ color: card.accentColor }} />
-                      </div>
-                      <div className="pt-1">
-                        <div className="text-[9px] font-black uppercase tracking-[0.3em] mb-1.5 opacity-60" style={{ color: card.accentColor }}>
-                          {card.num} — Architecture
-                        </div>
-                        <h3 className="text-white font-black text-base uppercase tracking-wide leading-snug">{card.title}</h3>
-                      </div>
-                    </div>
-
-                    <p className="text-[#6e6e6e] text-sm leading-relaxed mb-7">{card.desc}</p>
-
-                    {/* Architecture flow */}
-                    <div className="mb-2">
-                      <div className="text-[9px] font-black uppercase tracking-[0.3em] mb-4 opacity-50" style={{ color: card.accentColor }}>
-                        Architecture Flow
-                      </div>
-                      <div className="flex flex-wrap items-center gap-2">
-                        {card.flow.map((step, i) => (
-                          <div key={i} className="flex items-center gap-2">
-                            <div
-                              className="text-[10px] font-semibold px-3 py-1.5 rounded-md border whitespace-nowrap"
-                              style={{
-                                borderColor: `${card.accentColor}20`,
-                                color: `${card.accentColor}cc`,
-                                backgroundColor: `${card.accentColor}08`,
-                              }}
-                            >
-                              {step}
-                            </div>
-                            {i < card.flow.length - 1 && (
-                              <ArrowRight className="w-3 h-3 flex-shrink-0" style={{ color: card.accentColor, opacity: 0.35 }} />
-                            )}
-                          </div>
-                        ))}
-                      </div>
-                    </div>
+                <div>
+                  <div
+                    className="text-[9px] font-black uppercase tracking-[0.3em] mb-1.5 opacity-70"
+                    style={{ color: card.accentColor }}
+                  >
+                    {card.num} — Focus
                   </div>
+                  <h3 className="text-white font-black text-sm uppercase tracking-wide leading-snug">
+                    {card.title}
+                  </h3>
+                </div>
+              </div>
 
-                  {/* Right: capabilities */}
-                  <div className="lg:w-56 xl:w-64 flex-shrink-0">
-                    <div
-                      className="h-full rounded-xl p-5 border"
+              <p className="text-[#6e6e6e] text-sm leading-relaxed mb-5">
+                {card.desc}
+              </p>
+
+              <div className="mb-5">
+                <div
+                  className="text-[9px] font-black uppercase tracking-[0.25em] mb-3 opacity-60"
+                  style={{ color: card.accentColor }}
+                >
+                  Flow
+                </div>
+
+                <div className="flex flex-wrap gap-2">
+                  {card.flow.map((step) => (
+                    <span
+                      key={step}
+                      className="text-[10px] font-semibold px-3 py-1.5 rounded-md border"
                       style={{
-                        backgroundColor: `${card.accentColor}05`,
-                        borderColor: `${card.accentColor}15`,
+                        borderColor: `${card.accentColor}20`,
+                        color: `${card.accentColor}cc`,
+                        backgroundColor: `${card.accentColor}08`,
                       }}
                     >
-                      <div className="text-[9px] font-black uppercase tracking-[0.3em] mb-4" style={{ color: card.accentColor, opacity: 0.7 }}>
-                        Capabilities
-                      </div>
-                      <ul className="flex flex-col gap-2.5">
-                        {card.capabilities.map((cap, i) => (
-                          <li key={i} className="flex items-start gap-2">
-                            <div className="w-1 h-1 rounded-full mt-1.5 flex-shrink-0" style={{ backgroundColor: card.accentColor, opacity: 0.6 }} />
-                            <span className="text-[11px] text-[#666] leading-snug group-hover:text-[#777] transition-colors duration-200">{cap}</span>
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  </div>
-
+                      {step}
+                    </span>
+                  ))}
                 </div>
+              </div>
+
+              <div className="flex flex-wrap gap-1.5">
+                {card.capabilities.map((cap) => (
+                  <span
+                    key={cap}
+                    className={`text-[10px] px-2.5 py-0.5 rounded-full border ${card.tagStyle} font-medium tracking-wide`}
+                  >
+                    {cap}
+                  </span>
+                ))}
               </div>
             </div>
           ))}
         </div>
+
       </div>
     </section>
   );
@@ -1428,185 +1383,77 @@ function HowIWork() {
   const steps = [
     {
       num: '01',
-      label: 'Discover',
       Icon: Search,
       accentColor: '#39FF14',
-      iconBg: 'bg-[#0a1a0a]',
-      iconBorder: 'border-[#39FF14]/20',
-      tagStyle: 'border-[#39FF14]/15 text-[#39FF14]/70',
-      hoverBorder: 'hover:border-[#39FF14]/30',
-      desc: 'Understand merchant pain points, payment flows, platform constraints, risk, compliance, economics, and operating realities.',
-      details: ['Merchant pain point mapping', 'Payment flow analysis', 'Platform constraint review', 'Risk & compliance scoping', 'Economics & operating model audit'],
+      title: 'Find the Business Problem',
+      desc: 'Start with merchant pain, economics, platform friction, risk, and operational impact.',
+      details: ['Merchant pain', 'Cost drivers', 'Operational friction'],
     },
     {
       num: '02',
-      label: 'Frame',
       Icon: PenLine,
       accentColor: '#00BFFF',
-      iconBg: 'bg-[#0a0f1a]',
-      iconBorder: 'border-[#00BFFF]/20',
-      tagStyle: 'border-[#00BFFF]/15 text-[#00BFFF]/70',
-      hoverBorder: 'hover:border-[#00BFFF]/30',
-      desc: 'Translate complex problems into product opportunities, architecture options, tradeoffs, roadmap priorities, and executive narratives.',
-      details: ['Problem-to-opportunity translation', 'Architecture option mapping', 'Tradeoff articulation', 'Roadmap prioritisation', 'Executive narrative development'],
+      title: 'Frame the Product Narrative',
+      desc: 'Turn complexity into a clear story, roadmap, operating model, and executive decision path.',
+      details: ['Product story', 'Roadmap', 'Decision model'],
     },
     {
       num: '03',
-      label: 'Prototype',
       Icon: FlaskConical,
-      accentColor: '#FFB800',
-      iconBg: 'bg-[#120f00]',
-      iconBorder: 'border-[#FFB800]/20',
-      tagStyle: 'border-[#FFB800]/15 text-[#FFB800]/70',
-      hoverBorder: 'hover:border-[#FFB800]/30',
-      desc: 'Use demos, AI tools, simulators, and structured models to validate ideas before scaling.',
-      details: ['Live product demos', 'AI-assisted simulators', 'Structured cost models', 'Decision-support frameworks', 'Proof-of-concept prototypes'],
+      accentColor: '#39FF14',
+      title: 'Prototype Before Scaling',
+      desc: 'Use demos, simulators, and structured models to validate product direction quickly.',
+      details: ['Live demos', 'Simulators', 'Proof points'],
     },
     {
       num: '04',
-      label: 'Align',
       Icon: Users,
-      accentColor: '#FF3864',
-      iconBg: 'bg-[#1a0a0f]',
-      iconBorder: 'border-[#FF3864]/20',
-      tagStyle: 'border-[#FF3864]/15 text-[#FF3864]/70',
-      hoverBorder: 'hover:border-[#FF3864]/30',
-      desc: 'Bring product, engineering, risk, compliance, finance, operations, sales, and leadership around a shared path.',
-      details: ['Cross-functional alignment', 'Risk & compliance buy-in', 'Leadership briefings', 'Stakeholder narrative design', 'Shared delivery commitment'],
-    },
-    {
-      num: '05',
-      label: 'Scale',
-      Icon: TrendingUp,
-      accentColor: '#00E5CC',
-      iconBg: 'bg-[#001a18]',
-      iconBorder: 'border-[#00E5CC]/20',
-      tagStyle: 'border-[#00E5CC]/15 text-[#00E5CC]/70',
-      hoverBorder: 'hover:border-[#00E5CC]/30',
-      desc: 'Move from concept to roadmap, operating model, GTM story, delivery plan, governance, and measurable impact.',
-      details: ['Roadmap to delivery', 'Operating model design', 'GTM story & positioning', 'Governance framework', 'Impact measurement'],
+      accentColor: '#00BFFF',
+      title: 'Align Teams Around Execution',
+      desc: 'Bring product, engineering, risk, compliance, finance, sales, and leadership into one execution path.',
+      details: ['Alignment', 'Governance', 'Execution'],
     },
   ];
 
   return (
     <section id="howiwork" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
-
-        {/* Section header */}
-        <div className="reveal mb-4">
+        <div className="reveal mb-10">
           <div className="section-num mb-3">08 — How I Work</div>
-          <h2 className="text-5xl font-black uppercase tracking-tight text-white">How I Work</h2>
-          <div className="nike-divider-red mt-4" />
+          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">How I Work</h2>
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
 
-        {/* Intro */}
-        <div className="reveal mb-12">
-          <p className="text-[#777] text-sm leading-relaxed max-w-3xl">
-            I operate at the intersection of product strategy, platform architecture, stakeholder alignment, and execution. My approach is to turn ambiguous payment infrastructure problems into clear product decisions, scalable operating models, and practical delivery paths.
-          </p>
-        </div>
-
-        {/* Pipeline infographic */}
-        <div className="reveal mb-12">
-          <div className="relative overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#080808] px-6 py-7">
-            <div className="absolute inset-0 bg-gradient-to-r from-[#39FF14]/[0.015] via-transparent to-[#00E5CC]/[0.015]" />
-            <div className="relative z-10">
-              <div className="text-[9px] font-black text-[#444] uppercase tracking-[0.4em] mb-6">Process Pipeline</div>
-              <div className="flex items-center gap-0">
-                {steps.map((step, i) => (
-                  <div key={step.num} className="flex items-center flex-1 min-w-0">
-                    <div className="flex-1 flex flex-col items-center gap-2 group cursor-default px-2">
-                      {/* Node */}
-                      <div
-                        className="w-10 h-10 rounded-xl flex items-center justify-center transition-all duration-300 group-hover:scale-110"
-                        style={{ backgroundColor: `${step.accentColor}12`, border: `1px solid ${step.accentColor}30` }}
-                      >
-                        <step.Icon className="w-4 h-4" style={{ color: step.accentColor, opacity: 0.8 }} />
-                      </div>
-                      {/* Label */}
-                      <div className="text-center">
-                        <div className="text-[8px] font-black uppercase tracking-[0.3em] mb-0.5" style={{ color: step.accentColor, opacity: 0.55 }}>{step.num}</div>
-                        <div className="text-[10px] font-black uppercase tracking-widest text-white">{step.label}</div>
-                      </div>
-                    </div>
-                    {/* Connector */}
-                    {i < steps.length - 1 && (
-                      <div className="flex items-center gap-0 flex-shrink-0 w-6">
-                        <div className="h-px flex-1 bg-gradient-to-r"
-                          style={{ backgroundImage: `linear-gradient(to right, ${step.accentColor}40, ${steps[i + 1].accentColor}40)` }}
-                        />
-                        <div className="w-0 h-0" style={{
-                          borderTop: '3px solid transparent',
-                          borderBottom: '3px solid transparent',
-                          borderLeft: `5px solid ${steps[i + 1].accentColor}40`,
-                        }} />
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Step cards — 2 columns then last centred on lg */}
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {steps.map((step, i) => (
-            <div
-              key={step.num}
-              className={`group relative bg-[#0c0c0c] border border-[#1a1a1a] ${step.hoverBorder} rounded-xl overflow-hidden transition-all duration-300 p-7 cursor-default flex flex-col ${i === 4 ? 'sm:col-span-2 lg:col-span-1' : ''}`}
-            >
-              {/* Left accent bar */}
-              <div
-                className="absolute left-0 top-0 bottom-0 w-[3px] opacity-40 group-hover:opacity-90 transition-opacity duration-300"
-                style={{ backgroundColor: step.accentColor }}
-              />
-
-              {/* Faded background number */}
-              <div
-                className="absolute top-0 right-4 text-[100px] font-black leading-none select-none pointer-events-none opacity-[0.025] group-hover:opacity-[0.05] transition-opacity duration-300"
-                style={{ color: step.accentColor }}
-              >
-                {step.num}
-              </div>
-
-              {/* Header */}
-              <div className="flex items-start gap-4 mb-5 relative z-10">
-                <div
-                  className={`w-11 h-11 rounded-xl ${step.iconBg} border ${step.iconBorder} flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform duration-300`}
-                >
+        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {steps.map((step) => (
+            <div key={step.num} className="reveal bg-[#0c0c0c] border border-[#1a1a1a] rounded-xl p-6 hover:border-[#39FF14]/25 transition-colors duration-300">
+              <div className="flex items-center justify-between mb-5">
+                <div className="w-11 h-11 rounded-xl border border-[#1a1a1a] bg-[#080808] flex items-center justify-center">
                   <step.Icon className="w-5 h-5" style={{ color: step.accentColor }} />
                 </div>
-                <div className="pt-1">
-                  <div
-                    className="text-[9px] font-black uppercase tracking-[0.3em] mb-1.5 opacity-55"
-                    style={{ color: step.accentColor }}
-                  >
-                    {step.num} — Step
-                  </div>
-                  <div className="text-white font-black text-sm uppercase tracking-wide leading-snug">{step.label}</div>
-                </div>
+                <div className="text-3xl font-black opacity-20" style={{ color: step.accentColor }}>{step.num}</div>
               </div>
-
-              {/* Divider */}
-              <div className="h-px bg-[#1a1a1a] mb-5 relative z-10 group-hover:bg-[#252525] transition-colors duration-300" />
-
-              {/* Description */}
-              <p className="text-[#6e6e6e] text-sm leading-relaxed mb-6 relative z-10 flex-1">{step.desc}</p>
-
-              {/* Detail pills */}
-              <div className="flex flex-wrap gap-1.5 relative z-10">
-                {step.details.map(d => (
-                  <span
-                    key={d}
-                    className={`text-[10px] px-2.5 py-0.5 rounded-full border ${step.tagStyle} font-medium tracking-wide`}
-                  >
-                    {d}
-                  </span>
+              <h3 className="text-white font-black text-sm uppercase tracking-wide leading-snug mb-3">{step.title}</h3>
+              <p className="text-[#777] text-sm leading-relaxed mb-5">{step.desc}</p>
+              <div className="space-y-2">
+                {step.details.map((d) => (
+                  <div key={d} className="flex items-center gap-2 text-xs text-[#666]">
+                    <ArrowRight className="w-3 h-3" style={{ color: step.accentColor }} />
+                    <span>{d}</span>
+                  </div>
                 ))}
               </div>
             </div>
           ))}
+        </div>
+
+        <div className="reveal mt-8 glass-card p-6">
+          <div className="flex items-start gap-4">
+            <CpuIcon className="w-6 h-6 text-[#39FF14] flex-shrink-0 mt-1" />
+            <p className="text-[#777] text-sm leading-relaxed">
+              My operating style is prototype-led, commercially grounded, and execution-focused: clarify the problem, shape the product narrative, validate with working artifacts, and align teams around measurable outcomes.
+            </p>
+          </div>
         </div>
       </div>
     </section>
@@ -1616,289 +1463,71 @@ function HowIWork() {
 /* ─── CASE STUDIES ──────────────────────────────────────────────────────── */
 
 function CaseStudies() {
-  const [activeTabs, setActiveTabs] = useState<Record<number, string>>({
-    0: 'overview', 1: 'overview', 2: 'overview',
-  });
-
-  const TABS = [
-    { id: 'overview', label: 'Overview' },
-    { id: 'challenge', label: 'Challenge' },
-    { id: 'built', label: 'What I Built' },
-    { id: 'thinking', label: 'Thinking' },
-    { id: 'impact', label: 'Impact' },
-  ];
-
   return (
     <section id="casestudies" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
-
-        {/* Header */}
         <div className="reveal mb-10">
           <div className="section-num mb-3">09 — Case Studies</div>
-          <h2 className="text-5xl font-black uppercase tracking-tight text-white leading-tight">Featured Case Studies</h2>
-          <div className="nike-divider-red mt-4 mb-6" />
-          <p className="text-[#888] text-base font-semibold max-w-3xl leading-relaxed">
-            Building the Next Generation of Intelligent Merchant Payment Platforms
-          </p>
-          <p className="text-[#4a4a4a] text-sm mt-2 max-w-3xl leading-relaxed">
-            These case studies reflect my work across AI-native payments, merchant commerce infrastructure, agentic commerce, stablecoin settlement, and multi-rail financial systems. Presented as sanitized product and architecture case studies without client-specific or confidential information.
+          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white leading-tight">Featured Case Studies</h2>
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4 mb-6" />
+          <p className="text-[#777] text-sm max-w-3xl leading-relaxed">
+            A shorter, cleaner view of the themes behind my portfolio — sanitized product and architecture case studies without client-specific or confidential information.
           </p>
         </div>
 
-        {/* Case study cards */}
-        <div className="flex flex-col gap-14">
-          {CASE_STUDIES.map((cs, i) => (
-            <div key={cs.id} className="reveal">
+        <div className="grid lg:grid-cols-3 gap-4">
+          {CASE_STUDIES.map((cs, i) => {
+            const accent = i % 2 === 0 ? '#39FF14' : '#00BFFF';
+            const accentRgb = i % 2 === 0 ? '57,255,20' : '0,191,255';
+            return (
+              <div key={cs.id} className="reveal group relative bg-[#0c0c0c] border border-[#1a1a1a] rounded-2xl overflow-hidden hover:border-[#39FF14]/25 transition-all duration-300">
+                <div className="relative h-44 overflow-hidden">
+                  <img
+                    src={cs.image}
+                    alt={cs.title}
+                    className="w-full h-full object-cover opacity-45 group-hover:opacity-60 transition-opacity duration-300"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-[#0c0c0c] via-[#0c0c0c]/70 to-transparent" />
+                  <div
+                    className="absolute inset-0 opacity-20"
+                    style={{ background: `radial-gradient(ellipse at 70% 30%, rgba(${accentRgb},0.45), transparent 60%)` }}
+                  />
+                </div>
 
-              {/* ── Hero image banner ── */}
-              <div className="relative h-80 rounded-t-2xl overflow-hidden">
-                <img
-                  src={cs.image}
-                  alt={cs.title}
-                  className="w-full h-full object-cover scale-105 group-hover:scale-100 transition-transform duration-700"
-                />
-                {/* Dark gradient — heavier on left for readability */}
-                <div
-                  className="absolute inset-0"
-                  style={{ background: `linear-gradient(105deg, rgba(8,8,8,0.97) 35%, rgba(8,8,8,0.6) 70%, rgba(8,8,8,0.3) 100%)` }}
-                />
-                {/* Accent glow edge */}
-                <div
-                  className="absolute inset-0 opacity-10"
-                  style={{ background: `radial-gradient(ellipse at 80% 50%, rgba(${cs.accentRgb},0.4) 0%, transparent 60%)` }}
-                />
-                <div className="absolute inset-0 p-8 lg:p-10 flex flex-col justify-end">
-                  <div className="flex items-center gap-3 mb-3 flex-wrap">
+                <div className="p-6">
+                  <div className="flex items-center gap-3 mb-4">
                     <span
-                      className="text-[9px] font-black uppercase tracking-[0.4em] px-2.5 py-1 rounded-full border"
-                      style={{ color: cs.accent, borderColor: `rgba(${cs.accentRgb},0.3)`, backgroundColor: `rgba(${cs.accentRgb},0.06)` }}
+                      className="text-[9px] font-black uppercase tracking-[0.3em] px-2.5 py-1 rounded-full border"
+                      style={{ color: accent, borderColor: `rgba(${accentRgb},0.3)`, backgroundColor: `rgba(${accentRgb},0.06)` }}
                     >
                       {cs.num} — Case Study
                     </span>
-                    <span className="text-[10px] text-[#555] uppercase tracking-wider font-medium">{cs.category}</span>
                   </div>
-                  <h3 className="text-2xl lg:text-3xl font-black text-white uppercase tracking-tight leading-tight mb-3 max-w-2xl">{cs.title}</h3>
-                  <p className="text-[#777] text-sm max-w-xl leading-relaxed hidden sm:block">{cs.positioning}</p>
+
+                  <h3 className="text-white text-base font-black uppercase tracking-wide leading-snug mb-3">
+                    {cs.title}
+                  </h3>
+
+                  <p className="text-[#777] text-sm leading-relaxed mb-5">
+                    {cs.positioning}
+                  </p>
+
+                  <div className="flex flex-wrap gap-1.5 mb-5">
+                    {cs.tags.slice(0, 4).map((tag) => (
+                      <span key={tag} className="text-[10px] px-2.5 py-0.5 rounded-full border border-[#222] text-[#666] font-medium tracking-wide">
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
+
+                  <div className="flex items-center gap-2 text-xs font-black uppercase tracking-[0.18em]" style={{ color: accent }}>
+                    <span>Product strategy · Architecture · Execution</span>
+                    <CircleDot className="w-3 h-3" />
+                  </div>
                 </div>
               </div>
-
-              {/* ── Architecture infographic ── */}
-              <div className="bg-[#060606] border-x border-[#151515] px-6 py-5">
-                <div
-                  className="text-[8px] font-black uppercase tracking-[0.4em] mb-4 flex items-center gap-2"
-                  style={{ color: cs.accent, opacity: 0.6 }}
-                >
-                  <div className="w-4 h-px" style={{ backgroundColor: cs.accent }} />
-                  Architecture Overview
-                  <div className="h-px flex-1" style={{ backgroundColor: `rgba(${cs.accentRgb},0.1)` }} />
-                </div>
-
-                <div className="flex flex-col lg:flex-row gap-3">
-                  {cs.flow.map((layer, li) => (
-                    <div key={li} className="flex lg:flex-col items-stretch lg:items-start flex-1 gap-2">
-                      {/* Layer block */}
-                      <div className="flex-1 bg-[#0c0c0c] border border-[#1a1a1a] rounded-xl p-4 relative overflow-hidden">
-                        {/* Faint layer number */}
-                        <div
-                          className="absolute top-1 right-2 text-5xl font-black leading-none select-none pointer-events-none opacity-[0.04]"
-                          style={{ color: cs.accent }}
-                        >
-                          {li + 1}
-                        </div>
-                        <div
-                          className="text-[8px] font-black uppercase tracking-[0.35em] mb-3"
-                          style={{ color: cs.accent, opacity: 0.5 }}
-                        >
-                          {layer.label}
-                        </div>
-                        <div className="flex flex-col gap-2.5">
-                          {layer.nodes.map((node, ni) => {
-                            const NodeIcon = node.Icon;
-                            return (
-                              <div key={ni} className="flex items-center gap-2.5">
-                                <div
-                                  className="w-6 h-6 rounded-md flex items-center justify-center flex-shrink-0"
-                                  style={{ backgroundColor: `rgba(${cs.accentRgb},0.06)`, border: `1px solid rgba(${cs.accentRgb},0.12)` }}
-                                >
-                                  <NodeIcon className="w-3 h-3" style={{ color: cs.accent, opacity: 0.7 }} />
-                                </div>
-                                <span className="text-[11px] text-[#5a5a5a] leading-snug">{node.label}</span>
-                              </div>
-                            );
-                          })}
-                        </div>
-                      </div>
-
-                      {/* Arrow connector (horizontal on mobile, below on desktop) */}
-                      {li < cs.flow.length - 1 && (
-                        <div className="flex items-center justify-center lg:justify-start py-1 lg:py-0 lg:px-1">
-                          <ArrowRight className="w-4 h-4 rotate-90 lg:rotate-0" style={{ color: cs.accent, opacity: 0.2 }} />
-                        </div>
-                      )}
-                    </div>
-                  ))}
-                </div>
-              </div>
-
-              {/* ── Tabs ── */}
-              <div className="border border-t-0 border-[#151515] rounded-b-2xl overflow-hidden">
-
-                {/* Tab header */}
-                <div className="flex border-b border-[#151515] overflow-x-auto bg-[#080808]">
-                  {TABS.map(tab => {
-                    const isActive = activeTabs[i] === tab.id;
-                    return (
-                      <button
-                        key={tab.id}
-                        onClick={() => setActiveTabs(prev => ({ ...prev, [i]: tab.id }))}
-                        className={`px-5 py-3.5 text-[10px] font-black uppercase tracking-[0.2em] whitespace-nowrap transition-all duration-200 border-b-2 flex-1 lg:flex-none ${
-                          isActive ? 'bg-[#0d0d0d]' : 'hover:bg-[#0a0a0a] border-transparent text-[#3a3a3a] hover:text-[#555]'
-                        }`}
-                        style={isActive ? { color: cs.accent, borderColor: cs.accent } : {}}
-                      >
-                        {tab.label}
-                      </button>
-                    );
-                  })}
-                </div>
-
-                {/* Tab content */}
-                <div className="bg-[#090909] p-7 min-h-[200px]">
-
-                  {/* Overview */}
-                  {activeTabs[i] === 'overview' && (
-                    <div>
-                      <p className="text-[#777] text-sm leading-relaxed mb-7">{cs.positioning}</p>
-                      <div className="grid sm:grid-cols-3 gap-px bg-[#151515] rounded-xl overflow-hidden">
-                        {[
-                          { label: 'Capabilities', val: cs.builtCapabilities.length, sub: 'Core features designed' },
-                          { label: 'Key Questions', val: cs.thinkingQuestions.length, sub: 'Product questions addressed' },
-                          { label: 'Domain Tags', val: cs.tags.length, sub: 'Specialization areas' },
-                        ].map(stat => (
-                          <div key={stat.label} className="bg-[#0c0c0c] p-5">
-                            <div className="text-[8px] font-black uppercase tracking-[0.3em] mb-2" style={{ color: cs.accent, opacity: 0.55 }}>{stat.label}</div>
-                            <div className="text-3xl font-black text-white mb-1">{stat.val}</div>
-                            <div className="text-[10px] text-[#3a3a3a]">{stat.sub}</div>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {/* Challenge */}
-                  {activeTabs[i] === 'challenge' && (
-                    <div>
-                      <div className="text-[8px] font-black uppercase tracking-[0.4em] mb-5 flex items-center gap-3" style={{ color: cs.accent, opacity: 0.55 }}>
-                        <div className="w-4 h-px" style={{ backgroundColor: cs.accent }} />
-                        The Challenge
-                      </div>
-                      <p className="text-[#6e6e6e] text-sm leading-relaxed">{cs.challenge}</p>
-                    </div>
-                  )}
-
-                  {/* Built */}
-                  {activeTabs[i] === 'built' && (
-                    <div>
-                      <div className="text-[8px] font-black uppercase tracking-[0.4em] mb-5 flex items-center gap-3" style={{ color: cs.accent, opacity: 0.55 }}>
-                        <div className="w-4 h-px" style={{ backgroundColor: cs.accent }} />
-                        What I Built / Designed
-                      </div>
-                      <p className="text-[#6e6e6e] text-sm leading-relaxed mb-6">{cs.builtIntro}</p>
-                      <div className="grid sm:grid-cols-2 gap-2">
-                        {cs.builtCapabilities.map((cap, ci) => (
-                          <div
-                            key={ci}
-                            className="flex items-start gap-3 bg-[#0d0d0d] border border-[#181818] rounded-xl p-4 hover:border-[#222] transition-colors duration-200"
-                          >
-                            <div
-                              className="w-5 h-5 rounded-md flex items-center justify-center flex-shrink-0 mt-0.5"
-                              style={{ backgroundColor: `rgba(${cs.accentRgb},0.07)`, border: `1px solid rgba(${cs.accentRgb},0.15)` }}
-                            >
-                              <div className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: cs.accent, opacity: 0.7 }} />
-                            </div>
-                            <span className="text-[#5e5e5e] text-xs leading-relaxed">{cap}</span>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {/* Thinking */}
-                  {activeTabs[i] === 'thinking' && (
-                    <div>
-                      <div className="text-[8px] font-black uppercase tracking-[0.4em] mb-5 flex items-center gap-3" style={{ color: cs.accent, opacity: 0.55 }}>
-                        <div className="w-4 h-px" style={{ backgroundColor: cs.accent }} />
-                        Product Thinking
-                      </div>
-                      <p className="text-[#6e6e6e] text-sm leading-relaxed mb-6">{cs.thinkingIntro}</p>
-                      <div className="flex flex-col gap-2.5">
-                        {cs.thinkingQuestions.map((q, qi) => (
-                          <div
-                            key={qi}
-                            className="flex items-start gap-4 bg-[#0d0d0d] border border-[#181818] rounded-xl p-4"
-                            style={{ borderLeft: `2px solid rgba(${cs.accentRgb},0.15)` }}
-                          >
-                            <span
-                              className="text-[9px] font-black tabular-nums flex-shrink-0 pt-0.5 w-6"
-                              style={{ color: cs.accent, opacity: 0.4 }}
-                            >
-                              Q{qi + 1}
-                            </span>
-                            <span className="text-[#5e5e5e] text-xs leading-relaxed italic">{q}</span>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {/* Impact */}
-                  {activeTabs[i] === 'impact' && (
-                    <div className="flex flex-col gap-6">
-                      <div>
-                        <div className="text-[8px] font-black uppercase tracking-[0.4em] mb-4 flex items-center gap-3" style={{ color: cs.accent, opacity: 0.55 }}>
-                          <div className="w-4 h-px" style={{ backgroundColor: cs.accent }} />
-                          Business Value
-                        </div>
-                        <p className="text-[#6e6e6e] text-sm leading-relaxed">{cs.value}</p>
-                      </div>
-                      <div className="h-px bg-[#161616]" />
-                      <div>
-                        <div className="text-[8px] font-black uppercase tracking-[0.4em] mb-4 flex items-center gap-3" style={{ color: cs.accent, opacity: 0.55 }}>
-                          <div className="w-4 h-px" style={{ backgroundColor: cs.accent }} />
-                          My Role
-                        </div>
-                        <p className="text-[#6e6e6e] text-sm leading-relaxed">{cs.role}</p>
-                      </div>
-                    </div>
-                  )}
-
-                </div>
-
-                {/* Tags footer */}
-                <div className="bg-[#060606] border-t border-[#141414] px-7 py-4 flex flex-wrap items-center gap-2">
-                  <span className="text-[8px] font-black uppercase tracking-[0.3em] text-[#2a2a2a] mr-2">Tags</span>
-                  {cs.tags.map(t => (
-                    <span
-                      key={t}
-                      className="text-[10px] px-3 py-1 rounded-full border font-medium tracking-wide"
-                      style={{ borderColor: `rgba(${cs.accentRgb},0.18)`, color: `rgba(${cs.accentRgb},0.65)` }}
-                    >
-                      {t}
-                    </span>
-                  ))}
-                </div>
-              </div>
-            </div>
-          ))}
-        </div>
-
-        {/* Disclaimer note */}
-        <div className="reveal mt-10 flex items-start gap-3 bg-[#080808] border border-[#1a1a1a] rounded-xl px-6 py-4">
-          <div className="w-1 h-1 rounded-full bg-[#333] flex-shrink-0 mt-[7px]" />
-          <p className="text-[#333] text-xs leading-relaxed">
-            <span className="text-[#444] font-black uppercase tracking-wider text-[10px]">Note: </span>
-            These case studies are based on sanitized product concepts, prototypes, public research, and generalized platform experience. They do not disclose confidential client information, proprietary implementation details, or non-public business data.
-          </p>
+            );
+          })}
         </div>
       </div>
     </section>
@@ -1912,9 +1541,9 @@ function Contact() {
     <section id="contact" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-4xl mx-auto px-6">
         <div className="reveal text-center mb-8">
-          <div className="section-num mb-3">10 — Contact</div>
+          <div className="section-num mb-3">07 — Contact</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white mb-2">Let's Connect</h2>
-          <div className="nike-divider-red mx-auto mt-4 mb-6" />
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mx-auto mt-4 mb-6" />
           <p className="text-[#666] max-w-lg mx-auto text-sm">
             Interested in payments product leadership, advisory conversations, research collaboration, or fintech strategy discussions? Reach out.
           </p>
@@ -1977,13 +1606,10 @@ export default function App() {
         <Hero />
         <About />
         <CoreCapabilities />
-        <SelectedImpact />
-        <Experience />
+        <ProductVision />
         <Projects />
         <Research />
-        <ProductVision />
-        <HowIWork />
-        <CaseStudies />
+        <Experience />
         <Contact />
       </main>
       <Footer />
