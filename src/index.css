@@ -1,10 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+ 
 :root {
   --accent: #39FF14;
   --accent-dim: #28cc0e;
+  --accent-blue: #00BFFF;
   --white: #ffffff;
   --black: #0a0a0a;
   --gray-1: #111111;
@@ -13,85 +14,114 @@
   --gray-4: #666666;
   --gray-5: #aaaaaa;
 }
-
-* { box-sizing: border-box; }
-
-html { scroll-behavior: smooth; }
-
+ 
+* {
+  box-sizing: border-box;
+}
+ 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4.5rem;
+}
+ 
 body {
   background-color: var(--black);
   color: var(--white);
   font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: geometricPrecision;
 }
-
+ 
+img,
+svg,
+canvas,
+video {
+  max-width: 100%;
+}
+ 
 /* Scrollbar */
-::-webkit-scrollbar { width: 4px; }
-::-webkit-scrollbar-track { background: var(--black); }
-::-webkit-scrollbar-thumb { background: var(--accent); }
-
+::-webkit-scrollbar {
+  width: 4px;
+}
+ 
+::-webkit-scrollbar-track {
+  background: var(--black);
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, var(--accent), var(--accent-blue));
+  border-radius: 999px;
+}
+ 
 /* Particle canvas */
 #particle-canvas {
   position: fixed;
-  top: 0; left: 0;
-  width: 100%; height: 100%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
   pointer-events: none;
   z-index: 0;
+  opacity: 0.9;
 }
-
-/* Grid overlay — subtle white */
+ 
+/* Grid overlay — subtle premium dark */
 .grid-bg {
   background-image:
-    linear-gradient(rgba(255,255,255,0.025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(255,255,255,0.025) 1px, transparent 1px);
+    linear-gradient(rgba(255, 255, 255, 0.022) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.022) 1px, transparent 1px);
   background-size: 80px 80px;
 }
-
+ 
 /* ── Cards ───────────────────────────────────────────────── */
 .glass-card {
-  background: var(--gray-1);
-  border: 1px solid var(--gray-3);
-  border-radius: 0;
-  transition: border-color 0.25s, transform 0.25s;
+  background: rgba(17, 17, 17, 0.92);
+  border: 1px solid var(--gray-2);
+  border-radius: 18px;
+  transition: border-color 0.25s ease, transform 0.25s ease, background 0.25s ease;
 }
-
+ 
 .glass-card:hover {
-  border-color: var(--white);
+  border-color: rgba(57, 255, 20, 0.38);
+  background: rgba(19, 19, 19, 0.96);
 }
-
+ 
 /* ── Flip card ───────────────────────────────────────────── */
 .flip-card {
   perspective: 1000px;
   height: 280px;
 }
-
+ 
 .flip-card-inner {
   position: relative;
-  width: 100%; height: 100%;
+  width: 100%;
+  height: 100%;
   transition: transform 0.65s cubic-bezier(0.4, 0, 0.2, 1);
   transform-style: preserve-3d;
 }
-
+ 
 .flip-card:hover .flip-card-inner {
   transform: rotateY(180deg);
 }
-
+ 
 .flip-card-front,
 .flip-card-back {
   position: absolute;
-  width: 100%; height: 100%;
+  width: 100%;
+  height: 100%;
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
-  border-radius: 0;
+  border-radius: 18px;
   overflow: hidden;
-  border: 1px solid var(--gray-3);
+  border: 1px solid var(--gray-2);
   background: var(--gray-1);
 }
-
+ 
 .flip-card-back {
   transform: rotateY(180deg);
   background: var(--black);
-  border-color: var(--white);
+  border-color: rgba(57, 255, 20, 0.35);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -99,28 +129,25 @@ body {
   text-align: center;
   padding: 1.5rem;
 }
-
+ 
 /* ── Typography ──────────────────────────────────────────── */
-.gradient-text {
-  color: var(--white);
-}
-
-.glow-text {
-  color: var(--accent);
-}
-
+.gradient-text,
 .shimmer-text {
   color: var(--white);
 }
-
+ 
+.glow-text {
+  color: var(--accent);
+}
+ 
 .section-num {
   font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.2em;
+  font-weight: 800;
+  letter-spacing: 0.22em;
   color: var(--accent);
   text-transform: uppercase;
 }
-
+ 
 /* ── Buttons ─────────────────────────────────────────────── */
 .btn-primary {
   background: var(--white);
@@ -128,133 +155,156 @@ body {
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  border: none;
-  border-radius: 0;
-  padding: 0.85rem 2.5rem;
+  border: 1px solid var(--white);
+  border-radius: 999px;
+  padding: 0.85rem 2.2rem;
   cursor: pointer;
-  transition: background 0.2s, color 0.2s, transform 0.2s;
+  transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
   text-decoration: none;
   display: inline-block;
   font-size: 0.82rem;
 }
-
+ 
 .btn-primary:hover {
   background: var(--accent);
+  border-color: var(--accent);
   color: var(--black);
   transform: translateY(-2px);
 }
-
+ 
 .btn-outline {
   background: transparent;
   color: var(--white);
-  border: 1px solid var(--white);
-  border-radius: 0;
-  padding: 0.85rem 2.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  border-radius: 999px;
+  padding: 0.85rem 2.2rem;
   cursor: pointer;
-  transition: background 0.2s, color 0.2s, border-color 0.2s, transform 0.2s;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   text-decoration: none;
   display: inline-block;
-  font-weight: 700;
+  font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   font-size: 0.82rem;
 }
-
+ 
 .btn-outline:hover {
   background: var(--white);
   color: var(--black);
+  border-color: var(--white);
   transform: translateY(-2px);
 }
-
+ 
 /* ── Reveal animation ────────────────────────────────────── */
 .reveal {
   opacity: 0;
-  transform: translateY(32px);
+  transform: translateY(28px);
   transition: opacity 0.6s ease, transform 0.6s ease;
 }
-
+ 
 .reveal.visible {
   opacity: 1;
   transform: translateY(0);
 }
-
+ 
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+ 
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.001ms !important;
+  }
+ 
+  .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}
+ 
 /* ── Timeline ────────────────────────────────────────────── */
 .timeline-dot {
   width: 12px;
   height: 12px;
-  border-radius: 0;
+  border-radius: 999px;
   background: var(--accent);
+  box-shadow: 0 0 0 4px rgba(57, 255, 20, 0.08);
   flex-shrink: 0;
   margin-top: 4px;
 }
-
+ 
 .timeline-line {
   width: 2px;
-  background: linear-gradient(to bottom, var(--gray-3), transparent);
+  background: linear-gradient(to bottom, rgba(57, 255, 20, 0.25), transparent);
   flex-shrink: 0;
   margin-left: 5px;
 }
-
+ 
 /* ── Skill pill ──────────────────────────────────────────── */
 .skill-pill {
   background: transparent;
   border: 1px solid var(--gray-3);
-  border-radius: 0;
-  padding: 0.3rem 0.8rem;
+  border-radius: 999px;
+  padding: 0.35rem 0.85rem;
   font-size: 0.75rem;
-  font-weight: 600;
+  font-weight: 700;
   color: var(--gray-5);
   white-space: nowrap;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  transition: all 0.2s;
+  transition: all 0.2s ease;
 }
-
+ 
 .skill-pill:hover {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: var(--black);
+  background: rgba(57, 255, 20, 0.1);
+  border-color: rgba(57, 255, 20, 0.45);
+  color: var(--accent);
 }
-
+ 
 /* ── Tab buttons ─────────────────────────────────────────── */
 .tab-btn {
-  padding: 0.55rem 1.4rem;
-  border-radius: 0;
-  font-size: 0.78rem;
-  font-weight: 700;
+  padding: 0.55rem 1.25rem;
+  border-radius: 999px;
+  font-size: 0.76rem;
+  font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   border: 1px solid var(--gray-3);
   color: var(--gray-5);
   background: transparent;
   cursor: pointer;
-  transition: all 0.2s;
+  transition: all 0.2s ease;
   white-space: nowrap;
 }
-
+ 
 .tab-btn.active {
   background: var(--accent);
   border-color: var(--accent);
   color: var(--black);
 }
-
+ 
 .tab-btn:hover:not(.active) {
-  border-color: var(--white);
+  border-color: rgba(0, 191, 255, 0.5);
   color: var(--white);
 }
-
+ 
 /* ── Nav ─────────────────────────────────────────────────── */
 .nav-link {
   font-size: 0.78rem;
-  font-weight: 700;
+  font-weight: 800;
   color: var(--gray-5);
   text-decoration: none;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  transition: color 0.2s;
+  transition: color 0.2s ease;
   position: relative;
 }
-
+ 
 .nav-link::after {
   content: '';
   position: absolute;
@@ -262,146 +312,276 @@ body {
   left: 0;
   width: 0;
   height: 2px;
-  background: var(--accent);
-  transition: width 0.2s;
+  background: linear-gradient(to right, var(--accent), var(--accent-blue));
+  transition: width 0.2s ease;
 }
-
+ 
 .nav-link:hover {
   color: var(--white);
 }
-
+ 
 .nav-link:hover::after {
   width: 100%;
 }
-
+ 
 /* ── Photo ring ──────────────────────────────────────────── */
 .photo-ring {
   border: 3px solid var(--accent);
+  box-shadow:
+    0 0 0 1px rgba(57, 255, 20, 0.18),
+    0 0 36px rgba(57, 255, 20, 0.16);
 }
-
+ 
 /* ── Float animation ─────────────────────────────────────── */
 @keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-14px); }
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+ 
+  50% {
+    transform: translateY(-10px);
+  }
 }
-
+ 
 .float-anim {
   animation: float 5s ease-in-out infinite;
 }
-
+ 
 /* ── Cursor blink ────────────────────────────────────────── */
 @keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
+  0%,
+  100% {
+    opacity: 1;
+  }
+ 
+  50% {
+    opacity: 0;
+  }
 }
-
+ 
 .cursor-blink {
   animation: blink 1s step-end infinite;
   color: var(--accent);
 }
-
+ 
 /* ── Scan line ───────────────────────────────────────────── */
 @keyframes scan {
-  0% { top: 0; opacity: 0.04; }
-  50% { opacity: 0.06; }
-  100% { top: 100%; opacity: 0.04; }
+  0% {
+    top: 0;
+    opacity: 0.025;
+  }
+ 
+  50% {
+    opacity: 0.045;
+  }
+ 
+  100% {
+    top: 100%;
+    opacity: 0.025;
+  }
 }
-
+ 
 .scan-line {
   position: absolute;
-  left: 0; right: 0;
+  left: 0;
+  right: 0;
   height: 1px;
-  background: linear-gradient(90deg, transparent, var(--white), transparent);
+  background: linear-gradient(90deg, transparent, rgba(57, 255, 20, 0.45), rgba(0, 191, 255, 0.35), transparent);
   animation: scan 5s linear infinite;
   pointer-events: none;
 }
-
+ 
 /* ── Research paper card ─────────────────────────────────── */
 .paper-card {
-  background: var(--gray-1);
-  border: 1px solid var(--gray-3);
-  border-radius: 0;
-  padding: 1.25rem;
+  background: rgba(17, 17, 17, 0.94);
+  border: 1px solid var(--gray-2);
+  border-radius: 16px;
+  padding: 1.15rem;
   text-decoration: none;
-  transition: all 0.2s;
+  transition: all 0.2s ease;
 }
-
+ 
 .paper-card:hover {
-  border-color: var(--white);
+  border-color: rgba(57, 255, 20, 0.36);
   background: var(--gray-2);
   transform: translateX(4px);
 }
-
+ 
 /* ── Badge ───────────────────────────────────────────────── */
 .badge {
   font-size: 0.65rem;
-  font-weight: 800;
+  font-weight: 900;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  padding: 0.2rem 0.55rem;
-  border-radius: 0;
+  padding: 0.22rem 0.58rem;
+  border-radius: 999px;
 }
-
+ 
 .badge-cyan {
-  background: transparent;
-  color: var(--white);
-  border: 1px solid var(--gray-3);
+  background: rgba(0, 191, 255, 0.08);
+  color: var(--accent-blue);
+  border: 1px solid rgba(0, 191, 255, 0.28);
 }
-
+ 
+/* Kept class name for compatibility, but removed yellow/gold styling. */
 .badge-gold {
-  background: transparent;
-  color: #e6c200;
-  border: 1px solid rgba(230,194,0,0.4);
+  background: rgba(57, 255, 20, 0.08);
+  color: var(--accent);
+  border: 1px solid rgba(57, 255, 20, 0.3);
 }
-
+ 
+/* Kept class name for compatibility, but standardized to blue. */
 .badge-teal {
-  background: transparent;
-  color: #aafff0;
-  border: 1px solid rgba(170,255,240,0.3);
+  background: rgba(0, 191, 255, 0.08);
+  color: var(--accent-blue);
+  border: 1px solid rgba(0, 191, 255, 0.28);
 }
-
+ 
 /* ── Stat card ───────────────────────────────────────────── */
 .stat-card {
   text-align: center;
   padding: 1.5rem 1rem;
-  background: var(--gray-1);
-  border: 1px solid var(--gray-3);
-  border-radius: 0;
-  transition: border-color 0.2s;
+  background: rgba(17, 17, 17, 0.94);
+  border: 1px solid var(--gray-2);
+  border-radius: 16px;
+  transition: border-color 0.2s ease, background 0.2s ease;
 }
-
+ 
 .stat-card:hover {
-  border-color: var(--accent);
+  border-color: rgba(57, 255, 20, 0.4);
+  background: rgba(20, 20, 20, 0.96);
 }
-
+ 
 /* ── Contact link ────────────────────────────────────────── */
 .contact-link {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  padding: 1rem 1.25rem;
-  background: var(--gray-1);
-  border: 1px solid var(--gray-3);
-  border-radius: 0;
+  padding: 1rem 1.15rem;
+  background: rgba(17, 17, 17, 0.94);
+  border: 1px solid var(--gray-2);
+  border-radius: 14px;
   text-decoration: none;
   color: var(--white);
-  transition: all 0.2s;
+  transition: all 0.2s ease;
 }
-
+ 
 .contact-link:hover {
-  border-color: var(--white);
+  border-color: rgba(0, 191, 255, 0.42);
   background: var(--gray-2);
-  transform: translateX(6px);
+  transform: translateX(5px);
 }
-
+ 
 /* ── Divider ─────────────────────────────────────────────── */
 .nike-divider {
   height: 1px;
   background: var(--gray-3);
 }
-
+ 
+/* Kept class name so App.tsx does not need another change. This is green/blue now, not red. */
 .nike-divider-red {
   height: 3px;
-  background: var(--accent);
+  background: linear-gradient(to right, var(--accent), var(--accent-blue));
   width: 48px;
+  border-radius: 999px;
+}
+ 
+/* ── Mobile polish ───────────────────────────────────────── */
+@media (max-width: 768px) {
+  #particle-canvas {
+    opacity: 0.45;
+  }
+ 
+  .grid-bg {
+    background-size: 56px 56px;
+  }
+ 
+  .text-8xl {
+    font-size: 4rem !important;
+    line-height: 0.95 !important;
+  }
+ 
+  .text-6xl {
+    font-size: 3.5rem !important;
+    line-height: 0.95 !important;
+  }
+ 
+  .text-5xl {
+    font-size: 2.35rem !important;
+    line-height: 1.05 !important;
+  }
+ 
+  .text-4xl {
+    font-size: 2rem !important;
+    line-height: 1.1 !important;
+  }
+ 
+  .glass-card,
+  .paper-card,
+  .stat-card {
+    border-radius: 16px;
+  }
+ 
+  .paper-card:hover,
+  .contact-link:hover {
+    transform: none;
+  }
+}
+ 
+@media (max-width: 640px) {
+  body {
+    font-size: 15px;
+  }
+ 
+  .btn-primary,
+  .btn-outline {
+    width: 100%;
+    text-align: center;
+    padding: 0.82rem 1.15rem;
+    font-size: 0.76rem;
+  }
+ 
+  .section-num {
+    font-size: 0.62rem;
+    letter-spacing: 0.18em;
+  }
+ 
+  .glass-card {
+    padding: 1.15rem !important;
+  }
+ 
+  .paper-card,
+  .contact-link {
+    padding: 1rem;
+  }
+ 
+  .tab-btn {
+    font-size: 0.68rem;
+    padding: 0.5rem 0.95rem;
+  }
+ 
+  .skill-pill,
+  .badge {
+    white-space: normal;
+  }
+ 
+  .reveal {
+    transform: translateY(18px);
+  }
+}
+ 
+@media (max-width: 390px) {
+  .text-8xl,
+  .text-6xl {
+    font-size: 3.15rem !important;
+  }
+ 
+  .text-5xl {
+    font-size: 2rem !important;
+  }
+ 
+  .text-4xl {
+    font-size: 1.75rem !important;
+  }
 }
