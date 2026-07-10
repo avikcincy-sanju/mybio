@@ -1,3 +1,4 @@
+
 import { useEffect, useRef, useState } from 'react';
 import {
   Github, Linkedin, Mail, BookOpen, Globe,
@@ -715,10 +716,10 @@ function About() {
                 Avik Nandi builds the financial infrastructure behind modern commerce.
               </p>
               <p className="text-[#aaa] leading-relaxed mb-5">
-                Avik is a product leader focused on AI-native payments, merchant commerce infrastructure, Merchant of Record platforms, multi-rail orchestration, stablecoins, real-time rails, treasury automation, and intelligent financial systems.
+                He is a product leader focused on AI-native payments, merchant commerce infrastructure, Merchant of Record platforms, multi-rail orchestration, stablecoins, real-time rails, treasury automation, and intelligent financial systems.
               </p>
               <p className="text-[#777] leading-relaxed mb-5">
-                With 20+ years across Wipro, Deloitte, FIS, Worldpay, and Vantiv, Avik has led product, platform, and modernization initiatives across complex payment ecosystems — spanning merchant acquiring, issuing, payment gateways, settlement, reconciliation, cross-border payments, AI-enabled commerce, and regulated financial infrastructure.
+                Across Wipro, Deloitte, FIS, Worldpay, and Vantiv, he has led product, platform, and modernization initiatives across complex payment ecosystems — spanning merchant acquiring, issuing, payment gateways, settlement, reconciliation, cross-border payments, AI-enabled commerce, and regulated financial infrastructure.
               </p>
               <p className="text-[#777] leading-relaxed">
                 His work sits at the intersection of product strategy, platform architecture, and execution — turning complex payment ecosystems into scalable, resilient, and commercially effective platforms that improve merchant outcomes, optimize cost, strengthen compliance, and unlock new revenue models.
