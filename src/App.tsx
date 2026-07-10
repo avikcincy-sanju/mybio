@@ -8,9 +8,9 @@ import {
   ArrowRight, BarChart3, Shield, Layers, GitBranch, Workflow, Cpu as CpuIcon, CircleDot,
   Search, PenLine, FlaskConical, Users
 } from 'lucide-react';
-
+ 
 /* ─── DATA ──────────────────────────────────────────────────────────────── */
-
+ 
 const PROJECTS = [
   {
     title: 'Payment Intelligence',
@@ -86,7 +86,7 @@ const PROJECTS = [
     color: 'from-[#111] to-[#1c1c1c]',
   },
 ];
-
+ 
 const SSRN_PAPERS = [
   {
     title: 'The Emergence of Intelligent Payment Systems: An AI-Driven Framework for Multi-Rail Payment Orchestration',
@@ -109,7 +109,7 @@ const SSRN_PAPERS = [
     id: '6920081',
   },
 ];
-
+ 
 const ZENODO_PAPERS = [
   { title: 'Zenodo Research Paper', record: '20261877', url: 'https://zenodo.org/records/20261877' },
   { title: 'Zenodo Research Paper', record: '20261969', url: 'https://zenodo.org/records/20261969' },
@@ -117,7 +117,7 @@ const ZENODO_PAPERS = [
   { title: 'Zenodo Research Paper', record: '20599540', url: 'https://zenodo.org/records/20599540' },
   { title: 'AI Route Advisor Prototype', record: '20140629', url: 'https://zenodo.org/records/20140629' },
 ];
-
+ 
 const MEDIUM_ARTICLES = [
   { title: 'The Stablecoin Periodic Table: A Framework for Mapping the Architecture of the Internet Financial System', url: 'https://medium.com/@avikcincy/the-stablecoin-stack-mapping-the-architecture-of-the-internet-financial-system-ac2d4ff16f5d' },
   { title: 'The Emergence of Intelligent Payment Systems', url: 'https://medium.com/@avikcincy/the-emergence-of-intelligent-payment-systems-154044c1905d' },
@@ -141,7 +141,7 @@ const MEDIUM_ARTICLES = [
   { title: 'When the Checkout Disappears: The Complete Protocol Stack Behind Agent-Initiated Payments', url: 'https://medium.com/@avikcincy/when-the-checkout-disappears-the-complete-protocol-stack-behind-agent-initiated-payments-e4e8c93b6294' },
   { title: 'Open USD and the Consortium Turn', url: 'https://medium.com/@avikcincy/open-usd-and-the-consortium-turn-3093f19489a1' },
 ];
-
+ 
 const FINEXTRA_ARTICLES = [
   { title: 'Stablecoins Aren\'t Replacing Payments — They\'re Rewriting Settlement', url: 'https://www.finextra.com/blogposting/30625/stablecoins-arent-replacing-payments--theyre-rewriting-settlement' },
   { title: 'The Science of Settlement: How Stablecoins Are Reshaping Merchant Payments', url: 'https://www.finextra.com/blogposting/30655/the-science-of-settlement-how-stablecoins-are-reshaping-merchant-payments' },
@@ -157,7 +157,7 @@ const FINEXTRA_ARTICLES = [
   { title: 'Stablecoins and the Financial Plumbing Behind Digital Money', url: 'https://www.finextra.com/blogposting/31092/stablecoins-and-the-financial-plumbing-behind-digital-money' },
   { title: 'Stablecoins and the Rise of the Internet Financial System', url: 'https://www.finextra.com/blogposting/31158/stablecoins-and-the-rise-of-the-internet-financial-system' },
 ];
-
+ 
 const EXPERIENCE = [
   {
     title: 'Product Manager — Payments Platform & AI Strategy',
@@ -228,7 +228,7 @@ const EXPERIENCE = [
     ],
   },
 ];
-
+ 
 const SKILLS = [
   'Enterprise Payments Strategy', 'Generative AI in FinTech', 'Payment Orchestration',
   'Merchant of Record (MoR)', 'Multi-Rail Payments', 'AI Strategy',
@@ -238,7 +238,7 @@ const SKILLS = [
   'ML/AI Products', 'GTM Strategy', 'Treasury Automation', 'Fraud & Risk Intelligence',
   'ERP & Payments Integration', 'API Design', 'Revenue Architecture',
 ];
-
+ 
 const CASE_STUDIES = [
   {
     id: 1,
@@ -250,7 +250,7 @@ const CASE_STUDIES = [
     title: 'AI-Native Payment Intelligence for Merchant Commerce',
     positioning: 'Designed an AI-enabled payment intelligence framework to help merchant platforms improve routing decisions, settlement visibility, cost transparency, refund monitoring, and operational observability across multi-rail payment ecosystems.',
     challenge: 'Modern merchant platforms operate across multiple payment methods, processors, markets, settlement timelines, and risk conditions. Product and operations teams often lack a unified view of payment cost, authorization performance, refund behavior, settlement timing, and merchant-level friction. The challenge was to explore how AI and data intelligence could help payment platforms move from reactive reporting to proactive decision support.',
-    builtIntro: 'I developed a product concept and prototype-led framework for payment intelligence across merchant commerce platforms. The solution explored how payment data, routing logic, settlement rules, refund signals, and merchant performance patterns could be combined into a decision-support layer.',
+    builtIntro: 'Avik developed a product concept and prototype-led framework for payment intelligence across merchant commerce platforms. The solution explored how payment data, routing logic, settlement rules, refund signals, and merchant performance patterns could be combined into a decision-support layer.',
     builtCapabilities: [
       'AI-assisted payment route recommendations',
       'Cost and settlement comparison across rails',
@@ -307,7 +307,7 @@ const CASE_STUDIES = [
     title: 'Agentic Commerce MCP for AI-Enabled Merchant Platforms',
     positioning: 'Created an agentic commerce and MCP-based product concept showing how AI agents can support merchant enablement, payment simulations, vendor comparisons, revenue impact modeling, and autonomous commerce decisioning.',
     challenge: 'Merchant platforms are becoming more complex. Product, sales, operations, and strategy teams need to evaluate payment options, platform capabilities, revenue opportunities, vendor tradeoffs, and merchant readiness faster than traditional manual analysis allows. The challenge was to explore how AI agents could become practical decision-support partners for commerce and payments teams.',
-    builtIntro: 'I created an MCP-based architecture concept and supporting simulator to demonstrate how AI agents could assist with commerce and payment decisioning. The concept explored AI-assisted payment simulations, merchant readiness scoring, vendor and PSP comparison, revenue impact modeling, payment architecture recommendations, and delegated commerce decisioning with controls and governance.',
+    builtIntro: 'Avik created an MCP-based architecture concept and supporting simulator to demonstrate how AI agents could assist with commerce and payment decisioning. The concept explored AI-assisted payment simulations, merchant readiness scoring, vendor and PSP comparison, revenue impact modeling, payment architecture recommendations, and delegated commerce decisioning with controls and governance.',
     builtCapabilities: [
       'AI-assisted payment simulations',
       'Merchant readiness scoring',
@@ -365,7 +365,7 @@ const CASE_STUDIES = [
     title: 'Stablecoin & Multi-Rail Settlement Infrastructure',
     positioning: 'Developed a stablecoin and multi-rail settlement framework exploring how tokenized settlement, fiat/stablecoin conversion, treasury mobility, liquidity controls, and compliance-aware payout flows could support future merchant and enterprise payment infrastructure.',
     challenge: 'Cross-border settlement and treasury movement remain slow, expensive, fragmented, and operationally complex. Many enterprises still depend on traditional banking rails, batch settlement cycles, limited transparency, and manual reconciliation processes. The challenge was to explore how stablecoins and tokenized settlement models could complement existing payment rails without replacing the controls required in enterprise financial infrastructure.',
-    builtIntro: 'I created a stablecoin operating model and product architecture concept focused on practical enterprise use cases. The framework explored fiat-to-stablecoin flows, treasury wallet and liquidity management models, cross-border payout modernization, hybrid rail orchestration, on/off-ramp design, and KYT/compliance checkpoints.',
+    builtIntro: 'Avik created a stablecoin operating model and product architecture concept focused on practical enterprise use cases. The framework explored fiat-to-stablecoin flows, treasury wallet and liquidity management models, cross-border payout modernization, hybrid rail orchestration, on/off-ramp design, and KYT/compliance checkpoints.',
     builtCapabilities: [
       'Fiat-to-stablecoin and stablecoin-to-fiat flows',
       'Treasury wallet and liquidity management models',
@@ -416,29 +416,29 @@ const CASE_STUDIES = [
     ],
   },
 ];
-
+ 
 /* ─── PARTICLE CANVAS ──────────────────────────────────────────────────── */
-
+ 
 function ParticleCanvas() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
-
+ 
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
     const ctx = canvas.getContext('2d');
     if (!ctx) return;
-
+ 
     let animId: number;
     const particles: { x: number; y: number; vx: number; vy: number; r: number; alpha: number }[] = [];
     const COUNT = 60;
-
+ 
     const resize = () => {
       canvas.width = window.innerWidth;
       canvas.height = window.innerHeight;
     };
     resize();
     window.addEventListener('resize', resize);
-
+ 
     for (let i = 0; i < COUNT; i++) {
       particles.push({
         x: Math.random() * window.innerWidth,
@@ -449,7 +449,7 @@ function ParticleCanvas() {
         alpha: Math.random() * 0.3 + 0.05,
       });
     }
-
+ 
     const draw = () => {
       ctx.clearRect(0, 0, canvas.width, canvas.height);
       particles.forEach(p => {
@@ -459,13 +459,13 @@ function ParticleCanvas() {
         if (p.x > canvas.width) p.x = 0;
         if (p.y < 0) p.y = canvas.height;
         if (p.y > canvas.height) p.y = 0;
-
+ 
         ctx.beginPath();
         ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
         ctx.fillStyle = `rgba(255,255,255,${p.alpha})`;
         ctx.fill();
       });
-
+ 
       for (let i = 0; i < particles.length; i++) {
         for (let j = i + 1; j < particles.length; j++) {
           const dx = particles[i].x - particles[j].x;
@@ -484,18 +484,18 @@ function ParticleCanvas() {
       animId = requestAnimationFrame(draw);
     };
     draw();
-
+ 
     return () => {
       cancelAnimationFrame(animId);
       window.removeEventListener('resize', resize);
     };
   }, []);
-
+ 
   return <canvas ref={canvasRef} id="particle-canvas" />;
 }
-
+ 
 /* ─── REVEAL HOOK ──────────────────────────────────────────────────────── */
-
+ 
 function useReveal() {
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -506,21 +506,21 @@ function useReveal() {
     return () => observer.disconnect();
   }, []);
 }
-
+ 
 /* ─── NAV ──────────────────────────────────────────────────────────────── */
-
+ 
 function Nav() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [moreOpen, setMoreOpen] = useState(false);
   const moreRef = useRef<HTMLDivElement>(null);
-
+ 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
     window.addEventListener('scroll', onScroll);
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
-
+ 
   useEffect(() => {
     const handler = (e: MouseEvent) => {
       if (moreRef.current && !moreRef.current.contains(e.target as Node)) {
@@ -530,7 +530,7 @@ function Nav() {
     document.addEventListener('mousedown', handler);
     return () => document.removeEventListener('mousedown', handler);
   }, []);
-
+ 
   const primary = [
     { label: 'About', href: 'about' },
     { label: 'Vision', href: 'productvision' },
@@ -539,23 +539,23 @@ function Nav() {
     { label: 'Experience', href: 'experience' },
     { label: 'Contact', href: 'contact' },
   ];
-
+ 
   const more = [
     { label: 'Core Capabilities', href: 'capabilities' },
   ];
-
+ 
   const allLinks = [...primary, ...more];
-
+ 
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${scrolled ? 'py-0 bg-[#0a0a0a]/96 backdrop-blur-md border-b border-[#1a1a1a]' : 'py-0 bg-transparent'}`}>
       <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
-
+ 
         {/* Logo */}
         <a href="#hero" className="flex items-center gap-2 group flex-shrink-0">
           <span className="text-[#39FF14] font-black text-lg tracking-[0.15em] uppercase group-hover:opacity-80 transition-opacity duration-200">AN</span>
           <span className="hidden sm:block text-[#333] text-[10px] font-black uppercase tracking-[0.25em] group-hover:text-[#444] transition-colors duration-200">Portfolio</span>
         </a>
-
+ 
         {/* Desktop nav */}
         <div className="hidden lg:flex items-center gap-1">
           {primary.map(l => (
@@ -567,7 +567,7 @@ function Nav() {
               {l.label}
             </a>
           ))}
-
+ 
           {/* More dropdown */}
           <div ref={moreRef} className="relative ml-1">
             <button
@@ -596,7 +596,7 @@ function Nav() {
             )}
           </div>
         </div>
-
+ 
         {/* Mobile hamburger */}
         <button
           className="lg:hidden w-9 h-9 flex items-center justify-center rounded-lg border border-[#222] text-[#666] hover:text-white hover:border-[#333] transition-all duration-200"
@@ -606,7 +606,7 @@ function Nav() {
           {mobileOpen ? <X className="w-4 h-4" /> : <Menu className="w-4 h-4" />}
         </button>
       </div>
-
+ 
       {/* Mobile drawer */}
       <div className={`lg:hidden overflow-hidden transition-all duration-300 ${mobileOpen ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'}`}>
         <div className="bg-[#0a0a0a] border-b border-[#1a1a1a] px-6 py-5">
@@ -627,16 +627,16 @@ function Nav() {
     </nav>
   );
 }
-
+ 
 /* ─── HERO ─────────────────────────────────────────────────────────────── */
-
+ 
 function Hero() {
   return (
     <section id="hero" className="relative min-h-screen flex items-center justify-center overflow-hidden grid-bg">
       <div className="scan-line" />
       <div className="relative z-10 max-w-6xl mx-auto px-6 py-24 w-full">
         <div className="flex flex-col lg:flex-row items-center gap-16">
-
+ 
           {/* Photo */}
           <div className="flex-shrink-0">
             <div className="relative w-56 h-56 lg:w-64 lg:h-64">
@@ -649,33 +649,33 @@ function Hero() {
               </div>
             </div>
           </div>
-
+ 
           {/* Text */}
           <div className="flex-1 text-center lg:text-left">
             <div className="section-num mb-4">Director of Product</div>
-
+ 
             <h1 className="text-6xl lg:text-8xl font-black mb-2 leading-none tracking-tight uppercase text-white">
               Avik
             </h1>
             <h1 className="text-6xl lg:text-8xl font-black mb-4 leading-none tracking-tight uppercase text-[#39FF14]">
               Nandi
             </h1>
-
+ 
             <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mb-6" />
-
+ 
             <p className="text-[#666] text-xs mb-6 font-semibold uppercase tracking-[0.18em]">
               Driving Global Scale in MoR, Stablecoins & Multi-Rail Orchestration
             </p>
             <p className="text-[#888] text-base max-w-xl mb-10 leading-relaxed">
               20+ years building and modernizing enterprise payment platforms — from merchant acquiring, MOR, and multi-rail orchestration to stablecoin settlement, AI-native commerce, and autonomous financial execution.
             </p>
-
+ 
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-12">
               <a href="#projects" className="btn-primary">View Projects</a>
               <a href="#research" className="btn-outline">Research & Papers</a>
               <a href="https://www.linkedin.com/in/avikz/" target="_blank" rel="noopener noreferrer" className="btn-outline">LinkedIn</a>
             </div>
-
+ 
             <div className="grid grid-cols-3 gap-0 max-w-sm mx-auto lg:mx-0 border border-[#222]">
               {[
                 { val: '20+', label: 'Years' },
@@ -694,9 +694,9 @@ function Hero() {
     </section>
   );
 }
-
+ 
 /* ─── ABOUT ─────────────────────────────────────────────────────────────── */
-
+ 
 function About() {
   return (
     <section id="about" className="py-14 relative z-10 border-t border-[#1c1c1c]">
@@ -706,26 +706,26 @@ function About() {
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Executive Profile</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
-
+ 
         {/* Bio + Skills two-column */}
         <div className="grid lg:grid-cols-2 gap-12">
           <div className="reveal">
             <div className="glass-card p-8 h-full">
               <p className="text-[#aaa] leading-relaxed mb-5 text-base font-semibold">
-                I build the financial infrastructure behind modern commerce.
+                Avik Nandi builds the financial infrastructure behind modern commerce.
               </p>
               <p className="text-[#aaa] leading-relaxed mb-5">
-                I am a product leader focused on AI-native payments, merchant commerce infrastructure, Merchant of Record platforms, multi-rail orchestration, stablecoins, real-time rails, treasury automation, and intelligent financial systems.
+                Avik is a product leader focused on AI-native payments, merchant commerce infrastructure, Merchant of Record platforms, multi-rail orchestration, stablecoins, real-time rails, treasury automation, and intelligent financial systems.
               </p>
               <p className="text-[#777] leading-relaxed mb-5">
-                With 20+ years across Wipro, Deloitte, FIS, Worldpay, and Vantiv, I have led product, platform, and modernization initiatives across complex payment ecosystems — spanning merchant acquiring, issuing, payment gateways, settlement, reconciliation, cross-border payments, AI-enabled commerce, and regulated financial infrastructure.
+                With 20+ years across Wipro, Deloitte, FIS, Worldpay, and Vantiv, Avik has led product, platform, and modernization initiatives across complex payment ecosystems — spanning merchant acquiring, issuing, payment gateways, settlement, reconciliation, cross-border payments, AI-enabled commerce, and regulated financial infrastructure.
               </p>
               <p className="text-[#777] leading-relaxed">
-                My work sits at the intersection of product strategy, platform architecture, and execution — turning complex payment ecosystems into scalable, resilient, and commercially effective platforms that improve merchant outcomes, optimize cost, strengthen compliance, and unlock new revenue models.
+                His work sits at the intersection of product strategy, platform architecture, and execution — turning complex payment ecosystems into scalable, resilient, and commercially effective platforms that improve merchant outcomes, optimize cost, strengthen compliance, and unlock new revenue models.
               </p>
             </div>
           </div>
-
+ 
           <div className="reveal flex flex-col gap-6">
             <div className="glass-card p-8">
               <h3 className="text-xs font-black text-[#39FF14] uppercase tracking-[0.2em] mb-4">Academic Profiles</h3>
@@ -762,9 +762,9 @@ function About() {
     </section>
   );
 }
-
+ 
 /* ─── CORE CAPABILITIES ──────────────────────────────────────────────────── */
-
+ 
 function CoreCapabilities() {
   const capabilities = [
     {
@@ -816,7 +816,7 @@ function CoreCapabilities() {
       tags: ['Strategy', 'Roadmap', 'GTM', 'Execution'],
     },
   ];
-
+ 
   return (
     <section id="capabilities" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
@@ -825,10 +825,10 @@ function CoreCapabilities() {
           <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">Core Capabilities</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
           <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
-            A focused view of the areas I want people to remember: payments, merchant platforms, stablecoin settlement, and AI-native commerce.
+            A focused view of the areas Avik is known for: payments, merchant platforms, stablecoin settlement, and AI-native commerce.
           </p>
         </div>
-
+ 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {capabilities.map((cap) => (
             <div
@@ -865,9 +865,9 @@ function CoreCapabilities() {
     </section>
   );
 }
-
+ 
 /* ─── SELECTED IMPACT ────────────────────────────────────────────────────── */
-
+ 
 function SelectedImpact() {
   const impacts = [
     {
@@ -896,7 +896,7 @@ function SelectedImpact() {
       detail: 'Published research on AI-native payments, stablecoins, multi-rail orchestration, autonomous financial execution, verifiable agent identity, and delegated authority in payment systems.',
     },
   ];
-
+ 
   return (
     <section id="impact" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
@@ -905,7 +905,7 @@ function SelectedImpact() {
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Selected Impact</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
-
+ 
         <div className="grid sm:grid-cols-2 lg:grid-cols-5 gap-px bg-[#161616] border border-[#161616] rounded-xl overflow-hidden">
           {impacts.map((imp, i) => (
             <div
@@ -927,10 +927,10 @@ function SelectedImpact() {
     </section>
   );
 }
-
-
+ 
+ 
 /* ─── EXPERIENCE ────────────────────────────────────────────────────────── */
-
+ 
 function Experience() {
   return (
     <section id="experience" className="py-14 relative z-10 border-t border-[#1c1c1c]">
@@ -940,7 +940,7 @@ function Experience() {
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Career Timeline</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
-
+ 
         <div className="relative">
           {EXPERIENCE.map((exp, i) => (
             <div key={i} className="reveal flex gap-6 mb-10">
@@ -978,9 +978,9 @@ function Experience() {
     </section>
   );
 }
-
+ 
 /* ─── PROJECTS ──────────────────────────────────────────────────────────── */
-
+ 
 function Projects() {
   return (
     <section id="projects" className="py-14 relative z-10 border-t border-[#1c1c1c]">
@@ -991,7 +991,7 @@ function Projects() {
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
           <p className="text-[#555] text-sm mt-4 uppercase tracking-widest">Click any card to open the live project</p>
         </div>
-
+ 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-px bg-[#1c1c1c]">
           {PROJECTS.map((p, i) => (
             <a
@@ -1018,12 +1018,12 @@ function Projects() {
     </section>
   );
 }
-
+ 
 /* ─── RESEARCH ──────────────────────────────────────────────────────────── */
-
+ 
 function Research() {
   const [tab, setTab] = useState('ssrn');
-
+ 
   const tabs = [
     { id: 'ssrn', label: 'SSRN Papers' },
     { id: 'zenodo', label: 'Zenodo' },
@@ -1031,7 +1031,7 @@ function Research() {
     { id: 'finextra', label: 'Finextra' },
     { id: 'other', label: 'Other' },
   ];
-
+ 
   return (
     <section id="research" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
@@ -1041,7 +1041,7 @@ function Research() {
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
           <p className="text-[#555] text-sm mt-4">Academic papers, industry articles, and original research on AI payments & stablecoins</p>
         </div>
-
+ 
         {/* Stats */}
         <div className="reveal grid grid-cols-2 sm:grid-cols-4 gap-px bg-[#1c1c1c] mb-8">
           {[
@@ -1057,7 +1057,7 @@ function Research() {
             </div>
           ))}
         </div>
-
+ 
         {/* Tabs */}
         <div className="reveal mb-8">
           <div className="flex flex-wrap gap-2">
@@ -1068,7 +1068,7 @@ function Research() {
             ))}
           </div>
         </div>
-
+ 
         {/* Content */}
         <div className="reveal">
           {tab === 'ssrn' && (
@@ -1085,7 +1085,7 @@ function Research() {
               ))}
             </div>
           )}
-
+ 
           {tab === 'zenodo' && (
             <div className="space-y-2">
               {ZENODO_PAPERS.map((p, i) => (
@@ -1100,7 +1100,7 @@ function Research() {
               ))}
             </div>
           )}
-
+ 
           {tab === 'medium' && (
             <div className="grid sm:grid-cols-2 gap-2">
               {MEDIUM_ARTICLES.map((a, i) => (
@@ -1112,7 +1112,7 @@ function Research() {
               ))}
             </div>
           )}
-
+ 
           {tab === 'finextra' && (
             <div className="grid sm:grid-cols-2 gap-2">
               {FINEXTRA_ARTICLES.map((a, i) => (
@@ -1124,7 +1124,7 @@ function Research() {
               ))}
             </div>
           )}
-
+ 
           {tab === 'other' && (
             <div className="space-y-2">
               {/* THE ARCHITECT — thriller novel */}
@@ -1144,7 +1144,7 @@ function Research() {
                 </div>
                 <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
               </a>
-
+ 
               <a href="https://www.amazon.com/Evolution-Financial-Systems-Age-Stablecoins/dp/B0GVL7Q4GG/" target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
                 <div className="badge badge-cyan flex-shrink-0 mt-1">Book</div>
                 <div className="flex-1">
@@ -1153,7 +1153,7 @@ function Research() {
                 </div>
                 <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
               </a>
-
+ 
               <a href="https://www.linkedin.com/pulse/shifting-payments-from-passive-flows-active-avik-nandi-dxtfc" target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
                 <div className="badge badge-cyan flex-shrink-0 mt-1">LinkedIn</div>
                 <div className="flex-1">
@@ -1162,7 +1162,7 @@ function Research() {
                 </div>
                 <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
               </a>
-
+ 
               {[
                 { title: 'Stablecoin Acquiring Infrastructure', url: 'https://www.researchgate.net/publication/404948087_Stablecoin_Acquiring_Infrastructure_Bridging_the_Gap_Between_Payment_Viability_and_Merchant_Readiness?channel=doi&linkId=6a0a3a84e48e8125fa39074d&showFulltext=true', badge: 'ResearchGate', badgeClass: 'badge-cyan' },
                 { title: 'Stablecoin Acquiring Infrastructure: Bridging the Gap Between Payment Viability and Merchant Readiness', url: 'https://www.academia.edu/167344174/Stablecoin_Acquiring_Infrastructure_Bridging_the_Gap_Between_Payment_Viability_and_Merchant_Readiness', badge: 'Academia', badgeClass: 'badge-teal' },
@@ -1184,9 +1184,9 @@ function Research() {
     </section>
   );
 }
-
+ 
 /* ─── PRODUCT VISION & ARCHITECTURE ─────────────────────────────────────── */
-
+ 
 function ProductVision() {
   const cards = [
     {
@@ -1229,11 +1229,11 @@ function ProductVision() {
       hoverBorder: 'hover:border-[#39FF14]/30',
     },
   ];
-
+ 
   return (
     <section id="productvision" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
-
+ 
         <div className="reveal mb-4">
           <div className="section-num mb-3">03 — Product Vision</div>
           <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">
@@ -1241,22 +1241,22 @@ function ProductVision() {
           </h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
-
+ 
         <div className="reveal mb-10">
           <p className="text-[#777] text-sm leading-relaxed max-w-3xl">
             The next generation of merchant platforms will become AI-native commerce operating systems — combining payments, intelligence, settlement, treasury, and merchant workflows into one smarter platform experience.
           </p>
         </div>
-
+ 
         <div className="reveal mb-12">
           <div className="relative overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#080808] p-6 sm:p-8">
             <div className="absolute inset-0 bg-gradient-to-br from-[#39FF14]/[0.025] via-transparent to-[#00BFFF]/[0.025]" />
-
+ 
             <div className="relative z-10">
               <div className="text-[10px] font-black text-[#39FF14] uppercase tracking-[0.35em] mb-6">
                 Architecture Overview
               </div>
-
+ 
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                 {cards.map((layer) => (
                   <div
@@ -1268,25 +1268,25 @@ function ProductVision() {
                     >
                       <layer.Icon className="w-5 h-5" style={{ color: layer.accentColor }} />
                     </div>
-
+ 
                     <div
                       className="text-[10px] font-black uppercase tracking-[0.25em] mb-2"
                       style={{ color: layer.accentColor }}
                     >
                       {layer.num} — Layer
                     </div>
-
+ 
                     <h3 className="text-white text-sm font-black uppercase tracking-wide mb-3 leading-snug">
                       {layer.title}
                     </h3>
-
+ 
                     <p className="text-[#666] text-xs leading-relaxed">
                       {layer.desc}
                     </p>
                   </div>
                 ))}
               </div>
-
+ 
               <div className="mt-6 pt-5 border-t border-[#161616] flex items-center gap-3">
                 <div className="flex-1 h-[2px] bg-gradient-to-r from-[#39FF14]/40 to-[#00BFFF]/40 rounded-full" />
                 <span className="text-[9px] text-[#444] uppercase tracking-[0.25em] font-black whitespace-nowrap">
@@ -1297,7 +1297,7 @@ function ProductVision() {
             </div>
           </div>
         </div>
-
+ 
         <div className="grid lg:grid-cols-3 gap-4">
           {cards.map((card) => (
             <div
@@ -1308,14 +1308,14 @@ function ProductVision() {
                 className="absolute top-0 left-0 right-0 h-[2px] opacity-50"
                 style={{ background: `linear-gradient(to right, transparent, ${card.accentColor}, transparent)` }}
               />
-
+ 
               <div className="flex items-start gap-4 mb-5">
                 <div
                   className={`w-12 h-12 rounded-xl ${card.iconBg} border ${card.iconBorder} flex items-center justify-center flex-shrink-0`}
                 >
                   <card.Icon className="w-6 h-6" style={{ color: card.accentColor }} />
                 </div>
-
+ 
                 <div>
                   <div
                     className="text-[9px] font-black uppercase tracking-[0.3em] mb-1.5 opacity-70"
@@ -1328,11 +1328,11 @@ function ProductVision() {
                   </h3>
                 </div>
               </div>
-
+ 
               <p className="text-[#6e6e6e] text-sm leading-relaxed mb-5">
                 {card.desc}
               </p>
-
+ 
               <div className="mb-5">
                 <div
                   className="text-[9px] font-black uppercase tracking-[0.25em] mb-3 opacity-60"
@@ -1340,7 +1340,7 @@ function ProductVision() {
                 >
                   Flow
                 </div>
-
+ 
                 <div className="flex flex-wrap gap-2">
                   {card.flow.map((step) => (
                     <span
@@ -1357,7 +1357,7 @@ function ProductVision() {
                   ))}
                 </div>
               </div>
-
+ 
               <div className="flex flex-wrap gap-1.5">
                 {card.capabilities.map((cap) => (
                   <span
@@ -1371,14 +1371,14 @@ function ProductVision() {
             </div>
           ))}
         </div>
-
+ 
       </div>
     </section>
   );
 }
-
+ 
 /* ─── HOW I WORK ─────────────────────────────────────────────────────────── */
-
+ 
 function HowIWork() {
   const steps = [
     {
@@ -1414,16 +1414,16 @@ function HowIWork() {
       details: ['Alignment', 'Governance', 'Execution'],
     },
   ];
-
+ 
   return (
     <section id="howiwork" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-10">
-          <div className="section-num mb-3">08 — How I Work</div>
-          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">How I Work</h2>
+          <div className="section-num mb-3">08 — How Avik Works</div>
+          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">How Avik Works</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
-
+ 
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {steps.map((step) => (
             <div key={step.num} className="reveal bg-[#0c0c0c] border border-[#1a1a1a] rounded-xl p-6 hover:border-[#39FF14]/25 transition-colors duration-300">
@@ -1446,7 +1446,7 @@ function HowIWork() {
             </div>
           ))}
         </div>
-
+ 
         <div className="reveal mt-8 glass-card p-6">
           <div className="flex items-start gap-4">
             <CpuIcon className="w-6 h-6 text-[#39FF14] flex-shrink-0 mt-1" />
@@ -1459,9 +1459,9 @@ function HowIWork() {
     </section>
   );
 }
-
+ 
 /* ─── CASE STUDIES ──────────────────────────────────────────────────────── */
-
+ 
 function CaseStudies() {
   return (
     <section id="casestudies" className="py-14 relative z-10 border-t border-[#1c1c1c]">
@@ -1471,10 +1471,10 @@ function CaseStudies() {
           <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white leading-tight">Featured Case Studies</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4 mb-6" />
           <p className="text-[#777] text-sm max-w-3xl leading-relaxed">
-            A shorter, cleaner view of the themes behind my portfolio — sanitized product and architecture case studies without client-specific or confidential information.
+            A shorter, cleaner view of the themes behind Avik's portfolio — sanitized product and architecture case studies without client-specific or confidential information.
           </p>
         </div>
-
+ 
         <div className="grid lg:grid-cols-3 gap-4">
           {CASE_STUDIES.map((cs, i) => {
             const accent = i % 2 === 0 ? '#39FF14' : '#00BFFF';
@@ -1493,7 +1493,7 @@ function CaseStudies() {
                     style={{ background: `radial-gradient(ellipse at 70% 30%, rgba(${accentRgb},0.45), transparent 60%)` }}
                   />
                 </div>
-
+ 
                 <div className="p-6">
                   <div className="flex items-center gap-3 mb-4">
                     <span
@@ -1503,15 +1503,15 @@ function CaseStudies() {
                       {cs.num} — Case Study
                     </span>
                   </div>
-
+ 
                   <h3 className="text-white text-base font-black uppercase tracking-wide leading-snug mb-3">
                     {cs.title}
                   </h3>
-
+ 
                   <p className="text-[#777] text-sm leading-relaxed mb-5">
                     {cs.positioning}
                   </p>
-
+ 
                   <div className="flex flex-wrap gap-1.5 mb-5">
                     {cs.tags.slice(0, 4).map((tag) => (
                       <span key={tag} className="text-[10px] px-2.5 py-0.5 rounded-full border border-[#222] text-[#666] font-medium tracking-wide">
@@ -1519,7 +1519,7 @@ function CaseStudies() {
                       </span>
                     ))}
                   </div>
-
+ 
                   <div className="flex items-center gap-2 text-xs font-black uppercase tracking-[0.18em]" style={{ color: accent }}>
                     <span>Product strategy · Architecture · Execution</span>
                     <CircleDot className="w-3 h-3" />
@@ -1533,9 +1533,9 @@ function CaseStudies() {
     </section>
   );
 }
-
+ 
 /* ─── CONTACT ───────────────────────────────────────────────────────────── */
-
+ 
 function Contact() {
   return (
     <section id="contact" className="py-14 relative z-10 border-t border-[#1c1c1c]">
@@ -1548,7 +1548,7 @@ function Contact() {
             Interested in payments product leadership, advisory conversations, research collaboration, or fintech strategy discussions? Reach out.
           </p>
         </div>
-
+ 
         <div className="reveal glass-card p-8">
           <div className="grid sm:grid-cols-2 gap-3">
             {[
@@ -1575,9 +1575,9 @@ function Contact() {
     </section>
   );
 }
-
+ 
 /* ─── FOOTER ────────────────────────────────────────────────────────────── */
-
+ 
 function Footer() {
   return (
     <footer className="border-t border-[#1c1c1c] py-10 relative z-10">
@@ -1592,12 +1592,12 @@ function Footer() {
     </footer>
   );
 }
-
+ 
 /* ─── APP ───────────────────────────────────────────────────────────────── */
-
+ 
 export default function App() {
   useReveal();
-
+ 
   return (
     <div className="min-h-screen bg-[#0a0a0a] text-white relative">
       <ParticleCanvas />
