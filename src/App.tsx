@@ -141,6 +141,8 @@ const MEDIUM_ARTICLES = [
   { title: 'The Acquirer\'s Second Act', url: 'https://medium.com/@avikcincy/the-acquirers-second-act-4beb12d47b8b' },
   { title: 'When the Checkout Disappears: The Complete Protocol Stack Behind Agent-Initiated Payments', url: 'https://medium.com/@avikcincy/when-the-checkout-disappears-the-complete-protocol-stack-behind-agent-initiated-payments-e4e8c93b6294' },
   { title: 'Open USD and the Consortium Turn', url: 'https://medium.com/@avikcincy/open-usd-and-the-consortium-turn-3093f19489a1' },
+  {title: 'Who Sent This Agent?', url: 'https://medium.com/@avikcincy/who-sent-this-agent-36690a186201?postPublishedType=initial'},
+  {title: 'Two Rails, One Race: Why Swift Just Built a Blockchain, and Fifty Startups Are Racing It', url: 'https://medium.com/@avikcincy/two-rails-one-race-why-swift-just-built-a-blockchain-and-fifty-startups-are-racing-it-6aa388fd557f' },
 ];
  
 const FINEXTRA_ARTICLES = [
