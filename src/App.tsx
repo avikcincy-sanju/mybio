@@ -39,14 +39,6 @@ const PROJECTS = [
     color: 'from-[#111] to-[#1c1c1c]',
   },
   {
-    title: 'Merchant Intelligence Monitor',
-    desc: 'Enterprise merchant monitoring platform with intelligent alerting and performance diagnostics.',
-    tags: ['Merchant', 'Intelligence', 'Monitor'],
-    url: 'https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/',
-    icon: <Building2 className="w-8 h-8 text-white" />,
-    color: 'from-[#111] to-[#1c1c1c]',
-  },
-  {
     title: 'AI Route Advisor',
     desc: 'AI-powered payment route advisor using ML models to optimize authorization rates and reduce costs.',
     tags: ['AI', 'Routing', 'ML'],
@@ -1001,6 +993,102 @@ function Experience() {
   );
 }
  
+/* ─── INDUSTRY INTELLIGENCE TICKER ───────────────────────────────────────── */
+
+const INDUSTRY_SIGNALS = [
+  'AI-Native Payments',
+  'Merchant Acquiring',
+  'Agentic Commerce',
+  'Stablecoin Settlement',
+  'Payment Orchestration',
+  'Cross-Border Payments',
+  'Merchant Platforms',
+  'Treasury & Real-Time Rails',
+];
+
+function IndustryIntelligenceTicker() {
+  const tickerItems = [...INDUSTRY_SIGNALS, ...INDUSTRY_SIGNALS];
+
+  return (
+    <section
+      aria-label="Industry intelligence monitor"
+      className="relative z-10 overflow-hidden border-y border-[#1c1c1c] bg-[#080808]"
+    >
+      <style>{`
+        @keyframes industryTickerScroll {
+          from { transform: translateX(0); }
+          to { transform: translateX(-50%); }
+        }
+
+        .industry-ticker-track {
+          width: max-content;
+          animation: industryTickerScroll 34s linear infinite;
+        }
+
+        .industry-ticker:hover .industry-ticker-track {
+          animation-play-state: paused;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+          .industry-ticker-track {
+            animation: none;
+          }
+        }
+      `}</style>
+
+      <a
+        href="https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="industry-ticker group block py-4 transition-colors duration-200 hover:bg-white/[0.025]"
+      >
+        <div className="max-w-6xl mx-auto px-6 flex items-center gap-5">
+          <div className="flex flex-shrink-0 items-center gap-3">
+            <span className="relative flex h-2.5 w-2.5">
+              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-[#39FF14] opacity-40" />
+              <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-[#39FF14]" />
+            </span>
+            <div>
+              <div className="text-[10px] font-black uppercase tracking-[0.24em] text-[#39FF14]">
+                Industry Intelligence
+              </div>
+              <div className="hidden text-[10px] uppercase tracking-[0.16em] text-[#555] sm:block">
+                Live merchant & platform signals
+              </div>
+            </div>
+          </div>
+
+          <div className="hidden h-8 w-px flex-shrink-0 bg-[#222] sm:block" />
+
+          <div
+            className="min-w-0 flex-1 overflow-hidden"
+            style={{
+              maskImage: 'linear-gradient(to right, transparent, black 8%, black 92%, transparent)',
+              WebkitMaskImage: 'linear-gradient(to right, transparent, black 8%, black 92%, transparent)',
+            }}
+          >
+            <div className="industry-ticker-track flex items-center whitespace-nowrap">
+              {tickerItems.map((signal, index) => (
+                <div key={`${signal}-${index}`} className="flex items-center">
+                  <span className="px-5 text-xs font-bold uppercase tracking-[0.14em] text-[#777] transition-colors duration-200 group-hover:text-[#aaa]">
+                    {signal}
+                  </span>
+                  <span className="text-[#39FF14]/40">◆</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="flex flex-shrink-0 items-center gap-2 text-[10px] font-black uppercase tracking-[0.18em] text-white transition-colors duration-200 group-hover:text-[#39FF14]">
+            <span className="hidden md:inline">Open Live Monitor</span>
+            <ArrowUpRight className="h-4 w-4" />
+          </div>
+        </div>
+      </a>
+    </section>
+  );
+}
+
 /* ─── PROJECTS ──────────────────────────────────────────────────────────── */
  
 function Projects() {
@@ -1761,6 +1849,7 @@ export default function App() {
         <About />
         <CoreCapabilities />
         <ProductVision />
+        <IndustryIntelligenceTicker />
         <Projects />
         <Research />
         <Experience />
