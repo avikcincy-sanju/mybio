@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-16T20:56:20.437Z",
+  "updatedAt": "2026-07-16T21:13:09.647Z",
   "records": [
     {
       "title": "Agentic Money Movement Command Center",
       "record": "21400904",
-      "url": "https://doi.org/10.5281/zenodo.21400904",
+      "url": "https://zenodo.org/records/21400904",
       "type": "Software",
       "year": "2026",
       "doi": "10.5281/zenodo.21400904"
@@ -12,7 +12,7 @@
     {
       "title": "The Emergence of Intelligent Payment Systems: An AI-Driven Framework for Multi-Rail Payment Orchestration",
       "record": "20261877",
-      "url": "https://doi.org/10.5281/zenodo.20261877",
+      "url": "https://zenodo.org/records/20261877",
       "type": "Preprint",
       "year": "2026",
       "doi": "10.5281/zenodo.20261877"
@@ -20,7 +20,7 @@
     {
       "title": "AI-Native Intelligent Payment Systems: Autonomous Financial Execution in Multi-Rail Infrastructure",
       "record": "20261969",
-      "url": "https://doi.org/10.5281/zenodo.20261969",
+      "url": "https://zenodo.org/records/20261969",
       "type": "Preprint",
       "year": "2026",
       "doi": "10.5281/zenodo.20261969"
@@ -28,7 +28,7 @@
     {
       "title": "A Conceptual Systems Governance Framework for Autonomous Financial Execution: The Sovereign Payment Agent Model",
       "record": "20315696",
-      "url": "https://doi.org/10.5281/zenodo.20315696",
+      "url": "https://zenodo.org/records/20315696",
       "type": "Preprint",
       "year": "2026",
       "doi": "10.5281/zenodo.20315696"
@@ -36,7 +36,7 @@
     {
       "title": "Stablecoin Acquiring Infrastructure: Bridging the Gap Between Payment Viability and Merchant Readiness",
       "record": "20599540",
-      "url": "https://doi.org/10.13140/RG.2.2.12286.55368",
+      "url": "https://zenodo.org/records/20599540",
       "type": "Preprint",
       "year": "2026",
       "doi": "10.13140/RG.2.2.12286.55368"
@@ -44,7 +44,7 @@
     {
       "title": "AI Route Advisor: Intelligent Payment Rail Recommendation for Cross-Border Transfers",
       "record": "20140629",
-      "url": "https://doi.org/10.5281/zenodo.20140629",
+      "url": "https://zenodo.org/records/20140629",
       "type": "Software",
       "year": "2026",
       "doi": "10.5281/zenodo.20140629"
