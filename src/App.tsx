@@ -7,12 +7,21 @@ import {
   BookMarked, Microscope, Newspaper, ShoppingCart,
   Network, Coins, Bot, Lightbulb,
   ArrowRight, BarChart3, Shield, Layers, GitBranch, Workflow, Cpu as CpuIcon, CircleDot,
-  Search, PenLine, FlaskConical, Users
+  Search, PenLine, FlaskConical, Users, Plane
 } from 'lucide-react';
  
 /* ─── DATA ──────────────────────────────────────────────────────────────── */
  
 const PROJECTS = [
+  {
+    title: 'Agentic Money Movement',
+    desc: 'Interactive command center prototype for agent-directed money movement, multi-rail orchestration, controls, and real-time operational decisioning.',
+    tags: ['Agentic AI', 'Money Movement', 'Orchestration'],
+    url: 'https://avikcincy-sanju.github.io/agentic-money-movement-command-center/',
+    meta: 'Creator: Avik Nandi  |  ORCID: 0009-0001-1217-3174  |  Software DOI: 10.5281/zenodo.21400904',
+    icon: <Coins className="w-8 h-8 text-white" />,
+    color: 'from-[#111] to-[#1c1c1c]',
+  },
   {
     title: 'Payment Intelligence',
     desc: 'AI-driven multi-rail payment routing with real-time orchestration logic and analytics dashboard.',
@@ -112,6 +121,11 @@ const SSRN_PAPERS = [
 ];
  
 const ZENODO_PAPERS = [
+  {
+    title: 'Agentic Money Movement Command Center — Software Release',
+    record: '21400904',
+    url: 'https://doi.org/10.5281/zenodo.21400904',
+  },
   { title: 'Zenodo Research Paper', record: '20261877', url: 'https://zenodo.org/records/20261877' },
   { title: 'Zenodo Research Paper', record: '20261969', url: 'https://zenodo.org/records/20261969' },
   { title: 'Zenodo Research Paper', record: '20315696', url: 'https://zenodo.org/records/20315696' },
@@ -120,6 +134,10 @@ const ZENODO_PAPERS = [
 ];
  
 const MEDIUM_ARTICLES = [
+  {
+    title: 'The Yellow Button and the Invisible Empire',
+    url: 'https://medium.com/@avikcincy/the-yellow-button-and-the-invisible-empire-cd9591f3dead?postPublishedType=initial',
+  },
   { title: 'The Stablecoin Periodic Table: A Framework for Mapping the Architecture of the Internet Financial System', url: 'https://medium.com/@avikcincy/the-stablecoin-stack-mapping-the-architecture-of-the-internet-financial-system-ac2d4ff16f5d' },
   { title: 'The Emergence of Intelligent Payment Systems', url: 'https://medium.com/@avikcincy/the-emergence-of-intelligent-payment-systems-154044c1905d' },
   { title: 'From Stablecoin Infrastructure to Agentic Commerce', url: 'https://medium.com/@avikcincy/from-stablecoin-infrastructure-to-agentic-commerce-853afaf7b2c6' },
@@ -545,6 +563,7 @@ function Nav() {
  
   const more = [
     { label: 'Core Capabilities', href: 'capabilities' },
+    { label: 'Beyond Work', href: 'beyondwork' },
   ];
  
   const allLinks = [...primary, ...more];
@@ -682,7 +701,7 @@ function Hero() {
             <div className="grid grid-cols-3 gap-0 max-w-sm mx-auto lg:mx-0 border border-[#222]">
               {[
                 { val: '20+', label: 'Years' },
-                { val: '9', label: 'Projects' },
+                { val: '10', label: 'Projects' },
                 { val: '25+', label: 'Publications' },
               ].map((s, i) => (
                 <div key={s.label} className={`text-center py-5 px-2 ${i < 2 ? 'border-r border-[#222]' : ''}`}>
@@ -1049,7 +1068,7 @@ function Research() {
         <div className="reveal grid grid-cols-2 sm:grid-cols-4 gap-px bg-[#1c1c1c] mb-8">
           {[
             { val: '4', label: 'SSRN Papers', icon: <Microscope className="w-5 h-5 text-[#39FF14]" /> },
-            { val: '14', label: 'Finextra Articles', icon: <Newspaper className="w-5 h-5 text-[#39FF14]" /> },
+            { val: '13', label: 'Finextra Articles', icon: <Newspaper className="w-5 h-5 text-[#39FF14]" /> },
             { val: '20+', label: 'Medium Articles', icon: <FileText className="w-5 h-5 text-[#39FF14]" /> },
             { val: '2', label: 'Published Books', icon: <BookOpen className="w-5 h-5 text-[#39FF14]" /> },
           ].map(s => (
@@ -1537,6 +1556,138 @@ function CaseStudies() {
   );
 }
  
+/* ─── BEYOND WORK ───────────────────────────────────────────────────────── */
+ 
+function BeyondWork() {
+  const features = [
+    {
+      Icon: Globe,
+      title: 'Local Airspace',
+      desc: 'Scan nearby aircraft using a postal / ZIP code or latitude and longitude.',
+    },
+    {
+      Icon: Search,
+      title: 'Aircraft Intelligence',
+      desc: 'Search and filter commercial, private, climbing, descending, level, or grounded traffic.',
+    },
+    {
+      Icon: BarChart3,
+      title: 'Session Analytics',
+      desc: 'Track aircraft activity, closest passes, altitude, operators, and exportable session data.',
+    },
+  ];
+ 
+  return (
+    <section id="beyondwork" className="py-14 relative z-10 border-t border-[#1c1c1c]">
+      <div className="max-w-6xl mx-auto px-6">
+        <div className="reveal mb-10">
+          <div className="section-num mb-3">07 — Beyond Work</div>
+          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">
+            Aviation & Flight Tracking
+          </h2>
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
+          <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
+            Outside financial technology, I am an aviation enthusiast who enjoys exploring aircraft,
+            routes, radar data, and the systems that keep global airspace moving.
+          </p>
+        </div>
+ 
+        <div className="grid lg:grid-cols-2 gap-6 items-stretch">
+          <div className="reveal glass-card p-8 flex flex-col">
+            <div className="flex items-center gap-4 mb-6">
+              <div className="w-14 h-14 rounded-xl border border-[#39FF14]/20 bg-[#0a1a0a] flex items-center justify-center">
+                <Plane className="w-7 h-7 text-[#39FF14]" />
+              </div>
+              <div>
+                <div className="text-[10px] font-black text-[#39FF14] uppercase tracking-[0.3em] mb-1">
+                  Personal Build
+                </div>
+                <h3 className="text-xl font-black text-white uppercase tracking-wide">AIRSPACE</h3>
+              </div>
+            </div>
+ 
+            <p className="text-[#888] text-sm leading-relaxed mb-7">
+              I built AIRSPACE as a live aviation command center for scanning nearby aircraft,
+              inspecting radar targets and flight strips, filtering traffic, monitoring feed health,
+              maintaining watchlists, and reviewing session analytics.
+            </p>
+ 
+            <div className="space-y-3 mb-7">
+              {features.map((feature) => (
+                <div key={feature.title} className="flex items-start gap-3 rounded-lg border border-[#1a1a1a] bg-[#090909] p-4">
+                  <feature.Icon className="w-5 h-5 text-[#39FF14] flex-shrink-0 mt-0.5" />
+                  <div>
+                    <div className="text-xs font-black text-white uppercase tracking-wide mb-1">{feature.title}</div>
+                    <p className="text-xs text-[#666] leading-relaxed">{feature.desc}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+ 
+            <div className="flex flex-wrap gap-2 mt-auto">
+              {['Aviation', 'Live Radar', 'Flight Data', 'Personal Project'].map((tag) => (
+                <span key={tag} className="badge badge-cyan text-[#666]">{tag}</span>
+              ))}
+            </div>
+          </div>
+ 
+          <a
+            href="https://avikcincy-sanju.github.io/aviation/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="reveal group relative overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#080808] p-8 hover:border-[#39FF14]/40 transition-all duration-300 flex flex-col min-h-[440px]"
+          >
+            <div className="absolute inset-0 bg-gradient-to-br from-[#39FF14]/[0.055] via-transparent to-[#00BFFF]/[0.055]" />
+            <div className="absolute inset-0 grid-bg opacity-25" />
+ 
+            <div className="relative z-10 flex items-center justify-between mb-10">
+              <div>
+                <div className="text-[10px] text-[#555] font-black uppercase tracking-[0.3em]">Live Aviation Command Center</div>
+                <div className="text-3xl font-black text-white tracking-tight mt-2">AIRSPACE</div>
+              </div>
+              <div className="flex items-center gap-2 rounded-full border border-[#39FF14]/20 bg-[#39FF14]/5 px-3 py-1.5">
+                <span className="w-2 h-2 rounded-full bg-[#39FF14] animate-pulse" />
+                <span className="text-[10px] font-black text-[#39FF14] uppercase tracking-widest">Ready</span>
+              </div>
+            </div>
+ 
+            <div className="relative z-10 flex-1 flex items-center justify-center py-6">
+              <div className="relative w-52 h-52 rounded-full border border-[#39FF14]/20 flex items-center justify-center">
+                <div className="absolute inset-5 rounded-full border border-[#39FF14]/10" />
+                <div className="absolute inset-12 rounded-full border border-[#39FF14]/10" />
+                <div className="absolute left-1/2 top-0 bottom-0 w-px bg-[#39FF14]/10" />
+                <div className="absolute top-1/2 left-0 right-0 h-px bg-[#39FF14]/10" />
+                <div className="absolute left-1/2 top-1/2 w-[48%] h-px origin-left -rotate-45 bg-gradient-to-r from-[#39FF14]/70 to-transparent" />
+                <Plane className="w-12 h-12 text-[#39FF14] group-hover:scale-110 group-hover:-rotate-6 transition-all duration-300" />
+              </div>
+            </div>
+ 
+            <div className="relative z-10 grid grid-cols-3 gap-px bg-[#1a1a1a] border border-[#1a1a1a] mb-7">
+              {[
+                { label: 'Radar', value: 'Live' },
+                { label: 'Flights', value: 'Track' },
+                { label: 'Alerts', value: 'Watch' },
+              ].map((item) => (
+                <div key={item.label} className="bg-[#090909] py-4 text-center">
+                  <div className="text-sm font-black text-white uppercase">{item.value}</div>
+                  <div className="text-[9px] text-[#555] uppercase tracking-widest mt-1">{item.label}</div>
+                </div>
+              ))}
+            </div>
+ 
+            <div className="relative z-10 flex items-center justify-between border-t border-[#1a1a1a] pt-5">
+              <span className="text-xs font-black text-white uppercase tracking-[0.18em] group-hover:text-[#39FF14] transition-colors">
+                Launch Flight Scanner
+              </span>
+              <ArrowUpRight className="w-5 h-5 text-[#444] group-hover:text-[#39FF14] transition-colors" />
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+}
+ 
 /* ─── CONTACT ───────────────────────────────────────────────────────────── */
  
 function Contact() {
@@ -1544,7 +1695,7 @@ function Contact() {
     <section id="contact" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-4xl mx-auto px-6">
         <div className="reveal text-center mb-8">
-          <div className="section-num mb-3">07 — Contact</div>
+          <div className="section-num mb-3">08 — Contact</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white mb-2">Let's Connect</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mx-auto mt-4 mb-6" />
           <p className="text-[#666] max-w-lg mx-auto text-sm">
@@ -1613,6 +1764,7 @@ export default function App() {
         <Projects />
         <Research />
         <Experience />
+        <BeyondWork />
         <Contact />
       </main>
       <Footer />
