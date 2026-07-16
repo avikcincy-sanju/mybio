@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-07-16T19:00:00.000Z",
+  "records": [
+    {
+      "title": "Agentic Money Movement Command Center — Software Release",
+      "record": "21400904",
+      "url": "https://doi.org/10.5281/zenodo.21400904",
+      "type": "Software",
+      "year": "2026",
+      "doi": "10.5281/zenodo.21400904"
+    },
+    {
+      "title": "Zenodo Research Record 20261877",
+      "record": "20261877",
+      "url": "https://zenodo.org/records/20261877",
+      "type": "Research",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20261877"
+    },
+    {
+      "title": "Zenodo Research Record 20261969",
+      "record": "20261969",
+      "url": "https://zenodo.org/records/20261969",
+      "type": "Research",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20261969"
+    },
+    {
+      "title": "Zenodo Research Record 20315696",
+      "record": "20315696",
+      "url": "https://zenodo.org/records/20315696",
+      "type": "Research",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20315696"
+    },
+    {
+      "title": "Stablecoin Acquiring Infrastructure: Bridging the Gap Between Payment Viability and Merchant Readiness",
+      "record": "20599540",
+      "url": "https://zenodo.org/records/20599540",
+      "type": "Preprint",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20599540"
+    },
+    {
+      "title": "The Emergence of Intelligent Payment Systems: An AI-Driven Framework for Multi-Rail Payment Orchestration",
+      "record": "20140629",
+      "url": "https://zenodo.org/records/20140629",
+      "type": "Research Paper",
+      "year": "2026",
+      "doi": "10.5281/zenodo.20140629"
+    }
+  ]
+}

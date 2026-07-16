@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-07-16T19:00:00.000Z",
+  "headlines": [
+    {
+      "category": "Payments",
+      "title": "Debit cards remain the leading US payment method as growth slows",
+      "source": "Payments Dive",
+      "date": "Jul 16, 2026",
+      "url": "https://www.paymentsdive.com/"
+    },
+    {
+      "category": "Banking",
+      "title": "U.S. Bank pursues a payments-first strategy to deepen commercial relationships",
+      "source": "Payments Dive",
+      "date": "Jul 16, 2026",
+      "url": "https://www.paymentsdive.com/"
+    },
+    {
+      "category": "Stablecoins",
+      "title": "Institutional crypto liquidity and stablecoin fragmentation move into corporate treasury discussions",
+      "source": "The Paypers",
+      "date": "Jul 16, 2026",
+      "url": "https://thepaypers.com/"
+    },
+    {
+      "category": "Payments Infrastructure",
+      "title": "Payments and fintech firms continue to invest in merchant platforms, orchestration and real-time settlement",
+      "source": "Finextra",
+      "date": "Jul 16, 2026",
+      "url": "https://www.finextra.com/"
+    }
+  ]
+}
