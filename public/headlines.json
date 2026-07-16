@@ -1,33 +1,75 @@
 {
-  "updatedAt": "2026-07-16T19:00:00.000Z",
+  "updatedAt": "2026-07-16T20:54:59.711Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "Debit cards remain the leading US payment method as growth slows",
-      "source": "Payments Dive",
-      "date": "Jul 16, 2026",
-      "url": "https://www.paymentsdive.com/"
+      "title": "The future of consumer payments: Cards, Pay by Bank & the evolution of the multi-rail bank",
+      "source": "Finextra",
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/event-info/624/the-future-of-consumer-payments-cards-pay-by-bank--the-evolution-of-the-multi-rail-bank?utm_medium=rssfinextra&utm_source=finextrafeed"
     },
     {
-      "category": "Banking",
-      "title": "U.S. Bank pursues a payments-first strategy to deepen commercial relationships",
-      "source": "Payments Dive",
-      "date": "Jul 16, 2026",
-      "url": "https://www.paymentsdive.com/"
+      "category": "Payments",
+      "title": "Embedded accounting for mid-corporate businesses: Addressing the complexity",
+      "source": "Finextra",
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/event-info/626/embedded-accounting-for-mid-corporate-businesses-addressing-the-complexity?utm_medium=rssfinextra&utm_source=finextrafeed"
     },
     {
-      "category": "Stablecoins",
-      "title": "Institutional crypto liquidity and stablecoin fragmentation move into corporate treasury discussions",
-      "source": "The Paypers",
-      "date": "Jul 16, 2026",
-      "url": "https://thepaypers.com/"
+      "category": "Payments",
+      "title": "Are banks actually ready for digital money?",
+      "source": "Finextra",
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/event-info/625/are-banks-actually-ready-for-digital-money?utm_medium=rssfinextra&utm_source=finextrafeed"
     },
     {
-      "category": "Payments Infrastructure",
-      "title": "Payments and fintech firms continue to invest in merchant platforms, orchestration and real-time settlement",
+      "category": "Payments",
+      "title": "What profitable roles can banks play in the digital currency race?",
+      "source": "Finextra",
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/event-info/621/what-profitable-roles-can-banks-play-in-the-digital-currency-race?utm_medium=rssfinextra&utm_source=finextrafeed"
+    },
+    {
+      "category": "Payments",
+      "title": "Tackling fraud as an ecosystem: Exploring the shift needed in regulation and the industry",
+      "source": "Finextra",
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/event-info/623/tackling-fraud-as-an-ecosystem-exploring-the-shift-needed-in-regulation-and-the-industry?utm_medium=rssfinextra&utm_source=finextrafeed"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Investing in thriving communities - preparing for the Sustainable Finance Live hackathon",
+      "source": "Finextra",
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/event-info/622/investing-in-thriving-communities---preparing-for-the-sustainable-finance-live-hackathon?utm_medium=rssfinextra&utm_source=finextrafeed"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "AI, HR and financial services: Modernising banking systems from front to back",
+      "source": "Finextra",
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/event-info/619/ai-hr-and-financial-services-modernising-banking-systems-from-front-to-back?utm_medium=rssfinextra&utm_source=finextrafeed"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Digital sovereignty: The key deliverable of banking transformation",
+      "source": "Finextra",
+      "date": "Jul 28, 2026",
+      "url": "https://www.finextra.com/event-info/616/digital-sovereignty-the-key-deliverable-of-banking-transformation?utm_medium=rssfinextra&utm_source=finextrafeed"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "AI Will Soon Generate Thousands of Financial Apps in Minutes, But That Won’t Be Enough",
       "source": "Finextra",
       "date": "Jul 16, 2026",
-      "url": "https://www.finextra.com/"
+      "url": "https://www.finextra.com/blogposting/32234/ai-will-soon-generate-thousands-of-financial-apps-in-minutes-but-that-wont-be-enough?utm_medium=rssfinextra&utm_source=finextrafeed"
+    },
+    {
+      "category": "Payments",
+      "title": "Visa launches stablecoin platform",
+      "source": "Finextra",
+      "date": "Jul 16, 2026",
+      "url": "https://www.finextra.com/newsarticle/48110/visa-launches-stablecoin-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
     }
   ]
 }
