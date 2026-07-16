@@ -137,12 +137,29 @@ const ZENODO_PAPERS = [
     title: 'Agentic Money Movement Command Center — Software Release',
     record: '21400904',
     url: 'https://doi.org/10.5281/zenodo.21400904',
+    type: 'Software',
+    year: '2026',
+    doi: '10.5281/zenodo.21400904',
   },
-  { title: 'Zenodo Research Paper', record: '20261877', url: 'https://zenodo.org/records/20261877' },
-  { title: 'Zenodo Research Paper', record: '20261969', url: 'https://zenodo.org/records/20261969' },
-  { title: 'Zenodo Research Paper', record: '20315696', url: 'https://zenodo.org/records/20315696' },
-  { title: 'Zenodo Research Paper', record: '20599540', url: 'https://zenodo.org/records/20599540' },
-  { title: 'AI Route Advisor Prototype', record: '20140629', url: 'https://zenodo.org/records/20140629' },
+  { title: 'Zenodo Research Record 20261877', record: '20261877', url: 'https://zenodo.org/records/20261877', type: 'Research', year: '2026', doi: '10.5281/zenodo.20261877' },
+  { title: 'Zenodo Research Record 20261969', record: '20261969', url: 'https://zenodo.org/records/20261969', type: 'Research', year: '2026', doi: '10.5281/zenodo.20261969' },
+  { title: 'Zenodo Research Record 20315696', record: '20315696', url: 'https://zenodo.org/records/20315696', type: 'Research', year: '2026', doi: '10.5281/zenodo.20315696' },
+  {
+    title: 'Stablecoin Acquiring Infrastructure: Bridging the Gap Between Payment Viability and Merchant Readiness',
+    record: '20599540',
+    url: 'https://zenodo.org/records/20599540',
+    type: 'Preprint',
+    year: '2026',
+    doi: '10.5281/zenodo.20599540',
+  },
+  {
+    title: 'The Emergence of Intelligent Payment Systems: An AI-Driven Framework for Multi-Rail Payment Orchestration',
+    record: '20140629',
+    url: 'https://zenodo.org/records/20140629',
+    type: 'Research Paper',
+    year: '2026',
+    doi: '10.5281/zenodo.20140629',
+  },
 ];
  
 const MEDIUM_ARTICLES = [
@@ -454,77 +471,107 @@ const CASE_STUDIES = [
  
 function ParticleCanvas() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
- 
+
   useEffect(() => {
     const canvas = canvasRef.current;
     if (!canvas) return;
+
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (reducedMotion.matches) return;
+
     const ctx = canvas.getContext('2d');
     if (!ctx) return;
- 
-    let animId: number;
+
+    let animId = 0;
+    let running = true;
+    const particleCount = window.innerWidth < 768 ? 28 : 60;
     const particles: { x: number; y: number; vx: number; vy: number; r: number; alpha: number }[] = [];
-    const COUNT = 60;
- 
+
     const resize = () => {
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
+      const ratio = Math.min(window.devicePixelRatio || 1, 2);
+      canvas.width = Math.floor(window.innerWidth * ratio);
+      canvas.height = Math.floor(window.innerHeight * ratio);
+      canvas.style.width = `${window.innerWidth}px`;
+      canvas.style.height = `${window.innerHeight}px`;
+      ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
     };
-    resize();
-    window.addEventListener('resize', resize);
- 
-    for (let i = 0; i < COUNT; i++) {
-      particles.push({
-        x: Math.random() * window.innerWidth,
-        y: Math.random() * window.innerHeight,
-        vx: (Math.random() - 0.5) * 0.3,
-        vy: (Math.random() - 0.5) * 0.3,
-        r: Math.random() * 1.2 + 0.3,
-        alpha: Math.random() * 0.3 + 0.05,
-      });
-    }
- 
+
+    const seedParticles = () => {
+      particles.length = 0;
+      for (let i = 0; i < particleCount; i += 1) {
+        particles.push({
+          x: Math.random() * window.innerWidth,
+          y: Math.random() * window.innerHeight,
+          vx: (Math.random() - 0.5) * 0.3,
+          vy: (Math.random() - 0.5) * 0.3,
+          r: Math.random() * 1.2 + 0.3,
+          alpha: Math.random() * 0.3 + 0.05,
+        });
+      }
+    };
+
     const draw = () => {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      particles.forEach(p => {
-        p.x += p.vx;
-        p.y += p.vy;
-        if (p.x < 0) p.x = canvas.width;
-        if (p.x > canvas.width) p.x = 0;
-        if (p.y < 0) p.y = canvas.height;
-        if (p.y > canvas.height) p.y = 0;
- 
+      if (!running) return;
+      ctx.clearRect(0, 0, window.innerWidth, window.innerHeight);
+
+      particles.forEach((particle) => {
+        particle.x += particle.vx;
+        particle.y += particle.vy;
+        if (particle.x < 0) particle.x = window.innerWidth;
+        if (particle.x > window.innerWidth) particle.x = 0;
+        if (particle.y < 0) particle.y = window.innerHeight;
+        if (particle.y > window.innerHeight) particle.y = 0;
+
         ctx.beginPath();
-        ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-        ctx.fillStyle = `rgba(255,255,255,${p.alpha})`;
+        ctx.arc(particle.x, particle.y, particle.r, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(255,255,255,${particle.alpha})`;
         ctx.fill();
       });
- 
-      for (let i = 0; i < particles.length; i++) {
-        for (let j = i + 1; j < particles.length; j++) {
+
+      for (let i = 0; i < particles.length; i += 1) {
+        for (let j = i + 1; j < particles.length; j += 1) {
           const dx = particles[i].x - particles[j].x;
           const dy = particles[i].y - particles[j].y;
-          const dist = Math.sqrt(dx * dx + dy * dy);
-          if (dist < 100) {
+          const distance = Math.sqrt(dx * dx + dy * dy);
+          if (distance < 100) {
             ctx.beginPath();
             ctx.moveTo(particles[i].x, particles[i].y);
             ctx.lineTo(particles[j].x, particles[j].y);
-            ctx.strokeStyle = `rgba(255,255,255,${0.05 * (1 - dist / 100)})`;
+            ctx.strokeStyle = `rgba(255,255,255,${0.05 * (1 - distance / 100)})`;
             ctx.lineWidth = 0.5;
             ctx.stroke();
           }
         }
       }
+
       animId = requestAnimationFrame(draw);
     };
+
+    const handleVisibility = () => {
+      running = !document.hidden;
+      if (running) {
+        cancelAnimationFrame(animId);
+        draw();
+      } else {
+        cancelAnimationFrame(animId);
+      }
+    };
+
+    resize();
+    seedParticles();
     draw();
- 
+    window.addEventListener('resize', resize);
+    document.addEventListener('visibilitychange', handleVisibility);
+
     return () => {
+      running = false;
       cancelAnimationFrame(animId);
       window.removeEventListener('resize', resize);
+      document.removeEventListener('visibilitychange', handleVisibility);
     };
   }, []);
- 
-  return <canvas ref={canvasRef} id="particle-canvas" />;
+
+  return <canvas ref={canvasRef} id="particle-canvas" aria-hidden="true" />;
 }
  
 /* ─── REVEAL HOOK ──────────────────────────────────────────────────────── */
@@ -547,84 +594,96 @@ function Nav() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [moreOpen, setMoreOpen] = useState(false);
   const moreRef = useRef<HTMLDivElement>(null);
- 
+
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
-    window.addEventListener('scroll', onScroll);
+    window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
- 
+
   useEffect(() => {
-    const handler = (e: MouseEvent) => {
-      if (moreRef.current && !moreRef.current.contains(e.target as Node)) {
+    const handlePointerDown = (event: MouseEvent) => {
+      if (moreRef.current && !moreRef.current.contains(event.target as Node)) {
         setMoreOpen(false);
       }
     };
-    document.addEventListener('mousedown', handler);
-    return () => document.removeEventListener('mousedown', handler);
+
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') {
+        setMoreOpen(false);
+        setMobileOpen(false);
+      }
+    };
+
+    document.addEventListener('mousedown', handlePointerDown);
+    document.addEventListener('keydown', handleKeyDown);
+    return () => {
+      document.removeEventListener('mousedown', handlePointerDown);
+      document.removeEventListener('keydown', handleKeyDown);
+    };
   }, []);
- 
+
   const primary = [
     { label: 'About', href: 'about' },
     { label: 'Vision', href: 'productvision' },
     { label: 'Builds', href: 'projects' },
-    { label: 'Research', href: 'research' },
     { label: 'Experience', href: 'experience' },
+    { label: 'Research', href: 'research' },
     { label: 'Contact', href: 'contact' },
   ];
- 
+
   const more = [
     { label: 'Selected Impact', href: 'impact' },
     { label: 'Core Capabilities', href: 'capabilities' },
     { label: 'Case Studies', href: 'casestudies' },
+    { label: 'How I Work', href: 'howiwork' },
     { label: 'Beyond Work', href: 'beyondwork' },
   ];
- 
+
   const allLinks = [...primary, ...more];
- 
+
   return (
-    <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${scrolled ? 'py-0 bg-[#0a0a0a]/96 backdrop-blur-md border-b border-[#1a1a1a]' : 'py-0 bg-transparent'}`}>
+    <nav aria-label="Primary navigation" className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${scrolled ? 'py-0 bg-[#0a0a0a]/96 backdrop-blur-md border-b border-[#1a1a1a]' : 'py-0 bg-transparent'}`}>
       <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
- 
-        {/* Logo */}
-        <a href="#hero" className="flex items-center gap-2 group flex-shrink-0">
+        <a href="#hero" className="flex items-center gap-2 group flex-shrink-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/60 rounded-md">
           <span className="text-[#39FF14] font-black text-lg tracking-[0.15em] uppercase group-hover:opacity-80 transition-opacity duration-200">AN</span>
           <span className="hidden sm:block text-[#333] text-[10px] font-black uppercase tracking-[0.25em] group-hover:text-[#444] transition-colors duration-200">Portfolio</span>
         </a>
- 
-        {/* Desktop nav */}
+
         <div className="hidden lg:flex items-center gap-1">
-          {primary.map(l => (
+          {primary.map((link) => (
             <a
-              key={l.href}
-              href={`#${l.href}`}
-              className="px-3 py-1.5 text-[11px] font-bold text-[#555] uppercase tracking-[0.12em] rounded-md hover:text-white hover:bg-white/[0.04] transition-all duration-200"
+              key={link.href}
+              href={`#${link.href}`}
+              className="px-3 py-1.5 text-[11px] font-bold text-[#555] uppercase tracking-[0.12em] rounded-md hover:text-white hover:bg-white/[0.04] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 transition-all duration-200"
             >
-              {l.label}
+              {link.label}
             </a>
           ))}
- 
-          {/* More dropdown */}
+
           <div ref={moreRef} className="relative ml-1">
             <button
-              onClick={() => setMoreOpen(v => !v)}
-              className={`flex items-center gap-1.5 px-3 py-1.5 text-[11px] font-bold uppercase tracking-[0.12em] rounded-md transition-all duration-200 ${moreOpen ? 'text-white bg-white/[0.06]' : 'text-[#555] hover:text-white hover:bg-white/[0.04]'}`}
+              type="button"
+              onClick={() => setMoreOpen((value) => !value)}
+              aria-expanded={moreOpen}
+              aria-controls="more-navigation-menu"
+              className={`flex items-center gap-1.5 px-3 py-1.5 text-[11px] font-bold uppercase tracking-[0.12em] rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 transition-all duration-200 ${moreOpen ? 'text-white bg-white/[0.06]' : 'text-[#555] hover:text-white hover:bg-white/[0.04]'}`}
             >
               More
-              <ChevronRight className={`w-3 h-3 transition-transform duration-200 ${moreOpen ? 'rotate-90' : ''}`} />
+              <ChevronRight aria-hidden="true" className={`w-3 h-3 transition-transform duration-200 ${moreOpen ? 'rotate-90' : ''}`} />
             </button>
             {moreOpen && (
-              <div className="absolute right-0 top-full mt-2 w-48 bg-[#0f0f0f] border border-[#222] rounded-xl shadow-2xl shadow-black/60 overflow-hidden">
+              <div id="more-navigation-menu" className="absolute right-0 top-full mt-2 w-52 bg-[#0f0f0f] border border-[#222] rounded-xl shadow-2xl shadow-black/60 overflow-hidden">
                 <div className="p-1.5 flex flex-col gap-0.5">
-                  {more.map(l => (
+                  {more.map((link) => (
                     <a
-                      key={l.href}
-                      href={`#${l.href}`}
+                      key={link.href}
+                      href={`#${link.href}`}
                       onClick={() => setMoreOpen(false)}
-                      className="px-3 py-2.5 text-[11px] font-bold text-[#666] uppercase tracking-[0.1em] rounded-lg hover:text-white hover:bg-white/[0.05] transition-all duration-150 flex items-center justify-between group"
+                      className="px-3 py-2.5 text-[11px] font-bold text-[#666] uppercase tracking-[0.1em] rounded-lg hover:text-white hover:bg-white/[0.05] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 transition-all duration-150 flex items-center justify-between group"
                     >
-                      {l.label}
-                      <ArrowUpRight className="w-3 h-3 opacity-0 group-hover:opacity-40 transition-opacity duration-150" />
+                      {link.label}
+                      <ArrowUpRight aria-hidden="true" className="w-3 h-3 opacity-0 group-hover:opacity-40 transition-opacity duration-150" />
                     </a>
                   ))}
                 </div>
@@ -632,29 +691,30 @@ function Nav() {
             )}
           </div>
         </div>
- 
-        {/* Mobile hamburger */}
+
         <button
-          className="lg:hidden w-9 h-9 flex items-center justify-center rounded-lg border border-[#222] text-[#666] hover:text-white hover:border-[#333] transition-all duration-200"
-          onClick={() => setMobileOpen(v => !v)}
-          aria-label="Toggle menu"
+          type="button"
+          className="lg:hidden w-9 h-9 flex items-center justify-center rounded-lg border border-[#222] text-[#666] hover:text-white hover:border-[#333] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 transition-all duration-200"
+          onClick={() => setMobileOpen((value) => !value)}
+          aria-label="Toggle navigation menu"
+          aria-expanded={mobileOpen}
+          aria-controls="mobile-navigation-menu"
         >
-          {mobileOpen ? <X className="w-4 h-4" /> : <Menu className="w-4 h-4" />}
+          {mobileOpen ? <X aria-hidden="true" className="w-4 h-4" /> : <Menu aria-hidden="true" className="w-4 h-4" />}
         </button>
       </div>
- 
-      {/* Mobile drawer */}
-      <div className={`lg:hidden overflow-hidden transition-all duration-300 ${mobileOpen ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'}`}>
+
+      <div id="mobile-navigation-menu" className={`lg:hidden overflow-hidden transition-all duration-300 ${mobileOpen ? 'max-h-[700px] opacity-100' : 'max-h-0 opacity-0'}`}>
         <div className="bg-[#0a0a0a] border-b border-[#1a1a1a] px-6 py-5">
           <div className="grid grid-cols-2 gap-1">
-            {allLinks.map(l => (
+            {allLinks.map((link) => (
               <a
-                key={l.href}
-                href={`#${l.href}`}
+                key={link.href}
+                href={`#${link.href}`}
                 onClick={() => setMobileOpen(false)}
-                className="px-3 py-3 text-[11px] font-bold text-[#555] uppercase tracking-[0.1em] rounded-lg hover:text-white hover:bg-white/[0.04] transition-all duration-150"
+                className="px-3 py-3 text-[11px] font-bold text-[#555] uppercase tracking-[0.1em] rounded-lg hover:text-white hover:bg-white/[0.04] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 transition-all duration-150"
               >
-                {l.label}
+                {link.label}
               </a>
             ))}
           </div>
@@ -716,7 +776,7 @@ function Hero() {
               {[
                 { val: '20+', label: 'Years' },
                 { val: String(TOTAL_PERSONAL_FINTECH_BUILDS), label: 'Personal Builds' },
-                { val: '25+', label: 'Publications' },
+                { val: '40+', label: 'Published Works' },
               ].map((s, i) => (
                 <div key={s.label} className={`text-center py-5 px-2 ${i < 2 ? 'border-r border-[#222]' : ''}`}>
                   <div className="text-3xl font-black text-white">{s.val}</div>
@@ -913,17 +973,17 @@ function SelectedImpact() {
     },
     {
       metric: '1.8M',
-      headline: 'Clients Supported',
+      headline: 'Clients Served by Integrated Platforms',
       detail: 'Led a complex banking integration spanning payment channels and digital applications serving 1.8 million clients.',
     },
     {
       metric: '30%',
-      headline: 'Faster Transactions',
+      headline: 'Reduction in Manual Transaction Time',
       detail: 'Reduced manual transaction time through integrated payment-device and retail workflow modernization.',
     },
     {
       metric: '40%',
-      headline: 'Lower Error Rate',
+      headline: 'Reduction in Transaction Errors',
       detail: 'Reduced transaction errors through improved payment-device integration and operating workflows.',
     },
     {
@@ -971,10 +1031,10 @@ function SelectedImpact() {
  
 function Experience() {
   return (
-    <section id="experience" className="py-14 relative z-10 border-t border-[#1c1c1c]">
+    <section id="experience" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-8">
-          <div className="section-num mb-3">08 — Experience</div>
+          <div className="section-num mb-3">07 — Experience</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Career Timeline</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
@@ -1020,95 +1080,103 @@ function Experience() {
 /* ─── INDUSTRY INTELLIGENCE TICKER ───────────────────────────────────────── */
 
 // Curated headline snapshot. Update this array periodically to keep the portfolio current.
-const INDUSTRY_HEADLINES_UPDATED = 'July 16, 2026';
+type IndustryHeadline = {
+  category: string;
+  title: string;
+  source: string;
+  date: string;
+  url: string;
+};
 
-const INDUSTRY_HEADLINES = [
+type IndustryHeadlineFeed = {
+  updatedAt: string;
+  headlines: IndustryHeadline[];
+};
+
+const FALLBACK_INDUSTRY_HEADLINES: IndustryHeadline[] = [
   {
-    category: 'Stablecoin Regulation',
-    title: 'Circle Receives Final OCC Approval to Establish National Trust Bank',
-    source: 'Circle',
-    date: 'Jul 10, 2026',
-    url: 'https://www.circle.com/pressroom/circle-receives-final-occ-approval-to-establish-national-trust-bank',
-  },
-  {
-    category: 'Tokenized Payments',
-    title: 'Swift Blockchain Ledger Ready for Initial Use with 17 Banks Preparing to Pilot Tokenized Cross-Border Payments',
-    source: 'Swift',
-    date: 'Jul 9, 2026',
-    url: 'https://www.swift.com/news-events/press-releases/swifts-blockchain-ledger-ready-use-17-banks-set-pioneer-tokenised-cross-border-payments-trusted-global-infrastructure',
-  },
-  {
-    category: 'Institutional USDC',
-    title: 'Standard Chartered and Circle Launch G-SIB-Led Access to USDC Minting and Redemption',
-    source: 'Circle',
-    date: 'Jul 2, 2026',
-    url: 'https://www.circle.com/pressroom/standard-chartered-and-circle-launch-launch-first-g-sib-led-integrated-access-to-usdc-minting-and-redemption',
-  },
-  {
-    category: 'Digital Asset Custody',
-    title: 'BNY Expands Circle Partnership for Institutional-Grade Stablecoin Enablement',
-    source: 'Circle',
-    date: 'Jun 29, 2026',
-    url: 'https://www.circle.com/pressroom/bny-expands-relationship-with-circle-and-adds-to-institutional-grade-stablecoin-enablement-services',
+    category: 'Payments',
+    title: 'Payments leaders continue to reshape multi-rail commerce, stablecoin settlement and merchant infrastructure',
+    source: 'Merchant Intelligence Monitor',
+    date: 'Latest signals',
+    url: 'https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/',
   },
   {
     category: 'Agentic Commerce',
-    title: 'Adyen Launches Agentic APIs as a Universal Translator Across AI Commerce Platforms',
-    source: 'Adyen',
-    date: 'Jun 16, 2026',
-    url: 'https://www.adyen.com/press-and-media/adyen-agentic',
+    title: 'AI agents are moving from research concepts toward governed commerce and payment execution',
+    source: 'Merchant Intelligence Monitor',
+    date: 'Latest signals',
+    url: 'https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/',
   },
   {
-    category: 'AI & Stablecoins',
-    title: 'Visa Announces New AI, Stablecoin and Token Innovations for Programmable Commerce',
-    source: 'Visa',
-    date: 'Jun 10, 2026',
-    url: 'https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22491.html',
-  },
-  {
-    category: 'Stablecoin Settlement',
-    title: 'Circle Launches CPN Managed Payments for Full-Stack Stablecoin Settlement',
-    source: 'Circle',
-    date: 'Apr 8, 2026',
-    url: 'https://www.circle.com/pressroom/circle-launches-cpn-managed-payments-a-full-stack-platform-for-seamless-stablecoin-settlement',
-  },
-  {
-    category: 'Merchant Infrastructure',
-    title: 'Adyen Moves to Acquire Orb and Unify Enterprise Billing with Payments',
-    source: 'Adyen',
-    date: 'Jun 11, 2026',
-    url: 'https://www.adyen.com/press-and-media/jtrg4qd7j3p4rj',
+    category: 'Stablecoins',
+    title: 'Institutional adoption is shifting attention from issuance toward acceptance, orchestration and controls',
+    source: 'Merchant Intelligence Monitor',
+    date: 'Latest signals',
+    url: 'https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/',
   },
 ];
 
+function formatHeadlineUpdate(value?: string) {
+  if (!value) return 'Refresh pending';
+  const updated = new Date(value);
+  if (Number.isNaN(updated.getTime())) return 'Refresh pending';
+
+  const diffMinutes = Math.max(0, Math.floor((Date.now() - updated.getTime()) / 60000));
+  if (diffMinutes < 1) return 'Updated just now';
+  if (diffMinutes < 60) return `Updated ${diffMinutes}m ago`;
+  const diffHours = Math.floor(diffMinutes / 60);
+  if (diffHours < 24) return `Updated ${diffHours}h ago`;
+  const diffDays = Math.floor(diffHours / 24);
+  if (diffDays < 7) return `Updated ${diffDays}d ago`;
+  return `Updated ${updated.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
+}
+
 function IndustryIntelligenceTicker() {
-  const tickerItems = [...INDUSTRY_HEADLINES, ...INDUSTRY_HEADLINES];
+  const [feed, setFeed] = useState<IndustryHeadlineFeed>({
+    updatedAt: '',
+    headlines: FALLBACK_INDUSTRY_HEADLINES,
+  });
+
+  useEffect(() => {
+    const controller = new AbortController();
+
+    fetch(`${import.meta.env.BASE_URL}headlines.json`, {
+      cache: 'no-store',
+      signal: controller.signal,
+    })
+      .then((response) => {
+        if (!response.ok) throw new Error(`Headline feed returned ${response.status}`);
+        return response.json() as Promise<IndustryHeadlineFeed>;
+      })
+      .then((data) => {
+        if (Array.isArray(data.headlines) && data.headlines.length > 0) {
+          setFeed({ updatedAt: data.updatedAt, headlines: data.headlines.slice(0, 10) });
+        }
+      })
+      .catch((error: unknown) => {
+        if (error instanceof DOMException && error.name === 'AbortError') return;
+        console.warn('Using fallback industry headlines.', error);
+      });
+
+    return () => controller.abort();
+  }, []);
+
+  const tickerItems = [...feed.headlines, ...feed.headlines];
+  const updateLabel = formatHeadlineUpdate(feed.updatedAt);
 
   return (
-    <section
-      aria-label="Curated payments industry headlines"
-      className="relative z-10 overflow-hidden border-y border-[#1c1c1c] bg-[#080808]"
-    >
+    <section aria-label="Current payments and fintech industry headlines" className="relative z-10 overflow-hidden border-y border-[#1c1c1c] bg-[#080808]">
       <style>{`
         @keyframes industryTickerScroll {
           from { transform: translateX(0); }
           to { transform: translateX(-50%); }
         }
-
-        .industry-ticker-track {
-          width: max-content;
-          animation: industryTickerScroll 68s linear infinite;
-        }
-
+        .industry-ticker-track { width: max-content; animation: industryTickerScroll 72s linear infinite; }
         .industry-ticker-shell:hover .industry-ticker-track,
-        .industry-ticker-shell:focus-within .industry-ticker-track {
-          animation-play-state: paused;
-        }
-
+        .industry-ticker-shell:focus-within .industry-ticker-track { animation-play-state: paused; }
         @media (prefers-reduced-motion: reduce) {
-          .industry-ticker-track {
-            animation: none;
-          }
+          .industry-ticker-track { animation: none; transform: none; }
         }
       `}</style>
 
@@ -1119,27 +1187,17 @@ function IndustryIntelligenceTicker() {
             <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-[#39FF14]" />
           </span>
           <div>
-            <div className="text-[10px] font-black uppercase tracking-[0.24em] text-[#39FF14]">
-              Industry Intelligence
-            </div>
-            <div className="hidden text-[10px] uppercase tracking-[0.14em] text-[#555] sm:block">
-              Curated headlines · Updated {INDUSTRY_HEADLINES_UPDATED}
-            </div>
+            <div className="text-[10px] font-black uppercase tracking-[0.24em] text-[#39FF14]">Industry Intelligence</div>
+            <div className="hidden text-[10px] uppercase tracking-[0.14em] text-[#555] sm:block">Personal Fintech Build 10 of 10 · {updateLabel}</div>
           </div>
         </div>
 
         <div className="hidden h-10 w-px flex-shrink-0 bg-[#222] sm:block" />
 
-        <div
-          className="min-w-0 flex-1 overflow-hidden"
-          style={{
-            maskImage: 'linear-gradient(to right, transparent, black 5%, black 95%, transparent)',
-            WebkitMaskImage: 'linear-gradient(to right, transparent, black 5%, black 95%, transparent)',
-          }}
-        >
+        <div className="min-w-0 flex-1 overflow-hidden" style={{ maskImage: 'linear-gradient(to right, transparent, black 5%, black 95%, transparent)', WebkitMaskImage: 'linear-gradient(to right, transparent, black 5%, black 95%, transparent)' }}>
           <div className="industry-ticker-track flex items-center whitespace-nowrap">
             {tickerItems.map((headline, index) => {
-              const duplicate = index >= INDUSTRY_HEADLINES.length;
+              const duplicate = index >= feed.headlines.length;
               return (
                 <a
                   key={`${headline.title}-${index}`}
@@ -1148,18 +1206,12 @@ function IndustryIntelligenceTicker() {
                   rel="noopener noreferrer"
                   tabIndex={duplicate ? -1 : 0}
                   aria-hidden={duplicate ? true : undefined}
-                  className="group/headline mx-2 inline-flex items-center gap-3 rounded-lg border border-transparent px-4 py-2 hover:border-[#2a2a2a] hover:bg-white/[0.025] focus:outline-none focus-visible:border-[#39FF14]/50"
+                  className="group/headline mx-2 inline-flex items-center gap-3 rounded-lg border border-transparent px-4 py-2 hover:border-[#2a2a2a] hover:bg-white/[0.025] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
                 >
-                  <span className="rounded-full border border-[#39FF14]/20 bg-[#39FF14]/5 px-2.5 py-1 text-[9px] font-black uppercase tracking-[0.16em] text-[#39FF14]/80">
-                    {headline.category}
-                  </span>
-                  <span className="max-w-[560px] overflow-hidden text-ellipsis text-xs font-bold tracking-wide text-[#8a8a8a] transition-colors group-hover/headline:text-white">
-                    {headline.title}
-                  </span>
-                  <span className="text-[10px] uppercase tracking-[0.14em] text-[#444]">
-                    {headline.source} · {headline.date}
-                  </span>
-                  <ArrowUpRight className="h-3.5 w-3.5 text-[#333] transition-colors group-hover/headline:text-[#39FF14]" />
+                  <span className="rounded-full border border-[#39FF14]/20 bg-[#39FF14]/5 px-2.5 py-1 text-[9px] font-black uppercase tracking-[0.16em] text-[#39FF14]/80">{headline.category}</span>
+                  <span className="max-w-[560px] overflow-hidden text-ellipsis text-xs font-bold tracking-wide text-[#8a8a8a] transition-colors group-hover/headline:text-white">{headline.title}</span>
+                  <span className="text-[10px] uppercase tracking-[0.14em] text-[#444]">{headline.source} · {headline.date}</span>
+                  <ArrowUpRight aria-hidden="true" className="h-3.5 w-3.5 text-[#333] transition-colors group-hover/headline:text-[#39FF14]" />
                 </a>
               );
             })}
@@ -1167,45 +1219,34 @@ function IndustryIntelligenceTicker() {
         </div>
 
         <div className="hidden flex-shrink-0 items-center gap-2 lg:flex">
-          <a
-            href="https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center gap-2 rounded-md border border-[#39FF14]/25 bg-[#39FF14]/5 px-3 py-2 text-[9px] font-black uppercase tracking-[0.16em] text-[#39FF14] hover:bg-[#39FF14]/10"
-          >
-            Open My Monitor
-            <ArrowUpRight className="h-3.5 w-3.5" />
+          <a href="https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-md border border-[#39FF14]/25 bg-[#39FF14]/5 px-3 py-2 text-[9px] font-black uppercase tracking-[0.16em] text-[#39FF14] hover:bg-[#39FF14]/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50">
+            Launch Monitor
+            <ArrowUpRight aria-hidden="true" className="h-3.5 w-3.5" />
           </a>
-          <a
-            href="https://github.com/avikcincy-sanju/Merchant-Intelligence-Edition"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="View Merchant Intelligence Monitor source code"
-            className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-[#222] text-[#555] hover:border-[#444] hover:text-white"
-          >
-            <Github className="h-3.5 w-3.5" />
+          <a href="https://github.com/avikcincy-sanju/Merchant-Intelligence-Edition" target="_blank" rel="noopener noreferrer" aria-label="View Merchant Intelligence Monitor source code" className="inline-flex h-8 w-8 items-center justify-center rounded-md border border-[#222] text-[#555] hover:border-[#444] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50">
+            <Github aria-hidden="true" className="h-3.5 w-3.5" />
           </a>
         </div>
       </div>
 
       <div className="border-t border-[#151515] px-6 py-2 lg:hidden">
         <div className="mx-auto flex max-w-6xl items-center justify-between gap-3">
-          <span className="text-[9px] uppercase tracking-[0.14em] text-[#444]">Personal build · Merchant Intelligence Monitor</span>
-          <div className="flex items-center gap-3">
-            <a href="https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/" target="_blank" rel="noopener noreferrer" className="text-[9px] font-black uppercase tracking-[0.14em] text-[#39FF14]">Open Monitor</a>
-            <a href="https://github.com/avikcincy-sanju/Merchant-Intelligence-Edition" target="_blank" rel="noopener noreferrer" aria-label="View source code" className="text-[#555] hover:text-white"><Github className="h-3.5 w-3.5" /></a>
-          </div>
+          <span className="text-[9px] uppercase tracking-[0.14em] text-[#444]">Personal Build 10 of 10 · {updateLabel}</span>
+          <a href="https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5 text-[9px] font-black uppercase tracking-[0.16em] text-[#39FF14] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 rounded-sm">
+            Launch Monitor
+            <ArrowUpRight aria-hidden="true" className="h-3 w-3" />
+          </a>
         </div>
       </div>
     </section>
   );
 }
-
+ 
 /* ─── PROJECTS ──────────────────────────────────────────────────────────── */
  
 function Projects() {
   return (
-    <section id="projects" className="py-14 relative z-10 border-t border-[#1c1c1c] scroll-mt-16">
+    <section id="projects" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-8">
           <div className="section-num mb-3">05 — Product Builds</div>
@@ -1295,6 +1336,24 @@ function Projects() {
  
 function Research() {
   const [tab, setTab] = useState('ssrn');
+  const [zenodoPapers, setZenodoPapers] = useState(ZENODO_PAPERS);
+
+  useEffect(() => {
+    const controller = new AbortController();
+    fetch(`${import.meta.env.BASE_URL}zenodo-records.json`, { cache: 'no-store', signal: controller.signal })
+      .then((response) => {
+        if (!response.ok) throw new Error(`Zenodo metadata returned ${response.status}`);
+        return response.json() as Promise<{ records: typeof ZENODO_PAPERS }>;
+      })
+      .then((data) => {
+        if (Array.isArray(data.records) && data.records.length > 0) setZenodoPapers(data.records);
+      })
+      .catch((error: unknown) => {
+        if (error instanceof DOMException && error.name === 'AbortError') return;
+        console.warn('Using embedded Zenodo metadata.', error);
+      });
+    return () => controller.abort();
+  }, []);
  
   const tabs = [
     { id: 'ssrn', label: 'SSRN Papers' },
@@ -1305,10 +1364,10 @@ function Research() {
   ];
  
   return (
-    <section id="research" className="py-14 relative z-10 border-t border-[#1c1c1c]">
+    <section id="research" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-8">
-          <div className="section-num mb-3">07 — Research & Publications</div>
+          <div className="section-num mb-3">09 — Research & Publications</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Thought Leadership</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
           <p className="text-[#555] text-sm mt-4">Academic papers, industry articles, and original research on AI payments & stablecoins</p>
@@ -1317,9 +1376,9 @@ function Research() {
         {/* Stats */}
         <div className="reveal grid grid-cols-2 sm:grid-cols-4 gap-px bg-[#1c1c1c] mb-8">
           {[
-            { val: '4', label: 'SSRN Papers', icon: <Microscope className="w-5 h-5 text-[#39FF14]" /> },
-            { val: '13', label: 'Finextra Articles', icon: <Newspaper className="w-5 h-5 text-[#39FF14]" /> },
-            { val: '20+', label: 'Medium Articles', icon: <FileText className="w-5 h-5 text-[#39FF14]" /> },
+            { val: String(SSRN_PAPERS.length), label: 'SSRN Papers', icon: <Microscope className="w-5 h-5 text-[#39FF14]" /> },
+            { val: String(FINEXTRA_ARTICLES.length), label: 'Finextra Articles', icon: <Newspaper className="w-5 h-5 text-[#39FF14]" /> },
+            { val: String(MEDIUM_ARTICLES.length), label: 'Medium Articles', icon: <FileText className="w-5 h-5 text-[#39FF14]" /> },
             { val: '2', label: 'Published Books', icon: <BookOpen className="w-5 h-5 text-[#39FF14]" /> },
           ].map(s => (
             <div key={s.label} className="stat-card bg-[#0a0a0a] border-0">
@@ -1332,9 +1391,18 @@ function Research() {
  
         {/* Tabs */}
         <div className="reveal mb-8">
-          <div className="flex flex-wrap gap-2">
-            {tabs.map(t => (
-              <button key={t.id} className={`tab-btn ${tab === t.id ? 'active' : ''}`} onClick={() => setTab(t.id)}>
+          <div role="tablist" aria-label="Research publication categories" className="flex flex-wrap gap-2">
+            {tabs.map((t) => (
+              <button
+                key={t.id}
+                id={`research-tab-${t.id}`}
+                type="button"
+                role="tab"
+                aria-selected={tab === t.id}
+                aria-controls={`research-panel-${t.id}`}
+                className={`tab-btn ${tab === t.id ? 'active' : ''}`}
+                onClick={() => setTab(t.id)}
+              >
                 {t.label}
               </button>
             ))}
@@ -1342,7 +1410,7 @@ function Research() {
         </div>
  
         {/* Content */}
-        <div className="reveal">
+        <div className="reveal" role="tabpanel" id={`research-panel-${tab}`} aria-labelledby={`research-tab-${tab}`}>
           {tab === 'ssrn' && (
             <div className="space-y-2">
               {SSRN_PAPERS.map((p, i) => (
@@ -1360,12 +1428,15 @@ function Research() {
  
           {tab === 'zenodo' && (
             <div className="space-y-2">
-              {ZENODO_PAPERS.map((p, i) => (
+              {zenodoPapers.map((p, i) => (
                 <a key={i} href={p.url} target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
                   <div className="badge badge-teal flex-shrink-0 mt-1">Zenodo</div>
                   <div className="flex-1">
                     <h3 className="font-bold text-white group-hover:text-[#39FF14] transition-colors text-sm">{p.title}</h3>
-                    <div className="text-xs text-[#555] mt-1 uppercase tracking-wide">Record: {p.record}</div>
+                    <div className="text-xs text-[#555] mt-1 uppercase tracking-wide">
+                      {p.type ? `${p.type} · ` : ''}{p.year ? `${p.year} · ` : ''}Record: {p.record}
+                    </div>
+                    {p.doi && <div className="text-[10px] text-[#3f3f3f] mt-1 font-mono">DOI: {p.doi}</div>}
                   </div>
                   <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
                 </a>
@@ -1688,10 +1759,10 @@ function HowIWork() {
   ];
  
   return (
-    <section id="howiwork" className="py-14 relative z-10 border-t border-[#1c1c1c]">
+    <section id="howiwork" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-10">
-          <div className="section-num mb-3">11 — How Avik Works</div>
+          <div className="section-num mb-3">08 — How Avik Works</div>
           <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">How Avik Works</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
@@ -1735,73 +1806,150 @@ function HowIWork() {
 /* ─── CASE STUDIES ──────────────────────────────────────────────────────── */
  
 function CaseStudies() {
+  const [activeCaseStudy, setActiveCaseStudy] = useState<(typeof CASE_STUDIES)[number] | null>(null);
+
+  useEffect(() => {
+    if (!activeCaseStudy) return;
+
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') setActiveCaseStudy(null);
+    };
+
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    document.addEventListener('keydown', handleKeyDown);
+
+    return () => {
+      document.body.style.overflow = previousOverflow;
+      document.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [activeCaseStudy]);
+
   return (
-    <section id="casestudies" className="py-14 relative z-10 border-t border-[#1c1c1c]">
+    <section id="casestudies" className="py-14 relative z-10 border-t border-[#1c1c1c] scroll-mt-16">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-10">
           <div className="section-num mb-3">06 — Case Studies</div>
           <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white leading-tight">Featured Case Studies</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4 mb-6" />
-          <p className="text-[#777] text-sm max-w-3xl leading-relaxed">
-            A shorter, cleaner view of the themes behind Avik's portfolio — sanitized product and architecture case studies without client-specific or confidential information.
-          </p>
+          <p className="text-[#777] text-sm max-w-3xl leading-relaxed">Sanitized product and architecture case studies showing the problem, design approach, capabilities, business value, and my role—without client-specific or confidential information.</p>
         </div>
- 
+
         <div className="grid lg:grid-cols-3 gap-4">
-          {CASE_STUDIES.map((cs, i) => {
-            const accent = i % 2 === 0 ? '#39FF14' : '#00BFFF';
-            const accentRgb = i % 2 === 0 ? '57,255,20' : '0,191,255';
+          {CASE_STUDIES.map((caseStudy, index) => {
+            const accent = index % 2 === 0 ? '#39FF14' : '#00BFFF';
+            const accentRgb = index % 2 === 0 ? '57,255,20' : '0,191,255';
+
             return (
-              <div id={`case-study-${cs.id}`} key={cs.id} className="reveal scroll-mt-24 group relative bg-[#0c0c0c] border border-[#1a1a1a] rounded-2xl overflow-hidden hover:border-[#39FF14]/25 transition-all duration-300">
+              <article id={`case-study-${caseStudy.id}`} key={caseStudy.id} className="reveal scroll-mt-24 group relative bg-[#0c0c0c] border border-[#1a1a1a] rounded-2xl overflow-hidden hover:border-[#39FF14]/25 transition-all duration-300">
                 <div className="relative h-44 overflow-hidden">
-                  <img
-                    src={cs.image}
-                    alt={cs.title}
-                    className="w-full h-full object-cover opacity-45 group-hover:opacity-60 transition-opacity duration-300"
-                  />
+                  <img src={caseStudy.image} alt="" loading="lazy" className="w-full h-full object-cover opacity-45 group-hover:opacity-60 transition-opacity duration-300" />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#0c0c0c] via-[#0c0c0c]/70 to-transparent" />
-                  <div
-                    className="absolute inset-0 opacity-20"
-                    style={{ background: `radial-gradient(ellipse at 70% 30%, rgba(${accentRgb},0.45), transparent 60%)` }}
-                  />
+                  <div className="absolute inset-0 opacity-20" style={{ background: `radial-gradient(ellipse at 70% 30%, rgba(${accentRgb},0.45), transparent 60%)` }} />
                 </div>
- 
+
                 <div className="p-6">
-                  <div className="flex items-center gap-3 mb-4">
-                    <span
-                      className="text-[9px] font-black uppercase tracking-[0.3em] px-2.5 py-1 rounded-full border"
-                      style={{ color: accent, borderColor: `rgba(${accentRgb},0.3)`, backgroundColor: `rgba(${accentRgb},0.06)` }}
-                    >
-                      {cs.num} — Case Study
-                    </span>
-                  </div>
- 
-                  <h3 className="text-white text-base font-black uppercase tracking-wide leading-snug mb-3">
-                    {cs.title}
-                  </h3>
- 
-                  <p className="text-[#777] text-sm leading-relaxed mb-5">
-                    {cs.positioning}
-                  </p>
- 
-                  <div className="flex flex-wrap gap-1.5 mb-5">
-                    {cs.tags.slice(0, 4).map((tag) => (
-                      <span key={tag} className="text-[10px] px-2.5 py-0.5 rounded-full border border-[#222] text-[#666] font-medium tracking-wide">
-                        {tag}
-                      </span>
+                  <span className="inline-flex text-[9px] font-black uppercase tracking-[0.3em] px-2.5 py-1 rounded-full border mb-4" style={{ color: accent, borderColor: `rgba(${accentRgb},0.3)`, backgroundColor: `rgba(${accentRgb},0.06)` }}>{caseStudy.num} — Case Study</span>
+                  <h3 className="text-white text-base font-black uppercase tracking-wide leading-snug mb-3">{caseStudy.title}</h3>
+                  <p className="text-[#777] text-sm leading-relaxed mb-5">{caseStudy.positioning}</p>
+
+                  <div className="flex flex-wrap gap-1.5 mb-6">
+                    {caseStudy.tags.slice(0, 4).map((tag) => (
+                      <span key={tag} className="text-[10px] px-2.5 py-0.5 rounded-full border border-[#222] text-[#666] font-medium tracking-wide">{tag}</span>
                     ))}
                   </div>
- 
-                  <div className="flex items-center gap-2 text-xs font-black uppercase tracking-[0.18em]" style={{ color: accent }}>
-                    <span>Product strategy · Architecture · Execution</span>
-                    <CircleDot className="w-3 h-3" />
-                  </div>
+
+                  <button
+                    type="button"
+                    onClick={() => setActiveCaseStudy(caseStudy)}
+                    className="inline-flex items-center gap-2 text-xs font-black uppercase tracking-[0.18em] rounded-md focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
+                    style={{ color: accent }}
+                  >
+                    Read Full Case Study
+                    <ArrowUpRight aria-hidden="true" className="w-4 h-4" />
+                  </button>
                 </div>
-              </div>
+              </article>
             );
           })}
         </div>
       </div>
+
+      {activeCaseStudy && (
+        <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/80 backdrop-blur-sm p-4" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) setActiveCaseStudy(null); }}>
+          <div role="dialog" aria-modal="true" aria-labelledby="case-study-dialog-title" className="relative max-h-[90vh] w-full max-w-5xl overflow-y-auto rounded-2xl border border-[#252525] bg-[#0b0b0b] shadow-2xl shadow-black/70">
+            <button type="button" onClick={() => setActiveCaseStudy(null)} aria-label="Close case study" className="sticky top-4 z-20 ml-auto mr-4 mt-4 flex h-10 w-10 items-center justify-center rounded-full border border-[#2a2a2a] bg-[#111] text-[#777] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50">
+              <X aria-hidden="true" className="h-4 w-4" />
+            </button>
+
+            <div className="px-6 pb-10 sm:px-10">
+              <div className="max-w-4xl">
+                <div className="text-[10px] font-black uppercase tracking-[0.28em] text-[#39FF14] mb-3">{activeCaseStudy.category}</div>
+                <h3 id="case-study-dialog-title" className="text-3xl sm:text-4xl font-black uppercase tracking-tight text-white mb-5">{activeCaseStudy.title}</h3>
+                <p className="text-[#999] leading-relaxed mb-8">{activeCaseStudy.positioning}</p>
+              </div>
+
+              <div className="grid lg:grid-cols-2 gap-5 mb-5">
+                <div className="rounded-xl border border-[#1d1d1d] bg-[#090909] p-6">
+                  <h4 className="text-xs font-black uppercase tracking-[0.22em] text-[#39FF14] mb-3">The Problem</h4>
+                  <p className="text-sm leading-relaxed text-[#777]">{activeCaseStudy.challenge}</p>
+                </div>
+                <div className="rounded-xl border border-[#1d1d1d] bg-[#090909] p-6">
+                  <h4 className="text-xs font-black uppercase tracking-[0.22em] text-[#00BFFF] mb-3">What I Designed</h4>
+                  <p className="text-sm leading-relaxed text-[#777]">{activeCaseStudy.builtIntro}</p>
+                </div>
+              </div>
+
+              <div className="grid lg:grid-cols-2 gap-5 mb-5">
+                <div className="rounded-xl border border-[#1d1d1d] bg-[#090909] p-6">
+                  <h4 className="text-xs font-black uppercase tracking-[0.22em] text-[#39FF14] mb-4">Core Capabilities</h4>
+                  <ul className="space-y-2">
+                    {activeCaseStudy.builtCapabilities.map((item) => (
+                      <li key={item} className="flex gap-2 text-sm text-[#777]"><ChevronRight aria-hidden="true" className="mt-0.5 h-4 w-4 flex-shrink-0 text-[#39FF14]" />{item}</li>
+                    ))}
+                  </ul>
+                </div>
+                <div className="rounded-xl border border-[#1d1d1d] bg-[#090909] p-6">
+                  <h4 className="text-xs font-black uppercase tracking-[0.22em] text-[#00BFFF] mb-3">Product Questions Addressed</h4>
+                  <p className="text-sm leading-relaxed text-[#666] mb-4">{activeCaseStudy.thinkingIntro}</p>
+                  <ul className="space-y-2">
+                    {activeCaseStudy.thinkingQuestions.map((item) => (
+                      <li key={item} className="flex gap-2 text-sm text-[#777]"><CircleDot aria-hidden="true" className="mt-1 h-3 w-3 flex-shrink-0 text-[#00BFFF]" />{item}</li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+
+              <div className="rounded-xl border border-[#1d1d1d] bg-[#090909] p-6 mb-5">
+                <h4 className="text-xs font-black uppercase tracking-[0.22em] text-[#39FF14] mb-4">Architecture Flow</h4>
+                <div className="grid md:grid-cols-3 gap-4">
+                  {activeCaseStudy.flow.map((stage) => (
+                    <div key={stage.label} className="rounded-lg border border-[#1c1c1c] bg-[#0c0c0c] p-4">
+                      <div className="text-[10px] font-black uppercase tracking-[0.18em] text-white mb-3">{stage.label}</div>
+                      <div className="space-y-2">
+                        {stage.nodes.map((node) => (
+                          <div key={node.label} className="flex items-center gap-2 text-xs text-[#666]"><node.Icon aria-hidden="true" className="h-4 w-4 text-[#39FF14]" />{node.label}</div>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              <div className="grid lg:grid-cols-2 gap-5">
+                <div className="rounded-xl border border-[#1d1d1d] bg-[#090909] p-6">
+                  <h4 className="text-xs font-black uppercase tracking-[0.22em] text-[#39FF14] mb-3">Business Value</h4>
+                  <p className="text-sm leading-relaxed text-[#777]">{activeCaseStudy.value}</p>
+                </div>
+                <div className="rounded-xl border border-[#1d1d1d] bg-[#090909] p-6">
+                  <h4 className="text-xs font-black uppercase tracking-[0.22em] text-[#00BFFF] mb-3">My Role</h4>
+                  <p className="text-sm leading-relaxed text-[#777]">{activeCaseStudy.role}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
     </section>
   );
 }
@@ -1831,7 +1979,7 @@ function BeyondWork() {
     <section id="beyondwork" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-10">
-          <div className="section-num mb-3">09 — Beyond Work</div>
+          <div className="section-num mb-3">10 — Beyond Work</div>
           <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">
             Aviation & Flight Tracking
           </h2>
@@ -1945,7 +2093,7 @@ function Contact() {
     <section id="contact" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-4xl mx-auto px-6">
         <div className="reveal text-center mb-8">
-          <div className="section-num mb-3">10 — Contact</div>
+          <div className="section-num mb-3">11 — Contact</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white mb-2">Let's Connect</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mx-auto mt-4 mb-6" />
           <p className="text-[#666] max-w-lg mx-auto text-sm">
@@ -1959,7 +2107,7 @@ function Contact() {
               { icon: <Mail className="w-5 h-5 text-[#39FF14]" />, label: 'Email', sub: 'avik.nandi@outlook.com', url: 'mailto:avik.nandi@outlook.com' },
               { icon: <Linkedin className="w-5 h-5 text-[#39FF14]" />, label: 'LinkedIn', sub: 'linkedin.com/in/avikz', url: 'https://www.linkedin.com/in/avikz/' },
               { icon: <GraduationCap className="w-5 h-5 text-[#39FF14]" />, label: 'Google Scholar', sub: 'View Citations', url: 'https://scholar.google.com/citations?user=Tag_oNkAAAAJ&hl=en&oi=ao' },
-              { icon: <FileText className="w-5 h-5 text-[#39FF14]" />, label: 'Medium', sub: '20+ Articles', url: 'https://medium.com/@avikcincy' },
+              { icon: <FileText className="w-5 h-5 text-[#39FF14]" />, label: 'Medium', sub: `${MEDIUM_ARTICLES.length} Articles`, url: 'https://medium.com/@avikcincy' },
               { icon: <BookOpen className="w-5 h-5 text-[#39FF14]" />, label: 'Amazon — Finance Book', sub: 'The Evolution of Financial Systems in the Age of AI & Stablecoins', url: 'https://www.amazon.com/Evolution-Financial-Systems-Age-Stablecoins/dp/B0GVL7Q4GG/' },
               { icon: <BookMarked className="w-5 h-5 text-[#39FF14]" />, label: 'Amazon — Novel', sub: 'THE ARCHITECT · Novel: Interrupted Sequences', url: 'https://www.amazon.com/ARCHITECT-Novel-Interrupted-Sequences/dp/B0H4Z26CZ9/' },
               { icon: <Github className="w-5 h-5 text-[#39FF14]" />, label: 'GitHub', sub: 'avikcincy-sanju', url: 'https://github.com/avikcincy-sanju' },
@@ -2021,8 +2169,9 @@ export default function App() {
         <IndustryIntelligenceTicker />
         <Projects />
         <CaseStudies />
-        <Research />
         <Experience />
+        <HowIWork />
+        <Research />
         <BeyondWork />
         <Contact />
       </main>
