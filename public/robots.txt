@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://avikcincy-sanju.github.io/mybio/sitemap.xml
+Sitemap: https://aviknandi.com/sitemap.xml
