@@ -1,14 +1,26 @@
 {
-  "name": "Avik Nandi Portfolio",
+  "name": "Avik Nandi — Payments, AI & Merchant Platforms",
   "short_name": "Avik Nandi",
-  "description": "Payments, AI, merchant platforms, independent fintech products, and published research by Avik Nandi.",
-  "start_url": "/mybio/",
-  "scope": "/mybio/",
+  "description": "Executive portfolio of Avik Nandi, a product leader focused on payments, artificial intelligence, merchant platforms, stablecoins, multi-rail orchestration, and agentic commerce.",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait-primary",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
+  "lang": "en-US",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
