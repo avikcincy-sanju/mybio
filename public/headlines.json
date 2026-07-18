@@ -1,12 +1,47 @@
 {
-  "updatedAt": "2026-07-17T14:05:42.602Z",
+  "updatedAt": "2026-07-18T13:52:38.164Z",
   "headlines": [
+    {
+      "category": "Payments",
+      "title": "Banks Are Winning the Sponsorship and Losing the Loyalty",
+      "source": "Finextra",
+      "date": "Jul 17, 2026",
+      "url": "https://www.finextra.com/blogposting/32314/banks-are-winning-the-sponsorship-and-losing-the-loyalty"
+    },
+    {
+      "category": "Payments",
+      "title": "B2B payments fintech Pliant targets US via Coastal partnership",
+      "source": "Finextra",
+      "date": "Jul 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110448/b2b-payments-fintech-pliant-targets-us-via-coastal-partnership"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "FIS and Anthropic extend partnership",
+      "source": "Finextra",
+      "date": "Jul 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110447/fis-and-anthropic-extend-partnership"
+    },
     {
       "category": "Settlement & Treasury",
       "title": "How Cross-Border is Growing to Mirror Domestic Ease",
       "source": "Finextra",
       "date": "Jul 17, 2026",
       "url": "https://www.finextra.com/videoarticle/3567/how-cross-border-is-growing-to-mirror-domestic-ease"
+    },
+    {
+      "category": "Payments",
+      "title": "PayPal board considers $53bn Stripe-Advent offer inadequate - Reuters",
+      "source": "Finextra",
+      "date": "Jul 17, 2026",
+      "url": "https://www.finextra.com/newsarticle/48116/paypal-board-considers-53bn-stripe-advent-offer-inadequate---reuters"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Accuracy Is the Wrong Scoreboard for AI in Finance",
+      "source": "Finextra",
+      "date": "Jul 17, 2026",
+      "url": "https://www.finextra.com/blogposting/32313/accuracy-is-the-wrong-scoreboard-for-ai-in-finance"
     },
     {
       "category": "Payment Infrastructure",
@@ -35,41 +70,6 @@
       "source": "Finextra",
       "date": "Jul 17, 2026",
       "url": "https://www.finextra.com/newsarticle/48112/alipay-enables-qr-code-payments-for-travellers-to-argentina"
-    },
-    {
-      "category": "Payments",
-      "title": "The Future of Corporate Banking for SMEs",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/blogposting/32294/the-future-of-corporate-banking-for-smes"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Beyond the Balance Sheet: 5 Surprising Truths About the Future of European Fraud",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/blogposting/32308/beyond-the-balance-sheet-5-surprising-truths-about-the-future-of-european-fraud"
-    },
-    {
-      "category": "Payments",
-      "title": "Universal Commerce Protocol (UCP) will unlock new possibilities",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/blogposting/32304/universal-commerce-protocol-ucp-will-unlock-new-possibilities"
-    },
-    {
-      "category": "Payments",
-      "title": "Mastercard rolls out service to help developers build mobile wallets",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48108/mastercard-rolls-out-service-to-help-developers-build-mobile-wallets"
-    },
-    {
-      "category": "Payments",
-      "title": "H1 global fintech funding grows 23% YoY",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48109/h1-global-fintech-funding-grows-23-yoy"
     }
   ]
 }
