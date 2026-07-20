@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-07-19T13:56:11.788Z",
+  "updatedAt": "2026-07-20T14:34:53.684Z",
   "headlines": [
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "The Impact of AI and Other New Technologies on Payment Hubs",
+      "source": "Finextra",
+      "date": "Jul 20, 2026",
+      "url": "https://www.finextra.com/videoarticle/3569/the-impact-of-ai-and-other-new-technologies-on-payment-hubs"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "MoonPay acquires Glide for crypto deposits",
+      "source": "Finextra",
+      "date": "Jul 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/110455/moonpay-acquires-glide-for-crypto-deposits"
+    },
+    {
+      "category": "Payments",
+      "title": "ACI Worldwide explores sale of billing division",
+      "source": "Finextra",
+      "date": "Jul 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48121/aci-worldwide-explores-sale-of-billing-division"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "HSBC joins EPAA agentic AI working group as founding member",
+      "source": "Finextra",
+      "date": "Jul 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/110454/hsbc-joins-epaa-agentic-ai-working-group-as-founding-member"
+    },
+    {
+      "category": "Payments",
+      "title": "EPI embarks on next phase of iDeal transition to Wero",
+      "source": "Finextra",
+      "date": "Jul 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/110453/epi-embarks-on-next-phase-of-ideal-transition-to-wero"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Stablecoin infrastructure startup Cyclops raises $20 million",
+      "source": "Finextra",
+      "date": "Jul 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/110452/stablecoin-infrastructure-startup-cyclops-raises-20-million"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Teya expands business account with bill payments and cash back cards",
+      "source": "Finextra",
+      "date": "Jul 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/110451/teya-expands-business-account-with-bill-payments-and-cash-back-cards"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Lumin Digital raises $70 million from its clients",
+      "source": "Finextra",
+      "date": "Jul 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48118/lumin-digital-raises-70-million-from-its-clients"
+    },
+    {
+      "category": "Payments",
+      "title": "Deep Dive: How to Add Data Intelligence to a Multi-PSP Payment Stack",
+      "source": "Finextra",
+      "date": "Jul 19, 2026",
+      "url": "https://www.finextra.com/blogposting/32301/deep-dive-how-to-add-data-intelligence-to-a-multi-psp-payment-stack"
+    },
     {
       "category": "Payments",
       "title": "Banks Are Winning the Sponsorship and Losing the Loyalty",
       "source": "Finextra",
       "date": "Jul 17, 2026",
       "url": "https://www.finextra.com/blogposting/32314/banks-are-winning-the-sponsorship-and-losing-the-loyalty"
-    },
-    {
-      "category": "Payments",
-      "title": "B2B payments fintech Pliant targets US via Coastal partnership",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110448/b2b-payments-fintech-pliant-targets-us-via-coastal-partnership"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "FIS and Anthropic extend partnership",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110447/fis-and-anthropic-extend-partnership"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "How Cross-Border is Growing to Mirror Domestic Ease",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/videoarticle/3567/how-cross-border-is-growing-to-mirror-domestic-ease"
-    },
-    {
-      "category": "Payments",
-      "title": "PayPal board considers $53bn Stripe-Advent offer inadequate - Reuters",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48116/paypal-board-considers-53bn-stripe-advent-offer-inadequate---reuters"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Accuracy Is the Wrong Scoreboard for AI in Finance",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/blogposting/32313/accuracy-is-the-wrong-scoreboard-for-ai-in-finance"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "BBVA becomes first Spanish bank to launch Swift’s new global retail payments scheme",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110445/bbva-becomes-first-spanish-bank-to-launch-swifts-new-global-retail-payments-scheme"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Britain won’t regulate its way to AI leadership – it’s up to banks to take the first steps",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/blogposting/32311/britain-wont-regulate-its-way-to-ai-leadership--its-up-to-banks-to-take-the-first-steps"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Which Enterprise Tokenized Deposit Use Cases Have the Strongest Business Case?",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/blogposting/32310/which-enterprise-tokenized-deposit-use-cases-have-the-strongest-business-case"
-    },
-    {
-      "category": "Payments",
-      "title": "Alipay+ enables QR code payments for travellers to Argentina",
-      "source": "Finextra",
-      "date": "Jul 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48112/alipay-enables-qr-code-payments-for-travellers-to-argentina"
     }
   ]
 }
