@@ -16,6 +16,7 @@ const PROJECTS = [
   {
     title: 'Agentic Money Movement',
     desc: 'Interactive command center prototype for agent-directed money movement, multi-rail orchestration, controls, and real-time operational decisioning.',
+    value: 'Explores how governed AI agents can select rails, execute money movement, and surface operational decisions.',
     tags: ['Agentic AI', 'Money Movement', 'Orchestration'],
     demoUrl: 'https://avikcincy-sanju.github.io/agentic-money-movement-command-center/',
     sourceUrl: 'https://github.com/avikcincy-sanju/agentic-money-movement-command-center',
@@ -28,6 +29,7 @@ const PROJECTS = [
   {
     title: 'Payment Intelligence',
     desc: 'AI-driven multi-rail payment routing with real-time orchestration logic and analytics dashboard.',
+    value: 'Helps payment teams compare routing, cost, settlement, and performance signals across rails.',
     tags: ['AI', 'Payments', 'Analytics'],
     demoUrl: 'https://avikcincy-sanju.github.io/Payment_Intelligence/',
     sourceUrl: 'https://github.com/avikcincy-sanju/Payment_Intelligence',
@@ -38,6 +40,7 @@ const PROJECTS = [
   {
     title: 'BNPL Calculator',
     desc: 'Buy Now Pay Later cost and conversion calculator for merchants evaluating BNPL adoption economics.',
+    value: 'Quantifies whether conversion improvement offsets higher BNPL acceptance costs.',
     tags: ['BNPL', 'FinTech', 'Calculator'],
     demoUrl: 'https://avikcincy-sanju.github.io/BNPL_Cost_Conversion_Calculator/',
     sourceUrl: 'https://github.com/avikcincy-sanju/BNPL_Cost_Conversion_Calculator',
@@ -47,6 +50,7 @@ const PROJECTS = [
   {
     title: 'AI Route Advisor',
     desc: 'AI-powered payment route advisor using ML models to optimize authorization rates and reduce costs.',
+    value: 'Demonstrates how routing decisions can balance authorization performance, cost, and operational constraints.',
     tags: ['AI', 'Routing', 'ML'],
     demoUrl: 'https://avikcincy-sanju.github.io/AI_SBC_Route_Advisor/',
     sourceUrl: 'https://github.com/avikcincy-sanju/AI_SBC_Route_Advisor',
@@ -57,6 +61,7 @@ const PROJECTS = [
   {
     title: 'MCP Agentic Commerce',
     desc: 'Model Context Protocol demo for agentic commerce — autonomous AI agents orchestrating payments.',
+    value: 'Shows how tool-enabled AI agents can evaluate and orchestrate governed commerce workflows.',
     tags: ['MCP', 'Agentic', 'AI'],
     demoUrl: 'https://avikcincy-sanju.github.io/MCPDemo/',
     sourceUrl: 'https://github.com/avikcincy-sanju/MCPDemo',
@@ -67,6 +72,7 @@ const PROJECTS = [
   {
     title: 'GTM & Ops Simulator',
     desc: 'Platform Payments GTM and Operating Model Simulator for strategy teams evaluating go-to-market plays.',
+    value: 'Turns platform-strategy assumptions into clearer go-to-market, operating-model, and prioritization decisions.',
     tags: ['GTM', 'Strategy', 'Simulator'],
     demoUrl: 'https://avikcincy-sanju.github.io/GTM_Ops_Simulator/',
     sourceUrl: 'https://github.com/avikcincy-sanju/GTM_Ops_Simulator',
@@ -76,6 +82,7 @@ const PROJECTS = [
   {
     title: 'Stablecoin OS',
     desc: 'Stablecoin operating system prototype demonstrating treasury, settlement, and liquidity management.',
+    value: 'Models treasury, liquidity, settlement, and control requirements for enterprise stablecoin flows.',
     tags: ['Stablecoin', 'DeFi', 'Treasury'],
     demoUrl: 'https://avikcincy-sanju.github.io/stablecoinOS/',
     sourceUrl: 'https://github.com/avikcincy-sanju/stablecoinOS',
@@ -86,6 +93,7 @@ const PROJECTS = [
   {
     title: 'Agentic Commerce MCP',
     desc: 'Open-source MCP server implementation enabling AI agents to autonomously execute commerce transactions.',
+    value: 'Provides an open-source tool layer for structured AI-agent interactions with commerce and payment capabilities.',
     tags: ['Open Source', 'MCP', 'Commerce'],
     sourceUrl: 'https://github.com/avikcincy-sanju/agentic-commerce-mcp',
     caseStudyUrl: '#case-study-2',
@@ -95,6 +103,7 @@ const PROJECTS = [
   {
     title: 'Agentic Commerce Revenue Impact Simulator',
     desc: 'Synthetic framework simulator modeling revenue impact scenarios for agentic commerce adoption across merchant segments.',
+    value: 'Tests how agentic-commerce adoption assumptions translate into merchant-segment revenue scenarios.',
     tags: ['Agentic', 'Revenue', 'Simulator'],
     demoUrl: 'https://avikcincy-sanju.github.io/Agentic_commerce_rev_impact/',
     sourceUrl: 'https://github.com/avikcincy-sanju/Agentic_commerce_rev_impact',
@@ -105,9 +114,48 @@ const PROJECTS = [
   },
 ];
 
-// Nine cards are shown below; Merchant Intelligence Monitor is the tenth personal fintech build
-// and is featured separately in the Industry Intelligence section.
+// Nine cards are shown in the complete portfolio; Merchant Intelligence Monitor is the tenth
+// personal fintech build and is highlighted in Featured Live Builds and Industry Intelligence.
 const TOTAL_PERSONAL_FINTECH_BUILDS = PROJECTS.length + 1;
+
+const FEATURED_BUILDS = [
+  {
+    title: 'Agentic Money Movement',
+    category: 'Agentic Execution · Multi-Rail Money Movement',
+    desc: 'A command-center prototype for governed agent-directed money movement, rail selection, controls, and operational decisioning.',
+    value: 'Explores how AI agents can move from recommendations toward controlled financial execution.',
+    tags: ['Agentic AI', 'Money Movement', 'Controls'],
+    demoUrl: 'https://avikcincy-sanju.github.io/agentic-money-movement-command-center/',
+    sourceUrl: 'https://github.com/avikcincy-sanju/agentic-money-movement-command-center',
+    caseStudyUrl: '#case-study-2',
+    doiUrl: 'https://doi.org/10.5281/zenodo.21400904',
+    Icon: Coins,
+    accent: '#39FF14',
+  },
+  {
+    title: 'Payment Intelligence',
+    category: 'AI-Native Payments · Routing Intelligence',
+    desc: 'A multi-rail payment-intelligence experience combining routing, cost, settlement, and performance signals.',
+    value: 'Helps payment teams compare complex tradeoffs and move from fragmented reporting toward actionable decision support.',
+    tags: ['Payments', 'AI Routing', 'Analytics'],
+    demoUrl: 'https://avikcincy-sanju.github.io/Payment_Intelligence/',
+    sourceUrl: 'https://github.com/avikcincy-sanju/Payment_Intelligence',
+    caseStudyUrl: '#case-study-1',
+    Icon: TrendingUp,
+    accent: '#00BFFF',
+  },
+  {
+    title: 'Merchant Intelligence Monitor',
+    category: 'Industry Intelligence · Merchant Platforms',
+    desc: 'A live signal-monitoring product tracking developments across merchant payments, acquiring, platforms, stablecoins, and agentic commerce.',
+    value: 'Converts a fast-moving industry landscape into a focused stream of signals aligned to my core product expertise.',
+    tags: ['Merchant Signals', 'Payments News', 'Monitoring'],
+    demoUrl: 'https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/',
+    sourceUrl: 'https://github.com/avikcincy-sanju/Merchant-Intelligence-Edition',
+    Icon: Newspaper,
+    accent: '#39FF14',
+  },
+];
  
 const SSRN_PAPERS = [
   {
@@ -624,15 +672,16 @@ function Nav() {
   }, []);
 
   const primary = [
+    { label: 'Builds', href: 'featured-builds' },
     { label: 'About', href: 'about' },
     { label: 'Vision', href: 'productvision' },
-    { label: 'Builds', href: 'projects' },
     { label: 'Experience', href: 'experience' },
     { label: 'Research', href: 'research' },
     { label: 'Contact', href: 'contact' },
   ];
 
   const more = [
+    { label: 'All Product Builds', href: 'projects' },
     { label: 'Selected Impact', href: 'impact' },
     { label: 'Core Capabilities', href: 'capabilities' },
     { label: 'Case Studies', href: 'casestudies' },
@@ -748,7 +797,10 @@ function Hero() {
  
           {/* Text */}
           <div className="flex-1 text-center lg:text-left">
-            <div className="section-num mb-4">Product Leader — Payments, AI & Merchant Platforms</div>
+            <div className="section-num mb-3">Product Leader — Payments, AI & Merchant Platforms</div>
+            <div className="mb-5 text-[10px] font-black uppercase tracking-[0.2em] text-[#444]">
+              Executive Product Portfolio · Independent Fintech Product Lab
+            </div>
  
             <h1 className="text-6xl lg:text-8xl font-black mb-2 leading-none tracking-tight uppercase text-white">
               Avik
@@ -760,15 +812,15 @@ function Hero() {
             <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mb-6" />
  
             <p className="text-[#666] text-xs mb-6 font-semibold uppercase tracking-[0.18em]">
-              Driving Global Scale in MoR, Stablecoins & Multi-Rail Orchestration
+              Product Leadership Backed by Working Fintech Builds
             </p>
             <p className="text-[#888] text-base max-w-xl mb-10 leading-relaxed">
-              20+ years building and modernizing enterprise payment platforms — from merchant acquiring, MOR, and multi-rail orchestration to stablecoin settlement, AI-native commerce, and autonomous financial execution.
+              I lead and build across payments, merchant platforms, AI, stablecoins, and multi-rail money movement—combining 20+ years of industry experience with independently developed products, research, and working prototypes.
             </p>
  
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-12">
-              <a href="#projects" className="btn-primary">View Product Builds</a>
-              <a href="#research" className="btn-outline">Research & Papers</a>
+              <a href="#featured-builds" className="btn-primary">Explore Live Builds</a>
+              <a href="#impact" className="btn-outline">View Product Leadership</a>
               <a href="https://www.linkedin.com/in/avikz/" target="_blank" rel="noopener noreferrer" className="btn-outline">LinkedIn</a>
             </div>
  
@@ -791,6 +843,120 @@ function Hero() {
   );
 }
  
+/* ─── FEATURED LIVE BUILDS ───────────────────────────────────────────────── */
+
+function FeaturedBuilds() {
+  return (
+    <section id="featured-builds" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
+      <div className="max-w-6xl mx-auto px-6">
+        <div className="reveal mb-10">
+          <div className="section-num mb-3">Independent Fintech Product Lab</div>
+          <div className="flex flex-col gap-5 lg:flex-row lg:items-end lg:justify-between">
+            <div>
+              <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">Featured Live Builds</h2>
+              <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
+            </div>
+            <a
+              href="#projects"
+              className="inline-flex items-center gap-2 self-start rounded-md border border-[#2a2a2a] px-4 py-2.5 text-[10px] font-black uppercase tracking-[0.16em] text-[#777] hover:border-[#39FF14]/40 hover:text-[#39FF14] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 lg:self-auto"
+            >
+              Explore All {TOTAL_PERSONAL_FINTECH_BUILDS} Builds
+              <ArrowRight aria-hidden="true" className="w-4 h-4" />
+            </a>
+          </div>
+          <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
+            Working fintech products independently designed and built by Avik Nandi to explore emerging payment architectures, merchant intelligence, agentic commerce, stablecoins, and multi-rail money movement.
+          </p>
+        </div>
+
+        <div className="grid lg:grid-cols-3 gap-4">
+          {FEATURED_BUILDS.map((build, index) => (
+            <article
+              key={build.title}
+              className="reveal group relative flex min-h-full flex-col overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#0c0c0c] p-6 transition-all duration-300 hover:-translate-y-1 hover:border-[#39FF14]/25"
+            >
+              <div
+                aria-hidden="true"
+                className="absolute inset-x-0 top-0 h-[2px] opacity-70"
+                style={{ background: `linear-gradient(to right, transparent, ${build.accent}, transparent)` }}
+              />
+
+              <div className="flex items-start justify-between gap-4 mb-6">
+                <div
+                  className="flex h-12 w-12 items-center justify-center rounded-xl border bg-[#080808]"
+                  style={{ borderColor: `${build.accent}33` }}
+                >
+                  <build.Icon className="h-6 w-6" style={{ color: build.accent }} />
+                </div>
+                <div className="text-right">
+                  <div className="text-[9px] font-black uppercase tracking-[0.2em]" style={{ color: build.accent }}>
+                    Featured Build
+                  </div>
+                  <div className="mt-1 text-[9px] font-mono text-[#333]">0{index + 1} / 03</div>
+                </div>
+              </div>
+
+              <div className="mb-3 text-[9px] font-black uppercase tracking-[0.2em] text-[#555]">{build.category}</div>
+              <h3 className="text-lg font-black uppercase tracking-wide text-white leading-tight mb-3">{build.title}</h3>
+              <p className="text-sm leading-relaxed text-[#777]">{build.desc}</p>
+
+              <div className="my-5 border-l-2 border-[#39FF14]/30 pl-3">
+                <div className="text-[9px] font-black uppercase tracking-[0.18em] text-[#39FF14]/70">Business Value</div>
+                <p className="mt-1 text-xs leading-relaxed text-[#666]">{build.value}</p>
+              </div>
+
+              <div className="flex flex-wrap gap-1.5">
+                {build.tags.map((tag) => (
+                  <span key={tag} className="rounded-full border border-[#222] px-2.5 py-1 text-[9px] font-bold uppercase tracking-wide text-[#666]">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+
+              <div className="mt-auto flex flex-wrap gap-2 border-t border-[#1a1a1a] pt-5 mt-6">
+                <a
+                  href={build.demoUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 rounded-md border border-[#39FF14]/25 bg-[#39FF14]/5 px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#39FF14] hover:bg-[#39FF14]/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
+                >
+                  Launch Demo <ArrowUpRight aria-hidden="true" className="w-3 h-3" />
+                </a>
+                <a
+                  href={build.sourceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 rounded-md border border-[#252525] px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#777] hover:border-[#444] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
+                >
+                  Source <Github aria-hidden="true" className="w-3 h-3" />
+                </a>
+                {'caseStudyUrl' in build && build.caseStudyUrl && (
+                  <a
+                    href={build.caseStudyUrl}
+                    className="inline-flex items-center gap-1.5 rounded-md border border-[#252525] px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#777] hover:border-[#444] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
+                  >
+                    Case Study <FileText aria-hidden="true" className="w-3 h-3" />
+                  </a>
+                )}
+                {'doiUrl' in build && build.doiUrl && (
+                  <a
+                    href={build.doiUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 rounded-md border border-[#00BFFF]/25 bg-[#00BFFF]/5 px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#00BFFF] hover:bg-[#00BFFF]/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00BFFF]/50"
+                  >
+                    DOI <Award aria-hidden="true" className="w-3 h-3" />
+                  </a>
+                )}
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
 /* ─── ABOUT ─────────────────────────────────────────────────────────────── */
  
 function About() {
@@ -798,7 +964,7 @@ function About() {
     <section id="about" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-8">
-          <div className="section-num mb-3">01 — About</div>
+          <div className="section-num mb-3">02 — About</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Executive Profile</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
         </div>
@@ -997,7 +1163,7 @@ function SelectedImpact() {
     <section id="impact" className="py-14 relative z-10 border-t border-[#1c1c1c] scroll-mt-16">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-10">
-          <div className="section-num mb-3">02 — Selected Impact</div>
+          <div className="section-num mb-3">01 — Selected Impact</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white">Selected Impact</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
           <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
@@ -1249,10 +1415,10 @@ function Projects() {
     <section id="projects" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-8">
-          <div className="section-num mb-3">05 — Product Builds</div>
+          <div className="section-num mb-3">05 — Complete Product Portfolio</div>
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
-              <h2 className="text-5xl font-black uppercase tracking-tight text-white">Live Product Builds</h2>
+              <h2 className="text-5xl font-black uppercase tracking-tight text-white">Explore All Fintech Builds</h2>
               <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
             </div>
             <div className="rounded-full border border-[#39FF14]/20 bg-[#39FF14]/5 px-4 py-2 text-[10px] font-black uppercase tracking-[0.2em] text-[#39FF14]">
@@ -1260,7 +1426,7 @@ function Projects() {
             </div>
           </div>
           <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
-            Every fintech application shown here is an independently created personal build. Nine are presented below; my Merchant Intelligence Monitor is featured in the industry-headline section above.
+            A broader portfolio of independently created fintech products spanning payment intelligence, agentic commerce, money movement, stablecoins, BNPL, routing, merchant monitoring, and product strategy. Nine are presented below; Merchant Intelligence is highlighted in Featured Live Builds and Industry Intelligence.
           </p>
         </div>
  
@@ -1279,6 +1445,10 @@ function Projects() {
               </div>
               <h3 className="text-sm font-black text-white mb-2 uppercase tracking-wide">{p.title}</h3>
               <p className="text-[#666] text-sm leading-relaxed flex-1">{p.desc}</p>
+              <div className="mt-4 border-l-2 border-[#39FF14]/30 pl-3">
+                <div className="text-[9px] font-black uppercase tracking-[0.18em] text-[#39FF14]/70">Business Value</div>
+                <p className="mt-1 text-xs leading-relaxed text-[#555]">{p.value}</p>
+              </div>
               {p.meta && <p className="text-[#444] text-xs mt-3 font-mono leading-relaxed">{p.meta}</p>}
               <div className="flex flex-wrap gap-1.5 mt-5">
                 {p.tags.map(t => <span key={t} className="badge badge-cyan text-[#666]">{t}</span>)}
@@ -2162,12 +2332,13 @@ export default function App() {
       <Nav />
       <main>
         <Hero />
-        <About />
+        <FeaturedBuilds />
         <SelectedImpact />
+        <About />
         <CoreCapabilities />
         <ProductVision />
-        <IndustryIntelligenceTicker />
         <Projects />
+        <IndustryIntelligenceTicker />
         <CaseStudies />
         <Experience />
         <HowIWork />
