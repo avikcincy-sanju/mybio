@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-07-21T14:26:06.610Z",
+  "updatedAt": "2026-07-22T14:26:49.040Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Orion rockets past $6 trillion in assets as AI adoption accelerates",
+      "category": "Merchant Payments",
+      "title": "Intuit launches business credit card that syncs natively with QuickBooks",
       "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110465/orion-rockets-past-6-trillion-in-assets-as-ai-adoption-accelerates"
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110474/intuit-launches-business-credit-card-that-syncs-natively-with-quickbooks"
     },
     {
       "category": "Payments",
-      "title": "Expensify to bring spend management platform to the UK and EU",
+      "title": "Juspay integrates with Recurly to enable faster go-to-market for subscription businesses",
       "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110464/expensify-to-bring-spend-management-platform-to-the-uk-and-eu"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "RemitSo and Volume Payments partner to make UK and Europe remittances more cost-effective",
-      "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110463/remitso-and-volume-payments-partner-to-make-uk-and-europe-remittances-more-cost-effective"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Samsung unveils first credit card",
-      "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48128/samsung-unveils-first-credit-card"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "LemFi taps BVNK to move cross-border payments on to stablecoin rails",
-      "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110462/lemfi-taps-bvnk-to-move-cross-border-payments-on-to-stablecoin-rails"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer",
-      "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48124/bank-of-ireland-hires-citigroups-prag-sharma-as-chief-ai-officer"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "TP Bank selects terraPay for real-time cross-border payments",
-      "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110460/tp-bank-selects-terrapay-for-real-time-cross-border-payments"
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110473/juspay-integrates-with-recurly-to-enable-faster-go-to-market-for-subscription-businesses"
     },
     {
       "category": "AI & Fintech",
-      "title": "Why Reinforcement Learning Cannot Solve the Alert Queue",
+      "title": "Norway advisory and audit firm BDO selects Strise as AML technology provider",
       "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/blogposting/32318/why-reinforcement-learning-cannot-solve-the-alert-queue"
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110472/norway-advisory-and-audit-firm-bdo-selects-strise-as-aml-technology-provider"
     },
     {
       "category": "Payments",
-      "title": "Ant International raises $1.2 billion in Series A round",
+      "title": "Augustus secures $180 million Series B",
       "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48123/ant-international-raises-12-billion-in-series-a-round"
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/newsarticle/48134/augustus-secures-180-million-series-b"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Ramp opens stablecoin accounts",
+      "source": "Finextra",
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110471/ramp-opens-stablecoin-accounts"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Zilch joins forces with rewards platform Rezolve Ai",
+      "title": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
       "source": "Finextra",
-      "date": "Jul 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110459/zilch-joins-forces-with-rewards-platform-rezolve-ai"
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/newsarticle/48131/anthropic-to-support-ai-tests-in-fcas-supercharged-sandbox"
+    },
+    {
+      "category": "Payments",
+      "title": "Why Smart Routing Is Not Enough in B2B Payment Orchestration",
+      "source": "Finextra",
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/blogposting/32343/why-smart-routing-is-not-enough-in-b2b-payment-orchestration"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "BMLL and Sigma AI join forces",
+      "source": "Finextra",
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110468/bmll-and-sigma-ai-join-forces"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "Asian trading platform Mitrade selects Volt for instant payments in Europe",
+      "source": "Finextra",
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110467/asian-trading-platform-mitrade-selects-volt-for-instant-payments-in-europe"
+    },
+    {
+      "category": "Payments",
+      "title": "The New Currency in Payments Is Confidence",
+      "source": "Finextra",
+      "date": "Jul 22, 2026",
+      "url": "https://www.finextra.com/blogposting/32339/the-new-currency-in-payments-is-confidence"
     }
   ]
 }
