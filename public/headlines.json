@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-24T14:15:18.813Z",
+  "updatedAt": "2026-07-25T14:04:32.001Z",
   "headlines": [
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Marqeta and zerohash make stablecoins spendable on cards",
+      "source": "Finextra",
+      "date": "Jul 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/110495/marqeta-and-zerohash-make-stablecoins-spendable-on-cards"
+    },
+    {
+      "category": "Payments",
+      "title": "How Mid-Market Rates and Multi-Currency Accounts Protect SME Profit Margins",
+      "source": "Finextra",
+      "date": "Jul 24, 2026",
+      "url": "https://www.finextra.com/blogposting/32364/how-mid-market-rates-and-multi-currency-accounts-protect-sme-profit-margins"
+    },
     {
       "category": "Payments",
       "title": "Wise US national trust bank charter application rejected",
@@ -56,20 +70,6 @@
       "source": "Finextra",
       "date": "Jul 24, 2026",
       "url": "https://www.finextra.com/newsarticle/48142/leading-digital-assets-firms-pledge-15-million-to-establish-bitcoin-security-consortium"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Alipay+ partners with Hong Kong's Hang Seng Bank for cross-border QR code payments",
-      "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48141/alipay-partners-with-hong-kongs-hang-seng-bank-for-cross-border-qr-code-payments"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Visa and Lianlian enable China's first B2B agentic transaction",
-      "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/110488/visa-and-lianlian-enable-chinas-first-b2b-agentic-transaction"
     }
   ]
 }
