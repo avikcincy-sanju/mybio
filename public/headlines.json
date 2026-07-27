@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-07-26T14:02:06.916Z",
+  "updatedAt": "2026-07-27T15:16:51.861Z",
   "headlines": [
     {
+      "category": "AI & Agentic Commerce",
+      "title": "HSBC to open Singapore AI centre of excellence",
+      "source": "Finextra",
+      "date": "Jul 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48149/hsbc-to-open-singapore-ai-centre-of-excellence"
+    },
+    {
+      "category": "Payments",
+      "title": "EV Fraud. Why the Charging Revolution Has Opened a New Crime Frontier",
+      "source": "Finextra",
+      "date": "Jul 27, 2026",
+      "url": "https://www.finextra.com/blogposting/32377/ev-fraud-why-the-charging-revolution-has-opened-a-new-crime-frontier"
+    },
+    {
       "category": "Stablecoins & Digital Money",
-      "title": "Marqeta and zerohash make stablecoins spendable on cards",
+      "title": "Bitmart becomes latest crypto exchange to wind down operations",
       "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/110495/marqeta-and-zerohash-make-stablecoins-spendable-on-cards"
-    },
-    {
-      "category": "Payments",
-      "title": "How Mid-Market Rates and Multi-Currency Accounts Protect SME Profit Margins",
-      "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/blogposting/32364/how-mid-market-rates-and-multi-currency-accounts-protect-sme-profit-margins"
-    },
-    {
-      "category": "Payments",
-      "title": "Wise US national trust bank charter application rejected",
-      "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48144/wise-us-national-trust-bank-charter-application-rejected"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "IDenfy launches bank card verification platform",
-      "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/110492/idenfy-launches-bank-card-verification-platform"
-    },
-    {
-      "category": "Payments",
-      "title": "Billtrust launches AR Intelligence connection for Claude and Microsoft Copilot",
-      "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/110491/billtrust-launches-ar-intelligence-connection-for-claude-and-microsoft-copilot"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Mastercard expands virtual card programme",
-      "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/110490/mastercard-expands-virtual-card-programme"
+      "date": "Jul 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48148/bitmart-becomes-latest-crypto-exchange-to-wind-down-operations"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "The Most Auditable Thing an AI Can Say About a Market Is How Much It Will Move",
+      "title": "The Age of AI Industrialisation: Building Next Generation Banks",
       "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/blogposting/32361/the-most-auditable-thing-an-ai-can-say-about-a-market-is-how-much-it-will-move"
+      "date": "Jul 27, 2026",
+      "url": "https://www.finextra.com/blogposting/32376/the-age-of-ai-industrialisation-building-next-generation-banks"
     },
     {
       "category": "Payments",
-      "title": "Stripe becomes worldwide partner for Ryder Cup Europe",
+      "title": "Recurring payments are half of what banks process, and most banks still can't see them",
       "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/110489/stripe-becomes-worldwide-partner-for-ryder-cup-europe"
-    },
-    {
-      "category": "Payments",
-      "title": "Beyond the Bot: Why Human Support Still Matters in an Automated Payments Industry",
-      "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/blogposting/32360/beyond-the-bot-why-human-support-still-matters-in-an-automated-payments-industry"
+      "date": "Jul 27, 2026",
+      "url": "https://www.finextra.com/blogposting/32374/recurring-payments-are-half-of-what-banks-process-and-most-banks-still-cant-see-them"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Leading digital assets firms pledge $15 million to establish Bitcoin Security Consortium",
+      "title": "Formal MICA Regulation review: towards a stronger EU crypto market",
       "source": "Finextra",
-      "date": "Jul 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48142/leading-digital-assets-firms-pledge-15-million-to-establish-bitcoin-security-consortium"
+      "date": "Jul 27, 2026",
+      "url": "https://www.finextra.com/blogposting/32372/formal-mica-regulation-review-towards-a-stronger-eu-crypto-market"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Insurtech Corgi hits $4 billion valuation on latest raise",
+      "source": "Finextra",
+      "date": "Jul 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48145/insurtech-corgi-hits-4-billion-valuation-on-latest-raise"
+    },
+    {
+      "category": "Payments",
+      "title": "Digital Payments 2030: Why Intelligence, Not Infrastructure, Will Define the Next Decade",
+      "source": "Finextra",
+      "date": "Jul 26, 2026",
+      "url": "https://www.finextra.com/blogposting/32369/digital-payments-2030-why-intelligence-not-infrastructure-will-define-the-next-decade"
+    },
+    {
+      "category": "Payments",
+      "title": "Build the Join Key Before the Ledger",
+      "source": "Finextra",
+      "date": "Jul 26, 2026",
+      "url": "https://www.finextra.com/blogposting/32368/build-the-join-key-before-the-ledger"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Why frontier labs are quietly agreeing on fintech's memory problem",
+      "source": "Finextra",
+      "date": "Jul 26, 2026",
+      "url": "https://www.finextra.com/blogposting/32367/why-frontier-labs-are-quietly-agreeing-on-fintechs-memory-problem"
     }
   ]
 }
