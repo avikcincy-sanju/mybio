@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-07-28T14:41:36.005Z",
+  "updatedAt": "2026-07-29T14:33:31.753Z",
   "headlines": [
     {
-      "category": "Merchant Payments",
-      "title": "Corpay introduces agent card capability",
+      "category": "AI & Agentic Commerce",
+      "title": "ICE puts fixed income pricing data on leading AI platforms",
       "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/110512/corpay-introduces-agent-card-capability"
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/110528/ice-puts-fixed-income-pricing-data-on-leading-ai-platforms"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "ACI Worldwide and dLocal bring Latin American payment rails to global merchants",
+      "source": "Finextra",
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/110526/aci-worldwide-and-dlocal-bring-latin-american-payment-rails-to-global-merchants"
     },
     {
       "category": "Payments",
-      "title": "Apple partners Klarna for new hardware leasing programme",
+      "title": "PayPal and Amazon launch BNPL payments for customers in Germany and Austria",
       "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/110511/apple-partners-klarna-for-new-hardware-leasing-programme"
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/110525/paypal-and-amazon-launch-bnpl-payments-for-customers-in-germany-and-austria"
+    },
+    {
+      "category": "Payments",
+      "title": "Chargebacks in the Age of Mega Events: How to Build a Dispute-Ready Payments Operation",
+      "source": "Finextra",
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/blogposting/32404/chargebacks-in-the-age-of-mega-events-how-to-build-a-dispute-ready-payments-operation"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Fenergo launches Fen-AI to bring governed AI to client lifecycle management",
+      "title": "Opetek launches AI reasoning platform for intstitutional trading desks",
       "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/110510/fenergo-launches-fen-ai-to-bring-governed-ai-to-client-lifecycle-management"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Connexus Credit Union partners Alacriti for real-time payments",
-      "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/110509/connexus-credit-union-partners-alacriti-for-real-time-payments"
-    },
-    {
-      "category": "Payments",
-      "title": "Why Verification Is a Critical Bridge Against Fraud, but Not a Silver Bullet",
-      "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/videoarticle/3575/why-verification-is-a-critical-bridge-against-fraud-but-not-a-silver-bullet"
-    },
-    {
-      "category": "Payments",
-      "title": "X Money starts US rollout",
-      "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48157/x-money-starts-us-rollout"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "PEX secures $160m to scale payments, credit and finance automation platform",
-      "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48150/pex-secures-160m-to-scale-payments-credit-and-finance-automation-platform"
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/110522/opetek-launches-ai-reasoning-platform-for-intstitutional-trading-desks"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Singapore's MAS and ABS set up taskforce to boost cyber resiliance against AI-driven threats",
+      "title": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
       "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/110505/singapores-mas-and-abs-set-up-taskforce-to-boost-cyber-resiliance-against-ai-driven-threats"
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/newsarticle/48163/singapores-central-bank-convenes-ai-driven-cyber-and-technology-risk-taskforce"
     },
     {
       "category": "Payments",
-      "title": "UK Open Banking hits one billion payments milestone",
+      "title": "The Operational Cost of Payment Complexity",
       "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/110503/uk-open-banking-hits-one-billion-payments-milestone"
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/blogposting/32403/the-operational-cost-of-payment-complexity"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "IMF issues crypto asset warning to Brazil",
+      "title": "What Changes When Crypto Payments Become a Business Function",
       "source": "Finextra",
-      "date": "Jul 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48156/imf-issues-crypto-asset-warning-to-brazil"
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/blogposting/32402/what-changes-when-crypto-payments-become-a-business-function"
+    },
+    {
+      "category": "Payments",
+      "title": "Ebanx and Pagaleve blend Pix and BNPL to expand access to instalment plans in Brazil",
+      "source": "Finextra",
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/newsarticle/48159/ebanx-and-pagaleve-blend-pix-and-bnpl-to-expand-access-to-instalment-plans-in-brazil"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "SPP launches AI governance framework for pensions industry",
+      "source": "Finextra",
+      "date": "Jul 29, 2026",
+      "url": "https://www.finextra.com/newsarticle/48160/spp-launches-ai-governance-framework-for-pensions-industry"
     }
   ]
 }
