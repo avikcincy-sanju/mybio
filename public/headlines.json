@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-07-29T14:33:31.753Z",
+  "updatedAt": "2026-07-30T14:35:12.641Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "ICE puts fixed income pricing data on leading AI platforms",
+      "category": "Payments",
+      "title": "Unlimit scores MiCA licence",
       "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/110528/ice-puts-fixed-income-pricing-data-on-leading-ai-platforms"
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/110539/unlimit-scores-mica-licence"
     },
     {
       "category": "Merchant Payments",
-      "title": "ACI Worldwide and dLocal bring Latin American payment rails to global merchants",
+      "title": "Ecommpay brings full stack acquiring to PayControl",
       "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/110526/aci-worldwide-and-dlocal-bring-latin-american-payment-rails-to-global-merchants"
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/110538/ecommpay-brings-full-stack-acquiring-to-paycontrol"
     },
     {
-      "category": "Payments",
-      "title": "PayPal and Amazon launch BNPL payments for customers in Germany and Austria",
+      "category": "Merchant Payments",
+      "title": "Equals to acquire OFX",
       "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/110525/paypal-and-amazon-launch-bnpl-payments-for-customers-in-germany-and-austria"
-    },
-    {
-      "category": "Payments",
-      "title": "Chargebacks in the Age of Mega Events: How to Build a Dispute-Ready Payments Operation",
-      "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/blogposting/32404/chargebacks-in-the-age-of-mega-events-how-to-build-a-dispute-ready-payments-operation"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Opetek launches AI reasoning platform for intstitutional trading desks",
-      "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/110522/opetek-launches-ai-reasoning-platform-for-intstitutional-trading-desks"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
-      "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/newsarticle/48163/singapores-central-bank-convenes-ai-driven-cyber-and-technology-risk-taskforce"
-    },
-    {
-      "category": "Payments",
-      "title": "The Operational Cost of Payment Complexity",
-      "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/blogposting/32403/the-operational-cost-of-payment-complexity"
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/110537/equals-to-acquire-ofx"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "What Changes When Crypto Payments Become a Business Function",
+      "title": "MiFinity taps BVNK for global stablecoin payouts",
       "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/blogposting/32402/what-changes-when-crypto-payments-become-a-business-function"
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48171/mifinity-taps-bvnk-for-global-stablecoin-payouts"
     },
     {
       "category": "Payments",
-      "title": "Ebanx and Pagaleve blend Pix and BNPL to expand access to instalment plans in Brazil",
+      "title": "BNPL fintech Cashea raises $100 million",
       "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/newsarticle/48159/ebanx-and-pagaleve-blend-pix-and-bnpl-to-expand-access-to-instalment-plans-in-brazil"
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48170/bnpl-fintech-cashea-raises-100-million"
+    },
+    {
+      "category": "Payments",
+      "title": "Wise connects directly to PayNet, Malaysiaʼs national payments network",
+      "source": "Finextra",
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/110536/wise-connects-directly-to-paynet-malaysias-national-payments-network"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "SPP launches AI governance framework for pensions industry",
+      "title": "Lloyds aims for a further £2 billion in cost savings with AI to the fore",
       "source": "Finextra",
-      "date": "Jul 29, 2026",
-      "url": "https://www.finextra.com/newsarticle/48160/spp-launches-ai-governance-framework-for-pensions-industry"
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "AccountsIQ rolls out Paraglide AI agents to automate collections",
+      "source": "Finextra",
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/110535/accountsiq-rolls-out-paraglide-ai-agents-to-automate-collections"
+    },
+    {
+      "category": "Payments",
+      "title": "The rising threat of frictionless returns",
+      "source": "Finextra",
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/blogposting/32406/the-rising-threat-of-frictionless-returns"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "RBC and TD go live with Swift for international reail transfers",
+      "source": "Finextra",
+      "date": "Jul 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/110534/rbc-and-td-go-live-with-swift-for-international-reail-transfers"
     }
   ]
 }
