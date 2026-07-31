@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-07-30T14:35:12.641Z",
+  "updatedAt": "2026-07-31T14:39:00.075Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Unlimit scores MiCA licence",
+      "category": "Stablecoins & Digital Money",
+      "title": "Circle granted New York trust charter",
       "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/110539/unlimit-scores-mica-licence"
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/pressarticle/110544/circle-granted-new-york-trust-charter"
     },
     {
       "category": "Merchant Payments",
-      "title": "Ecommpay brings full stack acquiring to PayControl",
+      "title": "Appli signs Connect Credit Union",
       "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/110538/ecommpay-brings-full-stack-acquiring-to-paycontrol"
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/pressarticle/110543/appli-signs-connect-credit-union"
     },
     {
       "category": "Merchant Payments",
-      "title": "Equals to acquire OFX",
+      "title": "UniCredit, Accenture, and IBM join forces for pan-European banking expansion",
       "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/110537/equals-to-acquire-ofx"
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/pressarticle/110542/unicredit-accenture-and-ibm-join-forces-for-pan-european-banking-expansion"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "MiFinity taps BVNK for global stablecoin payouts",
+      "title": "South African crypto platform Luno to axe 20% of staff",
       "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/newsarticle/48171/mifinity-taps-bvnk-for-global-stablecoin-payouts"
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/newsarticle/48177/south-african-crypto-platform-luno-to-axe-20-of-staff"
     },
     {
-      "category": "Payments",
-      "title": "BNPL fintech Cashea raises $100 million",
+      "category": "Settlement & Treasury",
+      "title": "The Future of B2B Settlement in Global Travel",
       "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/newsarticle/48170/bnpl-fintech-cashea-raises-100-million"
-    },
-    {
-      "category": "Payments",
-      "title": "Wise connects directly to PayNet, Malaysiaʼs national payments network",
-      "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/110536/wise-connects-directly-to-paynet-malaysias-national-payments-network"
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/blogposting/32418/the-future-of-b2b-settlement-in-global-travel"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Lloyds aims for a further £2 billion in cost savings with AI to the fore",
+      "title": "Nobody in Banking Has a Budget for AI",
       "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore"
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/blogposting/32417/nobody-in-banking-has-a-budget-for-ai"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "AccountsIQ rolls out Paraglide AI agents to automate collections",
+      "category": "Stablecoins & Digital Money",
+      "title": "Lloyds Banking Group and Caixabank complete tokenised deposit transactions through Project Agorá",
       "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/110535/accountsiq-rolls-out-paraglide-ai-agents-to-automate-collections"
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/newsarticle/48176/lloyds-banking-group-and-caixabank-complete-tokenised-deposit-transactions-through-project-agor"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "FinregE publishes framework in preparation for FCA's 2026 Cryptoasset Regime",
+      "source": "Finextra",
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/pressarticle/110541/finrege-publishes-framework-in-preparation-for-fcas-2026-cryptoasset-regime"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Mastercard and National Bank of Egypt launch Egypt’s first USD corporate debit card",
+      "source": "Finextra",
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/newsarticle/48175/mastercard-and-national-bank-of-egypt-launch-egypts-first-usd-corporate-debit-card"
     },
     {
       "category": "Payments",
-      "title": "The rising threat of frictionless returns",
+      "title": "Why Regulatory Licenses Mask Root Operational Vulnerabilities at Scale",
       "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/blogposting/32406/the-rising-threat-of-frictionless-returns"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "RBC and TD go live with Swift for international reail transfers",
-      "source": "Finextra",
-      "date": "Jul 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/110534/rbc-and-td-go-live-with-swift-for-international-reail-transfers"
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/blogposting/32409/why-regulatory-licenses-mask-root-operational-vulnerabilities-at-scale"
     }
   ]
 }
