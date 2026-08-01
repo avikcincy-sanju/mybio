@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-07-31T14:39:00.075Z",
+  "updatedAt": "2026-08-01T13:58:29.427Z",
   "headlines": [
+    {
+      "category": "Settlement & Treasury",
+      "title": "Treasury and Liquidity: How Do Traditional Corporates and Modern Platforms Differ?",
+      "source": "Finextra",
+      "date": "Aug 1, 2026",
+      "url": "https://www.finextra.com/videoarticle/3576/treasury-and-liquidity-how-do-traditional-corporates-and-modern-platforms-differ"
+    },
+    {
+      "category": "Payments",
+      "title": "Your Best Customers Might Already Be Banking Somewhere Else",
+      "source": "Finextra",
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/blogposting/32422/your-best-customers-might-already-be-banking-somewhere-else"
+    },
+    {
+      "category": "Payments",
+      "title": "Did fintech Wise take a beating in the media for not getting a US banking licence?",
+      "source": "Finextra",
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/blogposting/32416/did-fintech-wise-take-a-beating-in-the-media-for-not-getting-a-us-banking-licence"
+    },
     {
       "category": "Stablecoins & Digital Money",
       "title": "Circle granted New York trust charter",
@@ -14,6 +35,13 @@
       "source": "Finextra",
       "date": "Jul 31, 2026",
       "url": "https://www.finextra.com/pressarticle/110543/appli-signs-connect-credit-union"
+    },
+    {
+      "category": "Payments",
+      "title": "Payments modernisation starts with deciding what the bank should own",
+      "source": "Finextra",
+      "date": "Jul 31, 2026",
+      "url": "https://www.finextra.com/blogposting/32420/payments-modernisation-starts-with-deciding-what-the-bank-should-own"
     },
     {
       "category": "Merchant Payments",
@@ -42,34 +70,6 @@
       "source": "Finextra",
       "date": "Jul 31, 2026",
       "url": "https://www.finextra.com/blogposting/32417/nobody-in-banking-has-a-budget-for-ai"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Lloyds Banking Group and Caixabank complete tokenised deposit transactions through Project Agorá",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/newsarticle/48176/lloyds-banking-group-and-caixabank-complete-tokenised-deposit-transactions-through-project-agor"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "FinregE publishes framework in preparation for FCA's 2026 Cryptoasset Regime",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/pressarticle/110541/finrege-publishes-framework-in-preparation-for-fcas-2026-cryptoasset-regime"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Mastercard and National Bank of Egypt launch Egypt’s first USD corporate debit card",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/newsarticle/48175/mastercard-and-national-bank-of-egypt-launch-egypts-first-usd-corporate-debit-card"
-    },
-    {
-      "category": "Payments",
-      "title": "Why Regulatory Licenses Mask Root Operational Vulnerabilities at Scale",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/blogposting/32409/why-regulatory-licenses-mask-root-operational-vulnerabilities-at-scale"
     }
   ]
 }
