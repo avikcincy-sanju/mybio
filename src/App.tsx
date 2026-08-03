@@ -1,3 +1,4 @@
+
 import { useEffect, useRef, useState } from 'react';
 import {
   Github, Linkedin, Mail, BookOpen, Globe,
@@ -8,11 +9,6 @@ import {
   ArrowRight, BarChart3, Shield, Layers, GitBranch, Workflow, Cpu as CpuIcon, CircleDot,
   Search, PenLine, FlaskConical, Users, Plane
 } from 'lucide-react';
-import HeroDepthScene from './components/three/HeroDepthScene.tsx';
-import InteractiveBuildWorld from './components/three/InteractiveBuildWorld.tsx';
-import ArchitectureStory3D from './components/three/ArchitectureStory3D.tsx';
-import TiltCard from './components/three/TiltCard.tsx';
-import './three.css';
  
 /* ─── DATA ──────────────────────────────────────────────────────────────── */
  
@@ -781,8 +777,7 @@ function Nav() {
  
 function Hero() {
   return (
-    <section id="hero" className="hero-with-depth relative min-h-screen flex items-center justify-center overflow-hidden grid-bg">
-      <HeroDepthScene />
+    <section id="hero" className="relative min-h-screen flex items-center justify-center overflow-hidden grid-bg">
       <div className="scan-line" />
       <div className="relative z-10 max-w-6xl mx-auto px-6 py-24 w-full">
         <div className="flex flex-col lg:flex-row items-center gap-16">
@@ -874,23 +869,11 @@ function FeaturedBuilds() {
           </p>
         </div>
 
-        <InteractiveBuildWorld
-          items={FEATURED_BUILDS.map(({ title, category, desc, value, demoUrl, sourceUrl, accent }) => ({
-            title,
-            category,
-            desc,
-            value,
-            demoUrl,
-            sourceUrl,
-            accent,
-          }))}
-        />
-
-        <div className="grid lg:grid-cols-3 gap-4 mt-8">
+        <div className="grid lg:grid-cols-3 gap-4">
           {FEATURED_BUILDS.map((build, index) => (
-            <TiltCard key={build.title} className="reveal h-full" intensity={7}>
-              <article
-                className="group relative flex h-full min-h-full flex-col overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#0c0c0c] p-6 transition-all duration-300 hover:border-[#39FF14]/25"
+            <article
+              key={build.title}
+              className="reveal group relative flex min-h-full flex-col overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#0c0c0c] p-6 transition-all duration-300 hover:-translate-y-1 hover:border-[#39FF14]/25"
             >
               <div
                 aria-hidden="true"
@@ -966,8 +949,7 @@ function FeaturedBuilds() {
                   </a>
                 )}
               </div>
-              </article>
-            </TiltCard>
+            </article>
           ))}
         </div>
       </div>
@@ -1779,9 +1761,7 @@ function ProductVision() {
           </p>
         </div>
  
-        <ArchitectureStory3D layers={cards} />
-
-        <div className="reveal mb-12 mt-10">
+        <div className="reveal mb-12">
           <div className="relative overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#080808] p-6 sm:p-8">
             <div className="absolute inset-0 bg-gradient-to-br from-[#39FF14]/[0.025] via-transparent to-[#00BFFF]/[0.025]" />
  
