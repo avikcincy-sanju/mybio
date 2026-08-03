@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-02T13:59:25.409Z",
+  "updatedAt": "2026-08-03T01:06:51.129Z",
   "headlines": [
+    {
+      "category": "AI & Fintech",
+      "title": "BofA to buy UK cybersecurity firm MDSec Consulting",
+      "source": "Finextra",
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/newsarticle/48179/bofa-to-buy-uk-cybersecurity-firm-mdsec-consulting"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Partior and OpenAssets PoC proves stablecoins and tokenised deposits can settle atomically",
+      "source": "Finextra",
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/newsarticle/48180/partior-and-openassets-poc-proves-stablecoins-and-tokenised-deposits-can-settle-atomically"
+    },
     {
       "category": "Settlement & Treasury",
       "title": "Treasury and Liquidity: How Do Traditional Corporates and Modern Platforms Differ?",
@@ -56,20 +70,6 @@
       "source": "Finextra",
       "date": "Jul 31, 2026",
       "url": "https://www.finextra.com/newsarticle/48177/south-african-crypto-platform-luno-to-axe-20-of-staff"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "The Future of B2B Settlement in Global Travel",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/blogposting/32418/the-future-of-b2b-settlement-in-global-travel"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Nobody in Banking Has a Budget for AI",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/blogposting/32417/nobody-in-banking-has-a-budget-for-ai"
     }
   ]
 }
