@@ -1,4 +1,3 @@
-
 import { useEffect, useRef, useState } from 'react';
 import {
   Github, Linkedin, Mail, BookOpen, Globe,
@@ -7,7 +6,7 @@ import {
   BookMarked, Newspaper, ShoppingCart,
   Network, Coins, Bot, Lightbulb,
   ArrowRight, BarChart3, Shield, Layers, GitBranch, Workflow, CircleDot,
-  Search, Plane
+  Search, Plane, Mic, Clock, Monitor
 } from 'lucide-react';
  
 /* ─── DATA ──────────────────────────────────────────────────────────────── */
@@ -429,6 +428,63 @@ const CASE_STUDIES = [
           { Icon: Globe, label: 'Cross-border Payout' },
           { Icon: BarChart3, label: 'Settlement Report' },
           { Icon: Building2, label: 'Off-Ramp' },
+        ],
+      },
+    ],
+  },
+  {
+    id: 4,
+    num: '04',
+    image: '/jarvis-case-study.png',
+    accent: '#00BFFF',
+    accentRgb: '0,191,255',
+    category: 'Personal AI · Voice · Agentic Systems',
+    title: 'Jarvis — From a Text Loop to a Native Personal AI Assistant',
+    positioning: 'Independently designed and built a persistent personal AI assistant that listens, remembers, acts, and operates proactively through voice, long-term memory, controlled tool use, background automation, and a native macOS interface.',
+    challenge: 'A useful personal AI assistant must work beyond a single chat session. Jarvis needed reliable memory across restarts, safe coordination across independent processes, low-friction voice interaction, proactive background behavior, real tool access, and clear limits on what an unattended AI process is allowed to do.',
+    builtIntro: 'Avik evolved Jarvis across seven validated stages—from a Python text loop into a three-process system comprising an interactive application, background daemon, and voice service. SQLite provides shared persistent memory, Flask exposes the local application layer, and a Swift/AppKit/WebKit client delivers a native Mac experience.',
+    builtCapabilities: [
+      'Wake-word voice interaction with live transcription and spoken replies',
+      'Persistent SQLite memory shared across three coordinated processes',
+      'Daily briefings, reminders, recurring tasks, and proactive notifications',
+      'Real tool execution for Gmail data, file generation, and approved actions',
+      'Tiered permissions for human-present and unattended operating modes',
+      'Audit logging, process visibility, and a native macOS application',
+    ],
+    thinkingIntro: 'The central product principle was that an unattended AI process should be able to do strictly less than an AI operating with a human present. The build addressed practical system questions:',
+    thinkingQuestions: [
+      'How should memory remain reliable across sessions and restarts?',
+      'How can voice, web, and background services safely share state?',
+      'Which tools can run unattended, and which require a human present?',
+      'How should failures become visible instead of remaining silent?',
+      'What turns a collection of AI scripts into a dependable desktop product?',
+    ],
+    value: 'Jarvis demonstrates how a conversational prototype can become a practical agentic system when persistence, permissions, observability, process coordination, and user experience are treated as first-class product requirements.',
+    role: 'Solo product definition, system architecture, interface design, development, integration, testing, root-cause debugging, safety model design, and native application packaging.',
+    tags: ['Personal AI', 'Voice Interfaces', 'Persistent Memory', 'Agentic Automation', 'AI Safety', 'macOS'],
+    flow: [
+      {
+        label: 'Interaction Layer',
+        nodes: [
+          { Icon: Bot, label: 'Hey Jarvis' },
+          { Icon: Mic, label: 'Voice Service' },
+          { Icon: Cpu, label: 'Claude Reasoning' },
+        ],
+      },
+      {
+        label: 'Persistent System',
+        nodes: [
+          { Icon: Database, label: 'SQLite Memory' },
+          { Icon: Network, label: 'Flask App Layer' },
+          { Icon: Clock, label: 'Background Daemon' },
+        ],
+      },
+      {
+        label: 'Controlled Action',
+        nodes: [
+          { Icon: Shield, label: 'Permission Tiers' },
+          { Icon: FileText, label: 'Audit Log' },
+          { Icon: Monitor, label: 'Native Mac App' },
         ],
       },
     ],
@@ -1248,7 +1304,7 @@ function ProductVision() {
           </div>
         </div>
  
-        <div className="grid lg:grid-cols-3 gap-4">
+        <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-4">
           {cards.map((card) => (
             <div
               key={card.num}
@@ -1367,7 +1423,7 @@ function CaseStudies() {
             return (
               <article id={`case-study-${caseStudy.id}`} key={caseStudy.id} className="reveal scroll-mt-24 group relative bg-[#0c0c0c] border border-[#1a1a1a] rounded-2xl overflow-hidden hover:border-[#39FF14]/25 transition-all duration-300">
                 <div className="relative h-44 overflow-hidden">
-                  <img src={caseStudy.image} alt="" loading="lazy" className="w-full h-full object-cover opacity-45 group-hover:opacity-60 transition-opacity duration-300" />
+                  <img src={caseStudy.image} alt="" loading="lazy" className={`w-full h-full object-cover ${caseStudy.id === 4 ? 'object-top' : 'object-center'} opacity-45 group-hover:opacity-60 transition-opacity duration-300`} />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#0c0c0c] via-[#0c0c0c]/70 to-transparent" />
                   <div className="absolute inset-0 opacity-20" style={{ background: `radial-gradient(ellipse at 70% 30%, rgba(${accentRgb},0.45), transparent 60%)` }} />
                 </div>
