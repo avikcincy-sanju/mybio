@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-03T01:06:51.129Z",
+  "updatedAt": "2026-08-03T15:19:53.215Z",
   "headlines": [
     {
+      "category": "Payments",
+      "title": "Mastercard closes acquisition of BVNK",
+      "source": "Finextra",
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110554/mastercard-closes-acquisition-of-bvnk"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Infinios goes live with Mastercard on stablecoin settlement",
+      "source": "Finextra",
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110553/infinios-goes-live-with-mastercard-on-stablecoin-settlement"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Visa agrees $2.4 billion deal to acquire BioCatch",
+      "source": "Finextra",
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/newsarticle/48185/visa-agrees-24-billion-deal-to-acquire-biocatch"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "Payment Testing Must Catch Up with Real-Time Fraud",
+      "source": "Finextra",
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/blogposting/32433/payment-testing-must-catch-up-with-real-time-fraud"
+    },
+    {
       "category": "AI & Fintech",
-      "title": "BofA to buy UK cybersecurity firm MDSec Consulting",
+      "title": "Egypt's One Zero Bank opens up to AIagents",
       "source": "Finextra",
       "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/newsarticle/48179/bofa-to-buy-uk-cybersecurity-firm-mdsec-consulting"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Partior and OpenAssets PoC proves stablecoins and tokenised deposits can settle atomically",
-      "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/newsarticle/48180/partior-and-openassets-poc-proves-stablecoins-and-tokenised-deposits-can-settle-atomically"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Treasury and Liquidity: How Do Traditional Corporates and Modern Platforms Differ?",
-      "source": "Finextra",
-      "date": "Aug 1, 2026",
-      "url": "https://www.finextra.com/videoarticle/3576/treasury-and-liquidity-how-do-traditional-corporates-and-modern-platforms-differ"
+      "url": "https://www.finextra.com/pressarticle/110550/egypts-one-zero-bank-opens-up-to-aiagents"
     },
     {
       "category": "Payments",
-      "title": "Your Best Customers Might Already Be Banking Somewhere Else",
+      "title": "Mastercard strengthens Asia Pacific leadership team",
       "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/blogposting/32422/your-best-customers-might-already-be-banking-somewhere-else"
-    },
-    {
-      "category": "Payments",
-      "title": "Did fintech Wise take a beating in the media for not getting a US banking licence?",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/blogposting/32416/did-fintech-wise-take-a-beating-in-the-media-for-not-getting-a-us-banking-licence"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Circle granted New York trust charter",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/pressarticle/110544/circle-granted-new-york-trust-charter"
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110549/mastercard-strengthens-asia-pacific-leadership-team"
     },
     {
       "category": "Merchant Payments",
-      "title": "Appli signs Connect Credit Union",
+      "title": "AutoRek acquires Grath",
       "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/pressarticle/110543/appli-signs-connect-credit-union"
-    },
-    {
-      "category": "Payments",
-      "title": "Payments modernisation starts with deciding what the bank should own",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/blogposting/32420/payments-modernisation-starts-with-deciding-what-the-bank-should-own"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "UniCredit, Accenture, and IBM join forces for pan-European banking expansion",
-      "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/pressarticle/110542/unicredit-accenture-and-ibm-join-forces-for-pan-european-banking-expansion"
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110548/autorek-acquires-grath"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "South African crypto platform Luno to axe 20% of staff",
+      "title": "Ripple invests in UK digital assets platform Licuido",
       "source": "Finextra",
-      "date": "Jul 31, 2026",
-      "url": "https://www.finextra.com/newsarticle/48177/south-african-crypto-platform-luno-to-axe-20-of-staff"
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/newsarticle/48181/ripple-invests-in-uk-digital-assets-platform-licuido"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Teya unveils new payments card machine",
+      "source": "Finextra",
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110547/teya-unveils-new-payments-card-machine"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Zilo ships digital transfer agency platform; agrees deal with Ripple",
+      "source": "Finextra",
+      "date": "Aug 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110545/zilo-ships-digital-transfer-agency-platform-agrees-deal-with-ripple"
     }
   ]
 }
