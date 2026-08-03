@@ -1,4 +1,3 @@
-
 import { useEffect, useRef, useState } from 'react';
 import {
   Github, Linkedin, Mail, BookOpen, Globe,
@@ -9,10 +8,10 @@ import {
   ArrowRight, BarChart3, Shield, Layers, GitBranch, Workflow, Cpu as CpuIcon, CircleDot,
   Search, PenLine, FlaskConical, Users, Plane
 } from 'lucide-react';
-import HeroDepthScene from './components/three/HeroDepthScene';
-import InteractiveBuildWorld from './components/three/InteractiveBuildWorld';
-import ArchitectureStory3D from './components/three/ArchitectureStory3D';
-import TiltCard from './components/three/TiltCard';
+import HeroDepthScene from './components/three/HeroDepthScene.tsx';
+import InteractiveBuildWorld from './components/three/InteractiveBuildWorld.tsx';
+import ArchitectureStory3D from './components/three/ArchitectureStory3D.tsx';
+import TiltCard from './components/three/TiltCard.tsx';
 import './three.css';
  
 /* ─── DATA ──────────────────────────────────────────────────────────────── */
