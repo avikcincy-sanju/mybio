@@ -125,47 +125,10 @@ const PROJECTS = [
 ];
 
 // Ten cards are shown in the complete portfolio; Merchant Intelligence Monitor is the eleventh
-// personal fintech build and is highlighted in Featured Live Builds and Industry Intelligence.
+// personal fintech build and is featured in the live Industry Intelligence strip.
 const TOTAL_PERSONAL_FINTECH_BUILDS = PROJECTS.length + 1;
 
-const FEATURED_BUILDS = [
-  {
-    title: 'Agentic Money Movement',
-    category: 'Agentic Execution · Multi-Rail Money Movement',
-    desc: 'A command-center prototype for governed agent-directed money movement, rail selection, controls, and operational decisioning.',
-    value: 'Explores how AI agents can move from recommendations toward controlled financial execution.',
-    tags: ['Agentic AI', 'Money Movement', 'Controls'],
-    demoUrl: 'https://avikcincy-sanju.github.io/agentic-money-movement-command-center/',
-    sourceUrl: 'https://github.com/avikcincy-sanju/agentic-money-movement-command-center',
-    caseStudyUrl: '#case-study-2',
-    doiUrl: 'https://doi.org/10.5281/zenodo.21400904',
-    Icon: Coins,
-    accent: '#39FF14',
-  },
-  {
-    title: 'Payment Intelligence',
-    category: 'AI-Native Payments · Routing Intelligence',
-    desc: 'A multi-rail payment-intelligence experience combining routing, cost, settlement, and performance signals.',
-    value: 'Helps payment teams compare complex tradeoffs and move from fragmented reporting toward actionable decision support.',
-    tags: ['Payments', 'AI Routing', 'Analytics'],
-    demoUrl: 'https://avikcincy-sanju.github.io/Payment_Intelligence/',
-    sourceUrl: 'https://github.com/avikcincy-sanju/Payment_Intelligence',
-    caseStudyUrl: '#case-study-1',
-    Icon: TrendingUp,
-    accent: '#00BFFF',
-  },
-  {
-    title: 'Merchant Intelligence Monitor',
-    category: 'Industry Intelligence · Merchant Platforms',
-    desc: 'A live signal-monitoring product tracking developments across merchant payments, acquiring, platforms, stablecoins, and agentic commerce.',
-    value: 'Converts a fast-moving industry landscape into a focused stream of signals aligned to my core product expertise.',
-    tags: ['Merchant Signals', 'Payments News', 'Monitoring'],
-    demoUrl: 'https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/',
-    sourceUrl: 'https://github.com/avikcincy-sanju/Merchant-Intelligence-Edition',
-    Icon: Newspaper,
-    accent: '#39FF14',
-  },
-];
+
  
 const MEDIUM_ARTICLES = [
   {
@@ -629,7 +592,7 @@ function Nav() {
   }, []);
 
   const primary = [
-    { label: 'Builds', href: 'featured-builds' },
+    { label: 'Builds', href: 'projects' },
     { label: 'About', href: 'about' },
     { label: 'Vision', href: 'productvision' },
     { label: 'Experience', href: 'experience' },
@@ -774,7 +737,7 @@ function Hero() {
             </p>
  
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-12">
-              <a href="#featured-builds" className="btn-primary">Explore Live Builds</a>
+              <a href="#projects" className="btn-primary">Explore Fintech Builds</a>
               <a href="#impact" className="btn-outline">View Product Leadership</a>
               <a href="https://www.linkedin.com/in/avikz/" target="_blank" rel="noopener noreferrer" className="btn-outline">LinkedIn</a>
             </div>
@@ -792,291 +755,6 @@ function Hero() {
               ))}
             </div>
           </div>
-        </div>
-      </div>
-    </section>
-  );
-}
- 
-/* ─── FEATURED LIVE BUILDS ───────────────────────────────────────────────── */
-
-function FeaturedBuilds() {
-  return (
-    <section id="featured-builds" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
-      <div className="max-w-6xl mx-auto px-6">
-        <div className="reveal mb-10">
-          <div className="section-num mb-3">Independent Fintech Product Lab</div>
-          <div className="flex flex-col gap-5 lg:flex-row lg:items-end lg:justify-between">
-            <div>
-              <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">Featured Live Builds</h2>
-              <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
-            </div>
-            <a
-              href="#projects"
-              className="inline-flex items-center gap-2 self-start rounded-md border border-[#2a2a2a] px-4 py-2.5 text-[10px] font-black uppercase tracking-[0.16em] text-[#777] hover:border-[#39FF14]/40 hover:text-[#39FF14] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 lg:self-auto"
-            >
-              Explore All {TOTAL_PERSONAL_FINTECH_BUILDS} Builds
-              <ArrowRight aria-hidden="true" className="w-4 h-4" />
-            </a>
-          </div>
-          <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
-            Working fintech products independently designed and built by Avik Nandi to explore emerging payment architectures, merchant intelligence, agentic commerce, stablecoins, and multi-rail money movement.
-          </p>
-        </div>
-
-        <div className="grid lg:grid-cols-3 gap-4">
-          {FEATURED_BUILDS.map((build, index) => (
-            <article
-              key={build.title}
-              className="reveal group relative flex min-h-full flex-col overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#0c0c0c] p-6 transition-all duration-300 hover:-translate-y-1 hover:border-[#39FF14]/25"
-            >
-              <div
-                aria-hidden="true"
-                className="absolute inset-x-0 top-0 h-[2px] opacity-70"
-                style={{ background: `linear-gradient(to right, transparent, ${build.accent}, transparent)` }}
-              />
-
-              <div className="flex items-start justify-between gap-4 mb-6">
-                <div
-                  className="flex h-12 w-12 items-center justify-center rounded-xl border bg-[#080808]"
-                  style={{ borderColor: `${build.accent}33` }}
-                >
-                  <build.Icon className="h-6 w-6" style={{ color: build.accent }} />
-                </div>
-                <div className="text-right">
-                  <div className="text-[9px] font-black uppercase tracking-[0.2em]" style={{ color: build.accent }}>
-                    Featured Build
-                  </div>
-                  <div className="mt-1 text-[9px] font-mono text-[#333]">0{index + 1} / 03</div>
-                </div>
-              </div>
-
-              <div className="mb-3 text-[9px] font-black uppercase tracking-[0.2em] text-[#555]">{build.category}</div>
-              <h3 className="text-lg font-black uppercase tracking-wide text-white leading-tight mb-3">{build.title}</h3>
-              <p className="text-sm leading-relaxed text-[#777]">{build.desc}</p>
-
-              <div className="my-5 border-l-2 border-[#39FF14]/30 pl-3">
-                <div className="text-[9px] font-black uppercase tracking-[0.18em] text-[#39FF14]/70">Business Value</div>
-                <p className="mt-1 text-xs leading-relaxed text-[#666]">{build.value}</p>
-              </div>
-
-              <div className="flex flex-wrap gap-1.5">
-                {build.tags.map((tag) => (
-                  <span key={tag} className="rounded-full border border-[#222] px-2.5 py-1 text-[9px] font-bold uppercase tracking-wide text-[#666]">
-                    {tag}
-                  </span>
-                ))}
-              </div>
-
-              <div className="mt-auto flex flex-wrap gap-2 border-t border-[#1a1a1a] pt-5 mt-6">
-                <a
-                  href={build.demoUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 rounded-md border border-[#39FF14]/25 bg-[#39FF14]/5 px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#39FF14] hover:bg-[#39FF14]/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
-                >
-                  Launch Demo <ArrowUpRight aria-hidden="true" className="w-3 h-3" />
-                </a>
-                <a
-                  href={build.sourceUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1.5 rounded-md border border-[#252525] px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#777] hover:border-[#444] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
-                >
-                  Source <Github aria-hidden="true" className="w-3 h-3" />
-                </a>
-                {'caseStudyUrl' in build && build.caseStudyUrl && (
-                  <a
-                    href={build.caseStudyUrl}
-                    className="inline-flex items-center gap-1.5 rounded-md border border-[#252525] px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#777] hover:border-[#444] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
-                  >
-                    Case Study <FileText aria-hidden="true" className="w-3 h-3" />
-                  </a>
-                )}
-                {'doiUrl' in build && build.doiUrl && (
-                  <a
-                    href={build.doiUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-1.5 rounded-md border border-[#00BFFF]/25 bg-[#00BFFF]/5 px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#00BFFF] hover:bg-[#00BFFF]/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00BFFF]/50"
-                  >
-                    DOI <Award aria-hidden="true" className="w-3 h-3" />
-                  </a>
-                )}
-              </div>
-            </article>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
-/* ─── ABOUT ─────────────────────────────────────────────────────────────── */
- 
-function About() {
-  return (
-    <section id="about" className="py-14 relative z-10 border-t border-[#1c1c1c]">
-      <div className="max-w-6xl mx-auto px-6">
-        <div className="reveal mb-8">
-          <div className="section-num mb-3">02 — About</div>
-          <h2 className="text-5xl font-black uppercase tracking-tight text-white">Executive Profile</h2>
-          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
-        </div>
- 
-        {/* Bio + Skills two-column */}
-        <div className="grid lg:grid-cols-2 gap-12">
-          <div className="reveal">
-            <div className="glass-card p-8 h-full">
-              <p className="text-[#aaa] leading-relaxed mb-5 text-base font-semibold">
-                Avik Nandi builds the financial infrastructure behind modern commerce.
-              </p>
-              <p className="text-[#aaa] leading-relaxed mb-5">
-                He is a product leader focused on AI-native payments, merchant commerce infrastructure, Merchant of Record platforms, multi-rail orchestration, stablecoins, real-time rails, treasury automation, and intelligent financial systems.
-              </p>
-              <p className="text-[#777] leading-relaxed mb-5">
-                Across Wipro, Deloitte, FIS, Worldpay, and Vantiv, he has led product, platform, and modernization initiatives across complex payment ecosystems — spanning merchant acquiring, issuing, payment gateways, settlement, reconciliation, cross-border payments, AI-enabled commerce, and regulated financial infrastructure.
-              </p>
-              <p className="text-[#777] leading-relaxed">
-                His work sits at the intersection of product strategy, platform architecture, and execution — turning complex payment ecosystems into scalable, resilient, and commercially effective platforms that improve merchant outcomes, optimize cost, strengthen compliance, and unlock new revenue models.
-              </p>
-            </div>
-          </div>
- 
-          <div className="reveal flex flex-col gap-6">
-            <div className="glass-card p-8">
-              <h3 className="text-xs font-black text-[#39FF14] uppercase tracking-[0.2em] mb-4">Academic Profiles</h3>
-              <div className="flex flex-col gap-3">
-                <a href="https://scholar.google.com/citations?user=Tag_oNkAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" className="contact-link">
-                  <GraduationCap className="w-5 h-5 text-white flex-shrink-0" />
-                  <div>
-                    <div className="font-bold text-sm uppercase tracking-wide">Google Scholar</div>
-                    <div className="text-xs text-[#666]">Published Research Citations</div>
-                  </div>
-                  <ArrowUpRight className="w-4 h-4 ml-auto flex-shrink-0 text-[#444]" />
-                </a>
-                <a href="https://orcid.org/0009-0001-1217-3174" target="_blank" rel="noopener noreferrer" className="contact-link">
-                  <Award className="w-5 h-5 text-white flex-shrink-0" />
-                  <div>
-                    <div className="font-bold text-sm uppercase tracking-wide">ORCID</div>
-                    <div className="text-xs text-[#666]">0009-0001-1217-3174</div>
-                  </div>
-                  <ArrowUpRight className="w-4 h-4 ml-auto flex-shrink-0 text-[#444]" />
-                </a>
-                <a href="https://www.amazon.com/Evolution-Financial-Systems-Age-Stablecoins/dp/B0GVL7Q4GG/" target="_blank" rel="noopener noreferrer" className="contact-link">
-                  <BookMarked className="w-5 h-5 text-white flex-shrink-0" />
-                  <div>
-                    <div className="font-bold text-sm uppercase tracking-wide">Amazon Author</div>
-                    <div className="text-xs text-[#666]">The Evolution of Financial Systems…</div>
-                  </div>
-                  <ArrowUpRight className="w-4 h-4 ml-auto flex-shrink-0 text-[#444]" />
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-  );
-}
- 
-/* ─── CORE CAPABILITIES ──────────────────────────────────────────────────── */
- 
-function CoreCapabilities() {
-  const capabilities = [
-    {
-      num: '01',
-      Icon: Network,
-      accentColor: '#39FF14',
-      iconBg: 'bg-[#0a1a0a]',
-      iconBorder: 'border-[#39FF14]/20',
-      hoverBorder: 'hover:border-[#39FF14]/25',
-      tagStyle: 'border-[#39FF14]/20 text-[#39FF14]/80',
-      title: 'AI-Native Payment Platforms',
-      desc: 'Building intelligent merchant payment platforms across routing, observability, settlement, reconciliation, treasury workflows, and Merchant of Record operating models.',
-      tags: ['AI Routing', 'MoR', 'Settlement', 'Observability'],
-    },
-    {
-      num: '02',
-      Icon: Coins,
-      accentColor: '#00BFFF',
-      iconBg: 'bg-[#0a0f1a]',
-      iconBorder: 'border-[#00BFFF]/20',
-      hoverBorder: 'hover:border-[#00BFFF]/25',
-      tagStyle: 'border-[#00BFFF]/20 text-[#00BFFF]/80',
-      title: 'Stablecoin & Multi-Rail Settlement',
-      desc: 'Designing practical infrastructure concepts for stablecoin settlement, fiat on/off-ramps, treasury mobility, cross-border payouts, and hybrid fiat/real-time rail orchestration.',
-      tags: ['USDC', 'RTP/FedNow', 'Treasury', 'Cross-border'],
-    },
-    {
-      num: '03',
-      Icon: Bot,
-      accentColor: '#39FF14',
-      iconBg: 'bg-[#0a1a0a]',
-      iconBorder: 'border-[#39FF14]/20',
-      hoverBorder: 'hover:border-[#39FF14]/25',
-      tagStyle: 'border-[#39FF14]/20 text-[#39FF14]/80',
-      title: 'Agentic Commerce & MCP',
-      desc: 'Creating AI-enabled product concepts and tools where agents can support payment simulations, vendor comparison, merchant readiness, revenue impact, and commerce decisioning.',
-      tags: ['MCP', 'AI Agents', 'Decisioning', 'Simulators'],
-    },
-    {
-      num: '04',
-      Icon: Lightbulb,
-      accentColor: '#00BFFF',
-      iconBg: 'bg-[#0a0f1a]',
-      iconBorder: 'border-[#00BFFF]/20',
-      hoverBorder: 'hover:border-[#00BFFF]/25',
-      tagStyle: 'border-[#00BFFF]/20 text-[#00BFFF]/80',
-      title: 'Executive Product Leadership',
-      desc: 'Turning complex financial infrastructure problems into product strategy, roadmaps, operating models, prototypes, GTM narratives, and executive-ready decision support.',
-      tags: ['Strategy', 'Roadmap', 'GTM', 'Execution'],
-    },
-  ];
- 
-  return (
-    <section id="capabilities" className="py-14 relative z-10 border-t border-[#1c1c1c]">
-      <div className="max-w-6xl mx-auto px-6">
-        <div className="reveal mb-10">
-          <div className="section-num mb-3">03 — Core Capabilities</div>
-          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">Core Capabilities</h2>
-          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
-          <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
-            A focused view of the areas Avik is known for: payments, merchant platforms, stablecoin settlement, and AI-native commerce.
-          </p>
-        </div>
- 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          {capabilities.map((cap) => (
-            <div
-              key={cap.num}
-              className={`group relative bg-[#0c0c0c] border border-[#1a1a1a] ${cap.hoverBorder} rounded-xl overflow-hidden transition-all duration-300 p-6 cursor-default`}
-            >
-              <div
-                className="absolute top-0 left-0 right-0 h-[2px] opacity-60"
-                style={{ background: `linear-gradient(to right, transparent, ${cap.accentColor}, transparent)` }}
-              />
-              <div className="flex items-start gap-4 mb-5 relative z-10">
-                <div className={`w-12 h-12 rounded-xl ${cap.iconBg} border ${cap.iconBorder} flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform duration-300`}>
-                  <cap.Icon className="w-6 h-6" style={{ color: cap.accentColor }} />
-                </div>
-                <div className="flex-1 pt-1">
-                  <div className="text-[9px] font-black uppercase tracking-[0.3em] mb-1.5 opacity-70" style={{ color: cap.accentColor }}>
-                    {cap.num} — Focus
-                  </div>
-                  <div className="text-white font-black text-sm uppercase tracking-wide leading-snug">{cap.title}</div>
-                </div>
-              </div>
-              <p className="text-[#777] text-sm leading-relaxed mb-5 relative z-10">{cap.desc}</p>
-              <div className="flex flex-wrap gap-1.5 relative z-10">
-                {cap.tags.map(t => (
-                  <span key={t} className={`text-[10px] px-2.5 py-0.5 rounded-full border ${cap.tagStyle} font-medium tracking-wide`}>
-                    {t}
-                  </span>
-                ))}
-              </div>
-            </div>
-          ))}
         </div>
       </div>
     </section>
@@ -1381,15 +1059,15 @@ function Projects() {
             </div>
           </div>
           <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
-            A broader portfolio of independently created fintech products spanning payment intelligence, payment change implementation, agentic commerce, money movement, stablecoins, BNPL, routing, merchant monitoring, and product strategy. Ten are presented below; Merchant Intelligence is highlighted in Featured Live Builds and Industry Intelligence.
+            A broader portfolio of independently created fintech products spanning payment intelligence, payment change implementation, agentic commerce, money movement, stablecoins, BNPL, routing, merchant monitoring, and product strategy. Ten product cards are presented below; Merchant Intelligence Monitor is the eleventh build and appears in the live Industry Intelligence strip.
           </p>
         </div>
  
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-px bg-[#1c1c1c]">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {PROJECTS.map((p, i) => (
             <article
               key={p.title}
-              className="reveal group bg-[#0a0a0a] p-6 flex flex-col transition-colors duration-200 hover:bg-[#111] border border-transparent hover:border-white"
+              className="reveal group bg-[#0a0a0a] p-6 flex flex-col border border-[#1c1c1c] transition-colors duration-200 hover:bg-[#111] hover:border-white"
             >
               <div className="flex items-start justify-between gap-4 mb-4">
                 <div className="text-[#39FF14] group-hover:text-white transition-colors duration-200">{p.icon}</div>
@@ -2041,7 +1719,6 @@ export default function App() {
       <Nav />
       <main>
         <Hero />
-        <FeaturedBuilds />
         <SelectedImpact />
         <About />
         <CoreCapabilities />
