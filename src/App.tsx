@@ -4,10 +4,10 @@ import {
   Github, Linkedin, Mail, BookOpen, Globe,
   ChevronRight, Award, Cpu, TrendingUp, Zap, Database,
   GraduationCap, FileText, Building2, Calendar, Menu, X, ArrowUpRight,
-  BookMarked, Newspaper, ShoppingCart,
+  BookMarked, Microscope, Newspaper, ShoppingCart,
   Network, Coins, Bot, Lightbulb,
-  ArrowRight, BarChart3, Shield, Layers, GitBranch, Workflow, CircleDot,
-  Search, Plane, Mic, Clock, Monitor
+  ArrowRight, BarChart3, Shield, Layers, GitBranch, Workflow, Cpu as CpuIcon, CircleDot,
+  Search, PenLine, FlaskConical, Users, Plane
 } from 'lucide-react';
  
 /* ─── DATA ──────────────────────────────────────────────────────────────── */
@@ -35,16 +35,6 @@ const PROJECTS = [
     sourceUrl: 'https://github.com/avikcincy-sanju/Payment_Intelligence',
     caseStudyUrl: '#case-study-1',
     icon: <TrendingUp className="w-8 h-8 text-white" />,
-    color: 'from-[#111] to-[#1c1c1c]',
-  },
-  {
-    title: 'Payments Compiler',
-    desc: 'Interactive payment-change tool that converts proposed payment initiatives into structured requirements, dependencies, controls, and implementation outputs.',
-    value: 'Helps payment teams turn complex change ideas into clearer scope, delivery dependencies, governance decisions, and execution plans.',
-    tags: ['Payments', 'Change', 'Implementation'],
-    demoUrl: 'https://avikcincy-sanju.github.io/payment-change-compiler/#tool',
-    sourceUrl: 'https://github.com/avikcincy-sanju/payment-change-compiler',
-    icon: <Workflow className="w-8 h-8 text-white" />,
     color: 'from-[#111] to-[#1c1c1c]',
   },
   {
@@ -124,29 +114,103 @@ const PROJECTS = [
   },
 ];
 
-// Ten cards are shown in the complete portfolio; Merchant Intelligence Monitor is the eleventh
-// personal fintech build and is featured in the live Industry Intelligence strip.
+// Nine cards are shown in the complete portfolio; Merchant Intelligence Monitor is the tenth
+// personal fintech build and is highlighted in Featured Live Builds and Industry Intelligence.
 const TOTAL_PERSONAL_FINTECH_BUILDS = PROJECTS.length + 1;
 
-
+const FEATURED_BUILDS = [
+  {
+    title: 'Agentic Money Movement',
+    category: 'Agentic Execution · Multi-Rail Money Movement',
+    desc: 'A command-center prototype for governed agent-directed money movement, rail selection, controls, and operational decisioning.',
+    value: 'Explores how AI agents can move from recommendations toward controlled financial execution.',
+    tags: ['Agentic AI', 'Money Movement', 'Controls'],
+    demoUrl: 'https://avikcincy-sanju.github.io/agentic-money-movement-command-center/',
+    sourceUrl: 'https://github.com/avikcincy-sanju/agentic-money-movement-command-center',
+    caseStudyUrl: '#case-study-2',
+    doiUrl: 'https://doi.org/10.5281/zenodo.21400904',
+    Icon: Coins,
+    accent: '#39FF14',
+  },
+  {
+    title: 'Payment Intelligence',
+    category: 'AI-Native Payments · Routing Intelligence',
+    desc: 'A multi-rail payment-intelligence experience combining routing, cost, settlement, and performance signals.',
+    value: 'Helps payment teams compare complex tradeoffs and move from fragmented reporting toward actionable decision support.',
+    tags: ['Payments', 'AI Routing', 'Analytics'],
+    demoUrl: 'https://avikcincy-sanju.github.io/Payment_Intelligence/',
+    sourceUrl: 'https://github.com/avikcincy-sanju/Payment_Intelligence',
+    caseStudyUrl: '#case-study-1',
+    Icon: TrendingUp,
+    accent: '#00BFFF',
+  },
+  {
+    title: 'Merchant Intelligence Monitor',
+    category: 'Industry Intelligence · Merchant Platforms',
+    desc: 'A live signal-monitoring product tracking developments across merchant payments, acquiring, platforms, stablecoins, and agentic commerce.',
+    value: 'Converts a fast-moving industry landscape into a focused stream of signals aligned to my core product expertise.',
+    tags: ['Merchant Signals', 'Payments News', 'Monitoring'],
+    demoUrl: 'https://avikcincy-sanju.github.io/Merchant-Intelligence-Edition/',
+    sourceUrl: 'https://github.com/avikcincy-sanju/Merchant-Intelligence-Edition',
+    Icon: Newspaper,
+    accent: '#39FF14',
+  },
+];
+ 
+const SSRN_PAPERS = [
+  {
+    title: 'The Emergence of Intelligent Payment Systems: An AI-Driven Framework for Multi-Rail Payment Orchestration',
+    url: 'https://ssrn.com/abstract=6613638',
+    id: '6613638',
+  },
+  {
+    title: 'AI-Native Intelligent Payment Systems: Autonomous Financial Execution in Multi-Rail Infrastructure',
+    url: 'https://ssrn.com/abstract=6708820',
+    id: '6708820',
+  },
+  {
+    title: 'A Conceptual Systems Governance Framework for Autonomous Financial Execution: The Sovereign Payment Agent Model',
+    url: 'https://ssrn.com/abstract=6765180',
+    id: '6765180',
+  },
+  {
+    title: 'Verifiable Agent Identity and Delegated Authority in Autonomous Payment Systems',
+    url: 'https://ssrn.com/abstract=6920081',
+    id: '6920081',
+  },
+];
+ 
+const ZENODO_PAPERS = [
+  {
+    title: 'Agentic Money Movement Command Center — Software Release',
+    record: '21400904',
+    url: 'https://doi.org/10.5281/zenodo.21400904',
+    type: 'Software',
+    year: '2026',
+    doi: '10.5281/zenodo.21400904',
+  },
+  { title: 'Zenodo Research Record 20261877', record: '20261877', url: 'https://zenodo.org/records/20261877', type: 'Research', year: '2026', doi: '10.5281/zenodo.20261877' },
+  { title: 'Zenodo Research Record 20261969', record: '20261969', url: 'https://zenodo.org/records/20261969', type: 'Research', year: '2026', doi: '10.5281/zenodo.20261969' },
+  { title: 'Zenodo Research Record 20315696', record: '20315696', url: 'https://zenodo.org/records/20315696', type: 'Research', year: '2026', doi: '10.5281/zenodo.20315696' },
+  {
+    title: 'Stablecoin Acquiring Infrastructure: Bridging the Gap Between Payment Viability and Merchant Readiness',
+    record: '20599540',
+    url: 'https://zenodo.org/records/20599540',
+    type: 'Preprint',
+    year: '2026',
+    doi: '10.5281/zenodo.20599540',
+  },
+  {
+    title: 'The Emergence of Intelligent Payment Systems: An AI-Driven Framework for Multi-Rail Payment Orchestration',
+    record: '20140629',
+    url: 'https://zenodo.org/records/20140629',
+    type: 'Research Paper',
+    year: '2026',
+    doi: '10.5281/zenodo.20140629',
+  },
+];
  
 const MEDIUM_ARTICLES = [
-  {
-    title: 'Sell the Controls, Not the Coin',
-    url: 'https://medium.com/@avikcincy/sell-the-controls-not-the-coin-c4d138545ac8',
-  },
-  {
-    title: 'Banks May Preserve the Deposit — and Lose the Depositor',
-    url: 'https://medium.com/@avikcincy/banks-may-preserve-the-deposit-and-lose-the-depositor-0d8313b368e8?postPublishedType=repub',
-  },
-  {
-    title: 'The Three-Body Problem of Agentic Commerce',
-    url: 'https://medium.com/@avikcincy/the-three-body-problem-of-agentic-commerce-b77ce3eb207c',
-  },
-  {
-    title: "The provider says yes. Your organization hasn’t decided anything yet.",
-    url: 'https://medium.com/@avikcincy/the-provider-says-yes-your-organization-hasnt-decided-anything-yet-872a5285325f?postPublishedType=initial',
-  },
   {
     title: 'The Yellow Button and the Invisible Empire',
     url: 'https://medium.com/@avikcincy/the-yellow-button-and-the-invisible-empire-cd9591f3dead?postPublishedType=initial',
@@ -174,6 +238,22 @@ const MEDIUM_ARTICLES = [
   { title: 'Open USD and the Consortium Turn', url: 'https://medium.com/@avikcincy/open-usd-and-the-consortium-turn-3093f19489a1' },
   {title: 'Who Sent This Agent?', url: 'https://medium.com/@avikcincy/who-sent-this-agent-36690a186201?postPublishedType=initial'},
   {title: 'Two Rails, One Race: Why Swift Just Built a Blockchain, and Fifty Startups Are Racing It', url: 'https://medium.com/@avikcincy/two-rails-one-race-why-swift-just-built-a-blockchain-and-fifty-startups-are-racing-it-6aa388fd557f' },
+];
+ 
+const FINEXTRA_ARTICLES = [
+  { title: 'Stablecoins Aren\'t Replacing Payments — They\'re Rewriting Settlement', url: 'https://www.finextra.com/blogposting/30625/stablecoins-arent-replacing-payments--theyre-rewriting-settlement' },
+  { title: 'The Science of Settlement: How Stablecoins Are Reshaping Merchant Payments', url: 'https://www.finextra.com/blogposting/30655/the-science-of-settlement-how-stablecoins-are-reshaping-merchant-payments' },
+  { title: 'When Should a Payment Use Stablecoins? The Decision Framework Institutions Are Building', url: 'https://www.finextra.com/blogposting/30706/when-should-a-payment-use-stablecoins-the-decision-framework-institutions-are-building' },
+  { title: 'From Rails to Reasoning: Stablecoins in the Next Payments Stack', url: 'https://www.finextra.com/blogposting/30762/from-rails-to-reasoning-stablecoins-in-the-next-payments-stack' },
+  { title: 'Beyond Checkout: How Stablecoins Will Enable Autonomous Merchant Treasury Networks', url: 'https://www.finextra.com/blogposting/30771/beyond-checkout-how-stablecoins-will-enable-autonomous-merchant-treasury-networks' },
+  { title: 'Why Loyalty and Rewards Are About to Stop Being "Points" and Start Being Smart Money', url: 'https://www.finextra.com/blogposting/30849/why-loyalty-and-rewards-are-about-to-stop-being-points-and-start-being-smart-money' },
+  { title: 'Stablecoin Debit: When Your Wallet Becomes a Global, Programmable Checking Account', url: 'https://www.finextra.com/blogposting/30866/stablecoin-debit-when-your-wallet-becomes-a-global-programmable-checking-account' },
+  { title: 'The Control Plane for Stablecoins', url: 'https://www.finextra.com/blogposting/30909/the-control-plane-for-stablecoins' },
+  { title: 'The Missing Layer in Stablecoin Payments: Verifiable Intent for Agentic Commerce', url: 'https://www.finextra.com/blogposting/30956/the-missing-layer-in-stablecoin-payments-verifiable-intent-for-agentic-commerce' },
+  { title: 'Stablecoins as State Machines: The Architecture of Programmable Settlement', url: 'https://www.finextra.com/blogposting/31021/stablecoins-as-state-machines-the-architecture-of-programmable-settlement' },
+  { title: 'The Stablecoin Orchestration Layer: Who Controls the Stack?', url: 'https://www.finextra.com/blogposting/31048/the-stablecoin-orchestration-layer-who-controls-the-stack' },
+  { title: 'Stablecoins and the Financial Plumbing Behind Digital Money', url: 'https://www.finextra.com/blogposting/31092/stablecoins-and-the-financial-plumbing-behind-digital-money' },
+  { title: 'Stablecoins and the Rise of the Internet Financial System', url: 'https://www.finextra.com/blogposting/31158/stablecoins-and-the-rise-of-the-internet-financial-system' },
 ];
  
 const EXPERIENCE = [
@@ -433,63 +513,6 @@ const CASE_STUDIES = [
       },
     ],
   },
-  {
-    id: 4,
-    num: '04',
-    image: '/jarvis-case-study.png',
-    accent: '#00BFFF',
-    accentRgb: '0,191,255',
-    category: 'Personal AI · Voice · Agentic Systems',
-    title: 'Jarvis — From a Text Loop to a Native Personal AI Assistant',
-    positioning: 'Independently designed and built a persistent personal AI assistant that listens, remembers, acts, and operates proactively through voice, long-term memory, controlled tool use, background automation, and a native macOS interface.',
-    challenge: 'A useful personal AI assistant must work beyond a single chat session. Jarvis needed reliable memory across restarts, safe coordination across independent processes, low-friction voice interaction, proactive background behavior, real tool access, and clear limits on what an unattended AI process is allowed to do.',
-    builtIntro: 'Avik evolved Jarvis across seven validated stages—from a Python text loop into a three-process system comprising an interactive application, background daemon, and voice service. SQLite provides shared persistent memory, Flask exposes the local application layer, and a Swift/AppKit/WebKit client delivers a native Mac experience.',
-    builtCapabilities: [
-      'Wake-word voice interaction with live transcription and spoken replies',
-      'Persistent SQLite memory shared across three coordinated processes',
-      'Daily briefings, reminders, recurring tasks, and proactive notifications',
-      'Real tool execution for Gmail data, file generation, and approved actions',
-      'Tiered permissions for human-present and unattended operating modes',
-      'Audit logging, process visibility, and a native macOS application',
-    ],
-    thinkingIntro: 'The central product principle was that an unattended AI process should be able to do strictly less than an AI operating with a human present. The build addressed practical system questions:',
-    thinkingQuestions: [
-      'How should memory remain reliable across sessions and restarts?',
-      'How can voice, web, and background services safely share state?',
-      'Which tools can run unattended, and which require a human present?',
-      'How should failures become visible instead of remaining silent?',
-      'What turns a collection of AI scripts into a dependable desktop product?',
-    ],
-    value: 'Jarvis demonstrates how a conversational prototype can become a practical agentic system when persistence, permissions, observability, process coordination, and user experience are treated as first-class product requirements.',
-    role: 'Solo product definition, system architecture, interface design, development, integration, testing, root-cause debugging, safety model design, and native application packaging.',
-    tags: ['Personal AI', 'Voice Interfaces', 'Persistent Memory', 'Agentic Automation', 'AI Safety', 'macOS'],
-    flow: [
-      {
-        label: 'Interaction Layer',
-        nodes: [
-          { Icon: Bot, label: 'Hey Jarvis' },
-          { Icon: Mic, label: 'Voice Service' },
-          { Icon: Cpu, label: 'Claude Reasoning' },
-        ],
-      },
-      {
-        label: 'Persistent System',
-        nodes: [
-          { Icon: Database, label: 'SQLite Memory' },
-          { Icon: Network, label: 'Flask App Layer' },
-          { Icon: Clock, label: 'Background Daemon' },
-        ],
-      },
-      {
-        label: 'Controlled Action',
-        nodes: [
-          { Icon: Shield, label: 'Permission Tiers' },
-          { Icon: FileText, label: 'Audit Log' },
-          { Icon: Monitor, label: 'Native Mac App' },
-        ],
-      },
-    ],
-  },
 ];
  
 /* ─── PARTICLE CANVAS ──────────────────────────────────────────────────── */
@@ -649,10 +672,11 @@ function Nav() {
   }, []);
 
   const primary = [
-    { label: 'Builds', href: 'projects' },
+    { label: 'Builds', href: 'featured-builds' },
     { label: 'About', href: 'about' },
     { label: 'Vision', href: 'productvision' },
     { label: 'Experience', href: 'experience' },
+    { label: 'Research', href: 'research' },
     { label: 'Contact', href: 'contact' },
   ];
 
@@ -661,6 +685,7 @@ function Nav() {
     { label: 'Selected Impact', href: 'impact' },
     { label: 'Core Capabilities', href: 'capabilities' },
     { label: 'Case Studies', href: 'casestudies' },
+    { label: 'How I Work', href: 'howiwork' },
     { label: 'Beyond Work', href: 'beyondwork' },
   ];
 
@@ -794,7 +819,7 @@ function Hero() {
             </p>
  
             <div className="flex flex-wrap gap-4 justify-center lg:justify-start mb-12">
-              <a href="#projects" className="btn-primary">Explore Fintech Builds</a>
+              <a href="#featured-builds" className="btn-primary">Explore Live Builds</a>
               <a href="#impact" className="btn-outline">View Product Leadership</a>
               <a href="https://www.linkedin.com/in/avikz/" target="_blank" rel="noopener noreferrer" className="btn-outline">LinkedIn</a>
             </div>
@@ -818,6 +843,120 @@ function Hero() {
   );
 }
  
+/* ─── FEATURED LIVE BUILDS ───────────────────────────────────────────────── */
+
+function FeaturedBuilds() {
+  return (
+    <section id="featured-builds" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
+      <div className="max-w-6xl mx-auto px-6">
+        <div className="reveal mb-10">
+          <div className="section-num mb-3">Independent Fintech Product Lab</div>
+          <div className="flex flex-col gap-5 lg:flex-row lg:items-end lg:justify-between">
+            <div>
+              <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">Featured Live Builds</h2>
+              <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
+            </div>
+            <a
+              href="#projects"
+              className="inline-flex items-center gap-2 self-start rounded-md border border-[#2a2a2a] px-4 py-2.5 text-[10px] font-black uppercase tracking-[0.16em] text-[#777] hover:border-[#39FF14]/40 hover:text-[#39FF14] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50 lg:self-auto"
+            >
+              Explore All {TOTAL_PERSONAL_FINTECH_BUILDS} Builds
+              <ArrowRight aria-hidden="true" className="w-4 h-4" />
+            </a>
+          </div>
+          <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
+            Working fintech products independently designed and built by Avik Nandi to explore emerging payment architectures, merchant intelligence, agentic commerce, stablecoins, and multi-rail money movement.
+          </p>
+        </div>
+
+        <div className="grid lg:grid-cols-3 gap-4">
+          {FEATURED_BUILDS.map((build, index) => (
+            <article
+              key={build.title}
+              className="reveal group relative flex min-h-full flex-col overflow-hidden rounded-2xl border border-[#1a1a1a] bg-[#0c0c0c] p-6 transition-all duration-300 hover:-translate-y-1 hover:border-[#39FF14]/25"
+            >
+              <div
+                aria-hidden="true"
+                className="absolute inset-x-0 top-0 h-[2px] opacity-70"
+                style={{ background: `linear-gradient(to right, transparent, ${build.accent}, transparent)` }}
+              />
+
+              <div className="flex items-start justify-between gap-4 mb-6">
+                <div
+                  className="flex h-12 w-12 items-center justify-center rounded-xl border bg-[#080808]"
+                  style={{ borderColor: `${build.accent}33` }}
+                >
+                  <build.Icon className="h-6 w-6" style={{ color: build.accent }} />
+                </div>
+                <div className="text-right">
+                  <div className="text-[9px] font-black uppercase tracking-[0.2em]" style={{ color: build.accent }}>
+                    Featured Build
+                  </div>
+                  <div className="mt-1 text-[9px] font-mono text-[#333]">0{index + 1} / 03</div>
+                </div>
+              </div>
+
+              <div className="mb-3 text-[9px] font-black uppercase tracking-[0.2em] text-[#555]">{build.category}</div>
+              <h3 className="text-lg font-black uppercase tracking-wide text-white leading-tight mb-3">{build.title}</h3>
+              <p className="text-sm leading-relaxed text-[#777]">{build.desc}</p>
+
+              <div className="my-5 border-l-2 border-[#39FF14]/30 pl-3">
+                <div className="text-[9px] font-black uppercase tracking-[0.18em] text-[#39FF14]/70">Business Value</div>
+                <p className="mt-1 text-xs leading-relaxed text-[#666]">{build.value}</p>
+              </div>
+
+              <div className="flex flex-wrap gap-1.5">
+                {build.tags.map((tag) => (
+                  <span key={tag} className="rounded-full border border-[#222] px-2.5 py-1 text-[9px] font-bold uppercase tracking-wide text-[#666]">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+
+              <div className="mt-auto flex flex-wrap gap-2 border-t border-[#1a1a1a] pt-5 mt-6">
+                <a
+                  href={build.demoUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 rounded-md border border-[#39FF14]/25 bg-[#39FF14]/5 px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#39FF14] hover:bg-[#39FF14]/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
+                >
+                  Launch Demo <ArrowUpRight aria-hidden="true" className="w-3 h-3" />
+                </a>
+                <a
+                  href={build.sourceUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 rounded-md border border-[#252525] px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#777] hover:border-[#444] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
+                >
+                  Source <Github aria-hidden="true" className="w-3 h-3" />
+                </a>
+                {'caseStudyUrl' in build && build.caseStudyUrl && (
+                  <a
+                    href={build.caseStudyUrl}
+                    className="inline-flex items-center gap-1.5 rounded-md border border-[#252525] px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#777] hover:border-[#444] hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#39FF14]/50"
+                  >
+                    Case Study <FileText aria-hidden="true" className="w-3 h-3" />
+                  </a>
+                )}
+                {'doiUrl' in build && build.doiUrl && (
+                  <a
+                    href={build.doiUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 rounded-md border border-[#00BFFF]/25 bg-[#00BFFF]/5 px-3 py-2 text-[9px] font-black uppercase tracking-[0.14em] text-[#00BFFF] hover:bg-[#00BFFF]/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#00BFFF]/50"
+                  >
+                    DOI <Award aria-hidden="true" className="w-3 h-3" />
+                  </a>
+                )}
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
 /* ─── ABOUT ─────────────────────────────────────────────────────────────── */
  
 function About() {
@@ -1287,15 +1426,15 @@ function Projects() {
             </div>
           </div>
           <p className="text-[#666] text-sm mt-5 max-w-3xl leading-relaxed">
-            A broader portfolio of independently created fintech products spanning payment intelligence, payment change implementation, agentic commerce, money movement, stablecoins, BNPL, routing, merchant monitoring, and product strategy. Ten product cards are presented below; Merchant Intelligence Monitor is the eleventh build and appears in the live Industry Intelligence strip.
+            A broader portfolio of independently created fintech products spanning payment intelligence, agentic commerce, money movement, stablecoins, BNPL, routing, merchant monitoring, and product strategy. Nine are presented below; Merchant Intelligence is highlighted in Featured Live Builds and Industry Intelligence.
           </p>
         </div>
  
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-px bg-[#1c1c1c]">
           {PROJECTS.map((p, i) => (
             <article
               key={p.title}
-              className="reveal group bg-[#0a0a0a] p-6 flex flex-col border border-[#1c1c1c] transition-colors duration-200 hover:bg-[#111] hover:border-white"
+              className="reveal group bg-[#0a0a0a] p-6 flex flex-col transition-colors duration-200 hover:bg-[#111] border border-transparent hover:border-white"
             >
               <div className="flex items-start justify-between gap-4 mb-4">
                 <div className="text-[#39FF14] group-hover:text-white transition-colors duration-200">{p.icon}</div>
@@ -1357,6 +1496,202 @@ function Projects() {
               </div>
             </article>
           ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+ 
+/* ─── RESEARCH ──────────────────────────────────────────────────────────── */
+ 
+function Research() {
+  const [tab, setTab] = useState('ssrn');
+  const [zenodoPapers, setZenodoPapers] = useState(ZENODO_PAPERS);
+
+  useEffect(() => {
+    const controller = new AbortController();
+    fetch(`${import.meta.env.BASE_URL}zenodo-records.json`, { cache: 'no-store', signal: controller.signal })
+      .then((response) => {
+        if (!response.ok) throw new Error(`Zenodo metadata returned ${response.status}`);
+        return response.json() as Promise<{ records: typeof ZENODO_PAPERS }>;
+      })
+      .then((data) => {
+        if (Array.isArray(data.records) && data.records.length > 0) setZenodoPapers(data.records);
+      })
+      .catch((error: unknown) => {
+        if (error instanceof DOMException && error.name === 'AbortError') return;
+        console.warn('Using embedded Zenodo metadata.', error);
+      });
+    return () => controller.abort();
+  }, []);
+ 
+  const tabs = [
+    { id: 'ssrn', label: 'SSRN Papers' },
+    { id: 'zenodo', label: 'Zenodo' },
+    { id: 'medium', label: 'Medium' },
+    { id: 'finextra', label: 'Finextra' },
+    { id: 'other', label: 'Other' },
+  ];
+ 
+  return (
+    <section id="research" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
+      <div className="max-w-6xl mx-auto px-6">
+        <div className="reveal mb-8">
+          <div className="section-num mb-3">09 — Research & Publications</div>
+          <h2 className="text-5xl font-black uppercase tracking-tight text-white">Thought Leadership</h2>
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
+          <p className="text-[#555] text-sm mt-4">Academic papers, industry articles, and original research on AI payments & stablecoins</p>
+        </div>
+ 
+        {/* Stats */}
+        <div className="reveal grid grid-cols-2 sm:grid-cols-4 gap-px bg-[#1c1c1c] mb-8">
+          {[
+            { val: String(SSRN_PAPERS.length), label: 'SSRN Papers', icon: <Microscope className="w-5 h-5 text-[#39FF14]" /> },
+            { val: String(FINEXTRA_ARTICLES.length), label: 'Finextra Articles', icon: <Newspaper className="w-5 h-5 text-[#39FF14]" /> },
+            { val: String(MEDIUM_ARTICLES.length), label: 'Medium Articles', icon: <FileText className="w-5 h-5 text-[#39FF14]" /> },
+            { val: '2', label: 'Published Books', icon: <BookOpen className="w-5 h-5 text-[#39FF14]" /> },
+          ].map(s => (
+            <div key={s.label} className="stat-card bg-[#0a0a0a] border-0">
+              <div className="flex justify-center mb-2">{s.icon}</div>
+              <div className="text-2xl font-black text-white">{s.val}</div>
+              <div className="text-[10px] text-[#555] mt-1 uppercase tracking-widest">{s.label}</div>
+            </div>
+          ))}
+        </div>
+ 
+        {/* Tabs */}
+        <div className="reveal mb-8">
+          <div role="tablist" aria-label="Research publication categories" className="flex flex-wrap gap-2">
+            {tabs.map((t) => (
+              <button
+                key={t.id}
+                id={`research-tab-${t.id}`}
+                type="button"
+                role="tab"
+                aria-selected={tab === t.id}
+                aria-controls={`research-panel-${t.id}`}
+                className={`tab-btn ${tab === t.id ? 'active' : ''}`}
+                onClick={() => setTab(t.id)}
+              >
+                {t.label}
+              </button>
+            ))}
+          </div>
+        </div>
+ 
+        {/* Content */}
+        <div className="reveal" role="tabpanel" id={`research-panel-${tab}`} aria-labelledby={`research-tab-${tab}`}>
+          {tab === 'ssrn' && (
+            <div className="space-y-2">
+              {SSRN_PAPERS.map((p, i) => (
+                <a key={i} href={p.url} target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
+                  <div className="badge badge-cyan flex-shrink-0 mt-1 text-[#39FF14] border-[#39FF14]/30">SSRN</div>
+                  <div className="flex-1">
+                    <h3 className="font-bold text-white group-hover:text-[#39FF14] transition-colors leading-snug text-sm">{p.title}</h3>
+                    <div className="text-xs text-[#555] mt-1 uppercase tracking-wide">Abstract ID: {p.id}</div>
+                  </div>
+                  <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
+                </a>
+              ))}
+            </div>
+          )}
+ 
+          {tab === 'zenodo' && (
+            <div className="space-y-2">
+              {zenodoPapers.map((p, i) => (
+                <a key={i} href={p.url} target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
+                  <div className="badge badge-teal flex-shrink-0 mt-1">Zenodo</div>
+                  <div className="flex-1">
+                    <h3 className="font-bold text-white group-hover:text-[#39FF14] transition-colors text-sm">{p.title}</h3>
+                    <div className="text-xs text-[#555] mt-1 uppercase tracking-wide">
+                      {p.type ? `${p.type} · ` : ''}{p.year ? `${p.year} · ` : ''}Record: {p.record}
+                    </div>
+                    {p.doi && <div className="text-[10px] text-[#3f3f3f] mt-1 font-mono">DOI: {p.doi}</div>}
+                  </div>
+                  <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
+                </a>
+              ))}
+            </div>
+          )}
+ 
+          {tab === 'medium' && (
+            <div className="grid sm:grid-cols-2 gap-2">
+              {MEDIUM_ARTICLES.map((a, i) => (
+                <a key={i} href={a.url} target="_blank" rel="noopener noreferrer" className="paper-card flex items-center gap-3 group">
+                  <FileText className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 transition-colors" />
+                  <span className="text-sm text-[#888] group-hover:text-white transition-colors leading-snug flex-1">{a.title}</span>
+                  <ArrowUpRight className="w-3 h-3 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 transition-colors" />
+                </a>
+              ))}
+            </div>
+          )}
+ 
+          {tab === 'finextra' && (
+            <div className="grid sm:grid-cols-2 gap-2">
+              {FINEXTRA_ARTICLES.map((a, i) => (
+                <a key={i} href={a.url} target="_blank" rel="noopener noreferrer" className="paper-card flex items-center gap-3 group">
+                  <Newspaper className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 transition-colors" />
+                  <span className="text-sm text-[#888] group-hover:text-white transition-colors leading-snug flex-1">{a.title}</span>
+                  <ArrowUpRight className="w-3 h-3 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 transition-colors" />
+                </a>
+              ))}
+            </div>
+          )}
+ 
+          {tab === 'other' && (
+            <div className="space-y-2">
+              {/* THE ARCHITECT — thriller novel */}
+              <a
+                href="https://www.amazon.com/ARCHITECT-Novel-Interrupted-Sequences/dp/B0H4Z26CZ9/ref=sr_1_2?crid=3PD4K2KUCI5TE&dib=eyJ2IjoiMSJ9.oYXqu3BKt2LQtjvIAPbXKU9NPekE5LagPH53N9_0ums.aUq_4ABOi1CZPhrwj8c_jabciaRe78qcMSkqoQatYUQ&dib_tag=se&keywords=avik+nandi&qid=1783373795&sprefix=%2Caps%2C99&sr=8-2"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="paper-card flex items-start gap-4 group border-[#39FF14]/30 hover:border-[#39FF14]"
+              >
+                <div className="badge flex-shrink-0 mt-1 bg-[#39FF14]/10 text-[#39FF14] border border-[#39FF14]/40">Novel</div>
+                <div className="flex-1">
+                  <h3 className="font-black text-white group-hover:text-[#39FF14] transition-colors text-base uppercase tracking-wide">THE ARCHITECT</h3>
+                  <p className="text-xs text-[#777] mt-1 leading-relaxed">
+                    A high-concept psychological thriller blending systems intelligence, behavioral science, global finance, and philosophical fiction into a story about observation, free will, and the terrifying possibility that reality itself can be shaped through patterns hidden in plain sight.
+                  </p>
+                  <div className="text-xs text-[#555] mt-2 uppercase tracking-wide">Available on Amazon · Novel: Interrupted Sequences</div>
+                </div>
+                <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
+              </a>
+ 
+              <a href="https://www.amazon.com/Evolution-Financial-Systems-Age-Stablecoins/dp/B0GVL7Q4GG/" target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
+                <div className="badge badge-cyan flex-shrink-0 mt-1">Book</div>
+                <div className="flex-1">
+                  <h3 className="font-bold text-white group-hover:text-[#39FF14] transition-colors text-sm">The Evolution of Financial Systems in the Age of AI and Stablecoins</h3>
+                  <div className="text-xs text-[#555] mt-1 uppercase tracking-wide">Available on Amazon</div>
+                </div>
+                <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
+              </a>
+ 
+              <a href="https://www.linkedin.com/pulse/shifting-payments-from-passive-flows-active-avik-nandi-dxtfc" target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
+                <div className="badge badge-cyan flex-shrink-0 mt-1">LinkedIn</div>
+                <div className="flex-1">
+                  <h3 className="font-bold text-white group-hover:text-[#39FF14] transition-colors text-sm">Shifting Payments from Passive Flows to Active Intelligence</h3>
+                  <div className="text-xs text-[#555] mt-1 uppercase tracking-wide">LinkedIn Article</div>
+                </div>
+                <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
+              </a>
+ 
+              {[
+                { title: 'Stablecoin Acquiring Infrastructure', url: 'https://www.researchgate.net/publication/404948087_Stablecoin_Acquiring_Infrastructure_Bridging_the_Gap_Between_Payment_Viability_and_Merchant_Readiness?channel=doi&linkId=6a0a3a84e48e8125fa39074d&showFulltext=true', badge: 'ResearchGate', badgeClass: 'badge-cyan' },
+                { title: 'Stablecoin Acquiring Infrastructure: Bridging the Gap Between Payment Viability and Merchant Readiness', url: 'https://www.academia.edu/167344174/Stablecoin_Acquiring_Infrastructure_Bridging_the_Gap_Between_Payment_Viability_and_Merchant_Readiness', badge: 'Academia', badgeClass: 'badge-teal' },
+                { title: 'AI-Driven Multi-Rail Orchestration', url: 'https://www.academia.edu/167344045/The_Emergence_of_Intelligent_Payment_Systems_An_AI_Driven_Framework_for_Multi_Rail_Payment_Orchestration', badge: 'Academia', badgeClass: 'badge-teal' },
+                { title: 'Autonomous Financial Execution Framework', url: 'https://www.academia.edu/167344155/AI_Native_Intelligent_Payment_Systems_Autonomous_Financial_Execution_in_Multi_Rail_Infrastructure_An_Evolution_of_Intelligent_Payment_Systems_in_Multi_Rail_Financial_Infrastructure', badge: 'Academia', badgeClass: 'badge-teal' },
+              ].map((p, i) => (
+                <a key={i} href={p.url} target="_blank" rel="noopener noreferrer" className="paper-card flex items-start gap-4 group">
+                  <div className={`badge ${p.badgeClass} flex-shrink-0 mt-1`}>{p.badge}</div>
+                  <div className="flex-1">
+                    <h3 className="font-bold text-white group-hover:text-[#39FF14] transition-colors text-sm">{p.title}</h3>
+                  </div>
+                  <ArrowUpRight className="w-4 h-4 text-[#444] group-hover:text-[#39FF14] flex-shrink-0 mt-1 transition-colors" />
+                </a>
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </section>
@@ -1555,6 +1890,89 @@ function ProductVision() {
   );
 }
  
+/* ─── HOW I WORK ─────────────────────────────────────────────────────────── */
+ 
+function HowIWork() {
+  const steps = [
+    {
+      num: '01',
+      Icon: Search,
+      accentColor: '#39FF14',
+      title: 'Find the Business Problem',
+      desc: 'Start with merchant pain, economics, platform friction, risk, and operational impact.',
+      details: ['Merchant pain', 'Cost drivers', 'Operational friction'],
+    },
+    {
+      num: '02',
+      Icon: PenLine,
+      accentColor: '#00BFFF',
+      title: 'Frame the Product Narrative',
+      desc: 'Turn complexity into a clear story, roadmap, operating model, and executive decision path.',
+      details: ['Product story', 'Roadmap', 'Decision model'],
+    },
+    {
+      num: '03',
+      Icon: FlaskConical,
+      accentColor: '#39FF14',
+      title: 'Prototype Before Scaling',
+      desc: 'Use demos, simulators, and structured models to validate product direction quickly.',
+      details: ['Live demos', 'Simulators', 'Proof points'],
+    },
+    {
+      num: '04',
+      Icon: Users,
+      accentColor: '#00BFFF',
+      title: 'Align Teams Around Execution',
+      desc: 'Bring product, engineering, risk, compliance, finance, sales, and leadership into one execution path.',
+      details: ['Alignment', 'Governance', 'Execution'],
+    },
+  ];
+ 
+  return (
+    <section id="howiwork" className="scroll-mt-16 py-14 relative z-10 border-t border-[#1c1c1c]">
+      <div className="max-w-6xl mx-auto px-6">
+        <div className="reveal mb-10">
+          <div className="section-num mb-3">08 — How Avik Works</div>
+          <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">How Avik Works</h2>
+          <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mt-4" />
+        </div>
+ 
+        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {steps.map((step) => (
+            <div key={step.num} className="reveal bg-[#0c0c0c] border border-[#1a1a1a] rounded-xl p-6 hover:border-[#39FF14]/25 transition-colors duration-300">
+              <div className="flex items-center justify-between mb-5">
+                <div className="w-11 h-11 rounded-xl border border-[#1a1a1a] bg-[#080808] flex items-center justify-center">
+                  <step.Icon className="w-5 h-5" style={{ color: step.accentColor }} />
+                </div>
+                <div className="text-3xl font-black opacity-20" style={{ color: step.accentColor }}>{step.num}</div>
+              </div>
+              <h3 className="text-white font-black text-sm uppercase tracking-wide leading-snug mb-3">{step.title}</h3>
+              <p className="text-[#777] text-sm leading-relaxed mb-5">{step.desc}</p>
+              <div className="space-y-2">
+                {step.details.map((d) => (
+                  <div key={d} className="flex items-center gap-2 text-xs text-[#666]">
+                    <ArrowRight className="w-3 h-3" style={{ color: step.accentColor }} />
+                    <span>{d}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+ 
+        <div className="reveal mt-8 glass-card p-6">
+          <div className="flex items-start gap-4">
+            <CpuIcon className="w-6 h-6 text-[#39FF14] flex-shrink-0 mt-1" />
+            <p className="text-[#777] text-sm leading-relaxed">
+              My operating style is prototype-led, commercially grounded, and execution-focused: clarify the problem, shape the product narrative, validate with working artifacts, and align teams around measurable outcomes.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+ 
 /* ─── CASE STUDIES ──────────────────────────────────────────────────────── */
  
 function CaseStudies() {
@@ -1587,7 +2005,7 @@ function CaseStudies() {
           <p className="text-[#777] text-sm max-w-3xl leading-relaxed">Sanitized product and architecture case studies showing the problem, design approach, capabilities, business value, and my role—without client-specific or confidential information.</p>
         </div>
 
-        <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-4">
+        <div className="grid lg:grid-cols-3 gap-4">
           {CASE_STUDIES.map((caseStudy, index) => {
             const accent = index % 2 === 0 ? '#39FF14' : '#00BFFF';
             const accentRgb = index % 2 === 0 ? '57,255,20' : '0,191,255';
@@ -1595,7 +2013,7 @@ function CaseStudies() {
             return (
               <article id={`case-study-${caseStudy.id}`} key={caseStudy.id} className="reveal scroll-mt-24 group relative bg-[#0c0c0c] border border-[#1a1a1a] rounded-2xl overflow-hidden hover:border-[#39FF14]/25 transition-all duration-300">
                 <div className="relative h-44 overflow-hidden">
-                  <img src={caseStudy.image} alt="" loading="lazy" className={`w-full h-full object-cover ${caseStudy.id === 4 ? 'object-top' : 'object-center'} opacity-45 group-hover:opacity-60 transition-opacity duration-300`} />
+                  <img src={caseStudy.image} alt="" loading="lazy" className="w-full h-full object-cover opacity-45 group-hover:opacity-60 transition-opacity duration-300" />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#0c0c0c] via-[#0c0c0c]/70 to-transparent" />
                   <div className="absolute inset-0 opacity-20" style={{ background: `radial-gradient(ellipse at 70% 30%, rgba(${accentRgb},0.45), transparent 60%)` }} />
                 </div>
@@ -1731,7 +2149,7 @@ function BeyondWork() {
     <section id="beyondwork" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-6xl mx-auto px-6">
         <div className="reveal mb-10">
-          <div className="section-num mb-3">08 — Beyond Work</div>
+          <div className="section-num mb-3">10 — Beyond Work</div>
           <h2 className="text-4xl sm:text-5xl font-black uppercase tracking-tight text-white">
             Aviation & Flight Tracking
           </h2>
@@ -1845,7 +2263,7 @@ function Contact() {
     <section id="contact" className="py-14 relative z-10 border-t border-[#1c1c1c]">
       <div className="max-w-4xl mx-auto px-6">
         <div className="reveal text-center mb-8">
-          <div className="section-num mb-3">09 — Contact</div>
+          <div className="section-num mb-3">11 — Contact</div>
           <h2 className="text-5xl font-black uppercase tracking-tight text-white mb-2">Let's Connect</h2>
           <div className="h-[2px] w-20 bg-[#39FF14] rounded-full mx-auto mt-4 mb-6" />
           <p className="text-[#666] max-w-lg mx-auto text-sm">
@@ -1873,39 +2291,6 @@ function Contact() {
                 <ArrowUpRight className="w-4 h-4 ml-auto flex-shrink-0 text-[#333] group-hover:text-white" />
               </a>
             ))}
-          </div>
-
-          <div className="mt-8 border-t border-[#1c1c1c] pt-7">
-            <div className="mb-4 flex items-center justify-between gap-4">
-              <div>
-                <div className="text-[10px] font-black uppercase tracking-[0.2em] text-[#39FF14]">Latest Medium Writing</div>
-                <p className="mt-1 text-xs text-[#555]">Recent perspectives on payments, stablecoins, controls, and agentic commerce.</p>
-              </div>
-              <a
-                href="https://medium.com/@avikcincy"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-1.5 text-[9px] font-black uppercase tracking-[0.14em] text-[#666] hover:text-[#39FF14]"
-              >
-                View All <ArrowUpRight className="h-3 w-3" />
-              </a>
-            </div>
-
-            <div className="grid gap-2 sm:grid-cols-2">
-              {MEDIUM_ARTICLES.slice(0, 4).map((article) => (
-                <a
-                  key={article.url}
-                  href={article.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="group flex items-start gap-3 rounded-lg border border-[#1c1c1c] bg-[#090909] p-4 transition-colors hover:border-[#39FF14]/25 hover:bg-[#0d0d0d]"
-                >
-                  <FileText className="mt-0.5 h-4 w-4 flex-shrink-0 text-[#444] transition-colors group-hover:text-[#39FF14]" />
-                  <span className="flex-1 text-xs font-bold leading-relaxed text-[#777] transition-colors group-hover:text-white">{article.title}</span>
-                  <ArrowUpRight className="mt-0.5 h-3 w-3 flex-shrink-0 text-[#333] transition-colors group-hover:text-[#39FF14]" />
-                </a>
-              ))}
-            </div>
           </div>
         </div>
       </div>
@@ -1947,6 +2332,7 @@ export default function App() {
       <Nav />
       <main>
         <Hero />
+        <FeaturedBuilds />
         <SelectedImpact />
         <About />
         <CoreCapabilities />
@@ -1955,6 +2341,8 @@ export default function App() {
         <IndustryIntelligenceTicker />
         <CaseStudies />
         <Experience />
+        <HowIWork />
+        <Research />
         <BeyondWork />
         <Contact />
       </main>
