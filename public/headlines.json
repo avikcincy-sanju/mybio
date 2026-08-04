@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-03T15:19:53.215Z",
+  "updatedAt": "2026-08-04T14:41:36.474Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Mastercard closes acquisition of BVNK",
+      "category": "AI & Agentic Commerce",
+      "title": "How Has the Data Discussion Evolved Since the Proliferation of AI?",
       "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110554/mastercard-closes-acquisition-of-bvnk"
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/videoarticle/3578/how-has-the-data-discussion-evolved-since-the-proliferation-of-ai"
+    },
+    {
+      "category": "Payments",
+      "title": "Fiserv and Mastercard deepen global partnership",
+      "source": "Finextra",
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110564/fiserv-and-mastercard-deepen-global-partnership"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Sumsub and Sumvin enalbe AI agents to transact using verified human identity",
+      "source": "Finextra",
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enalbe-ai-agents-to-transact-using-verified-human-identity"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Infinios goes live with Mastercard on stablecoin settlement",
+      "title": "CLARITY Act (U.S.): What It Means for Digital Assets and RWA Tokenization",
       "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110553/infinios-goes-live-with-mastercard-on-stablecoin-settlement"
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/blogposting/32446/clarity-act-us-what-it-means-for-digital-assets-and-rwa-tokenization"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Visa agrees $2.4 billion deal to acquire BioCatch",
+      "category": "AI & Agentic Commerce",
+      "title": "Who’s accountable when AI makes a recommendation?",
       "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/newsarticle/48185/visa-agrees-24-billion-deal-to-acquire-biocatch"
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/blogposting/32445/whos-accountable-when-ai-makes-a-recommendation"
     },
     {
-      "category": "Payment Infrastructure",
-      "title": "Payment Testing Must Catch Up with Real-Time Fraud",
+      "category": "AI & Agentic Commerce",
+      "title": "Plaid and Sierra collaborate on AI agent interface",
       "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/blogposting/32433/payment-testing-must-catch-up-with-real-time-fraud"
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110559/plaid-and-sierra-collaborate-on-ai-agent-interface"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Amex unveils AI-powered travel manager dashboard",
+      "source": "Finextra",
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110558/amex-unveils-ai-powered-travel-manager-dashboard"
+    },
+    {
+      "category": "Payments",
+      "title": "Diesta brings Kinexys by JPMorgan’s Payee Verification to insurance payments",
+      "source": "Finextra",
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110557/diesta-brings-kinexys-by-jpmorgans-payee-verification-to-insurance-payments"
+    },
+    {
+      "category": "Payments",
+      "title": "Pan-African payments fintech Moment raises $22 million",
+      "source": "Finextra",
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/newsarticle/48188/pan-african-payments-fintech-moment-raises-22-million"
     },
     {
       "category": "AI & Fintech",
-      "title": "Egypt's One Zero Bank opens up to AIagents",
+      "title": "The Alpha: Why Faster Cloud Releases Are Forcing Banks to Rethink Software Testing",
       "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110550/egypts-one-zero-bank-opens-up-to-aiagents"
-    },
-    {
-      "category": "Payments",
-      "title": "Mastercard strengthens Asia Pacific leadership team",
-      "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110549/mastercard-strengthens-asia-pacific-leadership-team"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "AutoRek acquires Grath",
-      "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110548/autorek-acquires-grath"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Ripple invests in UK digital assets platform Licuido",
-      "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/newsarticle/48181/ripple-invests-in-uk-digital-assets-platform-licuido"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Teya unveils new payments card machine",
-      "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110547/teya-unveils-new-payments-card-machine"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Zilo ships digital transfer agency platform; agrees deal with Ripple",
-      "source": "Finextra",
-      "date": "Aug 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110545/zilo-ships-digital-transfer-agency-platform-agrees-deal-with-ripple"
+      "date": "Aug 4, 2026",
+      "url": "https://www.finextra.com/blogposting/32442/the-alpha-why-faster-cloud-releases-are-forcing-banks-to-rethink-software-testing"
     }
   ]
 }
