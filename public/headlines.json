@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-05T14:35:59.862Z",
+  "updatedAt": "2026-08-06T14:37:34.388Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Tarus adds full Hedera technology stack support",
-      "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/110567/tarus-adds-full-hedera-technology-stack-support"
-    },
-    {
       "category": "Payments",
-      "title": "What is the Real Asset Thesis for Investable Conservation?",
+      "title": "Nayax and Zaria file for bank charters",
       "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/videoarticle/3579/what-is-the-real-asset-thesis-for-investable-conservation"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Zaria Systems applies for national trust charter",
-      "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/110573/zaria-systems-applies-for-national-trust-charter"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Galaxy and BNY come together to pair digital asset custody and staking",
-      "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/110581/galaxy-and-bny-come-together-to-pair-digital-asset-custody-and-staking"
-    },
-    {
-      "category": "Payments",
-      "title": "The Future of Payments Will Be Defined by Interoperability",
-      "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/blogposting/32463/the-future-of-payments-will-be-defined-by-interoperability"
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/newsarticle/48207/nayax-and-zaria-file-for-bank-charters"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Cloudflare gives AI agents an identity and a wallet",
+      "title": "BestEx Research introduces AI-native interface for institutional trading analytics",
       "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/newsarticle/48196/cloudflare-gives-ai-agents-an-identity-and-a-wallet"
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/110597/bestex-research-introduces-ai-native-interface-for-institutional-trading-analytics"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "How to drive success in agentic banking",
+      "title": "The Agent Accountability Gap: Why Banks Deploying Autonomous AI Cannot Comply with Article 50",
       "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/blogposting/32462/how-to-drive-success-in-agentic-banking"
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/blogposting/32480/the-agent-accountability-gap-why-banks-deploying-autonomous-ai-cannot-comply-with-article-50"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Rabobank to invest €2 billion in building IT framework for AI",
+      "title": "Banco Sabadell puts AI at the centre of business overhaul",
       "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/newsarticle/48194/rabobank-to-invest-2-billion-in-building-it-framework-for-ai"
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/110595/banco-sabadell-puts-ai-at-the-centre-of-business-overhaul"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Scotiabank equips employees with AI-powered knowledge agents through Scotia Intelligence",
+      "source": "Finextra",
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/110594/scotiabank-equips-employees-with-ai-powered-knowledge-agents-through-scotia-intelligence"
     },
     {
       "category": "Payments",
-      "title": "Trust Payments and felloh partner to connect payments and finance data for travel businesses",
+      "title": "The Importance of Banking Through An Empathetic Lens",
       "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/110574/trust-payments-and-felloh-partner-to-connect-payments-and-finance-data-for-travel-businesses"
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/videoarticle/3577/the-importance-of-banking-through-an-empathetic-lens"
+    },
+    {
+      "category": "Payments",
+      "title": "What's the Right Level of Friction for Pay-by-Bank?",
+      "source": "Finextra",
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/videoarticle/3580/whats-the-right-level-of-friction-for-pay-by-bank"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Asia's Crypto Rulebook: MAS Singapore vs. Hong Kong's Digital Asset Regime",
+      "title": "KuCoin rolls out stablecoin gift cards",
       "source": "Finextra",
-      "date": "Aug 5, 2026",
-      "url": "https://www.finextra.com/blogposting/32460/asias-crypto-rulebook-mas-singapore-vs-hong-kongs-digital-asset-regime"
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/newsarticle/48204/kucoin-rolls-out-stablecoin-gift-cards"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "ABN Amro signs frontier AI deal with Mistral AI",
+      "source": "Finextra",
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/newsarticle/48203/abn-amro-signs-frontier-ai-deal-with-mistral-ai"
+    },
+    {
+      "category": "Payments",
+      "title": "Green banking has become a compliance discipline, and data is now the binding constraint",
+      "source": "Finextra",
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/blogposting/32434/green-banking-has-become-a-compliance-discipline-and-data-is-now-the-binding-constraint"
     }
   ]
 }
