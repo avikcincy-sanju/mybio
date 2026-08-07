@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-06T14:37:34.388Z",
+  "updatedAt": "2026-08-07T13:41:14.843Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Nayax and Zaria file for bank charters",
+      "category": "AI & Fintech",
+      "title": "Bridging the Gap: 6 Tech Breakthroughs Redefining Financial Services in 2026",
       "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/newsarticle/48207/nayax-and-zaria-file-for-bank-charters"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "BestEx Research introduces AI-native interface for institutional trading analytics",
-      "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/110597/bestex-research-introduces-ai-native-interface-for-institutional-trading-analytics"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "The Agent Accountability Gap: Why Banks Deploying Autonomous AI Cannot Comply with Article 50",
-      "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/blogposting/32480/the-agent-accountability-gap-why-banks-deploying-autonomous-ai-cannot-comply-with-article-50"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Banco Sabadell puts AI at the centre of business overhaul",
-      "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/110595/banco-sabadell-puts-ai-at-the-centre-of-business-overhaul"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Scotiabank equips employees with AI-powered knowledge agents through Scotia Intelligence",
-      "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/110594/scotiabank-equips-employees-with-ai-powered-knowledge-agents-through-scotia-intelligence"
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32492/bridging-the-gap-6-tech-breakthroughs-redefining-financial-services-in-2026"
     },
     {
       "category": "Payments",
-      "title": "The Importance of Banking Through An Empathetic Lens",
+      "title": "Wero pushes Luxembourg launch to September",
       "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/videoarticle/3577/the-importance-of-banking-through-an-empathetic-lens"
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48210/wero-pushes-luxembourg-launch-to-september"
     },
     {
       "category": "Payments",
-      "title": "What's the Right Level of Friction for Pay-by-Bank?",
+      "title": "How Financial Institutions Can Extend Site Reliability Engineering Beyond Infrastructure",
       "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/videoarticle/3580/whats-the-right-level-of-friction-for-pay-by-bank"
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32489/how-financial-institutions-can-extend-site-reliability-engineering-beyond-infrastructure"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Bank transfers are now free for Paysera merchants in Lithuania, Latvia and Estonia",
+      "source": "Finextra",
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/110600/bank-transfers-are-now-free-for-paysera-merchants-in-lithuania-latvia-and-estonia"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "KuCoin rolls out stablecoin gift cards",
+      "title": "The $28 Trillion Mirage",
       "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/newsarticle/48204/kucoin-rolls-out-stablecoin-gift-cards"
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32488/the-28-trillion-mirage"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "ABN Amro signs frontier AI deal with Mistral AI",
+      "category": "Stablecoins & Digital Money",
+      "title": "How the GENIUS Act Is Accelerating Institutional Tokenization Infrastructure",
       "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/newsarticle/48203/abn-amro-signs-frontier-ai-deal-with-mistral-ai"
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32486/how-the-genius-act-is-accelerating-institutional-tokenization-infrastructure"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "MoonPay launches stablecoin platform for businesses",
+      "source": "Finextra",
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48208/moonpay-launches-stablecoin-platform-for-businesses"
     },
     {
       "category": "Payments",
-      "title": "Green banking has become a compliance discipline, and data is now the binding constraint",
+      "title": "Google Wallet adds supervised balances for kids",
+      "source": "Finextra",
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48211/google-wallet-adds-supervised-balances-for-kids"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "The Carbon Number Your Firm Relies On Is Structurally Broken",
       "source": "Finextra",
       "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/blogposting/32434/green-banking-has-become-a-compliance-discipline-and-data-is-now-the-binding-constraint"
+      "url": "https://www.finextra.com/blogposting/32484/the-carbon-number-your-firm-relies-on-is-structurally-broken"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "When the Tool Starts Using the Worker",
+      "source": "Finextra",
+      "date": "Aug 6, 2026",
+      "url": "https://www.finextra.com/blogposting/32476/when-the-tool-starts-using-the-worker"
     }
   ]
 }
