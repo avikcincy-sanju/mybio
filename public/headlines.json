@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-07T13:41:14.843Z",
+  "updatedAt": "2026-08-08T13:14:08.766Z",
   "headlines": [
+    {
+      "category": "Merchant Payments",
+      "title": "Debit Is the Most Underbuilt Rewards Surface in Banking",
+      "source": "Finextra",
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32496/debit-is-the-most-underbuilt-rewards-surface-in-banking"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "How tech companies are helping credit unions meet AI-transformation goals in 5 key areas",
+      "source": "Finextra",
+      "date": "Aug 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32493/how-tech-companies-are-helping-credit-unions-meet-ai-transformation-goals-in-5-key-areas"
+    },
     {
       "category": "AI & Fintech",
       "title": "Bridging the Gap: 6 Tech Breakthroughs Redefining Financial Services in 2026",
@@ -56,20 +70,6 @@
       "source": "Finextra",
       "date": "Aug 7, 2026",
       "url": "https://www.finextra.com/newsarticle/48211/google-wallet-adds-supervised-balances-for-kids"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "The Carbon Number Your Firm Relies On Is Structurally Broken",
-      "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/blogposting/32484/the-carbon-number-your-firm-relies-on-is-structurally-broken"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "When the Tool Starts Using the Worker",
-      "source": "Finextra",
-      "date": "Aug 6, 2026",
-      "url": "https://www.finextra.com/blogposting/32476/when-the-tool-starts-using-the-worker"
     }
   ]
 }
