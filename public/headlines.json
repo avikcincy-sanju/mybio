@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-09T13:17:17.175Z",
+  "updatedAt": "2026-08-10T13:47:24.727Z",
   "headlines": [
     {
-      "category": "Merchant Payments",
-      "title": "Debit Is the Most Underbuilt Rewards Surface in Banking",
+      "category": "AI & Agentic Commerce",
+      "title": "Accountable AI Governance in Financial Institutions: Building a Comprehensive Dashboard Framework",
       "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32496/debit-is-the-most-underbuilt-rewards-surface-in-banking"
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/blogposting/32507/accountable-ai-governance-in-financial-institutions-building-a-comprehensive-dashboard-framework"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "How tech companies are helping credit unions meet AI-transformation goals in 5 key areas",
+      "category": "Payments",
+      "title": "Why Running Payments Is Harder Than Launching Them",
       "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32493/how-tech-companies-are-helping-credit-unions-meet-ai-transformation-goals-in-5-key-areas"
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/blogposting/31278/why-running-payments-is-harder-than-launching-them"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Tokenized Cash: Transforming Traditional Money for the Digital Economy",
+      "source": "Finextra",
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/blogposting/32506/tokenized-cash-transforming-traditional-money-for-the-digital-economy"
     },
     {
       "category": "AI & Fintech",
-      "title": "Bridging the Gap: 6 Tech Breakthroughs Redefining Financial Services in 2026",
+      "title": "Reputation Reframed: Why Banks Need to Think Like Publishers",
       "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32492/bridging-the-gap-6-tech-breakthroughs-redefining-financial-services-in-2026"
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/blogposting/32504/reputation-reframed-why-banks-need-to-think-like-publishers"
     },
     {
-      "category": "Payments",
-      "title": "Wero pushes Luxembourg launch to September",
+      "category": "AI & Agentic Commerce",
+      "title": "The Top Five AI Trends Reshaping Banking in 2026",
       "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/newsarticle/48210/wero-pushes-luxembourg-launch-to-september"
-    },
-    {
-      "category": "Payments",
-      "title": "How Financial Institutions Can Extend Site Reliability Engineering Beyond Infrastructure",
-      "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32489/how-financial-institutions-can-extend-site-reliability-engineering-beyond-infrastructure"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Bank transfers are now free for Paysera merchants in Lithuania, Latvia and Estonia",
-      "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/pressarticle/110600/bank-transfers-are-now-free-for-paysera-merchants-in-lithuania-latvia-and-estonia"
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/blogposting/32503/the-top-five-ai-trends-reshaping-banking-in-2026"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "The $28 Trillion Mirage",
+      "title": "Robinhood launches crypto trading in the UK",
       "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32488/the-28-trillion-mirage"
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/newsarticle/48217/robinhood-launches-crypto-trading-in-the-uk"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "How the GENIUS Act Is Accelerating Institutional Tokenization Infrastructure",
+      "category": "AI & Fintech",
+      "title": "Trust as a mission for enterprises?",
       "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32486/how-the-genius-act-is-accelerating-institutional-tokenization-infrastructure"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "MoonPay launches stablecoin platform for businesses",
-      "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/newsarticle/48208/moonpay-launches-stablecoin-platform-for-businesses"
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/blogposting/32502/trust-as-a-mission-for-enterprises"
     },
     {
       "category": "Payments",
-      "title": "Google Wallet adds supervised balances for kids",
+      "title": "BofA and USAA ink patent cross-license agreement",
       "source": "Finextra",
-      "date": "Aug 7, 2026",
-      "url": "https://www.finextra.com/newsarticle/48211/google-wallet-adds-supervised-balances-for-kids"
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/newsarticle/48216/bofa-and-usaa-ink-patent-cross-license-agreement"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Hackers target PE firms with old-school vishing attacks - Google researchers",
+      "source": "Finextra",
+      "date": "Aug 10, 2026",
+      "url": "https://www.finextra.com/newsarticle/48215/hackers-target-pe-firms-with-old-school-vishing-attacks---google-researchers"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Why – How – What: Accelerating the Adoption of European Business Wallets",
+      "source": "Finextra",
+      "date": "Aug 9, 2026",
+      "url": "https://www.finextra.com/blogposting/32500/why--how--what-accelerating-the-adoption-of-european-business-wallets"
     }
   ]
 }
