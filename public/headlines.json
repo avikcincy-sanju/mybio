@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-11T13:45:12.297Z",
+  "updatedAt": "2026-08-12T13:51:03.386Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "RBC and BMO agree C$2bn Moneris sale",
+      "title": "Stanbic IBTC Bank upgrades to Nucleus Software FinnAxia 9.0",
       "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/newsarticle/48228/rbc-and-bmo-agree-c2bn-moneris-sale"
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/pressarticle/110631/stanbic-ibtc-bank-upgrades-to-nucleus-software-finnaxia-90"
     },
     {
       "category": "Payments",
-      "title": "Mastercard names Yasemin Bedir president, Eemea",
+      "title": "Kast names Connor Fitzgerald US general manager",
       "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110619/mastercard-names-yasemin-bedir-president-eemea"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Cashi picks Thredd to power stablecoin spending card",
-      "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110618/cashi-picks-thredd-to-power-stablecoin-spending-card"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Allvue Systems today launched Intelligent Loan Operations",
-      "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110608/allvue-systems-today-launched-intelligent-loan-operations"
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/pressarticle/110630/kast-names-connor-fitzgerald--us-general-manager"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Corpay launches AI-powered tool to support K finance teams",
+      "title": "FE fundinfo gives Nexus for Financial Advisers an AI assistant",
       "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110614/corpay-launches-ai-powered-tool-to-support-k-finance-teams"
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant"
     },
     {
       "category": "Payments",
-      "title": "Yuze India and airpay India enter digital payments alliance",
+      "title": "Tribe Payments teams up with European Women Payments Network",
       "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110613/yuze-india-and-airpay-india-enter-digital-payments-alliance"
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/pressarticle/110628/tribe-payments-teams-up-with-european-women-payments-network"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "How the AI Financial Management Boom is Creating New Solutions to Common Challenges for Entrepreneur",
+      "title": "HSBC invests in AI modelling firm",
       "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32521/how-the-ai-financial-management-boom-is-creating-new-solutions-to-common-challenges-for-entrepreneur"
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/newsarticle/48237/hsbc-invests-in-ai-modelling-firm"
+    },
+    {
+      "category": "Payments",
+      "title": "Digital Dollars: The Rise of Digital Payments in Canada and Interac’s Role",
+      "source": "Finextra",
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/blogposting/32530/digital-dollars-the-rise-of-digital-payments-in-canada-and-interacs-role"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "Australia’s Real-Time Payments Revolution",
+      "source": "Finextra",
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/blogposting/32529/australias-real-time-payments-revolution"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "The Action Engine: How Agentic AI Helps Financial Institutions Automate Complex Workflows",
+      "title": "M&T Bank appoints head of AI engineering",
       "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32518/the-action-engine-how-agentic-ai-helps-financial-institutions-automate-complex-workflows"
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "RBI governor tells Indian banks to control AI",
+      "source": "Finextra",
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai"
     },
     {
       "category": "Payments",
-      "title": "Brazil to expand Pix payment system",
+      "title": "Embedded vs. integrated: Choosing the right payment architecture",
       "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/newsarticle/48226/brazil-to-expand-pix-payment-system"
-    },
-    {
-      "category": "Payments",
-      "title": "CCD2 turns data quality into a compliance question for lenders and BNPL",
-      "source": "Finextra",
-      "date": "Aug 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32520/ccd2-turns-data-quality-into-a-compliance-question-for-lenders-and-bnpl"
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/blogposting/32527/embedded-vs-integrated-choosing-the-right-payment-architecture"
     }
   ]
 }
