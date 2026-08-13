@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-12T13:51:03.386Z",
+  "updatedAt": "2026-08-13T13:50:40.377Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "Stanbic IBTC Bank upgrades to Nucleus Software FinnAxia 9.0",
+      "title": "Sionic launches Instant Bank Pay in US through Microsoft Marketplace",
       "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/110631/stanbic-ibtc-bank-upgrades-to-nucleus-software-finnaxia-90"
-    },
-    {
-      "category": "Payments",
-      "title": "Kast names Connor Fitzgerald US general manager",
-      "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/110630/kast-names-connor-fitzgerald--us-general-manager"
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/110641/sionic-launches-instant-bank-pay-in-us-through-microsoft-marketplace"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "FE fundinfo gives Nexus for Financial Advisers an AI assistant",
+      "title": "Anthropic in talks to purchase Decart AI",
       "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant"
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/newsarticle/48242/anthropic-in-talks-to-purchase-decart-ai"
     },
     {
       "category": "Payments",
-      "title": "Tribe Payments teams up with European Women Payments Network",
+      "title": "Flagstone adds dollar and euro savings options for UK SMEs that keep cash in foreign currencies",
       "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/110628/tribe-payments-teams-up-with-european-women-payments-network"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "HSBC invests in AI modelling firm",
-      "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/newsarticle/48237/hsbc-invests-in-ai-modelling-firm"
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/110640/flagstone-adds-dollar-and-euro-savings-options-for-uk-smes-that-keep-cash-in-foreign-currencies"
     },
     {
       "category": "Payments",
-      "title": "Digital Dollars: The Rise of Digital Payments in Canada and Interac’s Role",
+      "title": "Klarna boosts membership perks and removes service fees",
       "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/blogposting/32530/digital-dollars-the-rise-of-digital-payments-in-canada-and-interacs-role"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "Australia’s Real-Time Payments Revolution",
-      "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/blogposting/32529/australias-real-time-payments-revolution"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "M&T Bank appoints head of AI engineering",
-      "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "RBI governor tells Indian banks to control AI",
-      "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai"
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/newsarticle/48241/klarna-boosts-membership-perks-and-removes-service-fees"
     },
     {
       "category": "Payments",
-      "title": "Embedded vs. integrated: Choosing the right payment architecture",
+      "title": "finby boosts Wero to support the future of pan-European payments",
+      "source": "Finextra",
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/110638/finby-boosts-wero-to-support-the-future-of-pan-european-payments"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Creditspring expands access to responsible credit with new FCA credit broking permission",
+      "source": "Finextra",
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/110637/creditspring-expands-access-to-responsible-credit-with-new-fca-credit-broking-permission"
+    },
+    {
+      "category": "Payments",
+      "title": "Zilch launches new membership tiers",
+      "source": "Finextra",
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/110633/zilch-launches-new-membership-tiers"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "S&P Global data integrated into Microsoft 365 Copilot",
+      "source": "Finextra",
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/newsarticle/48238/sp-global-data-integrated-into-microsoft-365-copilot"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "73 Strings makes leadership appointments",
       "source": "Finextra",
       "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/blogposting/32527/embedded-vs-integrated-choosing-the-right-payment-architecture"
+      "url": "https://www.finextra.com/pressarticle/110636/73-strings-makes-leadership-appointments"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Bitwise Asset Management axes 14% of jobs",
+      "source": "Finextra",
+      "date": "Aug 12, 2026",
+      "url": "https://www.finextra.com/newsarticle/48240/bitwise-asset-management-axes-14-of-jobs"
     }
   ]
 }
