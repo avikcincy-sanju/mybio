@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-08-13T13:50:40.377Z",
+  "updatedAt": "2026-08-14T13:46:03.924Z",
   "headlines": [
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Chime considering adding stablecoin features to app",
+      "source": "Finextra",
+      "date": "Aug 14, 2026",
+      "url": "https://www.finextra.com/newsarticle/48250/chime-considering-adding-stablecoin-features-to-app"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Nvidia partners with Wall Street mobilise funds for AI infrastructure, Goldman Sachs leads financing",
+      "source": "Finextra",
+      "date": "Aug 14, 2026",
+      "url": "https://www.finextra.com/newsarticle/48249/nvidia-partners-with-wall-street-mobilise-funds-for-ai-infrastructure-goldman-sachs-leads-financing"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Citigroup's Consumer Cards to acquire fintech Kard",
+      "source": "Finextra",
+      "date": "Aug 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/110647/citigroups-consumer-cards-to-acquire-fintech-kard"
+    },
+    {
+      "category": "Payments",
+      "title": "Cashflows makes strategic investment in Tap & Go, supporting growth",
+      "source": "Finextra",
+      "date": "Aug 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/110646/cashflows-makes-strategic-investment-in-tap--go-supporting-growth"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "New Zealand’s Sterling lands funding to run finance on autopilot",
+      "source": "Finextra",
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/110645/new-zealands-sterling-lands-funding-to-run-finance-on-autopilot"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "The GenAI Productivity Mirage: Redefining Software Metrics for Financial Services",
+      "source": "Finextra",
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/blogposting/32540/the-genai-productivity-mirage-redefining-software-metrics-for-financial-services"
+    },
+    {
+      "category": "Payments",
+      "title": "Airwallex partners Affirm for US BNPL roll out",
+      "source": "Finextra",
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/110644/airwallex-partners-affirm-for-us-bnpl-roll-out"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Amex expands virtual card capabilities",
+      "source": "Finextra",
+      "date": "Aug 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/110643/amex-expands-virtual-card-capabilities"
+    },
     {
       "category": "Payments",
       "title": "Sionic launches Instant Bank Pay in US through Microsoft Marketplace",
@@ -14,62 +70,6 @@
       "source": "Finextra",
       "date": "Aug 13, 2026",
       "url": "https://www.finextra.com/newsarticle/48242/anthropic-in-talks-to-purchase-decart-ai"
-    },
-    {
-      "category": "Payments",
-      "title": "Flagstone adds dollar and euro savings options for UK SMEs that keep cash in foreign currencies",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/110640/flagstone-adds-dollar-and-euro-savings-options-for-uk-smes-that-keep-cash-in-foreign-currencies"
-    },
-    {
-      "category": "Payments",
-      "title": "Klarna boosts membership perks and removes service fees",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48241/klarna-boosts-membership-perks-and-removes-service-fees"
-    },
-    {
-      "category": "Payments",
-      "title": "finby boosts Wero to support the future of pan-European payments",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/110638/finby-boosts-wero-to-support-the-future-of-pan-european-payments"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Creditspring expands access to responsible credit with new FCA credit broking permission",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/110637/creditspring-expands-access-to-responsible-credit-with-new-fca-credit-broking-permission"
-    },
-    {
-      "category": "Payments",
-      "title": "Zilch launches new membership tiers",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/110633/zilch-launches-new-membership-tiers"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "S&P Global data integrated into Microsoft 365 Copilot",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48238/sp-global-data-integrated-into-microsoft-365-copilot"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "73 Strings makes leadership appointments",
-      "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/110636/73-strings-makes-leadership-appointments"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Bitwise Asset Management axes 14% of jobs",
-      "source": "Finextra",
-      "date": "Aug 12, 2026",
-      "url": "https://www.finextra.com/newsarticle/48240/bitwise-asset-management-axes-14-of-jobs"
     }
   ]
 }
