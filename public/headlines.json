@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-14T13:46:03.924Z",
+  "updatedAt": "2026-08-15T13:01:16.795Z",
   "headlines": [
+    {
+      "category": "Payments",
+      "title": "The Full-Stack Fintech Brand: Vladyslav Kolodistyi on Bundling Embedded Finance End to End",
+      "source": "Finextra",
+      "date": "Aug 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32458/the-full-stack-fintech-brand-vladyslav-kolodistyi-on-bundling-embedded-finance-end-to-end"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "When the customer's agent, not the customer, initiates the payment",
+      "source": "Finextra",
+      "date": "Aug 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32542/when-the-customers-agent-not-the-customer-initiates-the-payment"
+    },
     {
       "category": "Stablecoins & Digital Money",
       "title": "Chime considering adding stablecoin features to app",
@@ -14,6 +28,13 @@
       "source": "Finextra",
       "date": "Aug 14, 2026",
       "url": "https://www.finextra.com/newsarticle/48249/nvidia-partners-with-wall-street-mobilise-funds-for-ai-infrastructure-goldman-sachs-leads-financing"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Tokenized Money: The Future of Financial Infrastructure",
+      "source": "Finextra",
+      "date": "Aug 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32541/tokenized-money-the-future-of-financial-infrastructure"
     },
     {
       "category": "Merchant Payments",
@@ -30,6 +51,13 @@
       "url": "https://www.finextra.com/pressarticle/110646/cashflows-makes-strategic-investment-in-tap--go-supporting-growth"
     },
     {
+      "category": "Payments",
+      "title": "The Growth Illusion",
+      "source": "Finextra",
+      "date": "Aug 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32536/the-growth-illusion"
+    },
+    {
       "category": "AI & Fintech",
       "title": "New Zealand’s Sterling lands funding to run finance on autopilot",
       "source": "Finextra",
@@ -42,34 +70,6 @@
       "source": "Finextra",
       "date": "Aug 13, 2026",
       "url": "https://www.finextra.com/blogposting/32540/the-genai-productivity-mirage-redefining-software-metrics-for-financial-services"
-    },
-    {
-      "category": "Payments",
-      "title": "Airwallex partners Affirm for US BNPL roll out",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/110644/airwallex-partners-affirm-for-us-bnpl-roll-out"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Amex expands virtual card capabilities",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/110643/amex-expands-virtual-card-capabilities"
-    },
-    {
-      "category": "Payments",
-      "title": "Sionic launches Instant Bank Pay in US through Microsoft Marketplace",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/110641/sionic-launches-instant-bank-pay-in-us-through-microsoft-marketplace"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Anthropic in talks to purchase Decart AI",
-      "source": "Finextra",
-      "date": "Aug 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48242/anthropic-in-talks-to-purchase-decart-ai"
     }
   ]
 }
