@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-17T13:09:00.685Z",
+  "updatedAt": "2026-08-18T13:10:51.371Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Companies prefer cash over digital payments - ECB",
+      "category": "Stablecoins & Digital Money",
+      "title": "Trading Technologies expands prediction markets and crypto derivatives access",
       "source": "Finextra",
-      "date": "Aug 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48255/companies-prefer-cash-over-digital-payments---ecb"
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110667/trading-technologies-expands-prediction-markets-and-crypto-derivatives-access"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Alipay launches full stack agentic commerce platform in China",
+      "title": "Why Connected Finance is the Foundation for AI",
       "source": "Finextra",
-      "date": "Aug 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110650/alipay-launches-full-stack-agentic-commerce-platform-in-china"
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/blogposting/32561/why-connected-finance-is-the-foundation-for-ai"
     },
     {
       "category": "AI & Fintech",
-      "title": "Asic warns of surge in deepfake scams",
+      "title": "Misconception or Magic: What to Know About the Modern Wealth Management World",
       "source": "Finextra",
-      "date": "Aug 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48254/asic-warns-of-surge-in-deepfake-scams"
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/videoarticle/3581/misconception-or-magic-what-to-know-about-the-modern-wealth-management-world"
     },
     {
-      "category": "Payments",
-      "title": "Ingenico secures €150 million in fresh capital",
+      "category": "AI & Agentic Commerce",
+      "title": "Confluence adds AI-enabled automation to its product suite.",
       "source": "Finextra",
-      "date": "Aug 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110649/ingenico-secures-150-million-in-fresh-capital"
-    },
-    {
-      "category": "Payments",
-      "title": "Ebanx expands leadership team",
-      "source": "Finextra",
-      "date": "Aug 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110648/ebanx-expands-leadership-team"
-    },
-    {
-      "category": "Payments",
-      "title": "From Payment Processing to Payment Intelligence",
-      "source": "Finextra",
-      "date": "Aug 17, 2026",
-      "url": "https://www.finextra.com/blogposting/32547/from-payment-processing-to-payment-intelligence"
-    },
-    {
-      "category": "Payments",
-      "title": "Western Union gets New York nod for Intermax acquisition; still faces California hurdles",
-      "source": "Finextra",
-      "date": "Aug 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48252/western-union-gets-new-york-nod-for-intermax-acquisition-still-faces-california-hurdles"
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110665/confluence-adds-ai-enabled-automation-to-its-product-suite"
     },
     {
       "category": "Settlement & Treasury",
-      "title": "Polygon joins BofE's Digital Pound Lab to test cross-border settlement",
+      "title": "Korea's Jeonbuk Bank to deploy Ripple Payments for cross-border remittances",
       "source": "Finextra",
-      "date": "Aug 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48253/polygon-joins-bofes-digital-pound-lab-to-test-cross-border-settlement"
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110664/koreas-jeonbuk-bank-to-deploy-ripple-payments-for-cross-border-remittances"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Unlimit granted crypto asset service provider licence",
+      "source": "Finextra",
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110662/unlimit-granted-crypto-asset-service-provider-licence"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Fireblocks appoints former SEC acting chairman and commissioner as regulatory chief",
+      "source": "Finextra",
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110661/fireblocks-appoints-former-sec-acting-chairman-and-commissioner-as-regulatory-chief"
     },
     {
       "category": "Payments",
-      "title": "Morocco's start-up system has reached a tipping point",
+      "title": "TNS appoints Michael Johnson as global managing director, payments market business",
       "source": "Finextra",
-      "date": "Aug 15, 2026",
-      "url": "https://www.finextra.com/blogposting/32490/moroccos-start-up-system-has-reached-a-tipping-point"
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110660/tns-appoints-michael-johnson-as-global-managing-director-payments-market-business"
     },
     {
       "category": "Payments",
-      "title": "The Full-Stack Fintech Brand: Vladyslav Kolodistyi on Bundling Embedded Finance End to End",
+      "title": "Payzone partnership to bring ‘shop local’ boost to Irish communities",
       "source": "Finextra",
-      "date": "Aug 14, 2026",
-      "url": "https://www.finextra.com/blogposting/32458/the-full-stack-fintech-brand-vladyslav-kolodistyi-on-bundling-embedded-finance-end-to-end"
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110658/payzone-partnership-to-bring-shop-local-boost-to-irish-communities"
+    },
+    {
+      "category": "Payments",
+      "title": "Seco brings KarL4 contactless payment terminal to the US market",
+      "source": "Finextra",
+      "date": "Aug 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110657/seco-brings-karl4-contactless-payment-terminal-to-the-us-market"
     }
   ]
 }
