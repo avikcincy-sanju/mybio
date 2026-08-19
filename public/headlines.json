@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-18T13:10:51.371Z",
+  "updatedAt": "2026-08-19T13:12:32.503Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Trading Technologies expands prediction markets and crypto derivatives access",
+      "category": "Merchant Payments",
+      "title": "Nium launches card issuance in the US",
       "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110667/trading-technologies-expands-prediction-markets-and-crypto-derivatives-access"
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/110675/nium-launches-card-issuance-in-the-us"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "HSBC and Standard Chartered execute first live transaction on Swift's blockchain-based ledger",
+      "source": "Finextra",
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/newsarticle/48270/hsbc-and-standard-chartered-execute-first-live-transaction-on-swifts-blockchain-based-ledger"
+    },
+    {
+      "category": "Payments",
+      "title": "Klarna shares dip on revised guidance",
+      "source": "Finextra",
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/newsarticle/48269/klarna-shares-dip-on-revised-guidance"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Nexo wins approval to launch crypto-backed credit in Australia",
+      "source": "Finextra",
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/110680/nexo-wins-approval-to-launch-crypto-backed-credit-in-australia"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Why Connected Finance is the Foundation for AI",
+      "title": "SAP Concur unveils AI assistant for travel and expense sector",
       "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/blogposting/32561/why-connected-finance-is-the-foundation-for-ai"
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/110679/sap-concur-unveils-ai-assistant-for-travel-and-expense-sector"
     },
     {
-      "category": "AI & Fintech",
-      "title": "Misconception or Magic: What to Know About the Modern Wealth Management World",
+      "category": "Stablecoins & Digital Money",
+      "title": "JCB and Digital Garage to run a proof of concept (PoC) for in-store payments using stablecoins.",
       "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/videoarticle/3581/misconception-or-magic-what-to-know-about-the-modern-wealth-management-world"
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/110678/jcb-and-digital-garage-to-run-a-proof-of-concept-poc-for-in-store-payments-using-stablecoins"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Eskimo adds stablecoin payments through Triple-A",
+      "source": "Finextra",
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/110677/eskimo-adds-stablecoin-payments-through-triple-a"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Confluence adds AI-enabled automation to its product suite.",
+      "title": "Paraglide becomes CICM corporate partner as credit prepares for agentic AI",
       "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110665/confluence-adds-ai-enabled-automation-to-its-product-suite"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Korea's Jeonbuk Bank to deploy Ripple Payments for cross-border remittances",
-      "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110664/koreas-jeonbuk-bank-to-deploy-ripple-payments-for-cross-border-remittances"
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/110676/paraglide-becomes-cicm-corporate-partner-as-credit-prepares-for-agentic-ai"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Unlimit granted crypto asset service provider licence",
+      "title": "The State of RWA Tokenization 2026: Adoption, Investment Trends and Enterprise Expectations",
       "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110662/unlimit-granted-crypto-asset-service-provider-licence"
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/blogposting/32575/the-state-of-rwa-tokenization-2026-adoption-investment-trends-and-enterprise-expectations"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Fireblocks appoints former SEC acting chairman and commissioner as regulatory chief",
+      "title": "Stablecoins offer little cost or speed advantage for remittances - Banca d'Italia",
       "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110661/fireblocks-appoints-former-sec-acting-chairman-and-commissioner-as-regulatory-chief"
-    },
-    {
-      "category": "Payments",
-      "title": "TNS appoints Michael Johnson as global managing director, payments market business",
-      "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110660/tns-appoints-michael-johnson-as-global-managing-director-payments-market-business"
-    },
-    {
-      "category": "Payments",
-      "title": "Payzone partnership to bring ‘shop local’ boost to Irish communities",
-      "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110658/payzone-partnership-to-bring-shop-local-boost-to-irish-communities"
-    },
-    {
-      "category": "Payments",
-      "title": "Seco brings KarL4 contactless payment terminal to the US market",
-      "source": "Finextra",
-      "date": "Aug 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110657/seco-brings-karl4-contactless-payment-terminal-to-the-us-market"
+      "date": "Aug 19, 2026",
+      "url": "https://www.finextra.com/newsarticle/48266/stablecoins-offer-little-cost-or-speed-advantage-for-remittances---banca-ditalia"
     }
   ]
 }
