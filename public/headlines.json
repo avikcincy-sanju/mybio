@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-19T13:12:32.503Z",
+  "updatedAt": "2026-08-20T13:13:22.719Z",
   "headlines": [
     {
-      "category": "Merchant Payments",
-      "title": "Nium launches card issuance in the US",
+      "category": "AI & Agentic Commerce",
+      "title": "Datavault AI to acquire BankWyse",
       "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/110675/nium-launches-card-issuance-in-the-us"
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/110693/datavault-ai-to-acquire-bankwyse"
     },
     {
-      "category": "Payment Infrastructure",
-      "title": "HSBC and Standard Chartered execute first live transaction on Swift's blockchain-based ledger",
+      "category": "AI & Agentic Commerce",
+      "title": "The Future of RWA Tokenization Is AI-Native: What Enterprises Need to Know",
       "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48270/hsbc-and-standard-chartered-execute-first-live-transaction-on-swifts-blockchain-based-ledger"
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/blogposting/32593/the-future-of-rwa-tokenization-is-ai-native-what-enterprises-need-to-know"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Starling launches AI tools for customised services",
+      "source": "Finextra",
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48276/starling-launches-ai-tools-for-customised-services"
     },
     {
       "category": "Payments",
-      "title": "Klarna shares dip on revised guidance",
+      "title": "How better transaction data can prevent payment disputes in banking apps",
       "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48269/klarna-shares-dip-on-revised-guidance"
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/blogposting/32592/how-better-transaction-data-can-prevent-payment-disputes-in-banking-apps"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Nexo wins approval to launch crypto-backed credit in Australia",
+      "category": "Payments",
+      "title": "Prosus invests $100m in Indian fintech Navi",
       "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/110680/nexo-wins-approval-to-launch-crypto-backed-credit-in-australia"
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48275/prosus-invests-100m-in-indian-fintech-navi"
+    },
+    {
+      "category": "Payments",
+      "title": "EIB launches fintech fund in Poland",
+      "source": "Finextra",
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48274/eib-launches-fintech-fund-in-poland"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "BOCHK and Ant International team up for cross-border payments",
+      "source": "Finextra",
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/110690/bochk-and-ant-international-team-up-for-cross-border-payments"
+    },
+    {
+      "category": "Payments",
+      "title": "Revolut applies for banking licence in Finland",
+      "source": "Finextra",
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48273/revolut-applies-for-banking-licence-in-finland"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "SAP Concur unveils AI assistant for travel and expense sector",
+      "title": "The 80% Shift: Why Visa and Mastercard are Rebuilding Payment Rails for the AI Agent Era",
       "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/110679/sap-concur-unveils-ai-assistant-for-travel-and-expense-sector"
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/blogposting/32586/the-80-shift-why-visa-and-mastercard-are-rebuilding-payment-rails-for-the-ai-agent-era"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "JCB and Digital Garage to run a proof of concept (PoC) for in-store payments using stablecoins.",
+      "category": "Payments",
+      "title": "Why Reliability Is Becoming the Ultimate Fintech Brand",
       "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/110678/jcb-and-digital-garage-to-run-a-proof-of-concept-poc-for-in-store-payments-using-stablecoins"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Eskimo adds stablecoin payments through Triple-A",
-      "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/110677/eskimo-adds-stablecoin-payments-through-triple-a"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Paraglide becomes CICM corporate partner as credit prepares for agentic AI",
-      "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/110676/paraglide-becomes-cicm-corporate-partner-as-credit-prepares-for-agentic-ai"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "The State of RWA Tokenization 2026: Adoption, Investment Trends and Enterprise Expectations",
-      "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/blogposting/32575/the-state-of-rwa-tokenization-2026-adoption-investment-trends-and-enterprise-expectations"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Stablecoins offer little cost or speed advantage for remittances - Banca d'Italia",
-      "source": "Finextra",
-      "date": "Aug 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48266/stablecoins-offer-little-cost-or-speed-advantage-for-remittances---banca-ditalia"
+      "date": "Aug 20, 2026",
+      "url": "https://www.finextra.com/blogposting/32585/why-reliability-is-becoming-the-ultimate-fintech-brand"
     }
   ]
 }
