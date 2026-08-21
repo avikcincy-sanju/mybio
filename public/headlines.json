@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-20T13:13:22.719Z",
+  "updatedAt": "2026-08-21T13:13:12.976Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Datavault AI to acquire BankWyse",
+      "category": "Stablecoins & Digital Money",
+      "title": "Two Binance employees detained in UAE - NYT",
       "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/110693/datavault-ai-to-acquire-bankwyse"
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48283/two-binance-employees-detained-in-uae---nyt"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "SEC proposes Regulation Crypto Assets",
+      "source": "Finextra",
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48282/sec-proposes-regulation-crypto-assets"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "The Future of RWA Tokenization Is AI-Native: What Enterprises Need to Know",
+      "title": "AI ERP platform Rillet raises $100m Series C at $1bn valuation",
       "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/blogposting/32593/the-future-of-rwa-tokenization-is-ai-native-what-enterprises-need-to-know"
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/110702/ai-erp-platform-rillet-raises-100m-series-c-at-1bn-valuation"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Starling launches AI tools for customised services",
+      "title": "Singapore’s DBS deploys specialist AI agents for 1,500 employees",
       "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48276/starling-launches-ai-tools-for-customised-services"
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48281/singapores-dbs-deploys-specialist-ai-agents-for-1500-employees"
     },
     {
       "category": "Payments",
-      "title": "How better transaction data can prevent payment disputes in banking apps",
+      "title": "The Realities of End-to-End Payment Routing",
       "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/blogposting/32592/how-better-transaction-data-can-prevent-payment-disputes-in-banking-apps"
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/blogposting/32589/the-realities-of-end-to-end-payment-routing"
     },
     {
       "category": "Payments",
-      "title": "Prosus invests $100m in Indian fintech Navi",
+      "title": "When Every Payment Rail Is Fast, What Actually Creates An Advantage?",
       "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48275/prosus-invests-100m-in-indian-fintech-navi"
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/blogposting/32601/when-every-payment-rail-is-fast-what-actually-creates-an-advantage"
     },
     {
-      "category": "Payments",
-      "title": "EIB launches fintech fund in Poland",
+      "category": "Stablecoins & Digital Money",
+      "title": "Enterprise Tokenization Platforms in 2026: Key Infrastructure and Technology Trends",
       "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48274/eib-launches-fintech-fund-in-poland"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "BOCHK and Ant International team up for cross-border payments",
-      "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/110690/bochk-and-ant-international-team-up-for-cross-border-payments"
-    },
-    {
-      "category": "Payments",
-      "title": "Revolut applies for banking licence in Finland",
-      "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48273/revolut-applies-for-banking-licence-in-finland"
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/blogposting/32597/enterprise-tokenization-platforms-in-2026-key-infrastructure-and-technology-trends"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "The 80% Shift: Why Visa and Mastercard are Rebuilding Payment Rails for the AI Agent Era",
+      "title": "How Is AI Being Used in Finance?",
       "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/blogposting/32586/the-80-shift-why-visa-and-mastercard-are-rebuilding-payment-rails-for-the-ai-agent-era"
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/blogposting/32596/how-is-ai-being-used-in-finance"
     },
     {
-      "category": "Payments",
-      "title": "Why Reliability Is Becoming the Ultimate Fintech Brand",
+      "category": "Merchant Payments",
+      "title": "Visa partners _able and Onafriq to expand credit access in Africa",
       "source": "Finextra",
-      "date": "Aug 20, 2026",
-      "url": "https://www.finextra.com/blogposting/32585/why-reliability-is-becoming-the-ultimate-fintech-brand"
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48279/visa-partners-able-and-onafriq-to-expand-credit-access-in-africa"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Global banks sign for Ant International AI forecasting model",
+      "source": "Finextra",
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48280/global-banks-sign-for-ant-international-ai-forecasting-model"
     }
   ]
 }
