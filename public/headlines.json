@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-21T13:13:12.976Z",
+  "updatedAt": "2026-08-22T13:02:48.397Z",
   "headlines": [
+    {
+      "category": "Payments",
+      "title": "Walmart finally lets customers make contactless payments",
+      "source": "Finextra",
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48286/walmart-finally-lets-customers-make-contactless-payments"
+    },
+    {
+      "category": "Payments",
+      "title": "Why Unlimited Budgets Don't Create Winning Strategies",
+      "source": "Finextra",
+      "date": "Aug 21, 2026",
+      "url": "https://www.finextra.com/videoarticle/3588/why-unlimited-budgets-dont-create-winning-strategies"
+    },
     {
       "category": "Stablecoins & Digital Money",
       "title": "Two Binance employees detained in UAE - NYT",
@@ -56,20 +70,6 @@
       "source": "Finextra",
       "date": "Aug 21, 2026",
       "url": "https://www.finextra.com/blogposting/32596/how-is-ai-being-used-in-finance"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Visa partners _able and Onafriq to expand credit access in Africa",
-      "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48279/visa-partners-able-and-onafriq-to-expand-credit-access-in-africa"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Global banks sign for Ant International AI forecasting model",
-      "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48280/global-banks-sign-for-ant-international-ai-forecasting-model"
     }
   ]
 }
