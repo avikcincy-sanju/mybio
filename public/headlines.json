@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-23T13:04:10.504Z",
+  "updatedAt": "2026-08-24T13:16:01.013Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Walmart finally lets customers make contactless payments",
+      "category": "AI & Agentic Commerce",
+      "title": "Starling launches AI assistant for business",
       "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48286/walmart-finally-lets-customers-make-contactless-payments"
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/110710/starling-launches-ai-assistant-for-business"
     },
     {
       "category": "Payments",
-      "title": "Why Unlimited Budgets Don't Create Winning Strategies",
+      "title": "What Every Payment Provider Should Know Before Choosing an AML Transaction Monitoring Solution?",
       "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/videoarticle/3588/why-unlimited-budgets-dont-create-winning-strategies"
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/blogposting/32617/what-every-payment-provider-should-know-before-choosing-an-aml-transaction-monitoring-solution"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Two Binance employees detained in UAE - NYT",
+      "title": "India set to tokenise corporate bond market - Reuters",
       "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48283/two-binance-employees-detained-in-uae---nyt"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "SEC proposes Regulation Crypto Assets",
-      "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48282/sec-proposes-regulation-crypto-assets"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "AI ERP platform Rillet raises $100m Series C at $1bn valuation",
-      "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110702/ai-erp-platform-rillet-raises-100m-series-c-at-1bn-valuation"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Singapore’s DBS deploys specialist AI agents for 1,500 employees",
-      "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48281/singapores-dbs-deploys-specialist-ai-agents-for-1500-employees"
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/newsarticle/48290/india-set-to-tokenise-corporate-bond-market---reuters"
     },
     {
       "category": "Payments",
-      "title": "The Realities of End-to-End Payment Routing",
+      "title": "Tap Global adopts digital assets income strategy",
       "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/blogposting/32589/the-realities-of-end-to-end-payment-routing"
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/110708/tap-global-adopts-digital-assets-income-strategy"
     },
     {
       "category": "Payments",
-      "title": "When Every Payment Rail Is Fast, What Actually Creates An Advantage?",
+      "title": "Brazil's Inter Pag selects ACI for payments",
       "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/blogposting/32601/when-every-payment-rail-is-fast-what-actually-creates-an-advantage"
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/110706/brazils-inter-pag-selects-aci-for-payments"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Enterprise Tokenization Platforms in 2026: Key Infrastructure and Technology Trends",
+      "title": "Launch Regulated Layer One platform: central pillar of future European digital financial ecosystem",
       "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/blogposting/32597/enterprise-tokenization-platforms-in-2026-key-infrastructure-and-technology-trends"
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/blogposting/32614/launch-regulated-layer-one-platform-central-pillar-of-future-european-digital-financial-ecosystem"
+    },
+    {
+      "category": "Payments",
+      "title": "Ericsson and MTN complete MoMo migration in African markets",
+      "source": "Finextra",
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/110705/ericsson-and-mtn-complete-momo-migration-in-african-markets"
+    },
+    {
+      "category": "Payments",
+      "title": "Versapay appoints CFO",
+      "source": "Finextra",
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/110704/versapay-appoints-cfo"
+    },
+    {
+      "category": "Payments",
+      "title": "How Market Sentiment Affects Banks Innovation Opportunities",
+      "source": "Finextra",
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/videoarticle/3589/how-market-sentiment-affects-banks-innovation-opportunities"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "How Is AI Being Used in Finance?",
+      "title": "ADIB appoints first chief AI officer",
       "source": "Finextra",
-      "date": "Aug 21, 2026",
-      "url": "https://www.finextra.com/blogposting/32596/how-is-ai-being-used-in-finance"
+      "date": "Aug 24, 2026",
+      "url": "https://www.finextra.com/newsarticle/48289/adib-appoints-first-chief-ai-officer"
     }
   ]
 }
