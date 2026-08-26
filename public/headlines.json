@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-25T13:13:30.072Z",
+  "updatedAt": "2026-08-26T13:18:40.589Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Itoflow raises $2.5m for investment research AI agents",
+      "category": "Payments",
+      "title": "Federal Home Loan Bank of Atlanta selects ACI Connetic",
       "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48297/itoflow-raises-25m-for-investment-research-ai-agents"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "White Label Crypto Wallet Development: The Complete Guide for Businesses",
-      "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/blogposting/32628/white-label-crypto-wallet-development-the-complete-guide-for-businesses"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "More than three in four 18 to 24-year-olds have used AI for personal finance - Lloyds",
-      "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/110717/more-than-three-in-four-18-to-24-year-olds-have-used-ai-for-personal-finance---lloyds"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Revolut launches dedicated AI research lab built on its own foundation model",
-      "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48296/revolut-launches-dedicated-ai-research-lab-built-on-its-own-foundation-model"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "AI-driven portfolio management platform Standard Metrics raises $20 million",
-      "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/110716/ai-driven-portfolio-management-platform-standard-metrics-raises-20-million"
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/110732/federal-home-loan-bank-of-atlanta-selects-aci-connetic"
     },
     {
       "category": "Payments",
-      "title": "From policy to practice - the case for shared responsibility in tackling fraud",
+      "title": "Tieto and Siirto partner to improve e-invoicing experience in Finland",
       "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/blogposting/32625/from-policy-to-practice---the-case-for-shared-responsibility-in-tackling-fraud"
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/110731/tieto-and-siirto-partner-to-improve-e-invoicing-experience-in-finland"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "Taurus enables financial institutions to connect to Swift's blockchain-based shared ledger",
+      "source": "Finextra",
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/110720/taurus-enables-financial-institutions-to-connect-to-swifts-blockchain-based-shared-ledger"
     },
     {
       "category": "Payments",
-      "title": "Stripe celebrates 10 years in Singapore by expanding its infrastructure for global businesses",
+      "title": "The Reliability Economy: Why Consistency Wins in Fintech",
       "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/110714/stripe-celebrates-10-years-in-singapore-by-expanding-its-infrastructure-for-global-businesses"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Payabl. teams with Visa to help merchants resolve disputes and prevent costly chargebacks",
-      "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/110713/payabl-teams-with-visa-to-help-merchants-resolve-disputes-and-prevent-costly-chargebacks"
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/blogposting/32641/the-reliability-economy-why-consistency-wins-in-fintech"
     },
     {
       "category": "Payments",
-      "title": "CommBank rolls out payout platform in advance of cheque phase out",
+      "title": "Abound chooses Monad for blockchain-based growth plan",
       "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48294/commbank-rolls-out-payout-platform-in-advance-of-cheque-phase-out"
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/110730/abound-chooses-monad-for-blockchain-based-growth-plan"
+    },
+    {
+      "category": "Payments",
+      "title": "Digital banking trends in 2026: why the transaction feed became the product",
+      "source": "Finextra",
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/blogposting/32626/digital-banking-trends-in-2026-why-the-transaction-feed-became-the-product"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "What are your basic questions re Trust for AI in Europe",
+      "title": "Why AI Agents Need Verifiable Organizational Identity",
       "source": "Finextra",
-      "date": "Aug 25, 2026",
-      "url": "https://www.finextra.com/blogposting/32624/what-are-your-basic-questions-re-trust-for-ai-in-europe"
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/blogposting/32638/why-ai-agents-need-verifiable-organizational-identity"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Equals engage AI workplace platform Aiimi to manage GDPR compliance",
+      "source": "Finextra",
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/110726/equals-engage-ai-workplace-platform-aiimi-to-manage-gdpr-compliance"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills",
+      "source": "Finextra",
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48302/goldman-sachs-partner-warns-that-ai-could-erode-bankers-reasoning-skills"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "Why Real-Time Banking Is Not the Same as Intelligent Banking",
+      "source": "Finextra",
+      "date": "Aug 26, 2026",
+      "url": "https://www.finextra.com/blogposting/32637/why-real-time-banking-is-not-the-same-as-intelligent-banking"
     }
   ]
 }
