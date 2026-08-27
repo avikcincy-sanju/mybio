@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-26T13:18:40.589Z",
+  "updatedAt": "2026-08-27T22:18:17.977Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Federal Home Loan Bank of Atlanta selects ACI Connetic",
+      "category": "Merchant Payments",
+      "title": "Experian launches credit cards app on ChatGPT",
       "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/110732/federal-home-loan-bank-of-atlanta-selects-aci-connetic"
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/110748/experian-launches-credit-cards-app-on-chatgpt"
     },
     {
-      "category": "Payments",
-      "title": "Tieto and Siirto partner to improve e-invoicing experience in Finland",
+      "category": "Stablecoins & Digital Money",
+      "title": "How Revolut's EURR Stablecoin Works: The Mechanics Explained",
       "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/110731/tieto-and-siirto-partner-to-improve-e-invoicing-experience-in-finland"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "Taurus enables financial institutions to connect to Swift's blockchain-based shared ledger",
-      "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/110720/taurus-enables-financial-institutions-to-connect-to-swifts-blockchain-based-shared-ledger"
-    },
-    {
-      "category": "Payments",
-      "title": "The Reliability Economy: Why Consistency Wins in Fintech",
-      "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/blogposting/32641/the-reliability-economy-why-consistency-wins-in-fintech"
-    },
-    {
-      "category": "Payments",
-      "title": "Abound chooses Monad for blockchain-based growth plan",
-      "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/110730/abound-chooses-monad-for-blockchain-based-growth-plan"
-    },
-    {
-      "category": "Payments",
-      "title": "Digital banking trends in 2026: why the transaction feed became the product",
-      "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/blogposting/32626/digital-banking-trends-in-2026-why-the-transaction-feed-became-the-product"
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/blogposting/32654/how-revoluts-eurr-stablecoin-works-the-mechanics-explained"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Why AI Agents Need Verifiable Organizational Identity",
+      "title": "Visa expands open-source AI cyber defence system",
       "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/blogposting/32638/why-ai-agents-need-verifiable-organizational-identity"
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/110747/visa-expands-open-source-ai-cyber-defence-system"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "MoonPay adds Kamino to PayBox",
+      "source": "Finextra",
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/110746/moonpay-adds-kamino-to-paybox"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Equals engage AI workplace platform Aiimi to manage GDPR compliance",
+      "title": "Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity",
       "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/110726/equals-engage-ai-workplace-platform-aiimi-to-manage-gdpr-compliance"
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48311/socure-hits-52bn-valuation-on-investment-buys-ai-fraud-platform-fravity"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Stablecoin Banking Service Providers Will Welcome Bank of England's Pivot",
+      "source": "Finextra",
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/blogposting/32652/stablecoin-banking-service-providers-will-welcome-bank-of-englands-pivot"
+    },
+    {
+      "category": "Payments",
+      "title": "US state bankers associations to build industry-owned blockchain network",
+      "source": "Finextra",
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48316/us-state-bankers-associations-to-build-industry-owned-blockchain-network"
+    },
+    {
+      "category": "Payments",
+      "title": "How the banking industry can ensure vulnerable adults don’t remain underbanked",
+      "source": "Finextra",
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48308/how-the-banking-industry-can-ensure-vulnerable-adults-dont-remain-underbanked"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills",
+      "title": "Asic and Apra warn frontier AI awareness must turn to action",
       "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48302/goldman-sachs-partner-warns-that-ai-could-erode-bankers-reasoning-skills"
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/110742/asic-and-apra-warn-frontier-ai-awareness-must-turn-to-action"
     },
     {
-      "category": "Payment Infrastructure",
-      "title": "Why Real-Time Banking Is Not the Same as Intelligent Banking",
+      "category": "AI & Agentic Commerce",
+      "title": "Aussie fintechs Lucie Money taps Fiskil to embed open banking data into its conversational AI agent",
       "source": "Finextra",
-      "date": "Aug 26, 2026",
-      "url": "https://www.finextra.com/blogposting/32637/why-real-time-banking-is-not-the-same-as-intelligent-banking"
+      "date": "Aug 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/110739/aussie-fintechs-lucie-money-taps-fiskil-to-embed-open-banking-data-into-its-conversational-ai-agent"
     }
   ]
 }
