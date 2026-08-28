@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-27T22:18:17.977Z",
+  "updatedAt": "2026-08-28T22:25:00.834Z",
   "headlines": [
     {
-      "category": "Merchant Payments",
-      "title": "Experian launches credit cards app on ChatGPT",
+      "category": "Stablecoins & Digital Money",
+      "title": "Stablecoins Are Becoming a Feature, Not a Revolution",
       "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/110748/experian-launches-credit-cards-app-on-chatgpt"
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/blogposting/32664/stablecoins-are-becoming-a-feature-not-a-revolution"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Private equity’s $1.2 trillion AI blind spot",
+      "source": "Finextra",
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/blogposting/32662/private-equitys-12-trillion-ai-blind-spot"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "How Revolut's EURR Stablecoin Works: The Mechanics Explained",
+      "title": "A structural solution for crypto's banking access headache",
       "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/blogposting/32654/how-revoluts-eurr-stablecoin-works-the-mechanics-explained"
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/blogposting/32661/a-structural-solution-for-cryptos-banking-access-headache"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Visa expands open-source AI cyber defence system",
+      "category": "Payments",
+      "title": "PayPal shares sink on reported collapse of Stripe-Advent takeover deal",
       "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/110747/visa-expands-open-source-ai-cyber-defence-system"
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48322/paypal-shares-sink-on-reported-collapse-of-stripe-advent-takeover-deal"
     },
     {
-      "category": "AI & Fintech",
-      "title": "MoonPay adds Kamino to PayBox",
+      "category": "Payments",
+      "title": "Affirm and Shopify launch installments payments in Australia",
       "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/110746/moonpay-adds-kamino-to-paybox"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity",
-      "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/newsarticle/48311/socure-hits-52bn-valuation-on-investment-buys-ai-fraud-platform-fravity"
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/110751/affirm-and-shopify-launch-installments-payments-in-australia"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Stablecoin Banking Service Providers Will Welcome Bank of England's Pivot",
+      "title": "Bullish invests in USD.AI's $100 million stablecoin-based liquidity facility",
       "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/blogposting/32652/stablecoin-banking-service-providers-will-welcome-bank-of-englands-pivot"
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/110750/bullish-invests-in-usdais-100-million-stablecoin-based-liquidity-facility"
     },
     {
       "category": "Payments",
-      "title": "US state bankers associations to build industry-owned blockchain network",
+      "title": "Visa and Mastercard complete transactions in Syria after US lifts state terrorism label",
       "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/newsarticle/48316/us-state-bankers-associations-to-build-industry-owned-blockchain-network"
-    },
-    {
-      "category": "Payments",
-      "title": "How the banking industry can ensure vulnerable adults don’t remain underbanked",
-      "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/newsarticle/48308/how-the-banking-industry-can-ensure-vulnerable-adults-dont-remain-underbanked"
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48321/visa-and-mastercard-complete-transactions-in-syria-after-us-lifts-state-terrorism-label"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Asic and Apra warn frontier AI awareness must turn to action",
+      "title": "Meta tests consumer-based AI agent for everyday online tasks",
       "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/110742/asic-and-apra-warn-frontier-ai-awareness-must-turn-to-action"
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48319/meta-tests-consumer-based-ai-agent-for-everyday-online-tasks"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Aussie fintechs Lucie Money taps Fiskil to embed open banking data into its conversational AI agent",
+      "category": "Payment Infrastructure",
+      "title": "Swift accepts request to extend structured address migration for ISO 20022 messages",
       "source": "Finextra",
-      "date": "Aug 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/110739/aussie-fintechs-lucie-money-taps-fiskil-to-embed-open-banking-data-into-its-conversational-ai-agent"
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48318/swift-accepts-request-to-extend-structured-address-migration-for-iso-20022-messages"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "RQD* Clearing raises $74 million",
+      "source": "Finextra",
+      "date": "Aug 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48317/rqd-clearing-raises-74-million"
     }
   ]
 }
