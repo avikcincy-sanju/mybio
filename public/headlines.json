@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-30T16:44:17.442Z",
+  "updatedAt": "2026-08-31T19:08:43.498Z",
   "headlines": [
+    {
+      "category": "Payments",
+      "title": "MoonPay's PayBox launches in Grok",
+      "source": "Finextra",
+      "date": "Aug 31, 2026",
+      "url": "https://www.finextra.com/pressarticle/110755/moonpays-paybox-launches-in-grok"
+    },
+    {
+      "category": "Payments",
+      "title": "TD tests tokenised payments through Project Agorá",
+      "source": "Finextra",
+      "date": "Aug 31, 2026",
+      "url": "https://www.finextra.com/newsarticle/48326/td-tests-tokenised-payments-through-project-agor"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Domain Authority Barely Predicts AI Visibility. I Measured 51 Fintechs.",
+      "source": "Finextra",
+      "date": "Aug 31, 2026",
+      "url": "https://www.finextra.com/blogposting/32674/domain-authority-barely-predicts-ai-visibility-i-measured-51-fintechs"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "BofE governor warns that frontier AI models pose risk to global financial stability",
+      "source": "Finextra",
+      "date": "Aug 31, 2026",
+      "url": "https://www.finextra.com/newsarticle/48324/bofe-governor-warns-that-frontier-ai-models-pose-risk-to-global-financial-stability"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Aleta launches limited-edition Hello Kitty Visa debit cards",
+      "source": "Finextra",
+      "date": "Aug 31, 2026",
+      "url": "https://www.finextra.com/pressarticle/110753/aleta-launches-limited-edition-hello-kitty-visa-debit-cards"
+    },
+    {
+      "category": "Payments",
+      "title": "Embedded Finance Is Global. Its Business Model Isn't",
+      "source": "Finextra",
+      "date": "Aug 31, 2026",
+      "url": "https://www.finextra.com/blogposting/32670/embedded-finance-is-global-its-business-model-isnt"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "South Korea's Shinhan signs for Visa stablecoin platform",
+      "source": "Finextra",
+      "date": "Aug 31, 2026",
+      "url": "https://www.finextra.com/newsarticle/48323/south-koreas-shinhan-signs-for-visa-stablecoin-platform"
+    },
+    {
+      "category": "Payments",
+      "title": "The Hidden Loan Inside a Commodity Sale: Why Payment Terms Need Their Own Price",
+      "source": "Finextra",
+      "date": "Aug 30, 2026",
+      "url": "https://www.finextra.com/blogposting/32667/the-hidden-loan-inside-a-commodity-sale-why-payment-terms-need-their-own-price"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Deep Dive: Structural Logic Behind Stripe’s Acquisition of OpenRouter AI Gateway",
+      "source": "Finextra",
+      "date": "Aug 30, 2026",
+      "url": "https://www.finextra.com/blogposting/32647/deep-dive-structural-logic-behind-stripes-acquisition-of-openrouter-ai-gateway"
+    },
     {
       "category": "Stablecoins & Digital Money",
       "title": "Stablecoins Are Becoming a Feature, Not a Revolution",
       "source": "Finextra",
       "date": "Aug 28, 2026",
       "url": "https://www.finextra.com/blogposting/32664/stablecoins-are-becoming-a-feature-not-a-revolution"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Private equity’s $1.2 trillion AI blind spot",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/blogposting/32662/private-equitys-12-trillion-ai-blind-spot"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "A structural solution for crypto's banking access headache",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/blogposting/32661/a-structural-solution-for-cryptos-banking-access-headache"
-    },
-    {
-      "category": "Payments",
-      "title": "PayPal shares sink on reported collapse of Stripe-Advent takeover deal",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48322/paypal-shares-sink-on-reported-collapse-of-stripe-advent-takeover-deal"
-    },
-    {
-      "category": "Payments",
-      "title": "Affirm and Shopify launch installments payments in Australia",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/110751/affirm-and-shopify-launch-installments-payments-in-australia"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Bullish invests in USD.AI's $100 million stablecoin-based liquidity facility",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/110750/bullish-invests-in-usdais-100-million-stablecoin-based-liquidity-facility"
-    },
-    {
-      "category": "Payments",
-      "title": "Visa and Mastercard complete transactions in Syria after US lifts state terrorism label",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48321/visa-and-mastercard-complete-transactions-in-syria-after-us-lifts-state-terrorism-label"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Meta tests consumer-based AI agent for everyday online tasks",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48319/meta-tests-consumer-based-ai-agent-for-everyday-online-tasks"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "Swift accepts request to extend structured address migration for ISO 20022 messages",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48318/swift-accepts-request-to-extend-structured-address-migration-for-iso-20022-messages"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "RQD* Clearing raises $74 million",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48317/rqd-clearing-raises-74-million"
     }
   ]
 }
