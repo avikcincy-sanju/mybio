@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-08-31T19:08:43.498Z",
+  "updatedAt": "2026-09-01T16:42:40.846Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "MoonPay's PayBox launches in Grok",
+      "category": "AI & Agentic Commerce",
+      "title": "Vertice AI launches growth engine for financial institutions",
       "source": "Finextra",
-      "date": "Aug 31, 2026",
-      "url": "https://www.finextra.com/pressarticle/110755/moonpays-paybox-launches-in-grok"
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/pressarticle/110772/vertice-ai-launches-growth-engine-for-financial-institutions"
     },
     {
-      "category": "Payments",
-      "title": "TD tests tokenised payments through Project Agorá",
+      "category": "Stablecoins & Digital Money",
+      "title": "Global banking giants prep stablecoin JV",
       "source": "Finextra",
-      "date": "Aug 31, 2026",
-      "url": "https://www.finextra.com/newsarticle/48326/td-tests-tokenised-payments-through-project-agor"
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/newsarticle/48334/global-banking-giants-prep-stablecoin-jv"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Domain Authority Barely Predicts AI Visibility. I Measured 51 Fintechs.",
+      "title": "The Dos and Don'ts for Leveraging AI for Self-directed Investors",
       "source": "Finextra",
-      "date": "Aug 31, 2026",
-      "url": "https://www.finextra.com/blogposting/32674/domain-authority-barely-predicts-ai-visibility-i-measured-51-fintechs"
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/videoarticle/3592/the-dos-and-donts-for-leveraging-ai-for-self-directed-investors"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "BofE governor warns that frontier AI models pose risk to global financial stability",
+      "category": "Payments",
+      "title": "FIS and Ericsson combine on wallet-led financial services",
       "source": "Finextra",
-      "date": "Aug 31, 2026",
-      "url": "https://www.finextra.com/newsarticle/48324/bofe-governor-warns-that-frontier-ai-models-pose-risk-to-global-financial-stability"
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/pressarticle/110770/fis-and-ericsson-combine-on-wallet-led-financial-services"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Engageware appoints CFO, CTO and CPO",
+      "source": "Finextra",
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/pressarticle/110766/engageware-appoints-cfo-cto-and-cpo"
+    },
+    {
+      "category": "Payments",
+      "title": "DBS and Stripe join forces",
+      "source": "Finextra",
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/pressarticle/110769/dbs-and-stripe-join-forces"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Lenvi launches verification software to protect against double pledging fraud",
+      "source": "Finextra",
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/pressarticle/110768/lenvi-launches-verification-software-to-protect-against-double-pledging-fraud"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "The Core Banking Modernisation Question Has Changed",
+      "source": "Finextra",
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/blogposting/32682/the-core-banking-modernisation-question-has-changed"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "ONE CLICK TO CONFIRM: Are We Making Online Fraud Too Easy?",
+      "source": "Finextra",
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/blogposting/32680/one-click-to-confirm-are-we-making-online-fraud-too-easy"
     },
     {
       "category": "Merchant Payments",
-      "title": "Aleta launches limited-edition Hello Kitty Visa debit cards",
+      "title": "Klarna CEO Sebastian Siemiatkowski acquires 692,506 shares for $10 million",
       "source": "Finextra",
-      "date": "Aug 31, 2026",
-      "url": "https://www.finextra.com/pressarticle/110753/aleta-launches-limited-edition-hello-kitty-visa-debit-cards"
-    },
-    {
-      "category": "Payments",
-      "title": "Embedded Finance Is Global. Its Business Model Isn't",
-      "source": "Finextra",
-      "date": "Aug 31, 2026",
-      "url": "https://www.finextra.com/blogposting/32670/embedded-finance-is-global-its-business-model-isnt"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "South Korea's Shinhan signs for Visa stablecoin platform",
-      "source": "Finextra",
-      "date": "Aug 31, 2026",
-      "url": "https://www.finextra.com/newsarticle/48323/south-koreas-shinhan-signs-for-visa-stablecoin-platform"
-    },
-    {
-      "category": "Payments",
-      "title": "The Hidden Loan Inside a Commodity Sale: Why Payment Terms Need Their Own Price",
-      "source": "Finextra",
-      "date": "Aug 30, 2026",
-      "url": "https://www.finextra.com/blogposting/32667/the-hidden-loan-inside-a-commodity-sale-why-payment-terms-need-their-own-price"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Deep Dive: Structural Logic Behind Stripe’s Acquisition of OpenRouter AI Gateway",
-      "source": "Finextra",
-      "date": "Aug 30, 2026",
-      "url": "https://www.finextra.com/blogposting/32647/deep-dive-structural-logic-behind-stripes-acquisition-of-openrouter-ai-gateway"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Stablecoins Are Becoming a Feature, Not a Revolution",
-      "source": "Finextra",
-      "date": "Aug 28, 2026",
-      "url": "https://www.finextra.com/blogposting/32664/stablecoins-are-becoming-a-feature-not-a-revolution"
+      "date": "Sep 1, 2026",
+      "url": "https://www.finextra.com/pressarticle/110765/klarna-ceo-sebastian-siemiatkowski-acquires-692506-shares-for-10-million"
     }
   ]
 }
