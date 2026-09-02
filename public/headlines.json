@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-01T16:42:40.846Z",
+  "updatedAt": "2026-09-02T16:38:08.675Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Vertice AI launches growth engine for financial institutions",
-      "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/110772/vertice-ai-launches-growth-engine-for-financial-institutions"
-    },
-    {
       "category": "Stablecoins & Digital Money",
-      "title": "Global banking giants prep stablecoin JV",
+      "title": "BCP completes first digital bond transaction using GBP stablecoin",
       "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/newsarticle/48334/global-banking-giants-prep-stablecoin-jv"
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/110788/bcp-completes-first-digital-bond-transaction-using-gbp-stablecoin"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "The Dos and Don'ts for Leveraging AI for Self-directed Investors",
+      "title": "Airwallex unveils AI bookkeeping platform",
       "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/videoarticle/3592/the-dos-and-donts-for-leveraging-ai-for-self-directed-investors"
-    },
-    {
-      "category": "Payments",
-      "title": "FIS and Ericsson combine on wallet-led financial services",
-      "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/110770/fis-and-ericsson-combine-on-wallet-led-financial-services"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Engageware appoints CFO, CTO and CPO",
-      "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/110766/engageware-appoints-cfo-cto-and-cpo"
-    },
-    {
-      "category": "Payments",
-      "title": "DBS and Stripe join forces",
-      "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/110769/dbs-and-stripe-join-forces"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Lenvi launches verification software to protect against double pledging fraud",
-      "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/110768/lenvi-launches-verification-software-to-protect-against-double-pledging-fraud"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "The Core Banking Modernisation Question Has Changed",
-      "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/blogposting/32682/the-core-banking-modernisation-question-has-changed"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "ONE CLICK TO CONFIRM: Are We Making Online Fraud Too Easy?",
-      "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/blogposting/32680/one-click-to-confirm-are-we-making-online-fraud-too-easy"
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/110787/airwallex-unveils-ai-bookkeeping-platform"
     },
     {
       "category": "Merchant Payments",
-      "title": "Klarna CEO Sebastian Siemiatkowski acquires 692,506 shares for $10 million",
+      "title": "Fifth Third issues consolidated debt card",
       "source": "Finextra",
-      "date": "Sep 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/110765/klarna-ceo-sebastian-siemiatkowski-acquires-692506-shares-for-10-million"
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/110786/fifth-third-issues-consolidated-debt-card"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Nasdaq acquires AI due diligence platform Dasseti",
+      "source": "Finextra",
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/110785/nasdaq-acquires-ai-due-diligence-platform-dasseti"
+    },
+    {
+      "category": "Payments",
+      "title": "Mollie completes acquisition of GoCardless",
+      "source": "Finextra",
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/110784/mollie-completes-acquisition-of-gocardless"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "How to make AI the heart of the UK’s Growth Engine",
+      "source": "Finextra",
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/blogposting/32704/how-to-make-ai-the-heart-of-the-uks-growth-engine"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Don’t give AI to everyone. Give it to your best people first",
+      "source": "Finextra",
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/blogposting/32701/dont-give-ai-to-everyone-give-it-to-your-best-people-first"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "ACI Worldwide to add microservices card switching via Cranium Ventures acquisition",
+      "source": "Finextra",
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/newsarticle/48339/aci-worldwide-to-add-microservices-card-switching-via-cranium-ventures-acquisition"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Juspay pilots offering that enables brand discovery across AI platforms",
+      "source": "Finextra",
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/110783/juspay-pilots-offering-that-enables-brand-discovery-across-ai-platforms"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Binance ships Agent OS to connect AI with crypto",
+      "source": "Finextra",
+      "date": "Sep 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/110782/binance-ships-agent-os-to-connect-ai-with-crypto"
     }
   ]
 }
