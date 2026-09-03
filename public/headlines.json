@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-02T16:38:08.675Z",
+  "updatedAt": "2026-09-03T16:29:07.963Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "BCP completes first digital bond transaction using GBP stablecoin",
-      "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/110788/bcp-completes-first-digital-bond-transaction-using-gbp-stablecoin"
-    },
-    {
       "category": "AI & Agentic Commerce",
-      "title": "Airwallex unveils AI bookkeeping platform",
+      "title": "Finzly debuts AI assurance layer",
       "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/110787/airwallex-unveils-ai-bookkeeping-platform"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Fifth Third issues consolidated debt card",
-      "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/110786/fifth-third-issues-consolidated-debt-card"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Nasdaq acquires AI due diligence platform Dasseti",
-      "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/110785/nasdaq-acquires-ai-due-diligence-platform-dasseti"
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110810/finzly-debuts-ai-assurance-layer"
     },
     {
       "category": "Payments",
-      "title": "Mollie completes acquisition of GoCardless",
+      "title": "KB Kookmin Bank leverages Kinexys by JPMorgan for import/export payments",
       "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/110784/mollie-completes-acquisition-of-gocardless"
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110808/kb-kookmin-bank-leverages-kinexys-by-jpmorgan-for-importexport-payments"
+    },
+    {
+      "category": "Payments",
+      "title": "OpenPayd secures 43 money transmitter licences across the US",
+      "source": "Finextra",
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110807/openpayd-secures-43-money-transmitter-licences-across-the-us"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "RateZip launches live US bank rate and mortgage rate app on ChatGPT",
+      "source": "Finextra",
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110806/ratezip-launches-live-us-bank-rate-and-mortgage-rate-app-on-chatgpt"
+    },
+    {
+      "category": "Payments",
+      "title": "Tokenized Funds in 2030: How Blockchain Will Redefine the Future of Asset Management",
+      "source": "Finextra",
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/blogposting/32714/tokenized-funds-in-2030-how-blockchain-will-redefine-the-future-of-asset-management"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "How to make AI the heart of the UK’s Growth Engine",
+      "title": "Incore Bank trials AI for customer onboarding with automated risk assessment",
       "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/blogposting/32704/how-to-make-ai-the-heart-of-the-uks-growth-engine"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Don’t give AI to everyone. Give it to your best people first",
-      "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/blogposting/32701/dont-give-ai-to-everyone-give-it-to-your-best-people-first"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "ACI Worldwide to add microservices card switching via Cranium Ventures acquisition",
-      "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/newsarticle/48339/aci-worldwide-to-add-microservices-card-switching-via-cranium-ventures-acquisition"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Juspay pilots offering that enables brand discovery across AI platforms",
-      "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/110783/juspay-pilots-offering-that-enables-brand-discovery-across-ai-platforms"
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/newsarticle/48344/incore-bank-trials-ai-for-customer-onboarding-with-automated-risk-assessment"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Binance ships Agent OS to connect AI with crypto",
+      "title": "Best On / Off-ramp Providers for Crypto: Who I am Watching",
       "source": "Finextra",
-      "date": "Sep 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/110782/binance-ships-agent-os-to-connect-ai-with-crypto"
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/blogposting/32712/best-on--off-ramp-providers-for-crypto-who-i-am-watching"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "Citi processes live transactions on Swift's blockchain-based ledger",
+      "source": "Finextra",
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110803/citi-processes-live-transactions-on-swifts-blockchain-based-ledger"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Standard Chartered to launch institutional bitcoin and ether spot trading in the UAE",
+      "source": "Finextra",
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/110802/standard-chartered-to-launch-institutional-bitcoin-and-ether-spot-trading-in-the-uae"
+    },
+    {
+      "category": "Payments",
+      "title": "The $4 trillion disconnect: Why digital assets still can’t reach everyday commerce",
+      "source": "Finextra",
+      "date": "Sep 3, 2026",
+      "url": "https://www.finextra.com/blogposting/32711/the-4-trillion-disconnect-why-digital-assets-still-cant-reach-everyday-commerce"
     }
   ]
 }
