@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-09-03T16:29:07.963Z",
+  "updatedAt": "2026-09-04T16:25:23.428Z",
   "headlines": [
+    {
+      "category": "Merchant Payments",
+      "title": "Paymentology powers Maxim’s UK launch, expanding access to credit for the African diaspora",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110815/paymentology-powers-maxims-uk-launch-expanding-access-to-credit-for-the-african-diaspora"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "OpenAI rolls out long-awaited GPT-6 Astra",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/newsarticle/48348/openai-rolls-out-long-awaited-gpt-6-astra"
+    },
+    {
+      "category": "Payments",
+      "title": "Ant International secures payment institution licence from the Central Bank of Brazil",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110813/ant-international-secures-payment-institution-licence-from-the-central-bank-of-brazil"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "BNP Paribas and HSBC complete first corporate treasury transaction on Swift's blockchain ledger",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/newsarticle/48347/bnp-paribas-and-hsbc-complete-first-corporate-treasury-transaction-on-swifts-blockchain-ledger"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Anthropic launches AI commerce agents with Visa and Mastercard",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/newsarticle/48346/anthropic-launches-ai-commerce-agents-with-visa-and-mastercard"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "WealthAi launches WealthAi for Advisors as advice firms enter next phase of AI adoption",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110812/wealthai-launches-wealthai-for-advisors-as-advice-firms-enter-next-phase-of-ai-adoption"
+    },
+    {
+      "category": "Payments",
+      "title": "Gatehouse Bank launches refinance products for UK residents with no product or application fees",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110811/gatehouse-bank-launches-refinance-products-for-uk-residents-with-no-product-or-application-fees"
+    },
     {
       "category": "AI & Agentic Commerce",
       "title": "Finzly debuts AI assurance layer",
@@ -21,55 +70,6 @@
       "source": "Finextra",
       "date": "Sep 3, 2026",
       "url": "https://www.finextra.com/pressarticle/110807/openpayd-secures-43-money-transmitter-licences-across-the-us"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "RateZip launches live US bank rate and mortgage rate app on ChatGPT",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110806/ratezip-launches-live-us-bank-rate-and-mortgage-rate-app-on-chatgpt"
-    },
-    {
-      "category": "Payments",
-      "title": "Tokenized Funds in 2030: How Blockchain Will Redefine the Future of Asset Management",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/blogposting/32714/tokenized-funds-in-2030-how-blockchain-will-redefine-the-future-of-asset-management"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Incore Bank trials AI for customer onboarding with automated risk assessment",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/newsarticle/48344/incore-bank-trials-ai-for-customer-onboarding-with-automated-risk-assessment"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Best On / Off-ramp Providers for Crypto: Who I am Watching",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/blogposting/32712/best-on--off-ramp-providers-for-crypto-who-i-am-watching"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "Citi processes live transactions on Swift's blockchain-based ledger",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110803/citi-processes-live-transactions-on-swifts-blockchain-based-ledger"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Standard Chartered to launch institutional bitcoin and ether spot trading in the UAE",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110802/standard-chartered-to-launch-institutional-bitcoin-and-ether-spot-trading-in-the-uae"
-    },
-    {
-      "category": "Payments",
-      "title": "The $4 trillion disconnect: Why digital assets still can’t reach everyday commerce",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/blogposting/32711/the-4-trillion-disconnect-why-digital-assets-still-cant-reach-everyday-commerce"
     }
   ]
 }
