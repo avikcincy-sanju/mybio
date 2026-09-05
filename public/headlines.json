@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-04T16:25:23.428Z",
+  "updatedAt": "2026-09-05T15:17:49.864Z",
   "headlines": [
+    {
+      "category": "Payments",
+      "title": "ECB explores link between Tips and Brazil's Pix",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/newsarticle/48350/ecb-explores-link-between-tips-and-brazils-pix"
+    },
+    {
+      "category": "Payments",
+      "title": "Nexi, JCB and UnionPay team on Italian public transport payments",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/110816/nexi-jcb-and-unionpay-team-on-italian-public-transport-payments"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "5 Questions Every Payment Product Manager Should Ask About Checkout Performance",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/blogposting/32739/5-questions-every-payment-product-manager-should-ask-about-checkout-performance"
+    },
     {
       "category": "Merchant Payments",
       "title": "Paymentology powers Maxim’s UK launch, expanding access to credit for the African diaspora",
@@ -16,60 +37,39 @@
       "url": "https://www.finextra.com/newsarticle/48348/openai-rolls-out-long-awaited-gpt-6-astra"
     },
     {
+      "category": "AI & Agentic Commerce",
+      "title": "Counting What You Cannot See: Vladyslav Kolodistyi on Measuring Agentic Commerce Before It Scales",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/blogposting/32736/counting-what-you-cannot-see-vladyslav-kolodistyi-on-measuring-agentic-commerce-before-it-scales"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "SPDR S&amp;P 500 ETF Trust (SPY): Core Holdings, Recent Action, and What Lies Ahead",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/blogposting/32734/spdr-sampp-500-etf-trust-spy-core-holdings-recent-action-and-what-lies-ahead"
+    },
+    {
+      "category": "Payments",
+      "title": "What the Payments Ecosystem Needs to Know About the EU’s New Cyber Reporting Requirements",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/blogposting/32733/what-the-payments-ecosystem-needs-to-know-about-the-eus-new-cyber-reporting-requirements"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Rethinking financial services architecture in the age of AI",
+      "source": "Finextra",
+      "date": "Sep 4, 2026",
+      "url": "https://www.finextra.com/blogposting/32731/rethinking-financial-services-architecture-in-the-age-of-ai"
+    },
+    {
       "category": "Payments",
       "title": "Ant International secures payment institution licence from the Central Bank of Brazil",
       "source": "Finextra",
       "date": "Sep 4, 2026",
       "url": "https://www.finextra.com/pressarticle/110813/ant-international-secures-payment-institution-licence-from-the-central-bank-of-brazil"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "BNP Paribas and HSBC complete first corporate treasury transaction on Swift's blockchain ledger",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/newsarticle/48347/bnp-paribas-and-hsbc-complete-first-corporate-treasury-transaction-on-swifts-blockchain-ledger"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Anthropic launches AI commerce agents with Visa and Mastercard",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/newsarticle/48346/anthropic-launches-ai-commerce-agents-with-visa-and-mastercard"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "WealthAi launches WealthAi for Advisors as advice firms enter next phase of AI adoption",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/110812/wealthai-launches-wealthai-for-advisors-as-advice-firms-enter-next-phase-of-ai-adoption"
-    },
-    {
-      "category": "Payments",
-      "title": "Gatehouse Bank launches refinance products for UK residents with no product or application fees",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/110811/gatehouse-bank-launches-refinance-products-for-uk-residents-with-no-product-or-application-fees"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Finzly debuts AI assurance layer",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110810/finzly-debuts-ai-assurance-layer"
-    },
-    {
-      "category": "Payments",
-      "title": "KB Kookmin Bank leverages Kinexys by JPMorgan for import/export payments",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110808/kb-kookmin-bank-leverages-kinexys-by-jpmorgan-for-importexport-payments"
-    },
-    {
-      "category": "Payments",
-      "title": "OpenPayd secures 43 money transmitter licences across the US",
-      "source": "Finextra",
-      "date": "Sep 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/110807/openpayd-secures-43-money-transmitter-licences-across-the-us"
     }
   ]
 }
