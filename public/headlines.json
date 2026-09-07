@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-06T15:30:55.671Z",
+  "updatedAt": "2026-09-07T17:45:36.766Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "ECB explores link between Tips and Brazil's Pix",
+      "category": "AI & Agentic Commerce",
+      "title": "Anthropic Just Broke Down the Cost Barrier to Agentic Commerce",
       "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/newsarticle/48350/ecb-explores-link-between-tips-and-brazils-pix"
-    },
-    {
-      "category": "Payments",
-      "title": "Nexi, JCB and UnionPay team on Italian public transport payments",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/110816/nexi-jcb-and-unionpay-team-on-italian-public-transport-payments"
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32761/anthropic-just-broke-down-the-cost-barrier-to-agentic-commerce"
     },
     {
       "category": "Merchant Payments",
-      "title": "5 Questions Every Payment Product Manager Should Ask About Checkout Performance",
+      "title": "PayTabs to acquire Amazon Payments Mena operations",
       "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/blogposting/32739/5-questions-every-payment-product-manager-should-ask-about-checkout-performance"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Paymentology powers Maxim’s UK launch, expanding access to credit for the African diaspora",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/110815/paymentology-powers-maxims-uk-launch-expanding-access-to-credit-for-the-african-diaspora"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "OpenAI rolls out long-awaited GPT-6 Astra",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/newsarticle/48348/openai-rolls-out-long-awaited-gpt-6-astra"
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48356/paytabs-to-acquire-amazon-payments-mena-operations"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Counting What You Cannot See: Vladyslav Kolodistyi on Measuring Agentic Commerce Before It Scales",
+      "title": "Can AI write better PR? Hyundai Card puts it to the test",
       "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/blogposting/32736/counting-what-you-cannot-see-vladyslav-kolodistyi-on-measuring-agentic-commerce-before-it-scales"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "SPDR S&amp;P 500 ETF Trust (SPY): Core Holdings, Recent Action, and What Lies Ahead",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/blogposting/32734/spdr-sampp-500-etf-trust-spy-core-holdings-recent-action-and-what-lies-ahead"
-    },
-    {
-      "category": "Payments",
-      "title": "What the Payments Ecosystem Needs to Know About the EU’s New Cyber Reporting Requirements",
-      "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/blogposting/32733/what-the-payments-ecosystem-needs-to-know-about-the-eus-new-cyber-reporting-requirements"
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48355/can-ai-write-better-pr-hyundai-card-puts-it-to-the-test"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Rethinking financial services architecture in the age of AI",
+      "title": "Concryt deploys agentic AI to monitor live payment operations",
       "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/blogposting/32731/rethinking-financial-services-architecture-in-the-age-of-ai"
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/110820/concryt-deploys-agentic-ai-to-monitor-live-payment-operations"
     },
     {
       "category": "Payments",
-      "title": "Ant International secures payment institution licence from the Central Bank of Brazil",
+      "title": "DNA Payments links up with iwoca",
       "source": "Finextra",
-      "date": "Sep 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/110813/ant-international-secures-payment-institution-licence-from-the-central-bank-of-brazil"
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/110819/dna-payments-links-up-with-iwoca"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "HSBC's AutoFX Hopes to Solve the T-1 Settlement Headache",
+      "source": "Finextra",
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32759/hsbcs-autofx-hopes-to-solve-the-t-1-settlement-headache"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "UBS calls for AI literacy from new recruits",
+      "source": "Finextra",
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48353/ubs-calls-for-ai-literacy-from-new-recruits"
+    },
+    {
+      "category": "Payments",
+      "title": "When Banking APIs Start Making Decisions, Who Signs Off on Them?",
+      "source": "Finextra",
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32757/when-banking-apis-start-making-decisions-who-signs-off-on-them"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "How to Build Enterprise-Grade Infrastructure for Real-World Asset Tokenization",
+      "source": "Finextra",
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32756/how-to-build-enterprise-grade-infrastructure-for-real-world-asset-tokenization"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "The modernization trap mid-tier banks cannot escape",
+      "source": "Finextra",
+      "date": "Sep 7, 2026",
+      "url": "https://www.finextra.com/blogposting/32755/the-modernization-trap-mid-tier-banks-cannot-escape"
     }
   ]
 }
