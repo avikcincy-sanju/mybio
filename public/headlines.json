@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-07T17:45:36.766Z",
+  "updatedAt": "2026-09-08T16:41:33.773Z",
   "headlines": [
     {
       "category": "AI & Agentic Commerce",
-      "title": "Anthropic Just Broke Down the Cost Barrier to Agentic Commerce",
+      "title": "Aeon unveils agentic checkout",
       "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32761/anthropic-just-broke-down-the-cost-barrier-to-agentic-commerce"
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/pressarticle/110836/aeon-unveils-agentic-checkout"
     },
     {
       "category": "Merchant Payments",
-      "title": "PayTabs to acquire Amazon Payments Mena operations",
+      "title": "Mastercard joins with Flowcart to power secure card payments into social commerce in East Africa",
       "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/newsarticle/48356/paytabs-to-acquire-amazon-payments-mena-operations"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Can AI write better PR? Hyundai Card puts it to the test",
-      "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/newsarticle/48355/can-ai-write-better-pr-hyundai-card-puts-it-to-the-test"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Concryt deploys agentic AI to monitor live payment operations",
-      "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/pressarticle/110820/concryt-deploys-agentic-ai-to-monitor-live-payment-operations"
-    },
-    {
-      "category": "Payments",
-      "title": "DNA Payments links up with iwoca",
-      "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/pressarticle/110819/dna-payments-links-up-with-iwoca"
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/pressarticle/110833/mastercard-joins-with-flowcart-to-power-secure-card-payments-into-social-commerce-in-east-africa"
     },
     {
       "category": "Settlement & Treasury",
-      "title": "HSBC's AutoFX Hopes to Solve the T-1 Settlement Headache",
+      "title": "Circle to buy Singapore-based cross-border payments platform Tazapay",
       "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32759/hsbcs-autofx-hopes-to-solve-the-t-1-settlement-headache"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "UBS calls for AI literacy from new recruits",
-      "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/newsarticle/48353/ubs-calls-for-ai-literacy-from-new-recruits"
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/newsarticle/48363/circle-to-buy-singapore-based-cross-border-payments-platform-tazapay"
     },
     {
       "category": "Payments",
-      "title": "When Banking APIs Start Making Decisions, Who Signs Off on Them?",
+      "title": "Hedgehog vs. Fox: What VAMP and GMAP Reveal About Visa and Mastercard's Risk Strategies",
       "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32757/when-banking-apis-start-making-decisions-who-signs-off-on-them"
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/blogposting/32767/hedgehog-vs-fox-what-vamp-and-gmap-reveal-about-visa-and-mastercards-risk-strategies"
+    },
+    {
+      "category": "Payments",
+      "title": "Wise joins Mena Fintech Association",
+      "source": "Finextra",
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/pressarticle/110831/wise-joins-mena-fintech-association"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "How to Build Enterprise-Grade Infrastructure for Real-World Asset Tokenization",
+      "title": "SIX and Twint join Swiss bank stablecoin project",
       "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32756/how-to-build-enterprise-grade-infrastructure-for-real-world-asset-tokenization"
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/newsarticle/48360/six-and-twint-join-swiss-bank-stablecoin-project"
+    },
+    {
+      "category": "Payments",
+      "title": "How Regulation Helped Lift Infrastructure and Interoperability to the Next Level",
+      "source": "Finextra",
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/videoarticle/3593/how-regulation-helped-lift-infrastructure-and-interoperability-to-the-next-level"
     },
     {
       "category": "AI & Fintech",
-      "title": "The modernization trap mid-tier banks cannot escape",
+      "title": "Reputation Reframed: Expertise is plentiful. Authority is not.",
       "source": "Finextra",
-      "date": "Sep 7, 2026",
-      "url": "https://www.finextra.com/blogposting/32755/the-modernization-trap-mid-tier-banks-cannot-escape"
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/blogposting/32765/reputation-reframed-expertise-is-plentiful-authority-is-not"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "When an auditor asks what your AI did, a log is not the answer",
+      "source": "Finextra",
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/blogposting/32764/when-an-auditor-asks-what-your-ai-did-a-log-is-not-the-answer"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Your Fintech Runs on AI. Can You Prove You Own What It Produces?",
+      "source": "Finextra",
+      "date": "Sep 8, 2026",
+      "url": "https://www.finextra.com/blogposting/32763/your-fintech-runs-on-ai-can-you-prove-you-own-what-it-produces"
     }
   ]
 }
