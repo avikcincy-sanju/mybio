@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-08T16:41:33.773Z",
+  "updatedAt": "2026-09-09T16:42:19.101Z",
   "headlines": [
     {
+      "category": "Payments",
+      "title": "Splitit joins the Jack Henry Fintech Integration Network",
+      "source": "Finextra",
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/110856/splitit-joins-the-jack-henry-fintech-integration-network"
+    },
+    {
       "category": "AI & Agentic Commerce",
-      "title": "Aeon unveils agentic checkout",
+      "title": "Mastercard moves to hep merchants prepare for AI-powered shopping",
       "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/pressarticle/110836/aeon-unveils-agentic-checkout"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Mastercard joins with Flowcart to power secure card payments into social commerce in East Africa",
-      "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/pressarticle/110833/mastercard-joins-with-flowcart-to-power-secure-card-payments-into-social-commerce-in-east-africa"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Circle to buy Singapore-based cross-border payments platform Tazapay",
-      "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/newsarticle/48363/circle-to-buy-singapore-based-cross-border-payments-platform-tazapay"
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48374/mastercard-moves-to-hep-merchants-prepare-for-ai-powered-shopping"
     },
     {
       "category": "Payments",
-      "title": "Hedgehog vs. Fox: What VAMP and GMAP Reveal About Visa and Mastercard's Risk Strategies",
+      "title": "PhonePe introduces suite of three core Visa applications",
       "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/blogposting/32767/hedgehog-vs-fox-what-vamp-and-gmap-reveal-about-visa-and-mastercards-risk-strategies"
-    },
-    {
-      "category": "Payments",
-      "title": "Wise joins Mena Fintech Association",
-      "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/pressarticle/110831/wise-joins-mena-fintech-association"
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/110855/phonepe-introduces-suite-of-three-core-visa-applications"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "SIX and Twint join Swiss bank stablecoin project",
+      "title": "EDX Integrates Fireblocks Network Link for digital asset transfers",
       "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/newsarticle/48360/six-and-twint-join-swiss-bank-stablecoin-project"
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/110854/edx-integrates-fireblocks-network-link-for-digital-asset-transfers"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "How the API Is Making the Treasury More Efficient",
+      "source": "Finextra",
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/blogposting/32785/how-the-api-is-making-the-treasury-more-efficient"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Pirum appoints Ray Wong as director of product - AI and data",
+      "source": "Finextra",
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/110853/pirum-appoints-ray-wong-as-director-of-product---ai-and-data"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Block files to set up national trust bank",
+      "source": "Finextra",
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48370/block-files-to-set-up-national-trust-bank"
     },
     {
       "category": "Payments",
-      "title": "How Regulation Helped Lift Infrastructure and Interoperability to the Next Level",
+      "title": "The Rise of Infrastructure-Led Fintech",
       "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/videoarticle/3593/how-regulation-helped-lift-infrastructure-and-interoperability-to-the-next-level"
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/blogposting/32781/the-rise-of-infrastructure-led-fintech"
     },
     {
-      "category": "AI & Fintech",
-      "title": "Reputation Reframed: Expertise is plentiful. Authority is not.",
+      "category": "Stablecoins & Digital Money",
+      "title": "The $7.5 Trillion Stablecoin Illusion",
       "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/blogposting/32765/reputation-reframed-expertise-is-plentiful-authority-is-not"
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/blogposting/32779/the-75-trillion-stablecoin-illusion"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "When an auditor asks what your AI did, a log is not the answer",
+      "category": "Payments",
+      "title": "India’s First Tokenized Bond: What Happened?",
       "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/blogposting/32764/when-an-auditor-asks-what-your-ai-did-a-log-is-not-the-answer"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Your Fintech Runs on AI. Can You Prove You Own What It Produces?",
-      "source": "Finextra",
-      "date": "Sep 8, 2026",
-      "url": "https://www.finextra.com/blogposting/32763/your-fintech-runs-on-ai-can-you-prove-you-own-what-it-produces"
+      "date": "Sep 9, 2026",
+      "url": "https://www.finextra.com/blogposting/32777/indias-first-tokenized-bond-what-happened"
     }
   ]
 }
