@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-09T16:42:19.101Z",
+  "updatedAt": "2026-09-10T16:28:04.334Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "Splitit joins the Jack Henry Fintech Integration Network",
+      "title": "CloudPay invests in Intermezzo",
       "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/110856/splitit-joins-the-jack-henry-fintech-integration-network"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Mastercard moves to hep merchants prepare for AI-powered shopping",
-      "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48374/mastercard-moves-to-hep-merchants-prepare-for-ai-powered-shopping"
-    },
-    {
-      "category": "Payments",
-      "title": "PhonePe introduces suite of three core Visa applications",
-      "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/110855/phonepe-introduces-suite-of-three-core-visa-applications"
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/110878/cloudpay-invests-in-intermezzo"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "EDX Integrates Fireblocks Network Link for digital asset transfers",
+      "title": "Wirex goes live on Tempo for enterprise stablecoin card programmes",
       "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/110854/edx-integrates-fireblocks-network-link-for-digital-asset-transfers"
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/110877/wirex-goes-live-on-tempo-for-enterprise-stablecoin-card-programmes"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud",
+      "source": "Finextra",
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/110876/arva-ai-opens-research-lab-to-banish-human-in-the-loop-for-financial-crime-and-fraud"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Nacha forms Next-Gen Currency Project Team focused on stablecoins and tokenized deposits",
+      "source": "Finextra",
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/110875/nacha-forms-next-gen-currency-project-team-focused-on-stablecoins-and-tokenized-deposits"
+    },
+    {
+      "category": "Payments",
+      "title": "EPC delays address format migration timeline",
+      "source": "Finextra",
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/110873/epc-delays-address-format-migration-timeline"
     },
     {
       "category": "Settlement & Treasury",
-      "title": "How the API Is Making the Treasury More Efficient",
+      "title": "Swift's Shared Ledger Is Starting to Solve Real Treasury Problems",
       "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/blogposting/32785/how-the-api-is-making-the-treasury-more-efficient"
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/blogposting/32800/swifts-shared-ledger-is-starting-to-solve-real-treasury-problems"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Pirum appoints Ray Wong as director of product - AI and data",
+      "category": "AI & Fintech",
+      "title": "Mexican fintech Kapital raises $100 million in new financing",
       "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/110853/pirum-appoints-ray-wong-as-director-of-product---ai-and-data"
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/newsarticle/48380/mexican-fintech-kapital-raises-100-million-in-new-financing"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Block files to set up national trust bank",
+      "category": "Merchant Payments",
+      "title": "Swedish fintech Mynt acquires CostPocket",
       "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48370/block-files-to-set-up-national-trust-bank"
-    },
-    {
-      "category": "Payments",
-      "title": "The Rise of Infrastructure-Led Fintech",
-      "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/blogposting/32781/the-rise-of-infrastructure-led-fintech"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "The $7.5 Trillion Stablecoin Illusion",
-      "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/blogposting/32779/the-75-trillion-stablecoin-illusion"
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/110871/swedish-fintech-mynt-acquires-costpocket"
     },
     {
       "category": "Payments",
-      "title": "India’s First Tokenized Bond: What Happened?",
+      "title": "IndusInd Bank taps Navi to support its UPI operations",
       "source": "Finextra",
-      "date": "Sep 9, 2026",
-      "url": "https://www.finextra.com/blogposting/32777/indias-first-tokenized-bond-what-happened"
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/110869/indusind-bank-taps-navi-to-support-its-upi-operations"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Caplin debuts white-label digital asset product",
+      "source": "Finextra",
+      "date": "Sep 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/110867/caplin-debuts-white-label-digital-asset-product"
     }
   ]
 }
