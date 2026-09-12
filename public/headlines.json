@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-09-11T16:32:41.771Z",
+  "updatedAt": "2026-09-12T15:35:04.953Z",
   "headlines": [
+    {
+      "category": "AI & Fintech",
+      "title": "Fraud Without a Fraudster!",
+      "source": "Finextra",
+      "date": "Sep 11, 2026",
+      "url": "https://www.finextra.com/blogposting/32820/fraud-without-a-fraudster"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "OpenAI launches ChatGPT for Financial Service",
+      "source": "Finextra",
+      "date": "Sep 11, 2026",
+      "url": "https://www.finextra.com/newsarticle/48391/openai-launches-chatgpt-for-financial-service"
+    },
+    {
+      "category": "Payments",
+      "title": "Sionic makes leadership appointments",
+      "source": "Finextra",
+      "date": "Sep 11, 2026",
+      "url": "https://www.finextra.com/pressarticle/110887/sionic-makes-leadership-appointments"
+    },
+    {
+      "category": "Payments",
+      "title": "Make Trust Mandatory",
+      "source": "Finextra",
+      "date": "Sep 11, 2026",
+      "url": "https://www.finextra.com/blogposting/32819/make-trust-mandatory"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "MoonPay buys online trading signals platform Rhythm",
+      "source": "Finextra",
+      "date": "Sep 11, 2026",
+      "url": "https://www.finextra.com/pressarticle/110886/moonpay-buys-online-trading-signals-platform-rhythm"
+    },
     {
       "category": "AI & Agentic Commerce",
       "title": "72% of US consumers have used an AI assistant – Visa Trust Index",
@@ -35,41 +70,6 @@
       "source": "Finextra",
       "date": "Sep 11, 2026",
       "url": "https://www.finextra.com/blogposting/32394/the-model-risk-nobody-screens-for-intervals-that-cannot-be-wrong"
-    },
-    {
-      "category": "Payments",
-      "title": "Unlimit expands its Asia-Pacific presence with Hong Kong money service operator licence",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110883/unlimit-expands-its-asia-pacific-presence-with-hong-kong-money-service-operator-licence"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "ChatGPT for Financial Services: a vendor benchmark is not validation evidence",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32813/chatgpt-for-financial-services-a-vendor-benchmark-is-not-validation-evidence"
-    },
-    {
-      "category": "Payments",
-      "title": "Why banks keep killing the business case for better transaction data",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32812/why-banks-keep-killing-the-business-case-for-better-transaction-data"
-    },
-    {
-      "category": "Payments",
-      "title": "Before the Senate votes on CLARITY, look at what Europe's rules actually did",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32808/before-the-senate-votes-on-clarity-look-at-what-europes-rules-actually-did"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Blik records first agentic payment transaction",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/newsarticle/48379/blik-records-first-agentic-payment-transaction"
     }
   ]
 }
