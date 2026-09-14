@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-13T16:23:33.715Z",
+  "updatedAt": "2026-09-14T18:05:26.978Z",
   "headlines": [
     {
       "category": "AI & Fintech",
-      "title": "Fraud Without a Fraudster!",
+      "title": "Anthropic launches Claude for Financial Advisors",
       "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32820/fraud-without-a-fraudster"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "OpenAI launches ChatGPT for Financial Service",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/newsarticle/48391/openai-launches-chatgpt-for-financial-service"
-    },
-    {
-      "category": "Payments",
-      "title": "Sionic makes leadership appointments",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110887/sionic-makes-leadership-appointments"
-    },
-    {
-      "category": "Payments",
-      "title": "Make Trust Mandatory",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32819/make-trust-mandatory"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "MoonPay buys online trading signals platform Rhythm",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110886/moonpay-buys-online-trading-signals-platform-rhythm"
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/newsarticle/48400/anthropic-launches-claude-for-financial-advisors"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "72% of US consumers have used an AI assistant – Visa Trust Index",
+      "title": "When AI Can Move Money: Banks Need to Govern Machine Authority, Not Just Model Risk",
       "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Coinbase and Moov partner to boost stablecoin payments for community banks ahead of CLARITY vote",
-      "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/newsarticle/48384/coinbase-and-moov-partner-to-boost-stablecoin-payments-for-community-banks-ahead-of-clarity-vote"
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32849/when-ai-can-move-money-banks-need-to-govern-machine-authority-not-just-model-risk"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Paysera lets clients connect AI assistants to payments",
+      "title": "An AI Agent Just Passed Europe's Toughest Payment Authentication Test",
       "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110885/paysera-lets-clients-connect-ai-assistants-to-payments"
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32848/an-ai-agent-just-passed-europes-toughest-payment-authentication-test"
     },
     {
       "category": "Payments",
-      "title": "Saldo Bank and finperks partner to drive rewards and cashback to users in Finland and beyond",
+      "title": "Klarna expands Nordics anti-fraud toolkit with new live call verification tool",
       "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/pressarticle/110884/saldo-bank-and-finperks-partner-to-drive-rewards-and-cashback-to-users-in-finland-and-beyond"
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/110900/klarna-expands-nordics-anti-fraud-toolkit-with-new-live-call-verification-tool"
     },
     {
-      "category": "AI & Fintech",
-      "title": "The Model Risk Nobody Screens For: Intervals That Cannot Be Wrong",
+      "category": "AI & Agentic Commerce",
+      "title": "Coinbase Ramps Up AI Adoption to Support Open Finance Push",
       "source": "Finextra",
-      "date": "Sep 11, 2026",
-      "url": "https://www.finextra.com/blogposting/32394/the-model-risk-nobody-screens-for-intervals-that-cannot-be-wrong"
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32845/coinbase-ramps-up-ai-adoption-to-support-open-finance-push"
+    },
+    {
+      "category": "Payments",
+      "title": "Beyond the PIN: How to Implement Biometrics in Modern Banking",
+      "source": "Finextra",
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32844/beyond-the-pin-how-to-implement-biometrics-in-modern-banking"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Digital Asset Infrastructure Now Lives or Dies on Operational Integration",
+      "source": "Finextra",
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/blogposting/32843/digital-asset-infrastructure-now-lives-or-dies-on-operational-integration"
+    },
+    {
+      "category": "Payments",
+      "title": "The Payments Association appoints Daniel Jonas global ambassador",
+      "source": "Finextra",
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/110899/the-payments-association-appoints-daniel-jonas-global-ambassador"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Tokenovate executes intra-day repo transaction on Canton Network",
+      "source": "Finextra",
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/110898/tokenovate-executes-intra-day-repo-transaction-on-canton-network"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Worldline enables agentic commerce payments via Universal Commerce Protocol",
+      "source": "Finextra",
+      "date": "Sep 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/110896/worldline-enables-agentic-commerce-payments-via-universal-commerce-protocol"
     }
   ]
 }
