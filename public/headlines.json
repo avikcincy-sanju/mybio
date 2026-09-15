@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-14T18:05:26.978Z",
+  "updatedAt": "2026-09-15T17:03:44.810Z",
   "headlines": [
     {
-      "category": "AI & Fintech",
-      "title": "Anthropic launches Claude for Financial Advisors",
-      "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/newsarticle/48400/anthropic-launches-claude-for-financial-advisors"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "When AI Can Move Money: Banks Need to Govern Machine Authority, Not Just Model Risk",
-      "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/blogposting/32849/when-ai-can-move-money-banks-need-to-govern-machine-authority-not-just-model-risk"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "An AI Agent Just Passed Europe's Toughest Payment Authentication Test",
-      "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/blogposting/32848/an-ai-agent-just-passed-europes-toughest-payment-authentication-test"
-    },
-    {
       "category": "Payments",
-      "title": "Klarna expands Nordics anti-fraud toolkit with new live call verification tool",
+      "title": "Vista Equity explores strategic options for Finastra - Reuters",
       "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/110900/klarna-expands-nordics-anti-fraud-toolkit-with-new-live-call-verification-tool"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Coinbase Ramps Up AI Adoption to Support Open Finance Push",
-      "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/blogposting/32845/coinbase-ramps-up-ai-adoption-to-support-open-finance-push"
-    },
-    {
-      "category": "Payments",
-      "title": "Beyond the PIN: How to Implement Biometrics in Modern Banking",
-      "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/blogposting/32844/beyond-the-pin-how-to-implement-biometrics-in-modern-banking"
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/newsarticle/48409/vista-equity-explores-strategic-options-for-finastra---reuters"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Digital Asset Infrastructure Now Lives or Dies on Operational Integration",
+      "title": "Nasdaq Verafin unites with Stablecore in financial crime fight",
       "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/blogposting/32843/digital-asset-infrastructure-now-lives-or-dies-on-operational-integration"
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/110917/nasdaq-verafin-unites-with-stablecore-in-financial-crime-fight"
     },
     {
       "category": "Payments",
-      "title": "The Payments Association appoints Daniel Jonas global ambassador",
+      "title": "TreviPay adds e-invoicing via Dynatos",
       "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/110899/the-payments-association-appoints-daniel-jonas-global-ambassador"
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/110916/trevipay-adds-e-invoicing-via-dynatos"
+    },
+    {
+      "category": "Payments",
+      "title": "An MT103 is not proof the money arrived",
+      "source": "Finextra",
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/blogposting/32865/an-mt103-is-not-proof-the-money-arrived"
+    },
+    {
+      "category": "Payments",
+      "title": "SMEs want more digital tools - Mastercard survey",
+      "source": "Finextra",
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/110901/smes-want-more-digital-tools---mastercard-survey"
+    },
+    {
+      "category": "Payments",
+      "title": "UK Payments Delivery Company embarks on equity raise for new retail infrastructure",
+      "source": "Finextra",
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/newsarticle/48407/uk-payments-delivery-company-embarks-on-equity-raise-for-new-retail-infrastructure"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Tokenovate executes intra-day repo transaction on Canton Network",
+      "title": "Crypto exchange CoinEx winds down",
       "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/110898/tokenovate-executes-intra-day-repo-transaction-on-canton-network"
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/newsarticle/48405/crypto-exchange-coinex-winds-down"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Worldline enables agentic commerce payments via Universal Commerce Protocol",
+      "title": "TS Imagine ships AI platform for capital markets",
       "source": "Finextra",
-      "date": "Sep 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/110896/worldline-enables-agentic-commerce-payments-via-universal-commerce-protocol"
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/110915/ts-imagine-ships-ai-platform-for-capital-markets"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "PayNearMe acquires AI company Marr Labs",
+      "source": "Finextra",
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/110914/paynearme-acquires-ai-company-marr-labs"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "The CLARITY Act and the Changing Direction of U.S. Crypto Regulation",
+      "source": "Finextra",
+      "date": "Sep 15, 2026",
+      "url": "https://www.finextra.com/blogposting/32862/the-clarity-act-and-the-changing-direction-of-us-crypto-regulation"
     }
   ]
 }
