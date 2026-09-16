@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-15T17:03:44.810Z",
+  "updatedAt": "2026-09-16T17:03:42.258Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "Vista Equity explores strategic options for Finastra - Reuters",
+      "title": "How ISO Data Compliance Can Help Unlock Greater Revenue Growth",
       "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/newsarticle/48409/vista-equity-explores-strategic-options-for-finastra---reuters"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Nasdaq Verafin unites with Stablecore in financial crime fight",
-      "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/110917/nasdaq-verafin-unites-with-stablecore-in-financial-crime-fight"
-    },
-    {
-      "category": "Payments",
-      "title": "TreviPay adds e-invoicing via Dynatos",
-      "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/110916/trevipay-adds-e-invoicing-via-dynatos"
-    },
-    {
-      "category": "Payments",
-      "title": "An MT103 is not proof the money arrived",
-      "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/blogposting/32865/an-mt103-is-not-proof-the-money-arrived"
-    },
-    {
-      "category": "Payments",
-      "title": "SMEs want more digital tools - Mastercard survey",
-      "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/110901/smes-want-more-digital-tools---mastercard-survey"
-    },
-    {
-      "category": "Payments",
-      "title": "UK Payments Delivery Company embarks on equity raise for new retail infrastructure",
-      "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/newsarticle/48407/uk-payments-delivery-company-embarks-on-equity-raise-for-new-retail-infrastructure"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Crypto exchange CoinEx winds down",
-      "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/newsarticle/48405/crypto-exchange-coinex-winds-down"
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/videoarticle/3594/how-iso-data-compliance-can-help-unlock-greater-revenue-growth"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "TS Imagine ships AI platform for capital markets",
+      "title": "FI Works launches AI-driven analytics",
       "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/110915/ts-imagine-ships-ai-platform-for-capital-markets"
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/pressarticle/110926/fi-works-launches-ai-driven-analytics"
+    },
+    {
+      "category": "Payments",
+      "title": "Circle launches Arc mainnet",
+      "source": "Finextra",
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/newsarticle/48419/circle-launches-arc-mainnet"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "PayNearMe acquires AI company Marr Labs",
+      "title": "Finance Leaders Expect AI Costs to Rise. Some Ideas on Containing Them",
       "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/110914/paynearme-acquires-ai-company-marr-labs"
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/blogposting/32885/finance-leaders-expect-ai-costs-to-rise-some-ideas-on-containing-them"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "The CLARITY Act and the Changing Direction of U.S. Crypto Regulation",
+      "title": "Hiring Crypto Exchange Developers: Key Considerations for Building Secure Trading Platforms",
       "source": "Finextra",
-      "date": "Sep 15, 2026",
-      "url": "https://www.finextra.com/blogposting/32862/the-clarity-act-and-the-changing-direction-of-us-crypto-regulation"
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/blogposting/32883/hiring-crypto-exchange-developers-key-considerations-for-building-secure-trading-platforms"
+    },
+    {
+      "category": "Payments",
+      "title": "How to Deploy Secure KYC/KYB Without Destroying Onboarding Conversion",
+      "source": "Finextra",
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/blogposting/32538/how-to-deploy-secure-kyckyb-without-destroying-onboarding-conversion"
+    },
+    {
+      "category": "Payments",
+      "title": "The Hidden Economics of Payment Success Rates",
+      "source": "Finextra",
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/blogposting/32884/the-hidden-economics-of-payment-success-rates"
+    },
+    {
+      "category": "Payments",
+      "title": "Can UK Companies Join the Digital Euro Pilot?",
+      "source": "Finextra",
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/blogposting/32882/can-uk-companies-join-the-digital-euro-pilot"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "FCA issues guidance on the laws governing the UK's future crypto asset regime",
+      "source": "Finextra",
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/pressarticle/110923/fca-issues-guidance-on-the-laws-governing-the-uks-future-crypto-asset-regime"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "What RBI's Recovery Agent Rules Mean for India's Lenders in 2026",
+      "source": "Finextra",
+      "date": "Sep 16, 2026",
+      "url": "https://www.finextra.com/blogposting/32880/what-rbis-recovery-agent-rules-mean-for-indias-lenders-in-2026"
     }
   ]
 }
