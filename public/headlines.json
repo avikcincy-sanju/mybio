@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-16T17:03:42.258Z",
+  "updatedAt": "2026-09-17T17:04:18.633Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "How ISO Data Compliance Can Help Unlock Greater Revenue Growth",
+      "title": "UK payments firm Ryft raises £20m for European push",
       "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/videoarticle/3594/how-iso-data-compliance-can-help-unlock-greater-revenue-growth"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "FI Works launches AI-driven analytics",
-      "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/pressarticle/110926/fi-works-launches-ai-driven-analytics"
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/newsarticle/48426/uk-payments-firm-ryft-raises-20m-for-european-push"
     },
     {
       "category": "Payments",
-      "title": "Circle launches Arc mainnet",
+      "title": "ACI Worldwide expands ACI Connetic with cloud-native financial messaging capability",
       "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/newsarticle/48419/circle-launches-arc-mainnet"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Finance Leaders Expect AI Costs to Rise. Some Ideas on Containing Them",
-      "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/blogposting/32885/finance-leaders-expect-ai-costs-to-rise-some-ideas-on-containing-them"
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110942/aci-worldwide-expands-aci-connetic-with-cloud-native-financial-messaging-capability"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Hiring Crypto Exchange Developers: Key Considerations for Building Secure Trading Platforms",
+      "title": "WisdomTree and MoonPAy expand US access to tokenised funds",
       "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/blogposting/32883/hiring-crypto-exchange-developers-key-considerations-for-building-secure-trading-platforms"
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110941/wisdomtree-and-moonpay-expand-us-access-to-tokenised-funds"
     },
     {
-      "category": "Payments",
-      "title": "How to Deploy Secure KYC/KYB Without Destroying Onboarding Conversion",
+      "category": "AI & Agentic Commerce",
+      "title": "Nexi and ReFiBuy boost merchant discoverability for agentic commerce",
       "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/blogposting/32538/how-to-deploy-secure-kyckyb-without-destroying-onboarding-conversion"
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110937/nexi-and-refibuy-boost-merchant-discoverability-for-agentic-commerce"
     },
     {
-      "category": "Payments",
-      "title": "The Hidden Economics of Payment Success Rates",
+      "category": "AI & Agentic Commerce",
+      "title": "Saffron Building Society taps FintechOS for AI-powered mortgage platform",
       "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/blogposting/32884/the-hidden-economics-of-payment-success-rates"
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform"
     },
     {
-      "category": "Payments",
-      "title": "Can UK Companies Join the Digital Euro Pilot?",
+      "category": "Settlement & Treasury",
+      "title": "Partior and LSEG DiSH collaborate on always-on settlement bank liquidity",
       "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/blogposting/32882/can-uk-companies-join-the-digital-euro-pilot"
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110934/partior-and-lseg-dish-collaborate-on-always-on-settlement-bank-liquidity"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "FCA issues guidance on the laws governing the UK's future crypto asset regime",
+      "title": "Payward plans onchain perpetual futures for US clients",
       "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/pressarticle/110923/fca-issues-guidance-on-the-laws-governing-the-uks-future-crypto-asset-regime"
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110933/payward-plans-onchain-perpetual-futures-for-us-clients"
     },
     {
-      "category": "AI & Fintech",
-      "title": "What RBI's Recovery Agent Rules Mean for India's Lenders in 2026",
+      "category": "AI & Agentic Commerce",
+      "title": "Earnix launches hub for insurance-specific AI agents and apps",
       "source": "Finextra",
-      "date": "Sep 16, 2026",
-      "url": "https://www.finextra.com/blogposting/32880/what-rbis-recovery-agent-rules-mean-for-indias-lenders-in-2026"
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110931/earnix-launches-hub-for-insurance-specific-ai-agents-and-apps"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Cube and IBM partner to help firms navigate AI regulation",
+      "source": "Finextra",
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/pressarticle/110929/cube-and-ibm-partner-to-help-firms-navigate-ai-regulation"
+    },
+    {
+      "category": "Payments",
+      "title": "Payments Are Not The Product",
+      "source": "Finextra",
+      "date": "Sep 17, 2026",
+      "url": "https://www.finextra.com/blogposting/32899/payments-are-not-the-product"
     }
   ]
 }
