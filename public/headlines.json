@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-17T17:04:18.633Z",
+  "updatedAt": "2026-09-18T16:28:38.833Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "UK payments firm Ryft raises £20m for European push",
+      "category": "Stablecoins & Digital Money",
+      "title": "ECB chief Lagarde helped block Binance's MiCA license - WSJ",
       "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/newsarticle/48426/uk-payments-firm-ryft-raises-20m-for-european-push"
-    },
-    {
-      "category": "Payments",
-      "title": "ACI Worldwide expands ACI Connetic with cloud-native financial messaging capability",
-      "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110942/aci-worldwide-expands-aci-connetic-with-cloud-native-financial-messaging-capability"
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/newsarticle/48434/ecb-chief-lagarde-helped-block-binances-mica-license---wsj"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "WisdomTree and MoonPAy expand US access to tokenised funds",
+      "title": "SEC clears way for tokenised stock trading",
       "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110941/wisdomtree-and-moonpay-expand-us-access-to-tokenised-funds"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Nexi and ReFiBuy boost merchant discoverability for agentic commerce",
-      "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110937/nexi-and-refibuy-boost-merchant-discoverability-for-agentic-commerce"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Saffron Building Society taps FintechOS for AI-powered mortgage platform",
-      "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Partior and LSEG DiSH collaborate on always-on settlement bank liquidity",
-      "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110934/partior-and-lseg-dish-collaborate-on-always-on-settlement-bank-liquidity"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Payward plans onchain perpetual futures for US clients",
-      "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110933/payward-plans-onchain-perpetual-futures-for-us-clients"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Earnix launches hub for insurance-specific AI agents and apps",
-      "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110931/earnix-launches-hub-for-insurance-specific-ai-agents-and-apps"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Cube and IBM partner to help firms navigate AI regulation",
-      "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/pressarticle/110929/cube-and-ibm-partner-to-help-firms-navigate-ai-regulation"
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/newsarticle/48432/sec-clears-way-for-tokenised-stock-trading"
     },
     {
       "category": "Payments",
-      "title": "Payments Are Not The Product",
+      "title": "Bank Pekao picks NCR Atleos Authentic payment switching platform",
       "source": "Finextra",
-      "date": "Sep 17, 2026",
-      "url": "https://www.finextra.com/blogposting/32899/payments-are-not-the-product"
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110951/bank-pekao-picks-ncr-atleos-authentic-payment-switching-platform"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Seon expands signal intelligence to tackle AI-generated fraud",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110950/seon-expands-signal-intelligence-to-tackle-ai-generated-fraud"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/newsarticle/48428/ex-paypal-ceo-harris-unveils-ai-powered-personal-finance-app"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "FCA cracks down on illegal crypto trading in London",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/newsarticle/48431/fca-cracks-down-on-illegal-crypto-trading-in-london"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Hyperliquid’s Next Challenge Is Keeping Control of Its Growing Market",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/blogposting/32909/hyperliquids-next-challenge-is-keeping-control-of-its-growing-market"
+    },
+    {
+      "category": "Payments",
+      "title": "Ex-Monzo execs’ Sync Savings completes funding round",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/newsarticle/48429/ex-monzo-execs-sync-savings-completes-funding-round"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Ascory Bank AG partners with Mount Street to enhance monitoring and credit management",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110948/ascory-bank-ag-partners-with-mount-street-to-enhance-monitoring-and-credit-management"
+    },
+    {
+      "category": "Payments",
+      "title": "HitPay launches CFO Stack to simplify SME finance operations",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/pressarticle/110947/hitpay-launches-cfo-stack-to-simplify-sme-finance-operations"
     }
   ]
 }
