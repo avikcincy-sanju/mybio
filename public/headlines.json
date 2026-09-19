@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-18T16:28:38.833Z",
+  "updatedAt": "2026-09-19T15:55:29.896Z",
   "headlines": [
+    {
+      "category": "AI & Fintech",
+      "title": "Your Liveness Check Passed. So Why Is the Identity Still Fake?",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/blogposting/32915/your-liveness-check-passed-so-why-is-the-identity-still-fake"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "The 2030 Blueprint: How Agentic AI and Quantum Infrastructure are Rewriting UK Open Finance",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/blogposting/32914/the-2030-blueprint-how-agentic-ai-and-quantum-infrastructure-are-rewriting-uk-open-finance"
+    },
     {
       "category": "Stablecoins & Digital Money",
       "title": "ECB chief Lagarde helped block Binance's MiCA license - WSJ",
@@ -9,11 +23,25 @@
       "url": "https://www.finextra.com/newsarticle/48434/ecb-chief-lagarde-helped-block-binances-mica-license---wsj"
     },
     {
+      "category": "Payments",
+      "title": "Seven questions for travel marketplace payout providers | 2026-09-17",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/blogposting/32898/seven-questions-for-travel-marketplace-payout-providers--2026-09-17"
+    },
+    {
       "category": "Stablecoins & Digital Money",
       "title": "SEC clears way for tokenised stock trading",
       "source": "Finextra",
       "date": "Sep 18, 2026",
       "url": "https://www.finextra.com/newsarticle/48432/sec-clears-way-for-tokenised-stock-trading"
+    },
+    {
+      "category": "Payments",
+      "title": "The Ledger That Never Closes: Vladyslav Kolodistyi on Instant Payouts and Continuous Reconciliation",
+      "source": "Finextra",
+      "date": "Sep 18, 2026",
+      "url": "https://www.finextra.com/blogposting/32911/the-ledger-that-never-closes-vladyslav-kolodistyi-on-instant-payouts-and-continuous-reconciliation"
     },
     {
       "category": "Payments",
@@ -42,34 +70,6 @@
       "source": "Finextra",
       "date": "Sep 18, 2026",
       "url": "https://www.finextra.com/newsarticle/48431/fca-cracks-down-on-illegal-crypto-trading-in-london"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Hyperliquid’s Next Challenge Is Keeping Control of Its Growing Market",
-      "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/blogposting/32909/hyperliquids-next-challenge-is-keeping-control-of-its-growing-market"
-    },
-    {
-      "category": "Payments",
-      "title": "Ex-Monzo execs’ Sync Savings completes funding round",
-      "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/newsarticle/48429/ex-monzo-execs-sync-savings-completes-funding-round"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Ascory Bank AG partners with Mount Street to enhance monitoring and credit management",
-      "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110948/ascory-bank-ag-partners-with-mount-street-to-enhance-monitoring-and-credit-management"
-    },
-    {
-      "category": "Payments",
-      "title": "HitPay launches CFO Stack to simplify SME finance operations",
-      "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110947/hitpay-launches-cfo-stack-to-simplify-sme-finance-operations"
     }
   ]
 }
