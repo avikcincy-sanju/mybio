@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-20T16:11:40.324Z",
+  "updatedAt": "2026-09-21T18:13:11.734Z",
   "headlines": [
     {
+      "category": "Payments",
+      "title": "Amazon blocks Meta's Muse agent",
+      "source": "Finextra",
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48444/amazon-blocks-metas-muse-agent"
+    },
+    {
       "category": "AI & Fintech",
-      "title": "Your Liveness Check Passed. So Why Is the Identity Still Fake?",
+      "title": "FintechOS raises funds for US push",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/blogposting/32915/your-liveness-check-passed-so-why-is-the-identity-still-fake"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48442/fintechos-raises-funds-for-us-push"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "The 2030 Blueprint: How Agentic AI and Quantum Infrastructure are Rewriting UK Open Finance",
+      "title": "Danske Bank performs AI agent transaction with Mastercard",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/blogposting/32914/the-2030-blueprint-how-agentic-ai-and-quantum-infrastructure-are-rewriting-uk-open-finance"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/110960/danske-bank-performs-ai-agent-transaction-with-mastercard"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "ECB chief Lagarde helped block Binance's MiCA license - WSJ",
+      "title": "Binance's EU Block Sends All the Wrong Signals",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/newsarticle/48434/ecb-chief-lagarde-helped-block-binances-mica-license---wsj"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/blogposting/32928/binances-eu-block-sends-all-the-wrong-signals"
     },
     {
       "category": "Payments",
-      "title": "Seven questions for travel marketplace payout providers | 2026-09-17",
+      "title": "Eurosystem brings central bank money to tokenised finance",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/blogposting/32898/seven-questions-for-travel-marketplace-payout-providers--2026-09-17"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "SEC clears way for tokenised stock trading",
-      "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/newsarticle/48432/sec-clears-way-for-tokenised-stock-trading"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48439/eurosystem-brings-central-bank-money-to-tokenised-finance"
     },
     {
       "category": "Payments",
-      "title": "The Ledger That Never Closes: Vladyslav Kolodistyi on Instant Payouts and Continuous Reconciliation",
+      "title": "Embedded Currency Provider Review: Leading Banks and Fintechs Powering Global Clearing",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/blogposting/32911/the-ledger-that-never-closes-vladyslav-kolodistyi-on-instant-payouts-and-continuous-reconciliation"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/blogposting/32925/embedded-currency-provider-review-leading-banks-and-fintechs-powering-global-clearing"
     },
     {
       "category": "Payments",
-      "title": "Bank Pekao picks NCR Atleos Authentic payment switching platform",
+      "title": "Paymob garners $35 million in pre-Series C",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110951/bank-pekao-picks-ncr-atleos-authentic-payment-switching-platform"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48438/paymob-garners-35-million-in-pre-series-c"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Seon expands signal intelligence to tackle AI-generated fraud",
+      "category": "Payments",
+      "title": "Reward appoints former Lloyds executive Enrique Del Rio as president, UK & Europe",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/pressarticle/110950/seon-expands-signal-intelligence-to-tackle-ai-generated-fraud"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/110957/reward-appoints-former-lloyds-executive-enrique-del-rio-as-president-uk--europe"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app",
+      "category": "Payments",
+      "title": "01F Group invest in Indonesian fintech Dana",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/newsarticle/48428/ex-paypal-ceo-harris-unveils-ai-powered-personal-finance-app"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/110956/01f-group-invest-in-indonesian-fintech-dana"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "FCA cracks down on illegal crypto trading in London",
+      "category": "Merchant Payments",
+      "title": "Reap release managed graud and risk servive for card programmes",
       "source": "Finextra",
-      "date": "Sep 18, 2026",
-      "url": "https://www.finextra.com/newsarticle/48431/fca-cracks-down-on-illegal-crypto-trading-in-london"
+      "date": "Sep 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/110955/reap-release-managed-graud-and-risk-servive-for-card-programmes"
     }
   ]
 }
