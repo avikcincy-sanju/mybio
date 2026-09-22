@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-21T18:13:11.734Z",
+  "updatedAt": "2026-09-22T17:00:33.104Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Amazon blocks Meta's Muse agent",
+      "category": "Payment Infrastructure",
+      "title": "ACI Worldwide connects with Swift's ledger",
       "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48444/amazon-blocks-metas-muse-agent"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "FintechOS raises funds for US push",
-      "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48442/fintechos-raises-funds-for-us-push"
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110976/aci-worldwide-connects-with-swifts-ledger"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Danske Bank performs AI agent transaction with Mastercard",
+      "title": "Rogers Bank completes agentic commerce transactions with Flybits and Mastercard",
       "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110960/danske-bank-performs-ai-agent-transaction-with-mastercard"
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110975/rogers-bank-completes-agentic-commerce-transactions-with-flybits-and-mastercard"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Binance's EU Block Sends All the Wrong Signals",
+      "category": "Payment Infrastructure",
+      "title": "Finzly certified for Request for Payment on the TCH RTP network.",
       "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/blogposting/32928/binances-eu-block-sends-all-the-wrong-signals"
-    },
-    {
-      "category": "Payments",
-      "title": "Eurosystem brings central bank money to tokenised finance",
-      "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48439/eurosystem-brings-central-bank-money-to-tokenised-finance"
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110974/finzly-certified-for-request-for-payment-on-the-tch-rtp-network"
     },
     {
       "category": "Payments",
-      "title": "Embedded Currency Provider Review: Leading Banks and Fintechs Powering Global Clearing",
+      "title": "Moov launches P2P payments",
       "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/blogposting/32925/embedded-currency-provider-review-leading-banks-and-fintechs-powering-global-clearing"
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110973/moov-launches-p2p-payments"
     },
     {
-      "category": "Payments",
-      "title": "Paymob garners $35 million in pre-Series C",
+      "category": "AI & Agentic Commerce",
+      "title": "Commercial Cards Were Already Built for the Agentic Economy",
       "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48438/paymob-garners-35-million-in-pre-series-c"
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/blogposting/32934/commercial-cards-were-already-built-for-the-agentic-economy"
     },
     {
-      "category": "Payments",
-      "title": "Reward appoints former Lloyds executive Enrique Del Rio as president, UK & Europe",
+      "category": "AI & Agentic Commerce",
+      "title": "Global banks take on agentic commerce scam and fraud concerns",
       "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110957/reward-appoints-former-lloyds-executive-enrique-del-rio-as-president-uk--europe"
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/newsarticle/48454/global-banks-take-on-agentic-commerce-scam-and-fraud-concerns"
     },
     {
-      "category": "Payments",
-      "title": "01F Group invest in Indonesian fintech Dana",
+      "category": "AI & Agentic Commerce",
+      "title": "Creatio invests $300 million in its Bank.ai platform",
       "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110956/01f-group-invest-in-indonesian-fintech-dana"
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/110972/creatio-invests-300-million-in-its-bankai-platform"
     },
     {
       "category": "Merchant Payments",
-      "title": "Reap release managed graud and risk servive for card programmes",
+      "title": "The Key Questions To Ask About Sustainable Payment Cards",
       "source": "Finextra",
-      "date": "Sep 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/110955/reap-release-managed-graud-and-risk-servive-for-card-programmes"
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/blogposting/32942/the-key-questions-to-ask-about-sustainable-payment-cards"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Agent workflow platform Promenaut goes live at HSBC",
+      "source": "Finextra",
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/newsarticle/48450/agent-workflow-platform-promenaut-goes-live-at-hsbc"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Tokenized Venture Capital: How VC Can Digitize Fund Interests and Private Investments in 2026",
+      "source": "Finextra",
+      "date": "Sep 22, 2026",
+      "url": "https://www.finextra.com/blogposting/32941/tokenized-venture-capital-how-vc-can-digitize-fund-interests-and-private-investments-in-2026"
     }
   ]
 }
