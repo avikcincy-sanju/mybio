@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-22T17:00:33.104Z",
+  "updatedAt": "2026-09-23T17:07:59.620Z",
   "headlines": [
     {
-      "category": "Payment Infrastructure",
-      "title": "ACI Worldwide connects with Swift's ledger",
-      "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/110976/aci-worldwide-connects-with-swifts-ledger"
-    },
-    {
       "category": "AI & Agentic Commerce",
-      "title": "Rogers Bank completes agentic commerce transactions with Flybits and Mastercard",
+      "title": "Deutsche Bank's AI Boost Claims Look Like Hype",
       "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/110975/rogers-bank-completes-agentic-commerce-transactions-with-flybits-and-mastercard"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "Finzly certified for Request for Payment on the TCH RTP network.",
-      "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/110974/finzly-certified-for-request-for-payment-on-the-tch-rtp-network"
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/blogposting/32957/deutsche-banks-ai-boost-claims-look-like-hype"
     },
     {
       "category": "Payments",
-      "title": "Moov launches P2P payments",
+      "title": "Five Ways to Optimize Payment Reconciliation Tools",
       "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/110973/moov-launches-p2p-payments"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Commercial Cards Were Already Built for the Agentic Economy",
-      "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/blogposting/32934/commercial-cards-were-already-built-for-the-agentic-economy"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Global banks take on agentic commerce scam and fraud concerns",
-      "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/newsarticle/48454/global-banks-take-on-agentic-commerce-scam-and-fraud-concerns"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Creatio invests $300 million in its Bank.ai platform",
-      "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/110972/creatio-invests-300-million-in-its-bankai-platform"
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/blogposting/32956/five-ways-to-optimize-payment-reconciliation-tools"
     },
     {
       "category": "Merchant Payments",
-      "title": "The Key Questions To Ask About Sustainable Payment Cards",
+      "title": "Five Reasons Why UPI Has Not Disrupted Credit Card",
       "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/blogposting/32942/the-key-questions-to-ask-about-sustainable-payment-cards"
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/blogposting/32955/five-reasons-why-upi-has-not-disrupted-credit-card"
     },
     {
-      "category": "AI & Fintech",
-      "title": "Agent workflow platform Promenaut goes live at HSBC",
+      "category": "Merchant Payments",
+      "title": "Solidgate and Airwallex to give merchants local acquiring as they expand into new markets globally",
       "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/newsarticle/48450/agent-workflow-platform-promenaut-goes-live-at-hsbc"
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/110995/solidgate-and-airwallex-to-give-merchants-local-acquiring-as-they-expand-into-new-markets-globally"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Baselayer raises $35 million; rolls out agentic identtity suite",
+      "source": "Finextra",
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/110994/baselayer-raises-35-million-rolls-out-agentic-identtity-suite"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Paywhere launches AI banking channel",
+      "source": "Finextra",
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/110993/paywhere-launches-ai-banking-channel"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Tokenized Venture Capital: How VC Can Digitize Fund Interests and Private Investments in 2026",
+      "title": "RBI to provide digital asset services across Europe with Bitpanda support",
       "source": "Finextra",
-      "date": "Sep 22, 2026",
-      "url": "https://www.finextra.com/blogposting/32941/tokenized-venture-capital-how-vc-can-digitize-fund-interests-and-private-investments-in-2026"
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/110992/rbi-to-provide-digital-asset-services-across-europe-with-bitpanda-support"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "Pakistan's Remittance Incentives Are Disappearing. What Comes Next Matters More",
+      "source": "Finextra",
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/blogposting/32953/pakistans-remittance-incentives-are-disappearing-what-comes-next-matters-more"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Tokenized Stocks in 2026: Building the Infrastructure for 24/7 On-Chain Equity Markets",
+      "source": "Finextra",
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/blogposting/32952/tokenized-stocks-in-2026-building-the-infrastructure-for-247-on-chain-equity-markets"
+    },
+    {
+      "category": "Payments",
+      "title": "Vocalink emphasises importance of resilience in national payments infrastructure",
+      "source": "Finextra",
+      "date": "Sep 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/110990/vocalink-emphasises-importance-of-resilience-in-national-payments-infrastructure"
     }
   ]
 }
