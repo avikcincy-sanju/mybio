@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-23T17:07:59.620Z",
+  "updatedAt": "2026-09-24T17:15:53.072Z",
   "headlines": [
     {
       "category": "AI & Agentic Commerce",
-      "title": "Deutsche Bank's AI Boost Claims Look Like Hype",
+      "title": "Cleverbridge completes France's first Passkey-authenticated agentic purchase, on a Revolut card",
       "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/blogposting/32957/deutsche-banks-ai-boost-claims-look-like-hype"
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111023/cleverbridge-completes-frances-first-passkey-authenticated-agentic-purchase-on-a-revolut-card"
     },
     {
       "category": "Payments",
-      "title": "Five Ways to Optimize Payment Reconciliation Tools",
+      "title": "Citi and HSBC back IPID Series A",
       "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/blogposting/32956/five-ways-to-optimize-payment-reconciliation-tools"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Five Reasons Why UPI Has Not Disrupted Credit Card",
-      "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/blogposting/32955/five-reasons-why-upi-has-not-disrupted-credit-card"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Solidgate and Airwallex to give merchants local acquiring as they expand into new markets globally",
-      "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/110995/solidgate-and-airwallex-to-give-merchants-local-acquiring-as-they-expand-into-new-markets-globally"
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/newsarticle/48471/citi-and-hsbc-back-ipid-series-a"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Baselayer raises $35 million; rolls out agentic identtity suite",
+      "title": "AI communications app Ando raises $20 million",
       "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/110994/baselayer-raises-35-million-rolls-out-agentic-identtity-suite"
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111022/ai-communications-app-ando-raises-20-million"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Paywhere launches AI banking channel",
+      "title": "Narmi open AI marketplace for community banks",
       "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/110993/paywhere-launches-ai-banking-channel"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "RBI to provide digital asset services across Europe with Bitpanda support",
-      "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/110992/rbi-to-provide-digital-asset-services-across-europe-with-bitpanda-support"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Pakistan's Remittance Incentives Are Disappearing. What Comes Next Matters More",
-      "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/blogposting/32953/pakistans-remittance-incentives-are-disappearing-what-comes-next-matters-more"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Tokenized Stocks in 2026: Building the Infrastructure for 24/7 On-Chain Equity Markets",
-      "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/blogposting/32952/tokenized-stocks-in-2026-building-the-infrastructure-for-247-on-chain-equity-markets"
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111021/narmi-open-ai-marketplace-for-community-banks"
     },
     {
       "category": "Payments",
-      "title": "Vocalink emphasises importance of resilience in national payments infrastructure",
+      "title": "Are Banks Ready for The Next Generation of Fraud?",
       "source": "Finextra",
-      "date": "Sep 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/110990/vocalink-emphasises-importance-of-resilience-in-national-payments-infrastructure"
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/videoarticle/3600/are-banks-ready-for-the-next-generation-of-fraud"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "IBM integrates digital asset platform with Swift shared ledger",
+      "source": "Finextra",
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/newsarticle/48469/ibm-integrates-digital-asset-platform-with-swift-shared-ledger"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "The Clearing House taps Quant for tokenised deposit network",
+      "source": "Finextra",
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/newsarticle/48465/the-clearing-house-taps-quant-for-tokenised-deposit-network"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "Solaris goes live on ACI Worldwide platform for Sepa instant payments",
+      "source": "Finextra",
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111020/solaris-goes-live-on-aci-worldwide-platform-for-sepa-instant-payments"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Tokenized Renewable Energy Projects: Building the Infrastructure for On-Chain Ownership",
+      "source": "Finextra",
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/blogposting/32970/tokenized-renewable-energy-projects-building-the-infrastructure-for-on-chain-ownership"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Kredete acquires Gravv to build stablecoin infrastructure",
+      "source": "Finextra",
+      "date": "Sep 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111018/kredete-acquires-gravv-to-build-stablecoin-infrastructure"
     }
   ]
 }
