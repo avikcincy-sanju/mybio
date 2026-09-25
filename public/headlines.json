@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-24T17:15:53.072Z",
+  "updatedAt": "2026-09-25T17:16:05.846Z",
   "headlines": [
     {
       "category": "AI & Agentic Commerce",
-      "title": "Cleverbridge completes France's first Passkey-authenticated agentic purchase, on a Revolut card",
+      "title": "NatWest unveils AI-powered audio-visual spending insights tool",
       "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111023/cleverbridge-completes-frances-first-passkey-authenticated-agentic-purchase-on-a-revolut-card"
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/newsarticle/48480/natwest-unveils-ai-powered-audio-visual-spending-insights-tool"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Socure brings identity verification and fraud prevention to Circle Arc mainnnet",
+      "source": "Finextra",
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111030/socure-brings-identity-verification-and-fraud-prevention-to-circle-arc-mainnnet"
     },
     {
       "category": "Payments",
-      "title": "Citi and HSBC back IPID Series A",
+      "title": "US prosecutors seize Tether-linked payment firm's bank accounts - FT",
       "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48471/citi-and-hsbc-back-ipid-series-a"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "AI communications app Ando raises $20 million",
-      "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111022/ai-communications-app-ando-raises-20-million"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Narmi open AI marketplace for community banks",
-      "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111021/narmi-open-ai-marketplace-for-community-banks"
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/newsarticle/48478/us-prosecutors-seize-tether-linked-payment-firms-bank-accounts---ft"
     },
     {
       "category": "Payments",
-      "title": "Are Banks Ready for The Next Generation of Fraud?",
+      "title": "PayComplete gets new owners",
       "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/videoarticle/3600/are-banks-ready-for-the-next-generation-of-fraud"
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111028/paycomplete-gets-new-owners"
     },
     {
-      "category": "Payment Infrastructure",
-      "title": "IBM integrates digital asset platform with Swift shared ledger",
+      "category": "AI & Fintech",
+      "title": "Bluwhale announces trading agents for tokenised stocks and real-world assets",
       "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48469/ibm-integrates-digital-asset-platform-with-swift-shared-ledger"
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111025/bluwhale-announces-trading-agents-for-tokenised-stocks-and-real-world-assets"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "The Clearing House taps Quant for tokenised deposit network",
+      "category": "Payments",
+      "title": "Online scams agreement signed between UK and Cambodian governments",
       "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48465/the-clearing-house-taps-quant-for-tokenised-deposit-network"
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/newsarticle/48476/online-scams-agreement-signed-between-uk-and-cambodian-governments"
     },
     {
-      "category": "Payment Infrastructure",
-      "title": "Solaris goes live on ACI Worldwide platform for Sepa instant payments",
+      "category": "AI & Fintech",
+      "title": "Responsible by Design: The Shift from Decision Management to Decision Intelligence",
       "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111020/solaris-goes-live-on-aci-worldwide-platform-for-sepa-instant-payments"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Tokenized Renewable Energy Projects: Building the Infrastructure for On-Chain Ownership",
-      "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/blogposting/32970/tokenized-renewable-energy-projects-building-the-infrastructure-for-on-chain-ownership"
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/blogposting/32985/responsible-by-design-the-shift-from-decision-management-to-decision-intelligence"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Kredete acquires Gravv to build stablecoin infrastructure",
+      "title": "Tokenisation Promised Easier Access To Assets. Who Decides The Price?",
       "source": "Finextra",
-      "date": "Sep 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111018/kredete-acquires-gravv-to-build-stablecoin-infrastructure"
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/blogposting/32984/tokenisation-promised-easier-access-to-assets-who-decides-the-price"
+    },
+    {
+      "category": "Payments",
+      "title": "Corporate Stakeholder Expectations in Cash Management",
+      "source": "Finextra",
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/blogposting/32983/corporate-stakeholder-expectations-in-cash-management"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "FedNow to enable cross-border payments",
+      "source": "Finextra",
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/newsarticle/48472/fednow-to-enable-cross-border-payments"
     }
   ]
 }
