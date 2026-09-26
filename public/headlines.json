@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-25T17:16:05.846Z",
+  "updatedAt": "2026-09-26T16:27:28.298Z",
   "headlines": [
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Bitget hit by $387.5 million hack",
+      "source": "Finextra",
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/newsarticle/48481/bitget-hit-by-3875-million-hack"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Feedzai tackles banks’ agentic AI integration gap with Farol agent",
+      "source": "Finextra",
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111031/feedzai-tackles-banks-agentic-ai-integration-gap-with-farol-agent"
+    },
     {
       "category": "AI & Agentic Commerce",
       "title": "NatWest unveils AI-powered audio-visual spending insights tool",
@@ -23,6 +37,20 @@
       "url": "https://www.finextra.com/newsarticle/48478/us-prosecutors-seize-tether-linked-payment-firms-bank-accounts---ft"
     },
     {
+      "category": "AI & Fintech",
+      "title": "Meta's Muse Made Agent Payments a Mass-Market Product. The Liability Questions Have Not Caught Up",
+      "source": "Finextra",
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/blogposting/32988/metas-muse-made-agent-payments-a-mass-market-product-the-liability-questions-have-not-caught-up"
+    },
+    {
+      "category": "Payments",
+      "title": "Rewiring Global Finance | Project Nexus implementation in APAC Region",
+      "source": "Finextra",
+      "date": "Sep 25, 2026",
+      "url": "https://www.finextra.com/blogposting/32987/rewiring-global-finance--project-nexus-implementation-in-apac-region"
+    },
+    {
       "category": "Payments",
       "title": "PayComplete gets new owners",
       "source": "Finextra",
@@ -42,34 +70,6 @@
       "source": "Finextra",
       "date": "Sep 25, 2026",
       "url": "https://www.finextra.com/newsarticle/48476/online-scams-agreement-signed-between-uk-and-cambodian-governments"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Responsible by Design: The Shift from Decision Management to Decision Intelligence",
-      "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/blogposting/32985/responsible-by-design-the-shift-from-decision-management-to-decision-intelligence"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Tokenisation Promised Easier Access To Assets. Who Decides The Price?",
-      "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/blogposting/32984/tokenisation-promised-easier-access-to-assets-who-decides-the-price"
-    },
-    {
-      "category": "Payments",
-      "title": "Corporate Stakeholder Expectations in Cash Management",
-      "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/blogposting/32983/corporate-stakeholder-expectations-in-cash-management"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "FedNow to enable cross-border payments",
-      "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48472/fednow-to-enable-cross-border-payments"
     }
   ]
 }
