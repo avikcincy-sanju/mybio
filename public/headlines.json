@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-27T17:01:13.422Z",
+  "updatedAt": "2026-09-28T19:42:02.228Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Bitget hit by $387.5 million hack",
+      "category": "Payments",
+      "title": "Turkey's FATF Rating: What It Means for Your Banking Partners",
       "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48481/bitget-hit-by-3875-million-hack"
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/blogposting/33004/turkeys-fatf-rating-what-it-means-for-your-banking-partners"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "Swift provdes cross-border gateway to Bizum, PayID and Pix users",
+      "source": "Finextra",
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48488/swift-provdes-cross-border-gateway-to-bizum-payid-and-pix-users"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Feedzai tackles banks’ agentic AI integration gap with Farol agent",
+      "title": "Why An Agentic Bank Run is the Latest Worry",
       "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111031/feedzai-tackles-banks-agentic-ai-integration-gap-with-farol-agent"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "NatWest unveils AI-powered audio-visual spending insights tool",
-      "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48480/natwest-unveils-ai-powered-audio-visual-spending-insights-tool"
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/blogposting/33002/why-an-agentic-bank-run-is-the-latest-worry"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Socure brings identity verification and fraud prevention to Circle Arc mainnnet",
+      "title": "FCA secures money back for victims of crypto fraud",
       "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111030/socure-brings-identity-verification-and-fraud-prevention-to-circle-arc-mainnnet"
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/111042/fca-secures-money-back-for-victims-of-crypto-fraud"
     },
     {
       "category": "Payments",
-      "title": "US prosecutors seize Tether-linked payment firm's bank accounts - FT",
+      "title": "BNY unveils Pay-to-Wallet technology option for banks",
       "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48478/us-prosecutors-seize-tether-linked-payment-firms-bank-accounts---ft"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Meta's Muse Made Agent Payments a Mass-Market Product. The Liability Questions Have Not Caught Up",
-      "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/blogposting/32988/metas-muse-made-agent-payments-a-mass-market-product-the-liability-questions-have-not-caught-up"
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48487/bny-unveils-pay-to-wallet-technology-option-for-banks"
     },
     {
       "category": "Payments",
-      "title": "Rewiring Global Finance | Project Nexus implementation in APAC Region",
+      "title": "US banks invited to join Apple Pay class lawsuit",
       "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/blogposting/32987/rewiring-global-finance--project-nexus-implementation-in-apac-region"
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48486/us-banks-invited-to-join-apple-pay-class-lawsuit"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "FIS integrates with data and AI platform Spade's real-time transaction enrichment technology",
+      "source": "Finextra",
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/111039/fis-integrates-with-data-and-ai-platform-spades-real-time-transaction-enrichment-technology"
     },
     {
       "category": "Payments",
-      "title": "PayComplete gets new owners",
+      "title": "New forms of intelligent money set to hit traditional bank B2B revenue streams",
       "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111028/paycomplete-gets-new-owners"
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48485/new-forms-of-intelligent-money-set-to-hit-traditional-bank-b2b-revenue-streams"
     },
     {
-      "category": "AI & Fintech",
-      "title": "Bluwhale announces trading agents for tokenised stocks and real-world assets",
+      "category": "Settlement & Treasury",
+      "title": "Centralised Treasury vs. Fragmented Finance",
       "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111025/bluwhale-announces-trading-agents-for-tokenised-stocks-and-real-world-assets"
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/blogposting/32837/centralised-treasury-vs-fragmented-finance"
     },
     {
-      "category": "Payments",
-      "title": "Online scams agreement signed between UK and Cambodian governments",
+      "category": "AI & Agentic Commerce",
+      "title": "Singapore to train 80,000 FS sector employees in AI skills",
       "source": "Finextra",
-      "date": "Sep 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48476/online-scams-agreement-signed-between-uk-and-cambodian-governments"
+      "date": "Sep 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48482/singapore-to-train-80000-fs-sector-employees-in-ai-skills"
     }
   ]
 }
