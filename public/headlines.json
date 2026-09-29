@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-28T19:42:02.228Z",
+  "updatedAt": "2026-09-29T18:06:42.786Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Turkey's FATF Rating: What It Means for Your Banking Partners",
+      "category": "Merchant Payments",
+      "title": "BankPro picks Thredd to power card programmes",
       "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/blogposting/33004/turkeys-fatf-rating-what-it-means-for-your-banking-partners"
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111078/bankpro-picks-thredd-to-power-card-programmes"
     },
     {
-      "category": "Settlement & Treasury",
-      "title": "Swift provdes cross-border gateway to Bizum, PayID and Pix users",
+      "category": "AI & Fintech",
+      "title": "Mastercard partners with Mojaloop and AfricaNenda on payments in Africa",
       "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48488/swift-provdes-cross-border-gateway-to-bizum-payid-and-pix-users"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Why An Agentic Bank Run is the Latest Worry",
-      "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/blogposting/33002/why-an-agentic-bank-run-is-the-latest-worry"
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111077/mastercard-partners-with-mojaloop-and-africanenda-on-payments-in-africa"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "FCA secures money back for victims of crypto fraud",
+      "title": "Jeeves raises $110m for stablecoin banking platform",
       "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/111042/fca-secures-money-back-for-victims-of-crypto-fraud"
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/newsarticle/48498/jeeves-raises-110m-for-stablecoin-banking-platform"
     },
     {
       "category": "Payments",
-      "title": "BNY unveils Pay-to-Wallet technology option for banks",
+      "title": "Citi expands Token Services to the UAE and Japan",
       "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48487/bny-unveils-pay-to-wallet-technology-option-for-banks"
-    },
-    {
-      "category": "Payments",
-      "title": "US banks invited to join Apple Pay class lawsuit",
-      "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48486/us-banks-invited-to-join-apple-pay-class-lawsuit"
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111075/citi-expands-token-services-to-the-uae-and-japan"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "FIS integrates with data and AI platform Spade's real-time transaction enrichment technology",
+      "title": "Throught Machine and AWS to drive AI-powered core migrations",
       "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/111039/fis-integrates-with-data-and-ai-platform-spades-real-time-transaction-enrichment-technology"
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111074/throught-machine-and-aws-to-drive-ai-powered-core-migrations"
     },
     {
-      "category": "Payments",
-      "title": "New forms of intelligent money set to hit traditional bank B2B revenue streams",
+      "category": "Payment Infrastructure",
+      "title": "Chainlink connects to Swift's blockchain ledger",
       "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48485/new-forms-of-intelligent-money-set-to-hit-traditional-bank-b2b-revenue-streams"
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111073/chainlink-connects-to-swifts-blockchain-ledger"
     },
     {
       "category": "Settlement & Treasury",
-      "title": "Centralised Treasury vs. Fragmented Finance",
+      "title": "Terrabank to streamline cross-border payments with TerraPay and Mozrt",
       "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/blogposting/32837/centralised-treasury-vs-fragmented-finance"
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111072/terrabank-to-streamline-cross-border-payments-with-terrapay-and-mozrt"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Singapore to train 80,000 FS sector employees in AI skills",
+      "category": "Payments",
+      "title": "Nayax and Santander's Getnet collaborate on unattended payments",
       "source": "Finextra",
-      "date": "Sep 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48482/singapore-to-train-80000-fs-sector-employees-in-ai-skills"
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111070/nayax-and-santanders-getnet-collaborate-on-unattended-payments"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "Oracle integrates with Swift blockchain ledger",
+      "source": "Finextra",
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111068/oracle-integrates-with-swift-blockchain-ledger"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "How financial services can turn its quantum lead into readiness",
+      "source": "Finextra",
+      "date": "Sep 29, 2026",
+      "url": "https://www.finextra.com/blogposting/33023/how-financial-services-can-turn-its-quantum-lead-into-readiness"
     }
   ]
 }
