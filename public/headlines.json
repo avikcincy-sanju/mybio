@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-09-29T18:06:42.786Z",
+  "updatedAt": "2026-09-30T18:00:43.832Z",
   "headlines": [
     {
-      "category": "Merchant Payments",
-      "title": "BankPro picks Thredd to power card programmes",
-      "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111078/bankpro-picks-thredd-to-power-card-programmes"
-    },
-    {
       "category": "AI & Fintech",
-      "title": "Mastercard partners with Mojaloop and AfricaNenda on payments in Africa",
+      "title": "Sibos 2026: The quantum tipping point",
       "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111077/mastercard-partners-with-mojaloop-and-africanenda-on-payments-in-africa"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Jeeves raises $110m for stablecoin banking platform",
-      "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/newsarticle/48498/jeeves-raises-110m-for-stablecoin-banking-platform"
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48510/sibos-2026-the-quantum-tipping-point"
     },
     {
       "category": "Payments",
-      "title": "Citi expands Token Services to the UAE and Japan",
+      "title": "One Inc launches XpressOne to accelerate insurance claims",
       "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111075/citi-expands-token-services-to-the-uae-and-japan"
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/111092/one-inc-launches-xpressone-to-accelerate-insurance-claims"
+    },
+    {
+      "category": "Payments",
+      "title": "When Money Becomes Programmable",
+      "source": "Finextra",
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/blogposting/33037/when-money-becomes-programmable"
+    },
+    {
+      "category": "Payments",
+      "title": "Payments Can’t Be Built For A World That No Longer Exists",
+      "source": "Finextra",
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/blogposting/33036/payments-cant-be-built-for-a-world-that-no-longer-exists"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Throught Machine and AWS to drive AI-powered core migrations",
+      "title": "Robinhood deepens agentic AI offering in push to become go-to place for active traders",
       "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111074/throught-machine-and-aws-to-drive-ai-powered-core-migrations"
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48507/robinhood-deepens-agentic-ai-offering-in-push-to-become-go-to-place-for-active-traders"
     },
     {
-      "category": "Payment Infrastructure",
-      "title": "Chainlink connects to Swift's blockchain ledger",
+      "category": "AI & Agentic Commerce",
+      "title": "Oracle adds AI to financial crime and compliance products",
       "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111073/chainlink-connects-to-swifts-blockchain-ledger"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Terrabank to streamline cross-border payments with TerraPay and Mozrt",
-      "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111072/terrabank-to-streamline-cross-border-payments-with-terrapay-and-mozrt"
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/111088/oracle-adds-ai-to-financial-crime-and-compliance-products"
     },
     {
       "category": "Payments",
-      "title": "Nayax and Santander's Getnet collaborate on unattended payments",
+      "title": "Payhawk opens new offices in Stockholm and Warsaw",
       "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111070/nayax-and-santanders-getnet-collaborate-on-unattended-payments"
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/111087/payhawk-opens-new-offices-in-stockholm-and-warsaw"
     },
     {
-      "category": "Payment Infrastructure",
-      "title": "Oracle integrates with Swift blockchain ledger",
+      "category": "Stablecoins & Digital Money",
+      "title": "FCA opens the gateway to regulated crypto",
       "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111068/oracle-integrates-with-swift-blockchain-ledger"
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/111086/fca-opens-the-gateway-to-regulated-crypto"
     },
     {
-      "category": "AI & Fintech",
-      "title": "How financial services can turn its quantum lead into readiness",
+      "category": "Stablecoins & Digital Money",
+      "title": "HSBC prepares for the launch of HK$-backed stablecoin, RedCoin",
       "source": "Finextra",
-      "date": "Sep 29, 2026",
-      "url": "https://www.finextra.com/blogposting/33023/how-financial-services-can-turn-its-quantum-lead-into-readiness"
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48504/hsbc-prepares-for-the-launch-of-hk-backed-stablecoin-redcoin"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Is the US Clarity Act dead? No!",
+      "source": "Finextra",
+      "date": "Sep 30, 2026",
+      "url": "https://www.finextra.com/blogposting/33035/is-the-us-clarity-act-dead-no"
     }
   ]
 }
