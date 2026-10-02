@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-01T18:26:38.681Z",
+  "updatedAt": "2026-10-02T17:53:32.464Z",
   "headlines": [
     {
+      "category": "Payments",
+      "title": "Nayax completes acquisition of smart parking company IPS Group",
+      "source": "Finextra",
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111116/nayax-completes-acquisition-of-smart-parking-company-ips-group"
+    },
+    {
+      "category": "Payments",
+      "title": "YouTuber raises $15m for Brazil's 'Cash App'",
+      "source": "Finextra",
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/newsarticle/48527/youtuber-raises-15m-for-brazils-cash-app"
+    },
+    {
+      "category": "Payments",
+      "title": "How Can Digital Assets Bridge the Bank Modernisation Gap?",
+      "source": "Finextra",
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/videoarticle/3603/how-can-digital-assets-bridge-the-bank-modernisation-gap"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "BMO taps Mastercard for embedded commercial virtual card payments",
+      "source": "Finextra",
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111115/bmo-taps-mastercard-for-embedded-commercial-virtual-card-payments"
+    },
+    {
       "category": "AI & Fintech",
-      "title": "Sibos 2026: What does a successful ESG strategy look like?",
+      "title": "InDebted names Chris McNamara CEO",
       "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/newsarticle/48524/sibos-2026-what-does-a-successful-esg-strategy-look-like"
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111114/indebted-names-chris-mcnamara-ceo"
     },
     {
       "category": "Payments",
-      "title": "BMO joins Project Agorá",
+      "title": "Coinpayments appoints founder Alex Alexandrov as group CEO",
       "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/111106/bmo-joins-project-agor"
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111113/coinpayments-appoints-founder-alex-alexandrov-as-group-ceo"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy",
+      "title": "WealthAi launches AI agents to oversee client onboarding and KYC process",
       "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/newsarticle/48521/sibos-2026-dont-just-think-tech-think-talent-to-achieve-broad-ai-literacy"
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111111/wealthai-launches-ai-agents-to-oversee-client-onboarding-and-kyc-process"
     },
     {
-      "category": "Payments",
-      "title": "Payments Canada welcomes six new members",
+      "category": "Stablecoins & Digital Money",
+      "title": "Lloyds survey reveals 71% of UK FIs believe tokenisation will reshape financial services",
       "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/111104/payments-canada-welcomes-six-new-members"
-    },
-    {
-      "category": "Payments",
-      "title": "European payments groups join forces to take on US giants",
-      "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/newsarticle/48517/european-payments-groups-join-forces-to-take-on-us-giants"
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/newsarticle/48526/lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Sardine launches AI research lab",
+      "title": "Why the first finance hire at an AI startup is a permissions decision",
       "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/111103/sardine-launches-ai-research-lab"
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/blogposting/33052/why-the-first-finance-hire-at-an-ai-startup-is-a-permissions-decision"
     },
     {
-      "category": "Payments",
-      "title": "Fiserv digital platform goes live with FI clients",
+      "category": "Merchant Payments",
+      "title": "BMO and Mastercard enable corporate card clients to manage virtual card payments",
       "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/111102/fiserv-digital-platform-goes-live-with-fi-clients"
-    },
-    {
-      "category": "Payments",
-      "title": "Iliad Solutions adds Micah Kerr to US team",
-      "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/111099/iliad-solutions-adds-micah-kerr-to-us-team"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Marex expands digital assets offering with rolling spot crypto",
-      "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/111098/marex-expands-digital-assets-offering-with-rolling-spot-crypto"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "StraitsX to bring first SGD-denominated stablecoin to Monad",
-      "source": "Finextra",
-      "date": "Oct 1, 2026",
-      "url": "https://www.finextra.com/pressarticle/111097/straitsx-to-bring-first-sgd-denominated-stablecoin-to-monad"
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111110/bmo-and-mastercard-enable-corporate-card-clients-to-manage-virtual-card-payments"
     }
   ]
 }
