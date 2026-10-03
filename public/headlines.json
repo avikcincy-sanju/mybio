@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-02T17:53:32.464Z",
+  "updatedAt": "2026-10-03T16:26:18.024Z",
   "headlines": [
+    {
+      "category": "Payments",
+      "title": "Payments Canada approves new members",
+      "source": "Finextra",
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111117/payments-canada-approves-new-members"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Banks Have a New Single Point of Failure: Their AI Provider",
+      "source": "Finextra",
+      "date": "Oct 2, 2026",
+      "url": "https://www.finextra.com/blogposting/33054/banks-have-a-new-single-point-of-failure-their-ai-provider"
+    },
     {
       "category": "Payments",
       "title": "Nayax completes acquisition of smart parking company IPS Group",
@@ -56,20 +70,6 @@
       "source": "Finextra",
       "date": "Oct 2, 2026",
       "url": "https://www.finextra.com/newsarticle/48526/lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Why the first finance hire at an AI startup is a permissions decision",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/blogposting/33052/why-the-first-finance-hire-at-an-ai-startup-is-a-permissions-decision"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "BMO and Mastercard enable corporate card clients to manage virtual card payments",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111110/bmo-and-mastercard-enable-corporate-card-clients-to-manage-virtual-card-payments"
     }
   ]
 }
