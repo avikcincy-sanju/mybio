@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-04T16:52:04.683Z",
+  "updatedAt": "2026-10-06T18:25:46.640Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Payments Canada approves new members",
+      "category": "Stablecoins & Digital Money",
+      "title": "Circle, Ripple and Standard Chartered invest in OKX",
       "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111117/payments-canada-approves-new-members"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Banks Have a New Single Point of Failure: Their AI Provider",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/blogposting/33054/banks-have-a-new-single-point-of-failure-their-ai-provider"
-    },
-    {
-      "category": "Payments",
-      "title": "Nayax completes acquisition of smart parking company IPS Group",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111116/nayax-completes-acquisition-of-smart-parking-company-ips-group"
-    },
-    {
-      "category": "Payments",
-      "title": "YouTuber raises $15m for Brazil's 'Cash App'",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/newsarticle/48527/youtuber-raises-15m-for-brazils-cash-app"
-    },
-    {
-      "category": "Payments",
-      "title": "How Can Digital Assets Bridge the Bank Modernisation Gap?",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/videoarticle/3603/how-can-digital-assets-bridge-the-bank-modernisation-gap"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "BMO taps Mastercard for embedded commercial virtual card payments",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111115/bmo-taps-mastercard-for-embedded-commercial-virtual-card-payments"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "InDebted names Chris McNamara CEO",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111114/indebted-names-chris-mcnamara-ceo"
-    },
-    {
-      "category": "Payments",
-      "title": "Coinpayments appoints founder Alex Alexandrov as group CEO",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111113/coinpayments-appoints-founder-alex-alexandrov-as-group-ceo"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "WealthAi launches AI agents to oversee client onboarding and KYC process",
-      "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111111/wealthai-launches-ai-agents-to-oversee-client-onboarding-and-kyc-process"
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/newsarticle/48543/circle-ripple-and-standard-chartered-invest-in-okx"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Lloyds survey reveals 71% of UK FIs believe tokenisation will reshape financial services",
+      "title": "Rain applies to establish national trust bank",
       "source": "Finextra",
-      "date": "Oct 2, 2026",
-      "url": "https://www.finextra.com/newsarticle/48526/lloyds-survey-reveals-71-of-uk-fis-believe-tokenisation-will-reshape-financial-services"
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111164/rain-applies-to-establish-national-trust-bank"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "AlphaSense unveils SuperAnalyst AI agent",
+      "source": "Finextra",
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111163/alphasense-unveils-superanalyst-ai-agent"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Wells Fargo brings debit card personalisation to mobile app",
+      "source": "Finextra",
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111162/wells-fargo-brings-debit-card-personalisation-to-mobile-app"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "How can banks serve SME’s growing cross-border needs?",
+      "source": "Finextra",
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/videoarticle/3606/how-can-banks-serve-smes-growing-cross-border-needs"
+    },
+    {
+      "category": "Payments",
+      "title": "Mollie strengthens Pay by Bank",
+      "source": "Finextra",
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111156/mollie-strengthens-pay-by-bank"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "YouLend and Verifone team up on merchant financing",
+      "source": "Finextra",
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111155/youlend-and-verifone-team-up-on-merchant-financing"
+    },
+    {
+      "category": "Payments",
+      "title": "ExpenseIn partners Stripe on automated reimbursements for business expenses",
+      "source": "Finextra",
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111154/expensein-partners-stripe-on-automated-reimbursements-for-business-expenses"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Getnet simplifies European expansion for merchants",
+      "source": "Finextra",
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111152/getnet-simplifies-european-expansion-for-merchants"
+    },
+    {
+      "category": "Payments",
+      "title": "Tribe Payments names Alex Lim head of sales and solutions, Asia-Pacific",
+      "source": "Finextra",
+      "date": "Oct 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111151/tribe-payments-names-alex-lim-head-of-sales-and-solutions-asia-pacific"
     }
   ]
 }
