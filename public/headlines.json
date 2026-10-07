@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-06T18:25:46.640Z",
+  "updatedAt": "2026-10-07T18:58:10.774Z",
   "headlines": [
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Circle, Ripple and Standard Chartered invest in OKX",
+      "title": "Sibos 2026: TradFi vs DeFi, which wins and why",
       "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/newsarticle/48543/circle-ripple-and-standard-chartered-invest-in-okx"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Rain applies to establish national trust bank",
-      "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111164/rain-applies-to-establish-national-trust-bank"
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48552/sibos-2026-tradfi-vs-defi-which-wins-and-why"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "AlphaSense unveils SuperAnalyst AI agent",
+      "title": "AI systems most at risk of cybersecurity attacks, PwC report shows",
       "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111163/alphasense-unveils-superanalyst-ai-agent"
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48551/ai-systems-most-at-risk-of-cybersecurity-attacks-pwc-report-shows"
     },
     {
       "category": "Merchant Payments",
-      "title": "Wells Fargo brings debit card personalisation to mobile app",
+      "title": "Iridium Credit raises $3m",
       "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111162/wells-fargo-brings-debit-card-personalisation-to-mobile-app"
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/111183/iridium-credit-raises-3m"
+    },
+    {
+      "category": "Payments",
+      "title": "The State of Fintech: The Top Insights into European Payments Evolution",
+      "source": "Finextra",
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/videoarticle/3597/the-state-of-fintech-the-top-insights-into-european-payments-evolution"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push",
+      "source": "Finextra",
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/newsarticle/48549/hsbc-to-make-deep-wide-and-brutal-uk-wealth-management-job-cuts-in-ai-push"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "TS Imagine adds regulatory intelligence to AI platform for capital markets",
+      "source": "Finextra",
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/111182/ts-imagine-adds-regulatory-intelligence-to-ai-platform-for-capital-markets"
     },
     {
       "category": "Settlement & Treasury",
-      "title": "How can banks serve SME’s growing cross-border needs?",
+      "title": "PayDo Selects Convera to expand Swift receivables and onward cross-border payments",
       "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/videoarticle/3606/how-can-banks-serve-smes-growing-cross-border-needs"
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/111181/paydo-selects-convera-to-expand-swift-receivables-and-onward-cross-border-payments"
     },
     {
       "category": "Payments",
-      "title": "Mollie strengthens Pay by Bank",
+      "title": "Sumsub launches reusable KYC gateway",
       "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111156/mollie-strengthens-pay-by-bank"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "YouLend and Verifone team up on merchant financing",
-      "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111155/youlend-and-verifone-team-up-on-merchant-financing"
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/111179/sumsub-launches-reusable-kyc-gateway"
     },
     {
       "category": "Payments",
-      "title": "ExpenseIn partners Stripe on automated reimbursements for business expenses",
+      "title": "Valu and Alshaya Group team on flexible payments for retail brands in Egypt",
       "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111154/expensein-partners-stripe-on-automated-reimbursements-for-business-expenses"
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/111178/valu-and-alshaya-group-team-on-flexible-payments-for-retail-brands-in-egypt"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Getnet simplifies European expansion for merchants",
+      "category": "AI & Fintech",
+      "title": "Liberty France goes live with Lendscape platform",
       "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111152/getnet-simplifies-european-expansion-for-merchants"
-    },
-    {
-      "category": "Payments",
-      "title": "Tribe Payments names Alex Lim head of sales and solutions, Asia-Pacific",
-      "source": "Finextra",
-      "date": "Oct 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111151/tribe-payments-names-alex-lim-head-of-sales-and-solutions-asia-pacific"
+      "date": "Oct 7, 2026",
+      "url": "https://www.finextra.com/pressarticle/111176/liberty-france-goes-live-with-lendscape-platform"
     }
   ]
 }
