@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-08T18:52:44.342Z",
+  "updatedAt": "2026-10-09T18:23:14.439Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "SoFi Tech, Orbi and Mastercard team on crypto-linked card programme in Mexico",
+      "category": "AI & Fintech",
+      "title": "Sibos 2026: Trust and collaboration at 'machine speed' needed to fight banking industry threats",
       "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/pressarticle/111201/sofi-tech-orbi-and-mastercard-team-on-crypto-linked-card-programme-in-mexico"
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48566/sibos-2026-trust-and-collaboration-at-machine-speed-needed-to-fight-banking-industry-threats"
     },
     {
-      "category": "Payments",
-      "title": "Mastercard to enable offline payments across Europe",
+      "category": "Settlement & Treasury",
+      "title": "How Tokenization Is Unlocking Liquidity in Specialty Finance",
       "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/newsarticle/48560/mastercard-to-enable-offline-payments-across-europe"
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/blogposting/33109/how-tokenization-is-unlocking-liquidity-in-specialty-finance"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "CaixaBank expands Google Cloud collaboration",
+      "source": "Finextra",
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111212/caixabank-expands-google-cloud-collaboration"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "EDX Markets and Verified X partner for tokenised bitcoin trading",
+      "source": "Finextra",
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111210/edx-markets-and-verified-x-partner-for-tokenised-bitcoin-trading"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Combatting the Rise of AI-Driven Financial Crime in Banking",
+      "title": "Investment research spend flatlines despite AI advancements",
       "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/videoarticle/3608/combatting-the-rise-of-ai-driven-financial-crime-in-banking"
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111209/investment-research-spend-flatlines-despite-ai-advancements"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "When Going Global Means Operating Local: The Payment Infrastructure Behind Cross-Border Growth",
+      "source": "Finextra",
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/blogposting/33110/when-going-global-means-operating-local-the-payment-infrastructure-behind-cross-border-growth"
     },
     {
       "category": "Payments",
-      "title": "TrueLayer raises $27m to scale Pay by Bank",
+      "title": "EU and UK banks face 1 year deadline for T+1",
       "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/newsarticle/48559/truelayer-raises-27m-to-scale-pay-by-bank"
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48564/eu-and-uk-banks-face-1-year-deadline-for-t1"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Ownera and Utila form digital asset infrastructure partnership",
+      "category": "AI & Fintech",
+      "title": "FCA cracks down on finfluencers",
       "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/pressarticle/111200/ownera-and-utila-form-digital-asset-infrastructure-partnership"
-    },
-    {
-      "category": "Payments",
-      "title": "PawaPay secures Mozambique payment licence",
-      "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/pressarticle/111197/pawapay-secures-mozambique-payment-licence"
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48563/fca-cracks-down-on-finfluencers"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Singapore central bank issues risk rules on banks' AI use",
+      "title": "Cavero Secure launches protocol for autonomous AI governance",
       "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/newsarticle/48558/singapore-central-bank-issues-risk-rules-on-banks-ai-use"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "The Future of RWA Payment Rails: Tokenization, Stablecoins and Programmable Finance",
-      "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/blogposting/33104/the-future-of-rwa-payment-rails-tokenization-stablecoins-and-programmable-finance"
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111204/cavero-secure-launches-protocol-for-autonomous-ai-governance"
     },
     {
       "category": "Payments",
-      "title": "Unlimit and Gr4vy Partners collaborate on payments",
+      "title": "Amex hit with $350m penalty for AML deficiencies",
       "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/pressarticle/111194/unlimit-and-gr4vy-partners-collaborate-on-payments"
-    },
-    {
-      "category": "Payments",
-      "title": "Sibos 2026: Is USD's position as prime global currency in jeopardy?",
-      "source": "Finextra",
-      "date": "Oct 8, 2026",
-      "url": "https://www.finextra.com/newsarticle/48556/sibos-2026-is-usds-position-as-prime-global-currency-in-jeopardy"
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48562/amex-hit-with-350m-penalty-for-aml-deficiencies"
     }
   ]
 }
