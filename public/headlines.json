@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T18:23:14.439Z",
+  "updatedAt": "2026-10-10T17:21:52.609Z",
   "headlines": [
+    {
+      "category": "AI & Fintech",
+      "title": "The debugging tax: why agent budgets blow up on closed APIs—and what open models change",
+      "source": "Finextra",
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/blogposting/33118/the-debugging-tax-why-agent-budgets-blow-up-on-closed-apisand-what-open-models-change"
+    },
     {
       "category": "AI & Fintech",
       "title": "Sibos 2026: Trust and collaboration at 'machine speed' needed to fight banking industry threats",
@@ -51,25 +58,18 @@
       "url": "https://www.finextra.com/newsarticle/48564/eu-and-uk-banks-face-1-year-deadline-for-t1"
     },
     {
+      "category": "AI & Agentic Commerce",
+      "title": "Mastercard rolls out trust and intelligence services for agentic commerce",
+      "source": "Finextra",
+      "date": "Oct 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111213/mastercard-rolls-out-trust-and-intelligence-services-for-agentic-commerce"
+    },
+    {
       "category": "AI & Fintech",
       "title": "FCA cracks down on finfluencers",
       "source": "Finextra",
       "date": "Oct 9, 2026",
       "url": "https://www.finextra.com/newsarticle/48563/fca-cracks-down-on-finfluencers"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Cavero Secure launches protocol for autonomous AI governance",
-      "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111204/cavero-secure-launches-protocol-for-autonomous-ai-governance"
-    },
-    {
-      "category": "Payments",
-      "title": "Amex hit with $350m penalty for AML deficiencies",
-      "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48562/amex-hit-with-350m-penalty-for-aml-deficiencies"
     }
   ]
 }
