@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-11T17:42:06.135Z",
+  "updatedAt": "2026-10-12T21:17:48.359Z",
   "headlines": [
     {
-      "category": "AI & Fintech",
-      "title": "The debugging tax: why agent budgets blow up on closed APIs—and what open models change",
+      "category": "Merchant Payments",
+      "title": "Corporate Expense Cards: Transforming Reimbursements into Real-Time Cash Flow Data",
       "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/blogposting/33118/the-debugging-tax-why-agent-budgets-blow-up-on-closed-apisand-what-open-models-change"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Sibos 2026: Trust and collaboration at 'machine speed' needed to fight banking industry threats",
-      "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48566/sibos-2026-trust-and-collaboration-at-machine-speed-needed-to-fight-banking-industry-threats"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "How Tokenization Is Unlocking Liquidity in Specialty Finance",
-      "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/blogposting/33109/how-tokenization-is-unlocking-liquidity-in-specialty-finance"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "CaixaBank expands Google Cloud collaboration",
-      "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111212/caixabank-expands-google-cloud-collaboration"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "EDX Markets and Verified X partner for tokenised bitcoin trading",
-      "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111210/edx-markets-and-verified-x-partner-for-tokenised-bitcoin-trading"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Investment research spend flatlines despite AI advancements",
-      "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111209/investment-research-spend-flatlines-despite-ai-advancements"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "When Going Global Means Operating Local: The Payment Infrastructure Behind Cross-Border Growth",
-      "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/blogposting/33110/when-going-global-means-operating-local-the-payment-infrastructure-behind-cross-border-growth"
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/32839/corporate-expense-cards-transforming-reimbursements-into-real-time-cash-flow-data"
     },
     {
       "category": "Payments",
-      "title": "EU and UK banks face 1 year deadline for T+1",
+      "title": "Bank or e-money institution: what really changes for an international structure",
       "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48564/eu-and-uk-banks-face-1-year-deadline-for-t1"
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/33133/bank-or-e-money-institution-what-really-changes-for-an-international-structure"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Mastercard rolls out trust and intelligence services for agentic commerce",
+      "title": "The Double-Edged Sword of AI in Banking",
       "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111213/mastercard-rolls-out-trust-and-intelligence-services-for-agentic-commerce"
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/33139/the-double-edged-sword-of-ai-in-banking"
     },
     {
-      "category": "AI & Fintech",
-      "title": "FCA cracks down on finfluencers",
+      "category": "Payments",
+      "title": "Why Tokenised Money Market Funds Don't Belong in Operational Float",
       "source": "Finextra",
-      "date": "Oct 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48563/fca-cracks-down-on-finfluencers"
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/33138/why-tokenised-money-market-funds-dont-belong-in-operational-float"
+    },
+    {
+      "category": "Payments",
+      "title": "Echonect: Fifteen Years on Apache Camel",
+      "source": "Finextra",
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/33136/echonect-fifteen-years-on-apache-camel"
+    },
+    {
+      "category": "Payments",
+      "title": "Virtual IBANs: Reconciliation Tool or Compliance Blind Spot?",
+      "source": "Finextra",
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/33135/virtual-ibans-reconciliation-tool-or-compliance-blind-spot"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Fiserv's Stablecoin Delay Shows Where the Value Sits",
+      "source": "Finextra",
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/33132/fiservs-stablecoin-delay-shows-where-the-value-sits"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "The Digital Eurodollar: How Stablecoins Reshape Bitcoin Liquidity Channels",
+      "source": "Finextra",
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/33130/the-digital-eurodollar-how-stablecoins-reshape-bitcoin-liquidity-channels"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Thinking Beyond Adoption: Why AI Strategy Must Be Defined by Execution",
+      "source": "Finextra",
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/blogposting/33128/thinking-beyond-adoption-why-ai-strategy-must-be-defined-by-execution"
+    },
+    {
+      "category": "Payments",
+      "title": "Bahrain central bank to treble tech budget",
+      "source": "Finextra",
+      "date": "Oct 12, 2026",
+      "url": "https://www.finextra.com/newsarticle/48570/bahrain-central-bank-to-treble-tech-budget"
     }
   ]
 }
