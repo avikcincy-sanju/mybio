@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-13T19:19:25.670Z",
+  "updatedAt": "2026-10-14T17:16:27.888Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Rain launches stablecoin wallet",
+      "category": "AI & Fintech",
+      "title": "Deutsche Bank deploys Farsight tech",
       "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/111233/rain-launches-stablecoin-wallet"
-    },
-    {
-      "category": "Payments",
-      "title": "Culture Shifts: Why the Industry Is Already Moving Beyond T+1",
-      "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/videoarticle/3611/culture-shifts-why-the-industry-is-already-moving-beyond-t1"
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/111260/deutsche-bank-deploys-farsight-tech"
     },
     {
       "category": "Merchant Payments",
-      "title": "Credit Agricole launches digital bank for German market",
+      "title": "Visa secures China card business green light",
       "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48576/credit-agricole-launches-digital-bank-for-german-market"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "MoonPay appoints CFO",
-      "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/111231/moonpay-appoints-cfo"
-    },
-    {
-      "category": "Payments",
-      "title": "The banking app doesn't earn the revenue. It decides who keeps it",
-      "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/blogposting/33129/the-banking-app-doesnt-earn-the-revenue-it-decides-who-keeps-it"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Singapore's UOB signs cloud MoU with AWS",
-      "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48575/singapores-uob-signs-cloud-mou-with-aws"
-    },
-    {
-      "category": "Payments",
-      "title": "LHV Bank names CEO",
-      "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48574/lhv-bank-names-ceo"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Bitget launches token stock transfer service",
-      "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/111228/bitget-launches-token-stock-transfer-service"
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/newsarticle/48584/visa-secures-china-card-business-green-light"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "AI Flywheel Series:Why Learning and Development Must Become an Engine of Organisational Intelligence",
+      "title": "Starling becomes first bank to train AI model on UK sovereign cloud",
       "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/blogposting/33146/ai-flywheel-serieswhy-learning-and-development-must-become-an-engine-of-organisational-intelligence"
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/newsarticle/48583/starling-becomes-first-bank-to-train-ai-model-on-uk-sovereign-cloud"
+    },
+    {
+      "category": "Payments",
+      "title": "PayQuicker launches next-gen API platform",
+      "source": "Finextra",
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/111258/payquicker-launches-next-gen-api-platform"
+    },
+    {
+      "category": "Payments",
+      "title": "T-plus-1 Sunsets Soon: Time to Get Your Act Together",
+      "source": "Finextra",
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/blogposting/33164/t-plus-1-sunsets-soon-time-to-get-your-act-together"
+    },
+    {
+      "category": "Payments",
+      "title": "From Single Rails to Full Ecosystems: How Payments Have Transformed",
+      "source": "Finextra",
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/videoarticle/3614/from-single-rails-to-full-ecosystems-how-payments-have-transformed"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Kraken parent to buy European bank Saldo",
+      "source": "Finextra",
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/newsarticle/48581/kraken-parent-to-buy-european-bank-saldo"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Market data costs to rise by up to 50% thanks to AI",
+      "title": "Mollie to build banking layer for AI agents",
       "source": "Finextra",
-      "date": "Oct 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48573/market-data-costs-to-rise-by-up-to-50-thanks-to-ai"
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/111257/mollie-to-build-banking-layer-for-ai-agents"
+    },
+    {
+      "category": "Payments",
+      "title": "Splitwise launches free bill-splitting tool",
+      "source": "Finextra",
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/111256/splitwise-launches-free-bill-splitting-tool"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Barclaycard Payments deploys Visa Unified Checkout",
+      "source": "Finextra",
+      "date": "Oct 14, 2026",
+      "url": "https://www.finextra.com/pressarticle/111255/barclaycard-payments-deploys-visa-unified-checkout"
     }
   ]
 }
