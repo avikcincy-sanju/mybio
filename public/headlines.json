@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-14T17:16:27.888Z",
+  "updatedAt": "2026-10-15T17:05:51.294Z",
   "headlines": [
     {
-      "category": "AI & Fintech",
-      "title": "Deutsche Bank deploys Farsight tech",
+      "category": "Settlement & Treasury",
+      "title": "Ethiopia joins Pan-African Payment and Settlement System network",
       "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/111260/deutsche-bank-deploys-farsight-tech"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Visa secures China card business green light",
-      "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/newsarticle/48584/visa-secures-china-card-business-green-light"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Starling becomes first bank to train AI model on UK sovereign cloud",
-      "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/newsarticle/48583/starling-becomes-first-bank-to-train-ai-model-on-uk-sovereign-cloud"
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/111301/ethiopia-joins-pan-african-payment-and-settlement-system-network"
     },
     {
       "category": "Payments",
-      "title": "PayQuicker launches next-gen API platform",
+      "title": "JP Morgan Payments powers Mercado Libre’s global selling expansion",
       "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/111258/payquicker-launches-next-gen-api-platform"
-    },
-    {
-      "category": "Payments",
-      "title": "T-plus-1 Sunsets Soon: Time to Get Your Act Together",
-      "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/blogposting/33164/t-plus-1-sunsets-soon-time-to-get-your-act-together"
-    },
-    {
-      "category": "Payments",
-      "title": "From Single Rails to Full Ecosystems: How Payments Have Transformed",
-      "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/videoarticle/3614/from-single-rails-to-full-ecosystems-how-payments-have-transformed"
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/111300/jp-morgan-payments-powers-mercado-libres-global-selling-expansion"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Kraken parent to buy European bank Saldo",
+      "title": "Cross River embeds Ripple stablecoin into operating system",
       "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/newsarticle/48581/kraken-parent-to-buy-european-bank-saldo"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Mollie to build banking layer for AI agents",
-      "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/111257/mollie-to-build-banking-layer-for-ai-agents"
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/111299/cross-river-embeds-ripple-stablecoin-into-operating-system"
     },
     {
       "category": "Payments",
-      "title": "Splitwise launches free bill-splitting tool",
+      "title": "Vast Bank forms payment partnership with Cliq",
       "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/111256/splitwise-launches-free-bill-splitting-tool"
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/111298/vast-bank-forms-payment-partnership-with-cliq"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Barclaycard Payments deploys Visa Unified Checkout",
+      "category": "Payment Infrastructure",
+      "title": "Episode Six launches real-time backing verification for tokenised money",
       "source": "Finextra",
-      "date": "Oct 14, 2026",
-      "url": "https://www.finextra.com/pressarticle/111255/barclaycard-payments-deploys-visa-unified-checkout"
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/111297/episode-six-launches-real-time-backing-verification-for-tokenised-money"
+    },
+    {
+      "category": "Payments",
+      "title": "Ramp hits $60bn valuation",
+      "source": "Finextra",
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/newsarticle/48591/ramp-hits-60bn-valuation"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Mastercard and BVNK bring fiat and stablecoin payments together in global money platform",
+      "source": "Finextra",
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/newsarticle/48590/mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform"
+    },
+    {
+      "category": "Payments",
+      "title": "Account-to-Account Payments in the UK: What Comes Next?",
+      "source": "Finextra",
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/videoarticle/3617/account-to-account-payments-in-the-uk-what-comes-next"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "AI-native core banking startup Maximum signs Emprise Bank",
+      "source": "Finextra",
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/111263/ai-native-core-banking-startup-maximum-signs-emprise-bank"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Pineapple Financial rebrands as Pentiv; unveils agents for mortgage brokers",
+      "source": "Finextra",
+      "date": "Oct 15, 2026",
+      "url": "https://www.finextra.com/pressarticle/111295/pineapple-financial-rebrands-as-pentiv-unveils-agents-for-mortgage-brokers"
     }
   ]
 }
