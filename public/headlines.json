@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-15T17:05:51.294Z",
+  "updatedAt": "2026-10-16T16:43:14.828Z",
   "headlines": [
     {
-      "category": "Settlement & Treasury",
-      "title": "Ethiopia joins Pan-African Payment and Settlement System network",
-      "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/111301/ethiopia-joins-pan-african-payment-and-settlement-system-network"
-    },
-    {
-      "category": "Payments",
-      "title": "JP Morgan Payments powers Mercado Libre’s global selling expansion",
-      "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/111300/jp-morgan-payments-powers-mercado-libres-global-selling-expansion"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Cross River embeds Ripple stablecoin into operating system",
-      "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/111299/cross-river-embeds-ripple-stablecoin-into-operating-system"
-    },
-    {
-      "category": "Payments",
-      "title": "Vast Bank forms payment partnership with Cliq",
-      "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/111298/vast-bank-forms-payment-partnership-with-cliq"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "Episode Six launches real-time backing verification for tokenised money",
-      "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/111297/episode-six-launches-real-time-backing-verification-for-tokenised-money"
-    },
-    {
-      "category": "Payments",
-      "title": "Ramp hits $60bn valuation",
-      "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/newsarticle/48591/ramp-hits-60bn-valuation"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Mastercard and BVNK bring fiat and stablecoin payments together in global money platform",
-      "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/newsarticle/48590/mastercard-and-bvnk-bring-fiat-and-stablecoin-payments-together-in-global-money-platform"
-    },
-    {
-      "category": "Payments",
-      "title": "Account-to-Account Payments in the UK: What Comes Next?",
-      "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/videoarticle/3617/account-to-account-payments-in-the-uk-what-comes-next"
-    },
-    {
       "category": "AI & Agentic Commerce",
-      "title": "AI-native core banking startup Maximum signs Emprise Bank",
+      "title": "Can Agentic AI Transform Corporate Banking Self-Service Experiences?",
       "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/111263/ai-native-core-banking-startup-maximum-signs-emprise-bank"
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/videoarticle/3618/can-agentic-ai-transform-corporate-banking-self-service-experiences"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Stripe and Plasma team on multi-currency stablecoin cards",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/pressarticle/111319/stripe-and-plasma-team-on-multi-currency-stablecoin-cards"
     },
     {
       "category": "AI & Fintech",
-      "title": "Pineapple Financial rebrands as Pentiv; unveils agents for mortgage brokers",
+      "title": "BofA called in 1000 contractors to patch flaws found by Mythos",
       "source": "Finextra",
-      "date": "Oct 15, 2026",
-      "url": "https://www.finextra.com/pressarticle/111295/pineapple-financial-rebrands-as-pentiv-unveils-agents-for-mortgage-brokers"
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/newsarticle/48600/bofa-called-in-1000-contractors-to-patch-flaws-found-by-mythos"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Splitit unveils bank-branded instalment charge card",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/pressarticle/111315/splitit-unveils-bank-branded-instalment-charge-card"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "FXC Intelligence issues cross-border payment on AWS",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/pressarticle/111316/fxc-intelligence-issues-cross-border-payment-on-aws"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Research reveals gaps in SME's stablecoin adoption",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/pressarticle/111312/research-reveals-gaps-in-smes-stablecoin-adoption"
+    },
+    {
+      "category": "Payments",
+      "title": "Finextra & ACI Worldwide launch global survey report: ‘Payments 2030: The Payoff Year’",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/newsarticle/48597/finextra--aci-worldwide-launch-global-survey-report-payments-2030-the-payoff-year"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Japanese banks complete stablecoin PoC",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/pressarticle/111311/japanese-banks-complete-stablecoin-poc"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "ECB approves Unicredit's bid for control of Commerzbank",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/newsarticle/48598/ecb-approves-unicredits-bid-for-control-of-commerzbank"
+    },
+    {
+      "category": "Payments",
+      "title": "EBAday 2027: Fintech Zone applications now open",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/newsarticle/48595/ebaday-2027-fintech-zone-applications-now-open"
     }
   ]
 }
