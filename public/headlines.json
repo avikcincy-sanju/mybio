@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T16:43:14.828Z",
+  "updatedAt": "2026-10-17T15:40:13.926Z",
   "headlines": [
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Indicium AI’s Applied AI Symposium: Five lessons for turning AI ambition into business impact",
+      "source": "Finextra",
+      "date": "Oct 16, 2026",
+      "url": "https://www.finextra.com/blogposting/33203/indicium-ais-applied-ai-symposium-five-lessons-for-turning-ai-ambition-into-business-impact"
+    },
     {
       "category": "AI & Agentic Commerce",
       "title": "Can Agentic AI Transform Corporate Banking Self-Service Experiences?",
@@ -63,13 +70,6 @@
       "source": "Finextra",
       "date": "Oct 16, 2026",
       "url": "https://www.finextra.com/newsarticle/48598/ecb-approves-unicredits-bid-for-control-of-commerzbank"
-    },
-    {
-      "category": "Payments",
-      "title": "EBAday 2027: Fintech Zone applications now open",
-      "source": "Finextra",
-      "date": "Oct 16, 2026",
-      "url": "https://www.finextra.com/newsarticle/48595/ebaday-2027-fintech-zone-applications-now-open"
     }
   ]
 }
