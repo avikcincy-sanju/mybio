@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-19T18:44:03.582Z",
+  "updatedAt": "2026-10-20T17:14:25.944Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Mastercard launches Stablecoin Security",
+      "category": "Payments",
+      "title": "PSD3 will make your payment provider earn its licence twice",
       "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111350/mastercard-launches-stablecoin-security"
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/blogposting/33225/psd3-will-make-your-payment-provider-earn-its-licence-twice"
+    },
+    {
+      "category": "Payments",
+      "title": "Ramp applies for national bank trust charter",
+      "source": "Finextra",
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48619/ramp-applies-for-national-bank-trust-charter"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "From quantum plan to quantum proof: what’s actually working",
+      "source": "Finextra",
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/blogposting/33222/from-quantum-plan-to-quantum-proof-whats-actually-working"
+    },
+    {
+      "category": "Payments",
+      "title": "Cross River to buy loyalty platform Accrue",
+      "source": "Finextra",
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111370/cross-river-to-buy-loyalty-platform-accrue"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "ScribeUp raises $13m for AI-powered bill management",
+      "source": "Finextra",
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111368/scribeup-raises-13m-for-ai-powered-bill-management"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Modernising Core Banking Without Compromising Resilience",
+      "source": "Finextra",
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/videoarticle/3622/modernising-core-banking-without-compromising-resilience"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Sustainable Finance Live: How can we power regenerative finance?",
+      "source": "Finextra",
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48617/sustainable-finance-live-how-can-we-power-regenerative-finance"
+    },
+    {
+      "category": "Payments",
+      "title": "UK sets out proposal to open up access to iPhone contactless payments",
+      "source": "Finextra",
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48618/uk-sets-out-proposal-to-open-up-access-to-iphone-contactless-payments"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Sustainable Finance Live: Nature-based solutions and social engagement to empower community hubs",
+      "source": "Finextra",
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48616/sustainable-finance-live-nature-based-solutions-and-social-engagement-to-empower-community-hubs"
     },
     {
       "category": "Merchant Payments",
-      "title": "Klarna expands Fiserv partnership to enterprise merchants",
+      "title": "Finsei selects Thredd to power new debit offering",
       "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111349/klarna-expands-fiserv-partnership-to-enterprise-merchants"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Block selects Marqeta to enable Square credit card",
-      "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111348/block-selects-marqeta-to-enable-square-credit-card"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Mesh makes stablecoin and crypto balances spendable across Visa network",
-      "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111346/mesh-makes-stablecoin-and-crypto-balances-spendable-across-visa-network"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Euronet and Fireblocks team on stablecoin-funded card issuing",
-      "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111344/euronet-and-fireblocks-team-on-stablecoin-funded-card-issuing"
-    },
-    {
-      "category": "Payments",
-      "title": "US Bank launches Payment Switch to help customers move recurring bills",
-      "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111343/us-bank-launches-payment-switch-to-help-customers-move-recurring-bills"
-    },
-    {
-      "category": "Payments",
-      "title": "MoneyGram revamps app",
-      "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111342/moneygram-revamps-app"
-    },
-    {
-      "category": "Payments",
-      "title": "Scalable Digital Asset Payments Need a Control Loop, Not Just a Transaction API",
-      "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/blogposting/33220/scalable-digital-asset-payments-need-a-control-loop-not-just-a-transaction-api"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "JP Morgan brings JPM Coin to Ethereum",
-      "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48607/jp-morgan-brings-jpm-coin-to-ethereum"
-    },
-    {
-      "category": "Payments",
-      "title": "Mastercard partners Extend to bring modern spend management to issuing banks",
-      "source": "Finextra",
-      "date": "Oct 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111341/mastercard-partners-extend-to-bring-modern-spend-management-to-issuing-banks"
+      "date": "Oct 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111366/finsei-selects-thredd-to-power-new-debit-offering"
     }
   ]
 }
