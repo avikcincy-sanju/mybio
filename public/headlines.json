@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-20T17:14:25.944Z",
+  "updatedAt": "2026-10-21T17:17:09.653Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "PSD3 will make your payment provider earn its licence twice",
+      "title": "Visa targets trust in business payments",
       "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/blogposting/33225/psd3-will-make-your-payment-provider-earn-its-licence-twice"
-    },
-    {
-      "category": "Payments",
-      "title": "Ramp applies for national bank trust charter",
-      "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48619/ramp-applies-for-national-bank-trust-charter"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "From quantum plan to quantum proof: what’s actually working",
-      "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/blogposting/33222/from-quantum-plan-to-quantum-proof-whats-actually-working"
-    },
-    {
-      "category": "Payments",
-      "title": "Cross River to buy loyalty platform Accrue",
-      "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111370/cross-river-to-buy-loyalty-platform-accrue"
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48629/visa-targets-trust-in-business-payments"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "ScribeUp raises $13m for AI-powered bill management",
+      "title": "BBVA works with Nvidia to boost AI agent security",
       "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111368/scribeup-raises-13m-for-ai-powered-bill-management"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Modernising Core Banking Without Compromising Resilience",
-      "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/videoarticle/3622/modernising-core-banking-without-compromising-resilience"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Sustainable Finance Live: How can we power regenerative finance?",
-      "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48617/sustainable-finance-live-how-can-we-power-regenerative-finance"
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48628/bbva-works-with-nvidia-to-boost-ai-agent-security"
     },
     {
       "category": "Payments",
-      "title": "UK sets out proposal to open up access to iPhone contactless payments",
+      "title": "TreviPay expands Pay By Invoice availability for Walmart Business customers",
       "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48618/uk-sets-out-proposal-to-open-up-access-to-iphone-contactless-payments"
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/111390/trevipay-expands-pay-by-invoice-availability-for-walmart-business-customers"
     },
     {
-      "category": "AI & Fintech",
-      "title": "Sustainable Finance Live: Nature-based solutions and social engagement to empower community hubs",
+      "category": "AI & Agentic Commerce",
+      "title": "Passkeys and Agentic Checkout: Vladyslav Kolodistyi on Authenticating Payments",
       "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48616/sustainable-finance-live-nature-based-solutions-and-social-engagement-to-empower-community-hubs"
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/blogposting/33115/passkeys-and-agentic-checkout-vladyslav-kolodistyi-on-authenticating-payments"
     },
     {
       "category": "Merchant Payments",
-      "title": "Finsei selects Thredd to power new debit offering",
+      "title": "Standard Chartered to acquire Zodia Custody",
       "source": "Finextra",
-      "date": "Oct 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111366/finsei-selects-thredd-to-power-new-debit-offering"
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48627/standard-chartered-to-acquire-zodia-custody"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Bajaj Broking adds commodity trading to digital platforms",
+      "source": "Finextra",
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/111388/bajaj-broking-adds-commodity-trading-to-digital-platforms"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "DXtrade launches white label crypto interface",
+      "source": "Finextra",
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/111387/dxtrade-launches-white-label-crypto-interface"
+    },
+    {
+      "category": "Payments",
+      "title": "N26 appoints chief comms officer",
+      "source": "Finextra",
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/111386/n26-appoints-chief-comms-officer"
+    },
+    {
+      "category": "Payments",
+      "title": "Appcharge names chief operating officer",
+      "source": "Finextra",
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/pressarticle/111384/appcharge-names-chief-operating-officer"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Bank bosses under pressure to implement AI ahead of time",
+      "source": "Finextra",
+      "date": "Oct 21, 2026",
+      "url": "https://www.finextra.com/newsarticle/48626/bank-bosses-under-pressure-to-implement-ai-ahead-of-time"
     }
   ]
 }
