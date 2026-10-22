@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-21T17:17:09.653Z",
+  "updatedAt": "2026-10-22T17:15:12.405Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "Visa targets trust in business payments",
+      "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
       "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48629/visa-targets-trust-in-business-payments"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "BBVA works with Nvidia to boost AI agent security",
-      "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48628/bbva-works-with-nvidia-to-boost-ai-agent-security"
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/newsarticle/48636/fireblocks-pours-cold-water-on-reports-of-25bn-acquisition-talks-with-visa"
     },
     {
       "category": "Payments",
-      "title": "TreviPay expands Pay By Invoice availability for Walmart Business customers",
+      "title": "Sam's Club picks Affirm for BNPL",
       "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/111390/trevipay-expands-pay-by-invoice-availability-for-walmart-business-customers"
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/111417/sams-club-picks-affirm-for-bnpl"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Passkeys and Agentic Checkout: Vladyslav Kolodistyi on Authenticating Payments",
+      "category": "Payments",
+      "title": "How to Balance Blockchain's Speed and Privacy Flaws",
       "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/blogposting/33115/passkeys-and-agentic-checkout-vladyslav-kolodistyi-on-authenticating-payments"
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/videoarticle/3626/how-to-balance-blockchains-speed-and-privacy-flaws"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Standard Chartered to acquire Zodia Custody",
+      "category": "AI & Fintech",
+      "title": "Banks move to limit agents' access to customer accounts",
       "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48627/standard-chartered-to-acquire-zodia-custody"
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/newsarticle/48634/banks-move-to-limit-agents-access-to-customer-accounts"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Bajaj Broking adds commodity trading to digital platforms",
+      "title": "Bloomberg enables scalable crypto asset exposure classification under Base framework",
       "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/111388/bajaj-broking-adds-commodity-trading-to-digital-platforms"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "DXtrade launches white label crypto interface",
-      "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/111387/dxtrade-launches-white-label-crypto-interface"
-    },
-    {
-      "category": "Payments",
-      "title": "N26 appoints chief comms officer",
-      "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/111386/n26-appoints-chief-comms-officer"
-    },
-    {
-      "category": "Payments",
-      "title": "Appcharge names chief operating officer",
-      "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/pressarticle/111384/appcharge-names-chief-operating-officer"
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/111416/bloomberg-enables-scalable-crypto-asset-exposure-classification-under-base-framework"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Bank bosses under pressure to implement AI ahead of time",
+      "title": "S&P Global expands AI-powered capabilities across private markets",
       "source": "Finextra",
-      "date": "Oct 21, 2026",
-      "url": "https://www.finextra.com/newsarticle/48626/bank-bosses-under-pressure-to-implement-ai-ahead-of-time"
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/111415/sp-global-expands-ai-powered-capabilities-across-private-markets"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "GCEX launches options on digital assets for professional and institutional clients",
+      "source": "Finextra",
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/111414/gcex-launches-options-on-digital-assets-for-professional-and-institutional-clients"
+    },
+    {
+      "category": "Payments",
+      "title": "TerraPay Verify integrates with Kinexys by JP Morgan’s Liink network for global payee verification",
+      "source": "Finextra",
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/111413/terrapay-verify-integrates-with-kinexys-by-jp-morgans-liink-network-for-global-payee-verification"
+    },
+    {
+      "category": "Payments",
+      "title": "Aurionpro Transit and Mastercard team on public transport contactless payments in North America",
+      "source": "Finextra",
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/111412/aurionpro-transit-and-mastercard-team-on-public-transport-contactless-payments-in-north-america"
+    },
+    {
+      "category": "Payments",
+      "title": "Mastercard expands First-Party Trust programme across Europe",
+      "source": "Finextra",
+      "date": "Oct 22, 2026",
+      "url": "https://www.finextra.com/pressarticle/111411/mastercard-expands-first-party-trust-programme-across-europe"
     }
   ]
 }
