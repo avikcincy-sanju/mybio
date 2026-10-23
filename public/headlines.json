@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-22T17:15:12.405Z",
+  "updatedAt": "2026-10-23T17:13:14.833Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
+      "title": "Fiserv adds Raj Seshadri to board",
       "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/newsarticle/48636/fireblocks-pours-cold-water-on-reports-of-25bn-acquisition-talks-with-visa"
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111429/fiserv-adds-raj-seshadri-to-board"
     },
     {
-      "category": "Payments",
-      "title": "Sam's Club picks Affirm for BNPL",
+      "category": "Settlement & Treasury",
+      "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
       "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/111417/sams-club-picks-affirm-for-bnpl"
-    },
-    {
-      "category": "Payments",
-      "title": "How to Balance Blockchain's Speed and Privacy Flaws",
-      "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/videoarticle/3626/how-to-balance-blockchains-speed-and-privacy-flaws"
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative"
     },
     {
       "category": "AI & Fintech",
-      "title": "Banks move to limit agents' access to customer accounts",
+      "title": "Plum secures FCA approval to deliver Targeted Support",
       "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/newsarticle/48634/banks-move-to-limit-agents-access-to-customer-accounts"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Bloomberg enables scalable crypto asset exposure classification under Base framework",
-      "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/111416/bloomberg-enables-scalable-crypto-asset-exposure-classification-under-base-framework"
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111428/plum-secures-fca-approval-to-deliver-targeted-support"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "S&P Global expands AI-powered capabilities across private markets",
+      "title": "Quant salaries on the rise amid AI revolution",
       "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/111415/sp-global-expands-ai-powered-capabilities-across-private-markets"
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/newsarticle/48640/quant-salaries-on-the-rise-amid-ai-revolution"
+    },
+    {
+      "category": "Payments",
+      "title": "US fintech Coast secures $35m for physical economy payments platform",
+      "source": "Finextra",
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/newsarticle/48639/us-fintech-coast-secures-35m-for-physical-economy-payments-platform"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Tech Mahindra acquires Finastra's cash management division",
+      "source": "Finextra",
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division"
+    },
+    {
+      "category": "Payments",
+      "title": "A second provider is not a resilience plan",
+      "source": "Finextra",
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/blogposting/33210/a-second-provider-is-not-a-resilience-plan"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "GCEX launches options on digital assets for professional and institutional clients",
+      "title": "HSBC launches first stablecoin",
       "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/111414/gcex-launches-options-on-digital-assets-for-professional-and-institutional-clients"
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Agentic AI: Who Is Really in Control?",
+      "source": "Finextra",
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/blogposting/33274/agentic-ai-who-is-really-in-control"
     },
     {
       "category": "Payments",
-      "title": "TerraPay Verify integrates with Kinexys by JP Morgan’s Liink network for global payee verification",
+      "title": "Visa partners with Singapore Tourism Board",
       "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/111413/terrapay-verify-integrates-with-kinexys-by-jp-morgans-liink-network-for-global-payee-verification"
-    },
-    {
-      "category": "Payments",
-      "title": "Aurionpro Transit and Mastercard team on public transport contactless payments in North America",
-      "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/111412/aurionpro-transit-and-mastercard-team-on-public-transport-contactless-payments-in-north-america"
-    },
-    {
-      "category": "Payments",
-      "title": "Mastercard expands First-Party Trust programme across Europe",
-      "source": "Finextra",
-      "date": "Oct 22, 2026",
-      "url": "https://www.finextra.com/pressarticle/111411/mastercard-expands-first-party-trust-programme-across-europe"
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111422/visa-partners-with-singapore-tourism-board"
     }
   ]
 }
