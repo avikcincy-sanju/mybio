@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-23T17:13:14.833Z",
+  "updatedAt": "2026-10-24T16:00:35.829Z",
   "headlines": [
+    {
+      "category": "Payments",
+      "title": "Argentine payment infrastructure company Rebill raises $5.4m",
+      "source": "Finextra",
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111432/argentine-payment-infrastructure-company-rebill-raises-54m"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "US Faster Payments Council release guide on navigating non-value messaging for instant payments",
+      "source": "Finextra",
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111430/us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments"
+    },
     {
       "category": "Payments",
       "title": "Fiserv adds Raj Seshadri to board",
@@ -14,6 +28,13 @@
       "source": "Finextra",
       "date": "Oct 23, 2026",
       "url": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative"
+    },
+    {
+      "category": "Payments",
+      "title": "5 Questions Every CFO Should Ask About Their Payment Stack Costs",
+      "source": "Finextra",
+      "date": "Oct 23, 2026",
+      "url": "https://www.finextra.com/blogposting/33277/5-questions-every-cfo-should-ask-about-their-payment-stack-costs"
     },
     {
       "category": "AI & Fintech",
@@ -49,27 +70,6 @@
       "source": "Finextra",
       "date": "Oct 23, 2026",
       "url": "https://www.finextra.com/blogposting/33210/a-second-provider-is-not-a-resilience-plan"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "HSBC launches first stablecoin",
-      "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/newsarticle/48638/hsbc-launches-first-stablecoin"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Agentic AI: Who Is Really in Control?",
-      "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/blogposting/33274/agentic-ai-who-is-really-in-control"
-    },
-    {
-      "category": "Payments",
-      "title": "Visa partners with Singapore Tourism Board",
-      "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111422/visa-partners-with-singapore-tourism-board"
     }
   ]
 }
