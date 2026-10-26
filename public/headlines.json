@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-25T16:28:47.476Z",
+  "updatedAt": "2026-10-26T18:42:19.926Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Argentine payment infrastructure company Rebill raises $5.4m",
+      "category": "AI & Agentic Commerce",
+      "title": "Nevis raises $70m for wealth management AI operating system",
       "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111432/argentine-payment-infrastructure-company-rebill-raises-54m"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "US Faster Payments Council release guide on navigating non-value messaging for instant payments",
-      "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111430/us-faster-payments-council-release-guide-on-navigating-non-value-messaging-for-instant-payments"
-    },
-    {
-      "category": "Payments",
-      "title": "Fiserv adds Raj Seshadri to board",
-      "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111429/fiserv-adds-raj-seshadri-to-board"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
-      "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative"
-    },
-    {
-      "category": "Payments",
-      "title": "5 Questions Every CFO Should Ask About Their Payment Stack Costs",
-      "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/blogposting/33277/5-questions-every-cfo-should-ask-about-their-payment-stack-costs"
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48649/nevis-raises-70m-for-wealth-management-ai-operating-system"
     },
     {
       "category": "AI & Fintech",
-      "title": "Plum secures FCA approval to deliver Targeted Support",
+      "title": "UK FS sector embraces GenAI",
       "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111428/plum-secures-fca-approval-to-deliver-targeted-support"
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48648/uk-fs-sector-embraces-genai"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Quant salaries on the rise amid AI revolution",
+      "title": "AI software engineering firm Cognition expands UK presence",
       "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/newsarticle/48640/quant-salaries-on-the-rise-amid-ai-revolution"
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111445/ai-software-engineering-firm-cognition-expands-uk-presence"
     },
     {
       "category": "Payments",
-      "title": "US fintech Coast secures $35m for physical economy payments platform",
+      "title": "PayTabs agrees to buy SeaPay in Saudi Arabia",
       "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/newsarticle/48639/us-fintech-coast-secures-35m-for-physical-economy-payments-platform"
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111444/paytabs-agrees-to-buy-seapay-in-saudi-arabia"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Tech Mahindra acquires Finastra's cash management division",
+      "category": "AI & Agentic Commerce",
+      "title": "B2Prime launches Claude connector for AI-assisted market research",
       "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111427/tech-mahindra-acquires-finastras-cash-management-division"
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111441/b2prime-launches-claude-connector-for-ai-assisted-market-research"
     },
     {
       "category": "Payments",
-      "title": "A second provider is not a resilience plan",
+      "title": "Banks and Fintechs: Real Partnerships or Competition?",
       "source": "Finextra",
-      "date": "Oct 23, 2026",
-      "url": "https://www.finextra.com/blogposting/33210/a-second-provider-is-not-a-resilience-plan"
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/videoarticle/3625/banks-and-fintechs-real-partnerships-or-competition"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "EDX Markets and Apex Fintech Solutions partner for digital markets expansion",
+      "source": "Finextra",
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111439/edx-markets-and-apex-fintech-solutions-partner-for-digital-markets-expansion"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Japan tells banks to review cyber policies following wave of attacks",
+      "source": "Finextra",
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48646/japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Barclays names Anita Tanna chief AI officer",
+      "source": "Finextra",
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48645/barclays-names-anita-tanna-chief-ai-officer"
+    },
+    {
+      "category": "Payments",
+      "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
+      "source": "Finextra",
+      "date": "Oct 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments"
     }
   ]
 }
