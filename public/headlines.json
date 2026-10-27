@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-26T18:42:19.926Z",
+  "updatedAt": "2026-10-27T18:03:10.352Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Nevis raises $70m for wealth management AI operating system",
-      "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48649/nevis-raises-70m-for-wealth-management-ai-operating-system"
-    },
-    {
       "category": "AI & Fintech",
-      "title": "UK FS sector embraces GenAI",
+      "title": "Anthropic expands Claude for Financial Advisors with ne integrations",
       "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48648/uk-fs-sector-embraces-genai"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "AI software engineering firm Cognition expands UK presence",
-      "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111445/ai-software-engineering-firm-cognition-expands-uk-presence"
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/111473/anthropic-expands-claude-for-financial-advisors-with-ne-integrations"
     },
     {
       "category": "Payments",
-      "title": "PayTabs agrees to buy SeaPay in Saudi Arabia",
+      "title": "Ripple secures national bank charter; inks deals with BNY and Robinhood",
       "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111444/paytabs-agrees-to-buy-seapay-in-saudi-arabia"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "B2Prime launches Claude connector for AI-assisted market research",
-      "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111441/b2prime-launches-claude-connector-for-ai-assisted-market-research"
-    },
-    {
-      "category": "Payments",
-      "title": "Banks and Fintechs: Real Partnerships or Competition?",
-      "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/videoarticle/3625/banks-and-fintechs-real-partnerships-or-competition"
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48655/ripple-secures-national-bank-charter-inks-deals-with-bny-and-robinhood"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "EDX Markets and Apex Fintech Solutions partner for digital markets expansion",
+      "title": "BitGo to integrate WisdomTree tokenised money market fund",
       "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111439/edx-markets-and-apex-fintech-solutions-partner-for-digital-markets-expansion"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Japan tells banks to review cyber policies following wave of attacks",
-      "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48646/japan-tells-banks-to-review-cyber-policies-following-wave-of-attacks"
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/111471/bitgo-to-integrate-wisdomtree-tokenised-money-market-fund"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Barclays names Anita Tanna chief AI officer",
+      "title": "Can Open Source Drive Secure AI Innovation in Banking?",
       "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48645/barclays-names-anita-tanna-chief-ai-officer"
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/videoarticle/3628/can-open-source-drive-secure-ai-innovation-in-banking"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Zafin to buy Naehas to expand AI-powered banking and compliance platform",
+      "source": "Finextra",
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48654/zafin-to-buy-naehas-to-expand-ai-powered-banking-and-compliance-platform"
     },
     {
       "category": "Payments",
-      "title": "Tech Mahindra and Mastercard team on embedded B2B payments",
+      "title": "Sezzle applies for national bank charter",
       "source": "Finextra",
-      "date": "Oct 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111438/tech-mahindra-and-mastercard-team-on-embedded-b2b-payments"
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/111470/sezzle-applies-for-national-bank-charter"
+    },
+    {
+      "category": "Payments",
+      "title": "Nuuvia and Jack Henry collaborate to help FIs engage with Gen Z",
+      "source": "Finextra",
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/111469/nuuvia-and-jack-henry-collaborate-to-help-fis-engage-with-gen-z"
+    },
+    {
+      "category": "Payments",
+      "title": "PayQuicker names Tyron Bennion chief revenue officer",
+      "source": "Finextra",
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/111468/payquicker-names-tyron-bennion-chief-revenue-officer"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Webull Canada launches AI-powered investing",
+      "source": "Finextra",
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/111467/webull-canada-launches-ai-powered-investing"
+    },
+    {
+      "category": "Payments",
+      "title": "Kenya's I&M Bank selects Otoma for end-to-end payments",
+      "source": "Finextra",
+      "date": "Oct 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/111466/kenyas-im-bank-selects-otoma-for-end-to-end-payments"
     }
   ]
 }
