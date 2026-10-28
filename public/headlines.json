@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-27T18:03:10.352Z",
+  "updatedAt": "2026-10-28T18:21:53.431Z",
   "headlines": [
     {
-      "category": "AI & Fintech",
-      "title": "Anthropic expands Claude for Financial Advisors with ne integrations",
+      "category": "Payments",
+      "title": "UK Government takes on till fraud with POS software standards",
       "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/111473/anthropic-expands-claude-for-financial-advisors-with-ne-integrations"
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards"
     },
     {
       "category": "Payments",
-      "title": "Ripple secures national bank charter; inks deals with BNY and Robinhood",
+      "title": "SBI Holdings and Cross River establish JV in Japan",
       "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/newsarticle/48655/ripple-secures-national-bank-charter-inks-deals-with-bny-and-robinhood"
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/111491/sbi-holdings-and-cross-river-establish-jv-in-japan"
+    },
+    {
+      "category": "Payments",
+      "title": "PaysafeWallet expands into Croatia, Bulgaria and Estonia",
+      "source": "Finextra",
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/111490/paysafewallet-expands-into-croatia-bulgaria-and-estonia"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "How Will Tokenisation Transform Cross-Border Payments and Settlement?",
+      "source": "Finextra",
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/videoarticle/3631/how-will-tokenisation-transform-cross-border-payments-and-settlement"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "BitGo to integrate WisdomTree tokenised money market fund",
+      "title": "Firms object to shares being part of OKX-ICE tokenised stock trading venture",
       "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/111471/bitgo-to-integrate-wisdomtree-tokenised-money-market-fund"
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48663/firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture"
+    },
+    {
+      "category": "Payments",
+      "title": "MoneyGram picks AiPrise for compliance and fraud prevention",
+      "source": "Finextra",
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/111489/moneygram-picks-aiprise-for-compliance-and-fraud-prevention"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Coinbase says customer contact data exposed in third-party breach",
+      "source": "Finextra",
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Can Open Source Drive Secure AI Innovation in Banking?",
+      "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring",
       "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/videoarticle/3628/can-open-source-drive-secure-ai-innovation-in-banking"
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/111488/hummingbird-buys-quantimon-to-bring-machine-learning-to-aml-transaction-monitoring"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Zafin to buy Naehas to expand AI-powered banking and compliance platform",
+      "title": "Bloomberg rolls out AI coding assistant BQuant",
       "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/newsarticle/48654/zafin-to-buy-naehas-to-expand-ai-powered-banking-and-compliance-platform"
-    },
-    {
-      "category": "Payments",
-      "title": "Sezzle applies for national bank charter",
-      "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/111470/sezzle-applies-for-national-bank-charter"
-    },
-    {
-      "category": "Payments",
-      "title": "Nuuvia and Jack Henry collaborate to help FIs engage with Gen Z",
-      "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/111469/nuuvia-and-jack-henry-collaborate-to-help-fis-engage-with-gen-z"
-    },
-    {
-      "category": "Payments",
-      "title": "PayQuicker names Tyron Bennion chief revenue officer",
-      "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/111468/payquicker-names-tyron-bennion-chief-revenue-officer"
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/111487/bloomberg-rolls-out-ai-coding-assistant-bquant"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Webull Canada launches AI-powered investing",
+      "title": "AI-powered payment dispute platform Casap raises $56m",
       "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/111467/webull-canada-launches-ai-powered-investing"
-    },
-    {
-      "category": "Payments",
-      "title": "Kenya's I&M Bank selects Otoma for end-to-end payments",
-      "source": "Finextra",
-      "date": "Oct 27, 2026",
-      "url": "https://www.finextra.com/pressarticle/111466/kenyas-im-bank-selects-otoma-for-end-to-end-payments"
+      "date": "Oct 28, 2026",
+      "url": "https://www.finextra.com/pressarticle/111485/ai-powered-payment-dispute-platform-casap-raises-56m"
     }
   ]
 }
