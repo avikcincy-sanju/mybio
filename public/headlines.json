@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-28T18:21:53.431Z",
+  "updatedAt": "2026-10-29T18:30:28.054Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "UK Government takes on till fraud with POS software standards",
+      "title": "Unipaas expands to Ireland with JP Morgan Payments",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48664/uk-government-takes-on-till-fraud-with-pos-software-standards"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111513/unipaas-expands-to-ireland-with-jp-morgan-payments"
     },
     {
-      "category": "Payments",
-      "title": "SBI Holdings and Cross River establish JV in Japan",
+      "category": "AI & Agentic Commerce",
+      "title": "Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/111491/sbi-holdings-and-cross-river-establish-jv-in-japan"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/videoarticle/3634/building-a-trusted-ecosystem-ais-changing-role-in-corporate-banking"
     },
     {
-      "category": "Payments",
-      "title": "PaysafeWallet expands into Croatia, Bulgaria and Estonia",
+      "category": "Stablecoins & Digital Money",
+      "title": "Former Swift CEO Lázaro Campos joins stablecoin firm OpenTrade as chair",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/111490/paysafewallet-expands-into-croatia-bulgaria-and-estonia"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair"
     },
     {
       "category": "Settlement & Treasury",
-      "title": "How Will Tokenisation Transform Cross-Border Payments and Settlement?",
+      "title": "Liquidity Services deploys Flywire tech for domestic and cross-border B2B payments",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/videoarticle/3631/how-will-tokenisation-transform-cross-border-payments-and-settlement"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111512/liquidity-services-deploys-flywire-tech-for-domestic-and-cross-border-b2b-payments"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Firms object to shares being part of OKX-ICE tokenised stock trading venture",
+      "category": "AI & Agentic Commerce",
+      "title": "B2Broker Group moves into agentic trading",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48663/firms-object-to-shares-being-part-of-okx-ice-tokenised-stock-trading-venture"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111510/b2broker-group-moves-into-agentic-trading"
     },
     {
       "category": "Payments",
-      "title": "MoneyGram picks AiPrise for compliance and fraud prevention",
+      "title": "CIBC rolls out Thought Machine core platform",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/111489/moneygram-picks-aiprise-for-compliance-and-fraud-prevention"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/newsarticle/48668/cibc-rolls-out-thought-machine-core-platform"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Coinbase says customer contact data exposed in third-party breach",
+      "title": "Crypto exchange HTX to leave UK after FCA lawsuit",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/newsarticle/48662/coinbase-says-customer-contact-data-exposed-in-third-party-breach"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/newsarticle/48667/crypto-exchange-htx-to-leave-uk-after-fca-lawsuit"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring",
+      "category": "Payments",
+      "title": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/111488/hummingbird-buys-quantimon-to-bring-machine-learning-to-aml-transaction-monitoring"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Bloomberg rolls out AI coding assistant BQuant",
+      "category": "Payments",
+      "title": "Mollie introduces ChatGPT and Claude integrations",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/111487/bloomberg-rolls-out-ai-coding-assistant-bquant"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111506/mollie-introduces-chatgpt-and-claude-integrations"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "AI-powered payment dispute platform Casap raises $56m",
+      "category": "Payments",
+      "title": "Airtm and BVNK team on direct wallet payments in emerging markets",
       "source": "Finextra",
-      "date": "Oct 28, 2026",
-      "url": "https://www.finextra.com/pressarticle/111485/ai-powered-payment-dispute-platform-casap-raises-56m"
+      "date": "Oct 29, 2026",
+      "url": "https://www.finextra.com/pressarticle/111505/airtm-and-bvnk-team-on-direct-wallet-payments-in-emerging-markets"
     }
   ]
 }
