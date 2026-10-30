@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-10-29T18:30:28.054Z",
+  "updatedAt": "2026-10-30T18:02:21.370Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "Unipaas expands to Ireland with JP Morgan Payments",
+      "title": "How Younger Customers Are Spearheading the Rise of the ‘Switchable Middle’",
       "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111513/unipaas-expands-to-ireland-with-jp-morgan-payments"
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/videoarticle/3630/how-younger-customers-are-spearheading-the-rise-of-the-switchable-middle"
     },
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking",
+      "category": "Payments",
+      "title": "Achieving a Collective Defence: How to Tackle Cybercrime in 2027",
       "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/videoarticle/3634/building-a-trusted-ecosystem-ais-changing-role-in-corporate-banking"
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/videoarticle/3636/achieving-a-collective-defence-how-to-tackle-cybercrime-in-2027"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Kipp acquired by LTVCo-led investor group for US push",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48679/kipp-acquired-by-ltvco-led-investor-group-for-us-push"
+    },
+    {
+      "category": "Payments",
+      "title": "ECB picks digital euro network service providers",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48678/ecb-picks-digital-euro-network-service-providers"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Sustainable Finance Live: Wonky Harvest and Lloyds Banking Group win 2026 Hackathon",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48677/sustainable-finance-live-wonky-harvest-and-lloyds-banking-group-win-2026-hackathon"
+    },
+    {
+      "category": "Payments",
+      "title": "Apple Pay and Google Pay launch in Uzbekistan",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan"
+    },
+    {
+      "category": "Payments",
+      "title": "ACI Worldwide and Circle collaborate on LatAm payments",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/111519/aci-worldwide-and-circle-collaborate-on-latam-payments"
+    },
+    {
+      "category": "Payments",
+      "title": "Beyond What It Prevents, What Does Security in Payments Enable?",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/videoarticle/3635/beyond-what-it-prevents-what-does-security-in-payments-enable"
+    },
+    {
+      "category": "Payments",
+      "title": "Verification of payee outside the euro area: the build behind a refund rule",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/blogposting/33349/verification-of-payee-outside-the-euro-area-the-build-behind-a-refund-rule"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Former Swift CEO Lázaro Campos joins stablecoin firm OpenTrade as chair",
+      "title": "Tokenisation platform Assetize secures Jersey registration",
       "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/newsarticle/48669/former-swift-ceo-lzaro-campos-joins-stablecoin-firm-opentrade-as-chair"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Liquidity Services deploys Flywire tech for domestic and cross-border B2B payments",
-      "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111512/liquidity-services-deploys-flywire-tech-for-domestic-and-cross-border-b2b-payments"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "B2Broker Group moves into agentic trading",
-      "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111510/b2broker-group-moves-into-agentic-trading"
-    },
-    {
-      "category": "Payments",
-      "title": "CIBC rolls out Thought Machine core platform",
-      "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/newsarticle/48668/cibc-rolls-out-thought-machine-core-platform"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Crypto exchange HTX to leave UK after FCA lawsuit",
-      "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/newsarticle/48667/crypto-exchange-htx-to-leave-uk-after-fca-lawsuit"
-    },
-    {
-      "category": "Payments",
-      "title": "SettleMint integrates digital asset lifecycle platform with IBM Digital Asset Haven",
-      "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111509/settlemint-integrates-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven"
-    },
-    {
-      "category": "Payments",
-      "title": "Mollie introduces ChatGPT and Claude integrations",
-      "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111506/mollie-introduces-chatgpt-and-claude-integrations"
-    },
-    {
-      "category": "Payments",
-      "title": "Airtm and BVNK team on direct wallet payments in emerging markets",
-      "source": "Finextra",
-      "date": "Oct 29, 2026",
-      "url": "https://www.finextra.com/pressarticle/111505/airtm-and-bvnk-team-on-direct-wallet-payments-in-emerging-markets"
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/111517/tokenisation-platform-assetize-secures-jersey-registration"
     }
   ]
 }
