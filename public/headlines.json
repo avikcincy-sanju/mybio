@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-30T18:02:21.370Z",
+  "updatedAt": "2026-10-31T17:15:38.917Z",
   "headlines": [
+    {
+      "category": "Payments",
+      "title": "Visa signs digital payments deal with Senegal",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/pressarticle/111520/visa-signs-digital-payments-deal-with-senegal"
+    },
+    {
+      "category": "Payments",
+      "title": "Why Payment Infrastructure Needs to Evolve Beyond Transaction Processing",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/blogposting/33354/why-payment-infrastructure-needs-to-evolve-beyond-transaction-processing"
+    },
+    {
+      "category": "Payments",
+      "title": "PE firm CD&R targets buyout of $40bn Global Payments - FT",
+      "source": "Finextra",
+      "date": "Oct 30, 2026",
+      "url": "https://www.finextra.com/newsarticle/48681/pe-firm-cdr-targets-buyout-of-40bn-global-payments---ft"
+    },
     {
       "category": "Payments",
       "title": "How Younger Customers Are Spearheading the Rise of the ‘Switchable Middle’",
@@ -49,27 +70,6 @@
       "source": "Finextra",
       "date": "Oct 30, 2026",
       "url": "https://www.finextra.com/pressarticle/111519/aci-worldwide-and-circle-collaborate-on-latam-payments"
-    },
-    {
-      "category": "Payments",
-      "title": "Beyond What It Prevents, What Does Security in Payments Enable?",
-      "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/videoarticle/3635/beyond-what-it-prevents-what-does-security-in-payments-enable"
-    },
-    {
-      "category": "Payments",
-      "title": "Verification of payee outside the euro area: the build behind a refund rule",
-      "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/blogposting/33349/verification-of-payee-outside-the-euro-area-the-build-behind-a-refund-rule"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Tokenisation platform Assetize secures Jersey registration",
-      "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/111517/tokenisation-platform-assetize-secures-jersey-registration"
     }
   ]
 }
