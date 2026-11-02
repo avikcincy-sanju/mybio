@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-01T17:56:34.022Z",
+  "updatedAt": "2026-11-02T21:44:21.180Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "Visa signs digital payments deal with Senegal",
+      "title": "Nala names Ashraf Aly global head, compliance and risk",
       "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/111520/visa-signs-digital-payments-deal-with-senegal"
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111539/nala-names-ashraf-aly-global-head-compliance-and-risk"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Eurex Clearing integrates digital instruments to become 'hybrid CCP'",
+      "source": "Finextra",
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/newsarticle/48689/eurex-clearing-integrates-digital-instruments-to-become-hybrid-ccp"
     },
     {
       "category": "Payments",
-      "title": "Why Payment Infrastructure Needs to Evolve Beyond Transaction Processing",
+      "title": "Wirex appoints Kulveer Ranger as board adviser to UK digital asset arm",
       "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/blogposting/33354/why-payment-infrastructure-needs-to-evolve-beyond-transaction-processing"
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111537/wirex-appoints-kulveer-ranger-as-board-adviser-to-uk-digital-asset-arm"
     },
     {
-      "category": "Payments",
-      "title": "PE firm CD&R targets buyout of $40bn Global Payments - FT",
+      "category": "Stablecoins & Digital Money",
+      "title": "OKX launches Mastercard stablecoin card in the US",
       "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/newsarticle/48681/pe-firm-cdr-targets-buyout-of-40bn-global-payments---ft"
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111535/okx-launches-mastercard-stablecoin-card-in-the-us"
     },
     {
-      "category": "Payments",
-      "title": "How Younger Customers Are Spearheading the Rise of the ‘Switchable Middle’",
+      "category": "Stablecoins & Digital Money",
+      "title": "Stablecoins have scaled as money - now they need to scale as capital",
       "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/videoarticle/3630/how-younger-customers-are-spearheading-the-rise-of-the-switchable-middle"
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/blogposting/33375/stablecoins-have-scaled-as-money---now-they-need-to-scale-as-capital"
     },
     {
-      "category": "Payments",
-      "title": "Achieving a Collective Defence: How to Tackle Cybercrime in 2027",
+      "category": "AI & Agentic Commerce",
+      "title": "HSBC to open Hong Kong AI and emerging technology institute",
       "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/videoarticle/3636/achieving-a-collective-defence-how-to-tackle-cybercrime-in-2027"
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/newsarticle/48685/hsbc-to-open-hong-kong-ai-and-emerging-technology-institute"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Kipp acquired by LTVCo-led investor group for US push",
+      "category": "Stablecoins & Digital Money",
+      "title": "TZero to go public in Spac deal",
       "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/newsarticle/48679/kipp-acquired-by-ltvco-led-investor-group-for-us-push"
-    },
-    {
-      "category": "Payments",
-      "title": "ECB picks digital euro network service providers",
-      "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/newsarticle/48678/ecb-picks-digital-euro-network-service-providers"
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/newsarticle/48684/tzero-to-go-public-in-spac-deal"
     },
     {
       "category": "AI & Fintech",
-      "title": "Sustainable Finance Live: Wonky Harvest and Lloyds Banking Group win 2026 Hackathon",
+      "title": "Cybersecurity: Why Building Resilience Into An Organisation's Culture is Crucial",
       "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/newsarticle/48677/sustainable-finance-live-wonky-harvest-and-lloyds-banking-group-win-2026-hackathon"
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/videoarticle/3639/cybersecurity-why-building-resilience-into-an-organisations-culture-is-crucial"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Binance users withdraw $5bn in wake of hack",
+      "source": "Finextra",
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/newsarticle/48683/binance-users-withdraw-5bn-in-wake-of-hack"
     },
     {
       "category": "Payments",
-      "title": "Apple Pay and Google Pay launch in Uzbekistan",
+      "title": "Paysafe appoints Rob Schonfeld chief revenue officer",
       "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/newsarticle/48676/apple-pay-and-google-pay-launch-in-uzbekistan"
-    },
-    {
-      "category": "Payments",
-      "title": "ACI Worldwide and Circle collaborate on LatAm payments",
-      "source": "Finextra",
-      "date": "Oct 30, 2026",
-      "url": "https://www.finextra.com/pressarticle/111519/aci-worldwide-and-circle-collaborate-on-latam-payments"
+      "date": "Nov 2, 2026",
+      "url": "https://www.finextra.com/pressarticle/111533/paysafe-appoints-rob-schonfeld-chief-revenue-officer"
     }
   ]
 }
