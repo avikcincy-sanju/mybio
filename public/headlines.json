@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-02T21:44:21.180Z",
+  "updatedAt": "2026-11-03T19:31:04.033Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Nala names Ashraf Aly global head, compliance and risk",
+      "category": "AI & Agentic Commerce",
+      "title": "Binance says hackers used fake job interviews and AI tools in $6.3bn hack",
       "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111539/nala-names-ashraf-aly-global-head-compliance-and-risk"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Eurex Clearing integrates digital instruments to become 'hybrid CCP'",
-      "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/newsarticle/48689/eurex-clearing-integrates-digital-instruments-to-become-hybrid-ccp"
-    },
-    {
-      "category": "Payments",
-      "title": "Wirex appoints Kulveer Ranger as board adviser to UK digital asset arm",
-      "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111537/wirex-appoints-kulveer-ranger-as-board-adviser-to-uk-digital-asset-arm"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "OKX launches Mastercard stablecoin card in the US",
-      "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111535/okx-launches-mastercard-stablecoin-card-in-the-us"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Stablecoins have scaled as money - now they need to scale as capital",
-      "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/blogposting/33375/stablecoins-have-scaled-as-money---now-they-need-to-scale-as-capital"
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/newsarticle/48694/binance-says-hackers-used-fake-job-interviews-and-ai-tools-in-63bn-hack"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "HSBC to open Hong Kong AI and emerging technology institute",
+      "title": "Guava raises $12.5m for Ai voice agent development platform",
       "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/newsarticle/48685/hsbc-to-open-hong-kong-ai-and-emerging-technology-institute"
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/111558/guava-raises-125m-for-ai-voice-agent-development-platform"
+    },
+    {
+      "category": "Payment Infrastructure",
+      "title": "EU and Canada plan to link real-time payment systems",
+      "source": "Finextra",
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "TZero to go public in Spac deal",
+      "title": "OnePay introduces stablecoin deposits powered by Stripe",
       "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/newsarticle/48684/tzero-to-go-public-in-spac-deal"
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/111557/onepay-introduces-stablecoin-deposits-powered-by-stripe"
     },
     {
-      "category": "AI & Fintech",
-      "title": "Cybersecurity: Why Building Resilience Into An Organisation's Culture is Crucial",
+      "category": "AI & Agentic Commerce",
+      "title": "Will Autonomous AI Reshape the Future of Payments?",
       "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/videoarticle/3639/cybersecurity-why-building-resilience-into-an-organisations-culture-is-crucial"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Binance users withdraw $5bn in wake of hack",
-      "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/newsarticle/48683/binance-users-withdraw-5bn-in-wake-of-hack"
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/videoarticle/3640/will-autonomous-ai-reshape-the-future-of-payments"
     },
     {
       "category": "Payments",
-      "title": "Paysafe appoints Rob Schonfeld chief revenue officer",
+      "title": "Zepz names Steven Eisenhauer chief risk and compliance officer",
       "source": "Finextra",
-      "date": "Nov 2, 2026",
-      "url": "https://www.finextra.com/pressarticle/111533/paysafe-appoints-rob-schonfeld-chief-revenue-officer"
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/111553/zepz-names-steven-eisenhauer-chief-risk-and-compliance-officer"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "AI startup Murphy appoints former Revolut product exec Dmitry Zlokazov as CPO",
+      "source": "Finextra",
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/111552/ai-startup-murphy-appoints-former-revolut-product-exec-dmitry-zlokazov-as-cpo"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Safirum launches Swiss franc stablecoin",
+      "source": "Finextra",
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/111550/safirum-launches-swiss-franc-stablecoin"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Trading 212 signs for Cardamon AI compliance platform",
+      "source": "Finextra",
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/111549/trading-212-signs-for-cardamon-ai-compliance-platform"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "10x Banking and ezbob bid to accelerate SME lending launches for banks",
+      "source": "Finextra",
+      "date": "Nov 3, 2026",
+      "url": "https://www.finextra.com/pressarticle/111548/10x-banking-and-ezbob-bid-to-accelerate-sme-lending-launches-for-banks"
     }
   ]
 }
