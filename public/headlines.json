@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-03T19:31:04.033Z",
+  "updatedAt": "2026-11-04T19:49:30.428Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Binance says hackers used fake job interviews and AI tools in $6.3bn hack",
+      "category": "Payments",
+      "title": "Scaling Digital Assets and Overcoming Market Fragmentation",
       "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/newsarticle/48694/binance-says-hackers-used-fake-job-interviews-and-ai-tools-in-63bn-hack"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Guava raises $12.5m for Ai voice agent development platform",
-      "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/111558/guava-raises-125m-for-ai-voice-agent-development-platform"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "EU and Canada plan to link real-time payment systems",
-      "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/newsarticle/48692/eu-and-canada-plan-to-link-real-time-payment-systems"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "OnePay introduces stablecoin deposits powered by Stripe",
-      "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/111557/onepay-introduces-stablecoin-deposits-powered-by-stripe"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Will Autonomous AI Reshape the Future of Payments?",
-      "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/videoarticle/3640/will-autonomous-ai-reshape-the-future-of-payments"
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/videoarticle/3641/scaling-digital-assets-and-overcoming-market-fragmentation"
     },
     {
       "category": "Payments",
-      "title": "Zepz names Steven Eisenhauer chief risk and compliance officer",
+      "title": "Mastercard launches free platform to help European SMEs boost cyber confidence",
       "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/111553/zepz-names-steven-eisenhauer-chief-risk-and-compliance-officer"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "AI startup Murphy appoints former Revolut product exec Dmitry Zlokazov as CPO",
-      "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/111552/ai-startup-murphy-appoints-former-revolut-product-exec-dmitry-zlokazov-as-cpo"
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/newsarticle/48702/mastercard-launches-free-platform-to-help-european-smes-boost-cyber-confidence"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Safirum launches Swiss franc stablecoin",
+      "title": "Etoro targets Latin America through LB Finanzas acquisition",
       "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/111550/safirum-launches-swiss-franc-stablecoin"
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/newsarticle/48701/etoro-targets-latin-america-through-lb-finanzas-acquisition"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Crédit Mutuel Arkéa confirms cyberattack after reports of $133m crypto theft",
+      "source": "Finextra",
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/newsarticle/48700/crdit-mutuel-arka-confirms-cyberattack-after-reports-of-133m-crypto-theft"
+    },
+    {
+      "category": "Payments",
+      "title": "Capra Bank taps Zact to launch SpendLink platform for commercial banking customers",
+      "source": "Finextra",
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/111576/capra-bank-taps-zact-to-launch-spendlink-platform-for-commercial-banking-customers"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "ING Bank Romania deploys Cambrist payments acquiring data analytics platform",
+      "source": "Finextra",
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/111575/ing-bank-romania-deploys-cambrist-payments-acquiring-data-analytics-platform"
+    },
+    {
+      "category": "Payments",
+      "title": "Calida Financial builds embedded finance platform",
+      "source": "Finextra",
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/111574/calida-financial-builds-embedded-finance-platform"
+    },
+    {
+      "category": "Payments",
+      "title": "Paymentology to power Byte Orbit's spend management platform for SMEs",
+      "source": "Finextra",
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/111573/paymentology-to-power-byte-orbits-spend-management-platform-for-smes"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Trading 212 signs for Cardamon AI compliance platform",
+      "title": "BRI Wealth Management integrates Aveni AI technology",
       "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/111549/trading-212-signs-for-cardamon-ai-compliance-platform"
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/111572/bri-wealth-management-integrates-aveni-ai-technology"
     },
     {
-      "category": "AI & Fintech",
-      "title": "10x Banking and ezbob bid to accelerate SME lending launches for banks",
+      "category": "Stablecoins & Digital Money",
+      "title": "Komainu completes two-way digital asset transfers for First Abu Dhabi Bank",
       "source": "Finextra",
-      "date": "Nov 3, 2026",
-      "url": "https://www.finextra.com/pressarticle/111548/10x-banking-and-ezbob-bid-to-accelerate-sme-lending-launches-for-banks"
+      "date": "Nov 4, 2026",
+      "url": "https://www.finextra.com/pressarticle/111571/komainu-completes-two-way-digital-asset-transfers-for-first-abu-dhabi-bank"
     }
   ]
 }
