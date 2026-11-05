@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-04T19:49:30.428Z",
+  "updatedAt": "2026-11-05T20:00:59.410Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Scaling Digital Assets and Overcoming Market Fragmentation",
-      "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/videoarticle/3641/scaling-digital-assets-and-overcoming-market-fragmentation"
-    },
-    {
-      "category": "Payments",
-      "title": "Mastercard launches free platform to help European SMEs boost cyber confidence",
-      "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/newsarticle/48702/mastercard-launches-free-platform-to-help-european-smes-boost-cyber-confidence"
-    },
-    {
       "category": "Stablecoins & Digital Money",
-      "title": "Etoro targets Latin America through LB Finanzas acquisition",
+      "title": "EDX Markets and BitSafe launch centralised exchange trading for CBTC",
       "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/newsarticle/48701/etoro-targets-latin-america-through-lb-finanzas-acquisition"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Crédit Mutuel Arkéa confirms cyberattack after reports of $133m crypto theft",
-      "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/newsarticle/48700/crdit-mutuel-arka-confirms-cyberattack-after-reports-of-133m-crypto-theft"
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/pressarticle/111598/edx-markets-and-bitsafe-launch-centralised-exchange-trading-for-cbtc"
     },
     {
       "category": "Payments",
-      "title": "Capra Bank taps Zact to launch SpendLink platform for commercial banking customers",
+      "title": "Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform",
       "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/111576/capra-bank-taps-zact-to-launch-spendlink-platform-for-commercial-banking-customers"
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/pressarticle/111597/tabs-partners-adyen-to-bring-payment-processing-directly-into-invoicing-and-revenue-platform"
     },
     {
       "category": "Merchant Payments",
-      "title": "ING Bank Romania deploys Cambrist payments acquiring data analytics platform",
+      "title": "Starling launches fee-free business credit card",
       "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/111575/ing-bank-romania-deploys-cambrist-payments-acquiring-data-analytics-platform"
-    },
-    {
-      "category": "Payments",
-      "title": "Calida Financial builds embedded finance platform",
-      "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/111574/calida-financial-builds-embedded-finance-platform"
-    },
-    {
-      "category": "Payments",
-      "title": "Paymentology to power Byte Orbit's spend management platform for SMEs",
-      "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/111573/paymentology-to-power-byte-orbits-spend-management-platform-for-smes"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "BRI Wealth Management integrates Aveni AI technology",
-      "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/111572/bri-wealth-management-integrates-aveni-ai-technology"
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/pressarticle/111593/starling-launches-fee-free-business-credit-card"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Komainu completes two-way digital asset transfers for First Abu Dhabi Bank",
+      "title": "Stablecoin firm Yellow Card target Brazil through GoMoney acquisition",
       "source": "Finextra",
-      "date": "Nov 4, 2026",
-      "url": "https://www.finextra.com/pressarticle/111571/komainu-completes-two-way-digital-asset-transfers-for-first-abu-dhabi-bank"
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/newsarticle/48710/stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "Block faces $765m DoJ settlement",
+      "source": "Finextra",
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/newsarticle/48709/block-faces-765m-doj-settlement"
+    },
+    {
+      "category": "Payments",
+      "title": "Segpay expands Pay by Bank service to eight European markets",
+      "source": "Finextra",
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/pressarticle/111591/segpay-expands-pay-by-bank-service-to-eight-european-markets"
+    },
+    {
+      "category": "Payments",
+      "title": "TBC Georgia rolls out palm payments",
+      "source": "Finextra",
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/pressarticle/111588/tbc-georgia-rolls-out-palm-payments"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "Aqua Global and StoneX partner on cross-border payments",
+      "source": "Finextra",
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/pressarticle/111587/aqua-global-and-stonex-partner-on-cross-border-payments"
+    },
+    {
+      "category": "Payments",
+      "title": "Amazon Seller Wallet GBP launches",
+      "source": "Finextra",
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/pressarticle/111585/amazon-seller-wallet-gbp-launches"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Aracore and Dozn partner to bridge Korean financial infrastructure and global stablecoin settlement",
+      "source": "Finextra",
+      "date": "Nov 5, 2026",
+      "url": "https://www.finextra.com/pressarticle/111584/aracore-and-dozn-partner-to-bridge-korean-financial-infrastructure-and-global-stablecoin-settlement"
     }
   ]
 }
