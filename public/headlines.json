@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-05T20:00:59.410Z",
+  "updatedAt": "2026-11-06T19:28:09.428Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "EDX Markets and BitSafe launch centralised exchange trading for CBTC",
+      "category": "AI & Agentic Commerce",
+      "title": "BMO launches AI agent to help credit card customers get answers",
       "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/111598/edx-markets-and-bitsafe-launch-centralised-exchange-trading-for-cbtc"
-    },
-    {
-      "category": "Payments",
-      "title": "Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform",
-      "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/111597/tabs-partners-adyen-to-bring-payment-processing-directly-into-invoicing-and-revenue-platform"
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111609/bmo-launches-ai-agent-to-help-credit-card-customers-get-answers"
     },
     {
       "category": "Merchant Payments",
-      "title": "Starling launches fee-free business credit card",
+      "title": "PayFacto intergrates Interac Konek digital wallet across merchant network",
       "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/111593/starling-launches-fee-free-business-credit-card"
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111608/payfacto-intergrates-interac-konek-digital-wallet-across-merchant-network"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Stablecoin firm Yellow Card target Brazil through GoMoney acquisition",
+      "category": "Payments",
+      "title": "NCR Atleos launches ATM for retailers",
       "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/newsarticle/48710/stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition"
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111607/ncr-atleos-launches-atm-for-retailers"
+    },
+    {
+      "category": "Payments",
+      "title": "KCB Tanzania integrates PayPal into mobile banking",
+      "source": "Finextra",
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "JPMorgan Chase signs cybersecurity and coding deal with OpenAI",
+      "source": "Finextra",
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/newsarticle/48718/jpmorgan-chase-signs-cybersecurity-and-coding-deal-with-openai"
+    },
+    {
+      "category": "Payments",
+      "title": "Visa establishes global capacity hubs in Singapore",
+      "source": "Finextra",
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111605/visa-establishes-global-capacity-hubs-in-singapore"
+    },
+    {
+      "category": "Payments",
+      "title": "B2B payments firm Pliant raises $80",
+      "source": "Finextra",
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111604/b2b-payments-firm-pliant-raises-80"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Claude gets personal finance tool",
+      "source": "Finextra",
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool"
     },
     {
       "category": "Settlement & Treasury",
-      "title": "Block faces $765m DoJ settlement",
+      "title": "Mukuru adds 170,000 remittance pay-in points across South Africa",
       "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/newsarticle/48709/block-faces-765m-doj-settlement"
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111601/mukuru-adds-170000-remittance-pay-in-points-across-south-africa"
     },
     {
-      "category": "Payments",
-      "title": "Segpay expands Pay by Bank service to eight European markets",
+      "category": "AI & Agentic Commerce",
+      "title": "Nivo launches site to let lenders try its AI assistnat",
       "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/111591/segpay-expands-pay-by-bank-service-to-eight-european-markets"
-    },
-    {
-      "category": "Payments",
-      "title": "TBC Georgia rolls out palm payments",
-      "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/111588/tbc-georgia-rolls-out-palm-payments"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Aqua Global and StoneX partner on cross-border payments",
-      "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/111587/aqua-global-and-stonex-partner-on-cross-border-payments"
-    },
-    {
-      "category": "Payments",
-      "title": "Amazon Seller Wallet GBP launches",
-      "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/111585/amazon-seller-wallet-gbp-launches"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Aracore and Dozn partner to bridge Korean financial infrastructure and global stablecoin settlement",
-      "source": "Finextra",
-      "date": "Nov 5, 2026",
-      "url": "https://www.finextra.com/pressarticle/111584/aracore-and-dozn-partner-to-bridge-korean-financial-infrastructure-and-global-stablecoin-settlement"
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/pressarticle/111600/nivo-launches-site-to-let-lenders-try-its-ai-assistnat"
     }
   ]
 }
