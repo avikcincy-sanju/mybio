@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T19:28:09.428Z",
+  "updatedAt": "2026-11-07T17:45:29.821Z",
   "headlines": [
     {
       "category": "AI & Agentic Commerce",
@@ -28,6 +28,13 @@
       "source": "Finextra",
       "date": "Nov 6, 2026",
       "url": "https://www.finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Would you trust AI with your money? The question every bank should be asking",
+      "source": "Finextra",
+      "date": "Nov 6, 2026",
+      "url": "https://www.finextra.com/blogposting/33417/would-you-trust-ai-with-your-money-the-question-every-bank-should-be-asking"
     },
     {
       "category": "AI & Fintech",
@@ -63,13 +70,6 @@
       "source": "Finextra",
       "date": "Nov 6, 2026",
       "url": "https://www.finextra.com/pressarticle/111601/mukuru-adds-170000-remittance-pay-in-points-across-south-africa"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Nivo launches site to let lenders try its AI assistnat",
-      "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111600/nivo-launches-site-to-let-lenders-try-its-ai-assistnat"
     }
   ]
 }
