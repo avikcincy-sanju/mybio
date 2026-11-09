@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-08T17:57:05.288Z",
+  "updatedAt": "2026-11-09T22:26:28.014Z",
   "headlines": [
     {
       "category": "AI & Agentic Commerce",
-      "title": "BMO launches AI agent to help credit card customers get answers",
+      "title": "AI Agents in Fintech: Where Interpretation Should End and Execution Begin",
       "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111609/bmo-launches-ai-agent-to-help-credit-card-customers-get-answers"
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/blogposting/33426/ai-agents-in-fintech-where-interpretation-should-end-and-execution-begin"
     },
     {
-      "category": "Merchant Payments",
-      "title": "PayFacto intergrates Interac Konek digital wallet across merchant network",
+      "category": "AI & Fintech",
+      "title": "Financial intelligence platform geniosAI raises $19.1m",
       "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111608/payfacto-intergrates-interac-konek-digital-wallet-across-merchant-network"
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48726/financial-intelligence-platform-geniosai-raises-191m"
     },
     {
-      "category": "Payments",
-      "title": "NCR Atleos launches ATM for retailers",
+      "category": "Payment Infrastructure",
+      "title": "Canada's real-time payments system launches",
       "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111607/ncr-atleos-launches-atm-for-retailers"
-    },
-    {
-      "category": "Payments",
-      "title": "KCB Tanzania integrates PayPal into mobile banking",
-      "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111606/kcb-tanzania-integrates-paypal-into-mobile-banking"
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Would you trust AI with your money? The question every bank should be asking",
+      "title": "Software subscription management platform Cledara launches AI agent",
       "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/blogposting/33417/would-you-trust-ai-with-your-money-the-question-every-bank-should-be-asking"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "JPMorgan Chase signs cybersecurity and coding deal with OpenAI",
-      "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/newsarticle/48718/jpmorgan-chase-signs-cybersecurity-and-coding-deal-with-openai"
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111619/software-subscription-management-platform-cledara-launches-ai-agent"
     },
     {
       "category": "Payments",
-      "title": "Visa establishes global capacity hubs in Singapore",
+      "title": "PhotonPay becomes registered PSP in Canada",
       "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111605/visa-establishes-global-capacity-hubs-in-singapore"
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111618/photonpay-becomes-registered-psp-in-canada"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Coinbase gets full US trust charter",
+      "source": "Finextra",
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/newsarticle/48724/coinbase-gets-full-us-trust-charter"
     },
     {
       "category": "Payments",
-      "title": "B2B payments firm Pliant raises $80",
+      "title": "Your Payment Stack Won't Fail on an Outage. It Will Fail on a Requirement You Don't Have Yet.",
       "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111604/b2b-payments-firm-pliant-raises-80"
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/blogposting/33424/your-payment-stack-wont-fail-on-an-outage-it-will-fail-on-a-requirement-you-dont-have-yet"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Wirex and Aurora target fragmentation in stablecoin payments",
+      "source": "Finextra",
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111615/wirex-and-aurora-target-fragmentation-in-stablecoin-payments"
+    },
+    {
+      "category": "Payments",
+      "title": "Bir partners CineMastercard to add cinema booking to mobile app",
+      "source": "Finextra",
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111613/bir-partners-cinemastercard-to-add-cinema-booking-to-mobile-app"
     },
     {
       "category": "AI & Fintech",
-      "title": "Claude gets personal finance tool",
+      "title": "Central Bank of Trinidad and Tobago selects CRT SupTech platform",
       "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/newsarticle/48717/claude-gets-personal-finance-tool"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Mukuru adds 170,000 remittance pay-in points across South Africa",
-      "source": "Finextra",
-      "date": "Nov 6, 2026",
-      "url": "https://www.finextra.com/pressarticle/111601/mukuru-adds-170000-remittance-pay-in-points-across-south-africa"
+      "date": "Nov 9, 2026",
+      "url": "https://www.finextra.com/pressarticle/111612/central-bank-of-trinidad-and-tobago-selects-crt-suptech-platform"
     }
   ]
 }
