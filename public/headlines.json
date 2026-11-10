@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-09T22:26:28.014Z",
+  "updatedAt": "2026-11-10T19:48:10.029Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "AI Agents in Fintech: Where Interpretation Should End and Execution Begin",
+      "category": "Stablecoins & Digital Money",
+      "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
       "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/blogposting/33426/ai-agents-in-fintech-where-interpretation-should-end-and-execution-begin"
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg"
+    },
+    {
+      "category": "Payments",
+      "title": "Wirex appoints former Starling COO Julian Sawyer to board",
+      "source": "Finextra",
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/111639/wirex-appoints-former-starling-coo-julian-sawyer-to-board"
     },
     {
       "category": "AI & Fintech",
-      "title": "Financial intelligence platform geniosAI raises $19.1m",
+      "title": "Private banking fintech Light Frame raises $5.1m",
       "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48726/financial-intelligence-platform-geniosai-raises-191m"
-    },
-    {
-      "category": "Payment Infrastructure",
-      "title": "Canada's real-time payments system launches",
-      "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48725/canadas-real-time-payments-system-launches"
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/newsarticle/48737/private-banking-fintech-light-frame-raises-51m"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Software subscription management platform Cledara launches AI agent",
+      "title": "BioCatch launches agentic AI detection tech",
       "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111619/software-subscription-management-platform-cledara-launches-ai-agent"
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/111638/biocatch-launches-agentic-ai-detection-tech"
     },
     {
       "category": "Payments",
-      "title": "PhotonPay becomes registered PSP in Canada",
+      "title": "Nexi to sell Ratepay to Affirm",
       "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111618/photonpay-becomes-registered-psp-in-canada"
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/newsarticle/48736/nexi-to-sell-ratepay-to-affirm"
+    },
+    {
+      "category": "Payments",
+      "title": "Venmo launches receipt scanning feature for bill splitting",
+      "source": "Finextra",
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/newsarticle/48735/venmo-launches-receipt-scanning-feature-for-bill-splitting"
+    },
+    {
+      "category": "Payments",
+      "title": "Global Payments expands Adaptive Authentication platform with Visa",
+      "source": "Finextra",
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/111636/global-payments-expands-adaptive-authentication-platform-with-visa"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Oracle brings conversational AI to financial services data",
+      "source": "Finextra",
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/111635/oracle-brings-conversational-ai-to-financial-services-data"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Ecommpay partners with Getnet for Spanish acquiring rails",
+      "source": "Finextra",
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/111633/ecommpay-partners-with-getnet-for-spanish-acquiring-rails"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Coinbase gets full US trust charter",
+      "title": "Bottomline brings USDC stablecoin payments into platform",
       "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/newsarticle/48724/coinbase-gets-full-us-trust-charter"
-    },
-    {
-      "category": "Payments",
-      "title": "Your Payment Stack Won't Fail on an Outage. It Will Fail on a Requirement You Don't Have Yet.",
-      "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/blogposting/33424/your-payment-stack-wont-fail-on-an-outage-it-will-fail-on-a-requirement-you-dont-have-yet"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Wirex and Aurora target fragmentation in stablecoin payments",
-      "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111615/wirex-and-aurora-target-fragmentation-in-stablecoin-payments"
-    },
-    {
-      "category": "Payments",
-      "title": "Bir partners CineMastercard to add cinema booking to mobile app",
-      "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111613/bir-partners-cinemastercard-to-add-cinema-booking-to-mobile-app"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Central Bank of Trinidad and Tobago selects CRT SupTech platform",
-      "source": "Finextra",
-      "date": "Nov 9, 2026",
-      "url": "https://www.finextra.com/pressarticle/111612/central-bank-of-trinidad-and-tobago-selects-crt-suptech-platform"
+      "date": "Nov 10, 2026",
+      "url": "https://www.finextra.com/pressarticle/111632/bottomline-brings-usdc-stablecoin-payments-into-platform"
     }
   ]
 }
