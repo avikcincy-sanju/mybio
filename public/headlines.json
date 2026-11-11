@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-10T19:48:10.029Z",
+  "updatedAt": "2026-11-11T19:39:45.959Z",
   "headlines": [
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
+      "category": "Payments",
+      "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
       "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg"
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions"
     },
     {
       "category": "Payments",
-      "title": "Wirex appoints former Starling COO Julian Sawyer to board",
+      "title": "Western Union ditches Intermax acquisition",
       "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/pressarticle/111639/wirex-appoints-former-starling-coo-julian-sawyer-to-board"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Private banking fintech Light Frame raises $5.1m",
-      "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/newsarticle/48737/private-banking-fintech-light-frame-raises-51m"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "BioCatch launches agentic AI detection tech",
-      "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/pressarticle/111638/biocatch-launches-agentic-ai-detection-tech"
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/newsarticle/48743/western-union-ditches-intermax-acquisition"
     },
     {
       "category": "Payments",
-      "title": "Nexi to sell Ratepay to Affirm",
+      "title": "Duffel and Katanox bring hotel bookings, payments and financing into single flow for travel sellers",
       "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/newsarticle/48736/nexi-to-sell-ratepay-to-affirm"
-    },
-    {
-      "category": "Payments",
-      "title": "Venmo launches receipt scanning feature for bill splitting",
-      "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/newsarticle/48735/venmo-launches-receipt-scanning-feature-for-bill-splitting"
-    },
-    {
-      "category": "Payments",
-      "title": "Global Payments expands Adaptive Authentication platform with Visa",
-      "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/pressarticle/111636/global-payments-expands-adaptive-authentication-platform-with-visa"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Oracle brings conversational AI to financial services data",
-      "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/pressarticle/111635/oracle-brings-conversational-ai-to-financial-services-data"
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/pressarticle/111648/duffel-and-katanox-bring-hotel-bookings-payments-and-financing-into-single-flow-for-travel-sellers"
     },
     {
       "category": "Merchant Payments",
-      "title": "Ecommpay partners with Getnet for Spanish acquiring rails",
+      "title": "Crédit Agricole Deutschland selects Enfuce as partner for Visa debit cards",
       "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/pressarticle/111633/ecommpay-partners-with-getnet-for-spanish-acquiring-rails"
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/pressarticle/111647/crdit-agricole-deutschland-selects-enfuce-as-partner-for-visa-debit-cards"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Emirates NBD launches real-time AI market insights for digital wealth customers",
+      "source": "Finextra",
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/pressarticle/111646/emirates-nbd-launches-real-time-ai-market-insights-for-digital-wealth-customers"
+    },
+    {
+      "category": "Payments",
+      "title": "Swipesum launches payments command centre",
+      "source": "Finextra",
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/pressarticle/111645/swipesum-launches-payments-command-centre"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Bottomline brings USDC stablecoin payments into platform",
+      "title": "Preparing for Q-Day: Building more resilient crypto infrastructure in a hyper-connected world",
       "source": "Finextra",
-      "date": "Nov 10, 2026",
-      "url": "https://www.finextra.com/pressarticle/111632/bottomline-brings-usdc-stablecoin-payments-into-platform"
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/blogposting/33439/preparing-for-q-day-building-more-resilient-crypto-infrastructure-in-a-hyper-connected-world"
+    },
+    {
+      "category": "Payments",
+      "title": "Teciem appoints MUFG Americas CIO Alla Whitston as non-executive director",
+      "source": "Finextra",
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/pressarticle/111643/teciem-appoints-mufg-americas-cio-alla-whitston-as-non-executive-director"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Deutsche Bank and Ant set out roadmap for integrating agentic AI into wholesale banking",
+      "source": "Finextra",
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking"
+    },
+    {
+      "category": "Payments",
+      "title": "Tackling till fraud: Getting the UK’s POS software standards right",
+      "source": "Finextra",
+      "date": "Nov 11, 2026",
+      "url": "https://www.finextra.com/blogposting/33434/tackling-till-fraud-getting-the-uks-pos-software-standards-right"
     }
   ]
 }
