@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-12T19:59:48.047Z",
+  "updatedAt": "2026-11-13T19:47:37.885Z",
   "headlines": [
     {
-      "category": "Merchant Payments",
-      "title": "Fiserv lays groundwork to offload a debit network",
+      "category": "Payments",
+      "title": "OpenAI launches ChatGPT Wallet",
       "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/newsarticle/48750/fiserv-lays-groundwork-to-offload-a-debit-network"
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "Lloyds appoints Manija Poulatova as group chief security officer",
+      "source": "Finextra",
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Feedzai helps banks detect AI agents accessing customer accounts",
+      "title": "Hyundai Card launches new AI-powered credit card model",
       "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/111662/feedzai-helps-banks-detect-ai-agents-accessing-customer-accounts"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Starling unveils AI-powered 'talk to transact' feature",
-      "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/newsarticle/48748/starling-unveils-ai-powered-talk-to-transact-feature"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "NYDFS issues virtual currency advertising guidance",
-      "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/111660/nydfs-issues-virtual-currency-advertising-guidance"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Axway launches platform to put banks in control of AI costs, data, and decision",
-      "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/111659/axway-launches-platform-to-put-banks-in-control-of-ai-costs-data-and-decision"
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/111668/hyundai-card-launches-new-ai-powered-credit-card-model"
     },
     {
       "category": "Payments",
-      "title": "Intermex 'rejects' Western Union's termination of takeover deal",
+      "title": "PayPal partners with Workday to enhance employee financial wellbeing",
       "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/newsarticle/48747/intermex-rejects-western-unions-termination-of-takeover-deal"
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/111667/paypal-partners-with-workday-to-enhance-employee-financial-wellbeing"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "BaaS bank Griffin raises £20m to add cards and stablecoin capabilities",
+      "category": "AI & Fintech",
+      "title": "Nvidia’s Jensen Huang steps down, interim CEO appointed as stocks plummet",
       "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/newsarticle/48746/baas-bank-griffin-raises-20m-to-add-cards-and-stablecoin-capabilities"
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/newsarticle/48756/nvidias-jensen-huang-steps-down-interim-ceo-appointed-as-stocks-plummet"
     },
     {
       "category": "Payments",
-      "title": "Uber adds Revolut Pay option",
+      "title": "Paraguay's digital bank collapse triggers political crisis",
       "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/111658/uber-adds-revolut-pay-option"
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/newsarticle/48755/paraguays-digital-bank-collapse-triggers-political-crisis"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Payment Options picks Tribe to power acquiring across Apac and Cema",
+      "category": "Payments",
+      "title": "Designing Payments for Failure: Why Resilience Beats Perfection",
       "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/111655/payment-options-picks-tribe-to-power-acquiring-across-apac-and-cema"
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/blogposting/33461/designing-payments-for-failure-why-resilience-beats-perfection"
+    },
+    {
+      "category": "Payments",
+      "title": "Klarna taps Robinhood VP Chris Koegel as CFO",
+      "source": "Finextra",
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/newsarticle/48754/klarna-taps-robinhood-vp-chris-koegel-as-cfo"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Sparkasse Bank Malta launches digital asset trading services",
+      "title": "Deloitte acquires Flipside Crypto's AI business and launches Edisyl",
       "source": "Finextra",
-      "date": "Nov 12, 2026",
-      "url": "https://www.finextra.com/pressarticle/111653/sparkasse-bank-malta-launches-digital-asset-trading-services"
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/111666/deloitte-acquires-flipside-cryptos-ai-business-and-launches-edisyl"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card",
+      "source": "Finextra",
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card"
     }
   ]
 }
