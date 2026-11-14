@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-13T19:47:37.885Z",
+  "updatedAt": "2026-11-14T18:11:21.833Z",
   "headlines": [
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "What the Microsoft 365 outage should change in a bank’s 2027 AI plan",
+      "source": "Finextra",
+      "date": "Nov 13, 2026",
+      "url": "https://www.finextra.com/blogposting/33467/what-the-microsoft-365-outage-should-change-in-a-banks-2027-ai-plan"
+    },
     {
       "category": "Payments",
       "title": "OpenAI launches ChatGPT Wallet",
@@ -63,13 +70,6 @@
       "source": "Finextra",
       "date": "Nov 13, 2026",
       "url": "https://www.finextra.com/pressarticle/111666/deloitte-acquires-flipside-cryptos-ai-business-and-launches-edisyl"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card",
-      "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card"
     }
   ]
 }
