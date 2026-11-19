@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-18T20:37:44.841Z",
+  "updatedAt": "2026-11-19T20:42:48.123Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "What the Microsoft 365 outage should change in a bank’s 2027 AI plan",
+      "category": "Payments",
+      "title": "JPMorgan, Visa and Mastercard say hackers leaked customer emails",
       "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/blogposting/33467/what-the-microsoft-365-outage-should-change-in-a-banks-2027-ai-plan"
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/newsarticle/48789/jpmorgan-visa-and-mastercard-say-hackers-leaked-customer-emails"
     },
     {
       "category": "Payments",
-      "title": "OpenAI launches ChatGPT Wallet",
+      "title": "N26 launches premium account",
       "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Lloyds appoints Manija Poulatova as group chief security officer",
-      "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48757/lloyds-appoints-manija-poulatova-as-group-chief-security-officer"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Hyundai Card launches new AI-powered credit card model",
-      "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/111668/hyundai-card-launches-new-ai-powered-credit-card-model"
-    },
-    {
-      "category": "Payments",
-      "title": "PayPal partners with Workday to enhance employee financial wellbeing",
-      "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/111667/paypal-partners-with-workday-to-enhance-employee-financial-wellbeing"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "Nvidia’s Jensen Huang steps down, interim CEO appointed as stocks plummet",
-      "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48756/nvidias-jensen-huang-steps-down-interim-ceo-appointed-as-stocks-plummet"
-    },
-    {
-      "category": "Payments",
-      "title": "Paraguay's digital bank collapse triggers political crisis",
-      "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48755/paraguays-digital-bank-collapse-triggers-political-crisis"
-    },
-    {
-      "category": "Payments",
-      "title": "Designing Payments for Failure: Why Resilience Beats Perfection",
-      "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/blogposting/33461/designing-payments-for-failure-why-resilience-beats-perfection"
-    },
-    {
-      "category": "Payments",
-      "title": "Klarna taps Robinhood VP Chris Koegel as CFO",
-      "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/newsarticle/48754/klarna-taps-robinhood-vp-chris-koegel-as-cfo"
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/111745/n26-launches-premium-account"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Deloitte acquires Flipside Crypto's AI business and launches Edisyl",
+      "title": "DBS and Circle partner to expand institutional access to USDC in Asia",
       "source": "Finextra",
-      "date": "Nov 13, 2026",
-      "url": "https://www.finextra.com/pressarticle/111666/deloitte-acquires-flipside-cryptos-ai-business-and-launches-edisyl"
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/newsarticle/48786/dbs-and-circle-partner-to-expand-institutional-access-to-usdc-in-asia"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "100,000+ UK retail investors score Anthropic shares",
+      "source": "Finextra",
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/newsarticle/48785/100000-uk-retail-investors-score-anthropic-shares"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "EmpowerFi and MetriFi bring AI-built to US credit unions",
+      "source": "Finextra",
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/111742/empowerfi-and-metrifi-bring-ai-built-to-us-credit-unions"
+    },
+    {
+      "category": "Payments",
+      "title": "Spanish fintech Devengo raises €5m",
+      "source": "Finextra",
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/111740/spanish-fintech-devengo-raises-5m"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "What Controls Allow for Strong, Governable AI-Assisted Infrastructure Modernisation?",
+      "source": "Finextra",
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/videoarticle/3645/what-controls-allow-for-strong-governable-ai-assisted-infrastructure-modernisation"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "With attacks on the rise, UK regulators clarify cyber expectations",
+      "source": "Finextra",
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "BMO reaches quantum utility",
+      "source": "Finextra",
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility"
+    },
+    {
+      "category": "Payments",
+      "title": "NAB taps Diebold Nixdorf for ATM network modernisation",
+      "source": "Finextra",
+      "date": "Nov 19, 2026",
+      "url": "https://www.finextra.com/pressarticle/111739/nab-taps-diebold-nixdorf--for-atm-network-modernisation"
     }
   ]
 }
