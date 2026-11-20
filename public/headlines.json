@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-19T20:42:48.123Z",
+  "updatedAt": "2026-11-20T20:27:37.944Z",
   "headlines": [
     {
       "category": "Payments",
-      "title": "JPMorgan, Visa and Mastercard say hackers leaked customer emails",
+      "title": "Canadian fintech Float commits $5m to Quebec",
       "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48789/jpmorgan-visa-and-mastercard-say-hackers-leaked-customer-emails"
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111754/canadian-fintech-float-commits-5m-to-quebec"
     },
     {
       "category": "Payments",
-      "title": "N26 launches premium account",
+      "title": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure",
       "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111745/n26-launches-premium-account"
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Bill agrees to be acquired by TPG in $6bn deal",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111752/bill-agrees-to-be-acquired-by-tpg-in-6bn-deal"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Adyen merchants can offer Klarna in AI agent checkout",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111751/adyen-merchants-can-offer-klarna-in-ai-agent-checkout"
+    },
+    {
+      "category": "Payments",
+      "title": "Worldline shares plummet on FT report on cash advances",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/newsarticle/48791/worldline-shares-plummet-on-ft-report-on-cash-advances"
+    },
+    {
+      "category": "Payments",
+      "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111750/aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-networks"
+    },
+    {
+      "category": "Payments",
+      "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction"
+    },
+    {
+      "category": "Payments",
+      "title": "Storspay completes money services business registration in Canada",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111747/storspay-completes-money-services-business-registration-in-canada"
+    },
+    {
+      "category": "Payments",
+      "title": "What a UK or Dutch IBAN means for a company based elsewhere",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/blogposting/33525/what-a-uk-or-dutch-iban-means-for-a-company-based-elsewhere"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "DBS and Circle partner to expand institutional access to USDC in Asia",
+      "title": "The End-to-End Test for Tokenized Deposits",
       "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48786/dbs-and-circle-partner-to-expand-institutional-access-to-usdc-in-asia"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "100,000+ UK retail investors score Anthropic shares",
-      "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48785/100000-uk-retail-investors-score-anthropic-shares"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "EmpowerFi and MetriFi bring AI-built to US credit unions",
-      "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111742/empowerfi-and-metrifi-bring-ai-built-to-us-credit-unions"
-    },
-    {
-      "category": "Payments",
-      "title": "Spanish fintech Devengo raises €5m",
-      "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111740/spanish-fintech-devengo-raises-5m"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "What Controls Allow for Strong, Governable AI-Assisted Infrastructure Modernisation?",
-      "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/videoarticle/3645/what-controls-allow-for-strong-governable-ai-assisted-infrastructure-modernisation"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "With attacks on the rise, UK regulators clarify cyber expectations",
-      "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "BMO reaches quantum utility",
-      "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility"
-    },
-    {
-      "category": "Payments",
-      "title": "NAB taps Diebold Nixdorf for ATM network modernisation",
-      "source": "Finextra",
-      "date": "Nov 19, 2026",
-      "url": "https://www.finextra.com/pressarticle/111739/nab-taps-diebold-nixdorf--for-atm-network-modernisation"
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/blogposting/33526/the-end-to-end-test-for-tokenized-deposits"
     }
   ]
 }
