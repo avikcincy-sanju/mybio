@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-21T19:22:25.488Z",
+  "updatedAt": "2026-11-22T19:46:04.000Z",
   "headlines": [
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "BCBS 239 in the age of AI agents",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/blogposting/33531/bcbs-239-in-the-age-of-ai-agents"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Human Judgment and Inclusion Are the Real Drivers of Financial AI",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/blogposting/33530/human-judgment-and-inclusion-are-the-real-drivers-of-financial-ai"
+    },
+    {
+      "category": "Payments",
+      "title": "PayPal names Claire Bramley CFO",
+      "source": "Finextra",
+      "date": "Nov 20, 2026",
+      "url": "https://www.finextra.com/pressarticle/111755/paypal-names-claire-bramley-cfo"
+    },
     {
       "category": "Payments",
       "title": "Canadian fintech Float commits $5m to Quebec",
@@ -49,27 +70,6 @@
       "source": "Finextra",
       "date": "Nov 20, 2026",
       "url": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction"
-    },
-    {
-      "category": "Payments",
-      "title": "Storspay completes money services business registration in Canada",
-      "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111747/storspay-completes-money-services-business-registration-in-canada"
-    },
-    {
-      "category": "Payments",
-      "title": "What a UK or Dutch IBAN means for a company based elsewhere",
-      "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/blogposting/33525/what-a-uk-or-dutch-iban-means-for-a-company-based-elsewhere"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "The End-to-End Test for Tokenized Deposits",
-      "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/blogposting/33526/the-end-to-end-test-for-tokenized-deposits"
     }
   ]
 }
