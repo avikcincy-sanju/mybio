@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-22T19:46:04.000Z",
+  "updatedAt": "2026-11-23T23:58:22.260Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "BCBS 239 in the age of AI agents",
+      "category": "Payments",
+      "title": "Adyen co-CEO van der Does retires",
       "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/blogposting/33531/bcbs-239-in-the-age-of-ai-agents"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Human Judgment and Inclusion Are the Real Drivers of Financial AI",
-      "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/blogposting/33530/human-judgment-and-inclusion-are-the-real-drivers-of-financial-ai"
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/newsarticle/48801/adyen-co-ceo-van-der-does-retires"
     },
     {
       "category": "Payments",
-      "title": "PayPal names Claire Bramley CFO",
+      "title": "Why the first week decides the next thousand taps",
       "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111755/paypal-names-claire-bramley-cfo"
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/blogposting/33550/why-the-first-week-decides-the-next-thousand-taps"
     },
     {
       "category": "Payments",
-      "title": "Canadian fintech Float commits $5m to Quebec",
+      "title": "Klarna expands Visa partnership",
       "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111754/canadian-fintech-float-commits-5m-to-quebec"
-    },
-    {
-      "category": "Payments",
-      "title": "CBI, Bancomat and Nexi to build Italian digital euro infrastructure",
-      "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48792/cbi-bancomat-and-nexi--to-build-italian-digital-euro-infrastructure"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Bill agrees to be acquired by TPG in $6bn deal",
-      "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111752/bill-agrees-to-be-acquired-by-tpg-in-6bn-deal"
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Adyen merchants can offer Klarna in AI agent checkout",
+      "title": "Expensify rolls out AI-powered analytics feature",
       "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111751/adyen-merchants-can-offer-klarna-in-ai-agent-checkout"
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111762/expensify-rolls-out-ai-powered-analytics-feature"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+      "source": "Finextra",
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Stablecoin FX platform Codex raises $30m",
+      "source": "Finextra",
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "When AI Goes Wrong",
+      "source": "Finextra",
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/blogposting/33549/when-ai-goes-wrong"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "What startup founders need to know about cross-border payments",
+      "source": "Finextra",
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/blogposting/33548/what-startup-founders-need-to-know-about-cross-border-payments"
     },
     {
       "category": "Payments",
-      "title": "Worldline shares plummet on FT report on cash advances",
+      "title": "Silverflow launches modular in-person payments tech",
       "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/newsarticle/48791/worldline-shares-plummet-on-ft-report-on-cash-advances"
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111761/silverflow-launches-modular-in-person-payments-tech"
     },
     {
-      "category": "Payments",
-      "title": "Aqua Global and IntellectEU partner to connect banks’ existing systems with digital asset networks",
+      "category": "Stablecoins & Digital Money",
+      "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
       "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111750/aqua-global-and-intellecteu-partner-to-connect-banks-existing-systems-with-digital-asset-networks"
-    },
-    {
-      "category": "Payments",
-      "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
-      "source": "Finextra",
-      "date": "Nov 20, 2026",
-      "url": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction"
+      "date": "Nov 23, 2026",
+      "url": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts"
     }
   ]
 }
