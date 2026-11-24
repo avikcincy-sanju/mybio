@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-23T23:58:22.260Z",
+  "updatedAt": "2026-11-24T22:30:36.916Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Adyen co-CEO van der Does retires",
+      "category": "AI & Agentic Commerce",
+      "title": "Farsight launches AI-powered integration in Capital IQ Pro",
       "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/newsarticle/48801/adyen-co-ceo-van-der-does-retires"
-    },
-    {
-      "category": "Payments",
-      "title": "Why the first week decides the next thousand taps",
-      "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/blogposting/33550/why-the-first-week-decides-the-next-thousand-taps"
-    },
-    {
-      "category": "Payments",
-      "title": "Klarna expands Visa partnership",
-      "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership"
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111777/farsight-launches-ai-powered-integration-in-capital-iq-pro"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "Expensify rolls out AI-powered analytics feature",
+      "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
       "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111762/expensify-rolls-out-ai-powered-analytics-feature"
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+      "category": "Merchant Payments",
+      "title": "Rain launches instant-issue physical cards",
       "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Stablecoin FX platform Codex raises $30m",
-      "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "When AI Goes Wrong",
-      "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/blogposting/33549/when-ai-goes-wrong"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "What startup founders need to know about cross-border payments",
-      "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/blogposting/33548/what-startup-founders-need-to-know-about-cross-border-payments"
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111776/rain-launches-instant-issue-physical-cards"
     },
     {
       "category": "Payments",
-      "title": "Silverflow launches modular in-person payments tech",
+      "title": "Russian payments ecosystem: before the war. CBR, FPS, Urgent and Non-Urgent payments and of course,",
       "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111761/silverflow-launches-modular-in-person-payments-tech"
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/blogposting/33561/russian-payments-ecosystem-before-the-war-cbr-fps-urgent-and-non-urgent-payments-and-of-course"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "StraitsX and OCBC pilot cross-border stablecoin payments into business bank accounts",
+      "title": "Digital Asset Clearing Centre establishes Digital Asset Distribution Alliance",
       "source": "Finextra",
-      "date": "Nov 23, 2026",
-      "url": "https://www.finextra.com/pressarticle/111758/straitsx-and-ocbc-pilot-cross-border-stablecoin-payments-into-business-bank-accounts"
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111775/digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance"
+    },
+    {
+      "category": "Payments",
+      "title": "Visa opens Cameroon office",
+      "source": "Finextra",
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/pressarticle/111774/visa-opens-cameroon-office"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Deep Dive: Visa’s AI shopping benchmark shows agents still buy when they get it wrong",
+      "source": "Finextra",
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/blogposting/33527/deep-dive-visas-ai-shopping-benchmark-shows-agents-still-buy-when-they-get-it-wrong"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "The AI advantage starts with knowing what not to automate",
+      "source": "Finextra",
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/blogposting/33560/the-ai-advantage-starts-with-knowing-what-not-to-automate"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "CommerzVentures launches €50m fund for AI fintechs",
+      "source": "Finextra",
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs"
+    },
+    {
+      "category": "Payments",
+      "title": "WorldRemit founder launches fintech targeting migrants in the US",
+      "source": "Finextra",
+      "date": "Nov 24, 2026",
+      "url": "https://www.finextra.com/newsarticle/48803/worldremit-founder-launches-fintech-targeting-migrants-in-the-us"
     }
   ]
 }
