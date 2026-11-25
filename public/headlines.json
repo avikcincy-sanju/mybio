@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-24T22:30:36.916Z",
+  "updatedAt": "2026-11-25T21:45:56.171Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "Farsight launches AI-powered integration in Capital IQ Pro",
+      "category": "Payments",
+      "title": "Iliad Solutions targets South African market",
       "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111777/farsight-launches-ai-powered-integration-in-capital-iq-pro"
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111789/iliad-solutions-targets-south-african-market"
     },
     {
       "category": "AI & Agentic Commerce",
-      "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+      "title": "What the RBI's Draft Model Risk Guidance Means for AI Agents in Banks",
       "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms"
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/blogposting/33573/what-the-rbis-draft-model-risk-guidance-means-for-ai-agents-in-banks"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Rain launches instant-issue physical cards",
+      "category": "AI & Agentic Commerce",
+      "title": "Zytra AI launches AI governance platform",
       "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111776/rain-launches-instant-issue-physical-cards"
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111788/zytra-ai-launches-ai-governance-platform"
     },
     {
       "category": "Payments",
-      "title": "Russian payments ecosystem: before the war. CBR, FPS, Urgent and Non-Urgent payments and of course,",
+      "title": "Transak secures MiCA licence",
       "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/blogposting/33561/russian-payments-ecosystem-before-the-war-cbr-fps-urgent-and-non-urgent-payments-and-of-course"
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111787/transak-secures-mica-licence"
+    },
+    {
+      "category": "Payments",
+      "title": "OpenPayd makes senior hires",
+      "source": "Finextra",
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111786/openpayd-makes-senior-hires"
+    },
+    {
+      "category": "AI & Fintech",
+      "title": "LSEG and Tradeweb launch RepoAgent",
+      "source": "Finextra",
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111784/lseg-and-tradeweb-launch-repoagent"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "FX risk management platform Bound secures $50m deb facility",
+      "source": "Finextra",
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111782/fx-risk-management-platform-bound-secures-50m-deb-facility"
+    },
+    {
+      "category": "Settlement & Treasury",
+      "title": "Ant International and BNY ink MoU to explore 24/7 FX and payments innovation",
+      "source": "Finextra",
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/pressarticle/111781/ant-international-and-bny-ink-mou-to-explore-247-fx-and-payments-innovation"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Digital Asset Clearing Centre establishes Digital Asset Distribution Alliance",
+      "title": "Stablecoins vs Traditional Payment Rails: What Changes for Businesses?",
       "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111775/digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance"
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/blogposting/33572/stablecoins-vs-traditional-payment-rails-what-changes-for-businesses"
     },
     {
       "category": "Payments",
-      "title": "Visa opens Cameroon office",
+      "title": "AfricaNenda Foundation launches State of Inclusive Payments in Africa 2026",
       "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/pressarticle/111774/visa-opens-cameroon-office"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Deep Dive: Visa’s AI shopping benchmark shows agents still buy when they get it wrong",
-      "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/blogposting/33527/deep-dive-visas-ai-shopping-benchmark-shows-agents-still-buy-when-they-get-it-wrong"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "The AI advantage starts with knowing what not to automate",
-      "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/blogposting/33560/the-ai-advantage-starts-with-knowing-what-not-to-automate"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "CommerzVentures launches €50m fund for AI fintechs",
-      "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs"
-    },
-    {
-      "category": "Payments",
-      "title": "WorldRemit founder launches fintech targeting migrants in the US",
-      "source": "Finextra",
-      "date": "Nov 24, 2026",
-      "url": "https://www.finextra.com/newsarticle/48803/worldremit-founder-launches-fintech-targeting-migrants-in-the-us"
+      "date": "Nov 25, 2026",
+      "url": "https://www.finextra.com/newsarticle/48810/africanenda-foundation-launches-state-of-inclusive-payments-in-africa-2026"
     }
   ]
 }
