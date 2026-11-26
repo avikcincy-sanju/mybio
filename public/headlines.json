@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-25T21:45:56.171Z",
+  "updatedAt": "2026-11-26T21:39:07.130Z",
   "headlines": [
     {
-      "category": "Payments",
-      "title": "Iliad Solutions targets South African market",
-      "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111789/iliad-solutions-targets-south-african-market"
-    },
-    {
       "category": "AI & Agentic Commerce",
-      "title": "What the RBI's Draft Model Risk Guidance Means for AI Agents in Banks",
+      "title": "BofE says firms need to invest to keep pace with AI threat",
       "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/blogposting/33573/what-the-rbis-draft-model-risk-guidance-means-for-ai-agents-in-banks"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Zytra AI launches AI governance platform",
-      "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111788/zytra-ai-launches-ai-governance-platform"
-    },
-    {
-      "category": "Payments",
-      "title": "Transak secures MiCA licence",
-      "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111787/transak-secures-mica-licence"
-    },
-    {
-      "category": "Payments",
-      "title": "OpenPayd makes senior hires",
-      "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111786/openpayd-makes-senior-hires"
-    },
-    {
-      "category": "AI & Fintech",
-      "title": "LSEG and Tradeweb launch RepoAgent",
-      "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111784/lseg-and-tradeweb-launch-repoagent"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "FX risk management platform Bound secures $50m deb facility",
-      "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111782/fx-risk-management-platform-bound-secures-50m-deb-facility"
-    },
-    {
-      "category": "Settlement & Treasury",
-      "title": "Ant International and BNY ink MoU to explore 24/7 FX and payments innovation",
-      "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/pressarticle/111781/ant-international-and-bny-ink-mou-to-explore-247-fx-and-payments-innovation"
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat"
     },
     {
       "category": "Stablecoins & Digital Money",
-      "title": "Stablecoins vs Traditional Payment Rails: What Changes for Businesses?",
+      "title": "NY Attorney General wins $1.4bn judgement against crypto scammers",
       "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/blogposting/33572/stablecoins-vs-traditional-payment-rails-what-changes-for-businesses"
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48821/ny-attorney-general-wins-14bn-judgement-against-crypto-scammers"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Boerse Stuttgart Digital opens second HQ in Frankfurt am Main",
+      "source": "Finextra",
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111799/boerse-stuttgart-digital-opens-second-hq-in-frankfurt-am-main"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Turrón by Plazo expands card-based BNPL offering in Spain",
+      "source": "Finextra",
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111798/turrn-by-plazo-expands-card-based-bnpl-offering-in-spain"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Salt Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers",
+      "source": "Finextra",
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111796/salt-edge-and-neumetria-offer-ai-agents-and-lenders-a-current-cross-bank-view-of-customers"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "NBX partners Visa for stablecoin-linked card",
+      "source": "Finextra",
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "CredAble acquires 70% stake in Reql",
+      "source": "Finextra",
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111794/credable-acquires-70-stake-in-reql"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Client data leaked in Zodia Custody security breach - Reuters",
+      "source": "Finextra",
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48820/client-data-leaked-in-zodia-custody-security-breach---reuters"
     },
     {
       "category": "Payments",
-      "title": "AfricaNenda Foundation launches State of Inclusive Payments in Africa 2026",
+      "title": "44% of British Gen Z men are victim to investment scams - Starling Bank",
       "source": "Finextra",
-      "date": "Nov 25, 2026",
-      "url": "https://www.finextra.com/newsarticle/48810/africanenda-foundation-launches-state-of-inclusive-payments-in-africa-2026"
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/newsarticle/48818/44-of-british-gen-z-men-are-victim-to-investment-scams---starling-bank"
+    },
+    {
+      "category": "Merchant Payments",
+      "title": "Maldives Islamic Bank launches its Visa Islamic credit card proposition with BPC",
+      "source": "Finextra",
+      "date": "Nov 26, 2026",
+      "url": "https://www.finextra.com/pressarticle/111791/maldives-islamic-bank-launches-its-visa-islamic-credit-card-proposition-with-bpc"
     }
   ]
 }
