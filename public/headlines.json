@@ -1,75 +1,75 @@
 {
-  "updatedAt": "2026-11-26T21:39:07.130Z",
+  "updatedAt": "2026-11-27T21:23:50.185Z",
   "headlines": [
     {
-      "category": "AI & Agentic Commerce",
-      "title": "BofE says firms need to invest to keep pace with AI threat",
+      "category": "Payments",
+      "title": "Intermex sues Western Union over merger agreement termination",
       "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat"
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination"
     },
     {
-      "category": "Stablecoins & Digital Money",
-      "title": "NY Attorney General wins $1.4bn judgement against crypto scammers",
+      "category": "AI & Fintech",
+      "title": "The Instructions Nobody Gave",
       "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48821/ny-attorney-general-wins-14bn-judgement-against-crypto-scammers"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Boerse Stuttgart Digital opens second HQ in Frankfurt am Main",
-      "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111799/boerse-stuttgart-digital-opens-second-hq-in-frankfurt-am-main"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "Turrón by Plazo expands card-based BNPL offering in Spain",
-      "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111798/turrn-by-plazo-expands-card-based-bnpl-offering-in-spain"
-    },
-    {
-      "category": "AI & Agentic Commerce",
-      "title": "Salt Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers",
-      "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111796/salt-edge-and-neumetria-offer-ai-agents-and-lenders-a-current-cross-bank-view-of-customers"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "NBX partners Visa for stablecoin-linked card",
-      "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card"
-    },
-    {
-      "category": "Merchant Payments",
-      "title": "CredAble acquires 70% stake in Reql",
-      "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111794/credable-acquires-70-stake-in-reql"
-    },
-    {
-      "category": "Stablecoins & Digital Money",
-      "title": "Client data leaked in Zodia Custody security breach - Reuters",
-      "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48820/client-data-leaked-in-zodia-custody-security-breach---reuters"
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/blogposting/33592/the-instructions-nobody-gave"
     },
     {
       "category": "Payments",
-      "title": "44% of British Gen Z men are victim to investment scams - Starling Bank",
+      "title": "Sweden to join Eurosystem's T2 RTGS system",
       "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/newsarticle/48818/44-of-british-gen-z-men-are-victim-to-investment-scams---starling-bank"
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48829/sweden-to-join-eurosystems-t2-rtgs-system"
     },
     {
-      "category": "Merchant Payments",
-      "title": "Maldives Islamic Bank launches its Visa Islamic credit card proposition with BPC",
+      "category": "Payments",
+      "title": "Lloyds app goes down",
       "source": "Finextra",
-      "date": "Nov 26, 2026",
-      "url": "https://www.finextra.com/pressarticle/111791/maldives-islamic-bank-launches-its-visa-islamic-credit-card-proposition-with-bpc"
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "SAP may cut 10,000 jobs to make room for AI",
+      "source": "Finextra",
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48827/sap-may-cut-10000-jobs-to-make-room-for-ai"
+    },
+    {
+      "category": "Stablecoins & Digital Money",
+      "title": "Binance withdrawals back online after $6.3 bn loss in cyberattack",
+      "source": "Finextra",
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48826/binance-withdrawals-back-online-after-63-bn-loss-in-cyberattack"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment",
+      "source": "Finextra",
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/newsarticle/48825/truelayer-and-papa-johns-transact-ai-powered-agentic-pay-by-bank-payment"
+    },
+    {
+      "category": "Payments",
+      "title": "Paysafe partners with The5ers to expand presence in prop trading space",
+      "source": "Finextra",
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/pressarticle/111800/paysafe-partners-with-the5ers-to-expand-presence-in-prop-trading-space"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Are AI assistants a threat or an opportunity for banks?",
+      "source": "Finextra",
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/blogposting/33588/are-ai-assistants-a-threat-or-an-opportunity-for-banks"
+    },
+    {
+      "category": "AI & Agentic Commerce",
+      "title": "Three shifts that will define AI success in 2027: lessons from techUK and Brainstation",
+      "source": "Finextra",
+      "date": "Nov 27, 2026",
+      "url": "https://www.finextra.com/blogposting/33586/three-shifts-that-will-define-ai-success-in-2027-lessons-from-techuk-and-brainstation"
     }
   ]
 }
